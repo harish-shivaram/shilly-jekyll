@@ -1,0 +1,360 @@
+- name: AViv
+  title: Antonio Vivaldi
+  order: 1
+  born: 1678
+  died: 1741
+  home: Venice
+  country: Italy
+  schools: Baroque
+- name: JBac
+  title: Johann Sebastian Bach
+  order: 2
+  born: 1685
+  died: 1750
+  home: Eisenach
+  country: Germany
+  schools: Baroque
+- name: GHan
+  title: George Frideric Handel
+  order: 3
+  born: 1685
+  died: 1759
+  home: Halle
+  country: Germany
+  schools: Baroque
+- name: JHay
+  title: Joseph Haydn
+  order: 4
+  born: 1732
+  died: 1809
+  home: Rohrau-on-the-Leitha
+  country: Austria
+  schools: Classical
+- name: WMoz
+  title: Wolfgang Amadeus Mozart
+  order: 5
+  born: 1756
+  died: 1791
+  home: Salzburg
+  country: Austria
+  schools: Classical
+- name: LBee
+  title: Ludwig van Beethoven
+  order: 6
+  born: 1770
+  died: 1827
+  home: Bonn
+  country: Germany
+  schools: Classical
+- name: FSch
+  title: Franz Schubert
+  order: 7
+  born: 1797
+  died: 1828
+  home: Vienna
+  country: Austria
+  schools: Classical
+- name: HBer
+  title: Hector Berlioz
+  order: 8
+  born: 1803
+  died: 1869
+  home: Is&#232;re
+  country: France
+  schools: Romantic, French
+- name: FStr
+  title: Strauss Family
+  order: 9
+  born: 1804
+  died: 1916
+  home: Vienna
+  country: Austria
+  schools: Classical
+- name: FMen
+  title: Felix Mendelssohn
+  order: 10
+  born: 1809
+  died: 1847
+  home: Hamburg
+  country: Germany
+  schools: Romantic
+- name: FCho
+  title: Frederic Chopin
+  order: 11
+  born: 1810
+  died: 1849
+  home: Warsaw
+  country: Poland
+  schools: Romantic
+- name: RSch
+  title: Robert Schumann
+  order: 12
+  born: 1810
+  died: 1856
+  home: Zwickau
+  country: Germany
+  schools: Romantic
+- name: FLis
+  title: Franz Liszt
+  order: 13
+  born: 1811
+  died: 1886
+  home: Sopron
+  country: Hungary
+  schools: Romantic
+- name: RWag
+  title: Richard Wagner
+  order: 14
+  born: 1813
+  died: 1883
+  home: Leipzig
+  country: Germany
+  schools: Romantic
+- name: BSme
+  title: Bedrich Smetana
+  order: 15
+  born: 1824
+  died: 1884
+  home: Bohemia
+  country: Czechoslovakia
+  schools: Romantic, Nationalistic
+- name: JBra
+  title: Johannes Brahms
+  order: 16
+  born: 1833
+  died: 1897
+  home: Hamburg
+  country: Germany
+  schools: Romantic
+- name: MMus
+  title: Modeste Mussorgsky
+  order: 17
+  born: 1839
+  died: 1881
+  home: Karevo
+  country: Russia
+  schools: Romantic, Nationalistic
+- name: PTch
+  title: Peter Ilyitch Tchaikovsky
+  order: 18
+  born: 1840
+  died: 1893
+  home: Votkinsk
+  country: Russia
+  schools: Romantic
+- name: ADvo
+  title: Antonín Dvořák
+  order: 19
+  born: 1841
+  died: 1904
+  home: Bohemia
+  country: Czechoslovakia
+  schools: Romantic, Nationalistic
+- name: EGri
+  title: Edvard Grieg
+  order: 20
+  born: 1843
+  died: 1907
+  home: Bergen
+  country: Norway
+  schools: Romantic, Nationalistic
+- name: NRim
+  title: Nikolai Rimsky-Korsakov
+  order: 21
+  born: 1844
+  died: 1908
+  home: Novgorod
+  country: Russia
+  schools: Romantic, Nationalistic
+- name: GFau
+  title: Gabriel Fauré
+  order: 22
+  born: 1845
+  died: 1924
+  home: Paris
+  country: France
+  schools: Romantic, French
+- name: LJan
+  title: Leoš Janáček
+  order: 23
+  born: 1854
+  died: 1928
+  home: Hukvaldy
+  country: Czechoslovakia
+  schools: Romantic, Nationalistic
+- name: EElg
+  title: Edward Elgar
+  order: 24
+  born: 1857
+  died: 1934
+  home: Broadheath
+  country: England
+  schools: Romantic, English Music
+- name: GMah
+  title: Gustav Mahler
+  order: 25
+  born: 1860
+  died: 1911
+  home: Bohemia
+  country: Czechoslovakia
+  schools: Romantic
+- name: CDeb
+  title: Claude Debussy
+  order: 26
+  born: 1862
+  died: 1918
+  home: Paris
+  country: France
+  schools: Romantic, French
+- name: FDel
+  title: Frederick Delius
+  order: 27
+  born: 1862
+  died: 1934
+  home: Bradford
+  country: England
+  schools: Romantic, English Music
+- name: RStr
+  title: Richard Strauss
+  order: 28
+  born: 1864
+  died: 1949
+  home: Munich
+  country: Germany
+  schools: Romantic
+- name: JSib
+  title: Jean Sibelius
+  order: 29
+  born: 1865
+  died: 1957
+  home: Tavastehus
+  country: Finland
+  schools: Modern, Nationalistic
+- name: RVau
+  title: Ralph Vaughan Williams
+  order: 30
+  born: 1872
+  died: 1958
+  home: Down Ampney
+  country: England
+  schools: Modern, English Music
+- name: SRac
+  title: Sergei Rachmaninov
+  order: 31
+  born: 1873
+  died: 1943
+  home: Oneg
+  country: Russia
+  schools: Romantic
+- name: ASch
+  title: Arnold Schoenberg
+  order: 32
+  born: 1874
+  died: 1951
+  home: Vienna
+  country: Austria
+  schools: Modern, 2nd Viennese
+- name: MRav
+  title: Maurice Ravel
+  order: 33
+  born: 1875
+  died: 1937
+  home: Ciboure
+  country: France
+  schools: Romantic, French Impressionist
+- name: BBar
+  title: Béla Bartók
+  order: 34
+  born: 1881
+  died: 1945
+  home: Nagyszentmiklos
+  country: Hungary
+  schools: Modern, Nationalistic
+- name: ZKod
+  title: Zoltán Kodály
+  order: 35
+  born: 1882
+  died: 1967
+  home: Kecskem&#233;t
+  country: Hungary
+  schools: Modern, Nationalistic
+- name: IStr
+  title: Igor Stravinsky
+  order: 36
+  born: 1882
+  died: 1971
+  home: Oranienbaum
+  country: Russia
+  schools: Modern, Nationalistic
+- name: AWeb
+  title: Anton Webern
+  order: 37
+  born: 1883
+  died: 1945
+  home: Vienna
+  country: Austria
+  schools: Modern, 2nd Viennese
+- name: ABer
+  title: Alban Berg
+  order: 38
+  born: 1885
+  died: 1935
+  home: Vienna
+  country: Austria
+  schools: Modern, 2nd Viennese
+- name: SPro
+  title: Sergei Prokofiev
+  order: 39
+  born: 1891
+  died: 1953
+  home: Sontsovka
+  country: Russia
+  schools: Modern, Nationalistic
+- name: GGer
+  title: George Gershwin
+  order: 40
+  born: 1898
+  died: 1937
+  home: New York
+  country: USA
+  schools: Modern, Nationalistic
+- name: ACop
+  title: Aaron Copland
+  order: 41
+  born: 1900
+  died: 1991
+  home: New York
+  country: USA
+  schools: Modern, Nationalistic
+- name: WWal
+  title: William Walton
+  order: 42
+  born: 1902
+  died: 1983
+  home: Oldham
+  country: England
+  schools: Modern, English Music
+- name: MTip
+  title: Michael Tippett
+  order: 43
+  born: 1905
+  died: 1998
+  home: London
+  country: England
+  schools: Modern, English Music
+- name: DSho
+  title: Dimitri Shostakovich
+  order: 44
+  born: 1906
+  died: 1975
+  home: St Petersburg
+  country: Russia
+  schools: Modern, Nationalistic
+- name: BBri
+  title: Benjamin Britten
+  order: 45
+  born: 1913
+  died: 1976
+  home: Lowestoft
+  country: England
+  schools: Modern, English Music

@@ -1,0 +1,12 @@
+{% include top.html %}
+<section class="post">
+	<header class="major">
+		{%if page.date %}<span class="date">{{page.date | date_to_string}}</span>{%endif %}
+		<h1>{{page.title}}</h1>
+		{%if page.excerpt %}<p>{{page.excerpt}}</p>{%endif%}
+	</header>
+	{% if page.book %}<div class="image right"><img src="{{page.image}}" alt=""></div>
+	{%else%}{%if page.image %}<div class="image main"><img src="{{page.image}}" alt=""></div>{%endif %}{%endif%}
+	{{content}}
+</section><!-- post -->
+{% include bottom.html %}

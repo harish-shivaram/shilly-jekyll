@@ -1,0 +1,17 @@
+{% include top.html %}
+<section class="post">
+    <header class="major">
+        <h1>{{page.title}}</h1>
+	{%if page.excerpt %}<p>{{page.excerpt}}</p>{%endif%}
+    </header>
+    {%if page.image%}<div class="image main"><img src="{{page.image}}" alt=""></div>{%endif%}
+    {{content}}
+</section><!-- post -->
+<footer>
+        <div class="pagination">
+    	    {% if page.prev %}<a href="{{page.prev}}" class="previous">Previous</a>{% endif %}
+    	    {% if page.up %}<a href="{{page.up}}" class="page">Up</a>{% endif %}
+    	    {% if page.next %}<a href="{{page.next}}" class="next">Next</a>{% endif %}
+        </div>
+</footer>
+{% include bottom.html %}

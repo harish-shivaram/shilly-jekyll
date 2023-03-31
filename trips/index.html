@@ -1,0 +1,17 @@
+---
+title: Travelogues
+---
+{% include top.html %}
+	{% include nav.html %}
+	<!-- Main -->
+	<div id="main">
+		<section class="posts">
+			{% for post in site.data.trips %}<article>
+				<header><h3><a href="/trips/{{ post.url }}">{{ post.title }}</a></h3></header>
+				<a href="{{post.url}}" class="image fit"><img src="{{post.img}}" alt="{{post.title}}" /></a>
+				<p>{{post.description}}</p>
+				<ul class="actions"><li><a href="{{post.url}}" class="button">Full Story</a></li></ul>
+			</article>{% endfor %}
+		</section>
+	</div>
+{% include bottom.html %}

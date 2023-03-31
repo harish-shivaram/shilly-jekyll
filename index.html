@@ -1,0 +1,46 @@
+---
+layout: null
+title: ShillyAsh
+description: Every great website starts with a great homepage. The homepage tells your viewers what your site is all about and gives your viewers a place to come back to.
+sitemap:
+    priority: 1.0
+    lastmod: 2017-11-02
+    changefreq: weekly
+intro: true
+---
+{%include top.html %}
+	<!-- Featured Post -->
+
+	<!-- Posts -->
+	<section class="posts">
+		{% for post in site.posts limit:6 %}
+		<article>
+			<header>
+				<span class="date">{{ post.date | date_to_string }}</span>
+				<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+			</header>
+			<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+			<p>{{ post.excerpt }}</p>
+			<ul class="actions">
+				<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+			</ul>
+		</article>
+		{% endfor %}
+
+	</section>
+
+	<!-- Footer -->
+	<footer>
+		<ul class="actions">
+			<li><a href="{{ "/blog/" | absolute_url }}" class="button">More</a></li>
+		</ul>
+	</footer>
+	</div>
+				<!-- Footer -->
+        {% include foot.html %}
+</div>
+		<!-- Scripts -->
+		{% include scripts-main.html %}
+		{% include tracking.html %}
+	</body>
+</html>
