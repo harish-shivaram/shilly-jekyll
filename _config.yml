@@ -4,7 +4,7 @@ bio:                'Lives and times of a family of Shilly Ashes'
 description:        "A catalogue of books, comics & graphic novels, poetry, music and travel... all things we are deeply passionate about."
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: http://www.shillyash.com
 
 # Comments
 disqus_shortname:   shillyash
