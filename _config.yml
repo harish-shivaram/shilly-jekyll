@@ -68,6 +68,7 @@ collections:
     permalink: /classical/:title/
   books:
     output: true
+    sort_by: date
     permalink: /books/:title/
   trips:
     output: true
