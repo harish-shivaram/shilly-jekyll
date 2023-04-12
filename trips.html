@@ -1,14 +1,19 @@
 ---
 title: Travelogues
+pagination:
+    enabled: true
+    collection: trips
+    category: top
 ---
 {% include top.html %}
 <header class="major"><h1>{{page.title}}</h1></header>
 <section class="posts">
-	{% for post in site.data.trips %}<article>
+	{% for post in paginator.posts %}<article>
 		<header><h3><a href="/trips/{{ post.url }}">{{ post.title }}</a></h3></header>
 		<a href="{{post.url}}" class="image fit"><img src="{{post.img}}" alt="{{post.title}}" /></a>
 		<p>{{post.description}}</p>
 		<ul class="actions"><li><a href="{{post.url}}" class="button">Full Story</a></li></ul>
 	</article>{% endfor %}
 </section>
+{% include paginate.html %}
 {% include bottom.html %}

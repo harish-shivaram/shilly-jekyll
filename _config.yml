@@ -41,7 +41,8 @@ defaults:
 
 
 # Jekyll
-permalink:          /blog/:title/
+#permalink:          /blog/:title/
+permalink:          pretty
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
@@ -55,16 +56,59 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+collections:
+  comics:
+    output: true
+    permalink: /comics/:title/
+  panorama:
+    output: true
+    permalink: /panorama/:title/
+  classical:
+    output: true
+    permalink: /classical/:title/
+  books:
+    output: true
+    permalink: /books/:title/
+  posts:
+    output: true
+    permalink: /blog/:title/
+  trips:
+    output: true
+    permalink: /trips/:title/
+
+autopages:
+  enabled: false
+  collections:
+    slugify:
+      mode: 'ascii'
+      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
+
+
 # Gems
 gems:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
-paginate: 10
-paginate_path: "/blog/page:num/"
+    #paginate: 10
+    #paginate_path: "/blog/page:num/"
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/:num/'
+  title: ':title | :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+ # extension: htm
+ # indexpage: 'default'
+  trail: 
+    before: 2
+    after: 2
 
 jekyll-mentions:
     base_url: https://github.com

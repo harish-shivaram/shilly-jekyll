@@ -13,10 +13,8 @@ Here are most of the poems from the book, the ones that could be found on the ne
 
 <table data-sortable>
 <thead><tr><th>Poet</th><th>Work</th></tr></thead>
-{% for poem in site.pages %}
-    {% if poem.poem %}
+{% for poem in site.panorama %}
         <tr><td>{{ poem.author }}</td>
         <td data-value="{{ poem.title }}"><a href="{{ poem.url }}">{{ poem.title }}</a></td></tr>
-    {% endif %}
 {% endfor %}
 </table>

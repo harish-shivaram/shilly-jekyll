@@ -1,8 +1,10 @@
+- name: Books
+  link: /books/
 - name: Blog
   link: /blog/
 - name: Panorama
   link: /panorama/
-- name: Classical Music
+- name: Classical
   link: /classical/
 - name: Travelogues
   link: /trips/
