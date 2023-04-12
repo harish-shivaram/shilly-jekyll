@@ -43,7 +43,7 @@ Marvel has better character design and origin stories than the DC lot. On the wh
 
 3. _Captain America_
 
-   The origin story is a little... irritating. Super soldier serum during WWII ? Before Watson and Crick discovered the double helix? Come off it. Also, his primary weapon is an indestructible shield? Thankfully, the movies, and specifically, Chris Pine have infused this character with a lot of wit and charm, and the subtle one-liners referencing his very dated outlook and thought process add to this charm.
+   The origin story is a little... irritating. Super soldier serum during WWII ? Before Watson and Crick discovered the double helix? Come off it. Also, his primary weapon is an indestructible shield? Thankfully, the movies, and specifically, Chris Evans have infused this character with a lot of wit and charm, and the subtle one-liners referencing his very dated outlook and thought process add to this charm.
 
 4. _S.H.I.E.L.D. and The Avengers_
 
