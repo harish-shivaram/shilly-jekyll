@@ -2,7 +2,7 @@
 title: The Ploy of Giving
 date: 2008-12-14
 layout: post
-excerpt: Timeo Danaos et dona ferentis<br /> (I fear the greeks, even when they bring gifts.)<br /> - Virgil, "Aeneid" ii. 48
+description: Timeo Danaos et dona ferentis<br /> (I fear the greeks, even when they bring gifts.)<br /> - Virgil, "Aeneid" ii. 48
 image: /images/blog/2194.jpg
 ---
 

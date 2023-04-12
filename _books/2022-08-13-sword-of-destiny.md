@@ -4,7 +4,7 @@ author: Andrzej Sapkowski
 date: 2022-08-13
 image: /images/blog/3130.jpg
 layout: post
-excerpt: Another collection of short stories, following the adventures of the collection The Last Wish. Geralt forges ahead, battling monsters, demons and prejudices alike...
+description: Another collection of short stories, following the adventures of the collection The Last Wish. Geralt forges ahead, battling monsters, demons and prejudices alike...
 book: true
 ---
 

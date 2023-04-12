@@ -3,7 +3,7 @@ title: My first ever blog entry
 date: 2007-01-01
 layout: post
 Author: Hech
-excerpt: Happy new year! Yep, I've got a blog too.  
+description: Happy new year! Yep, I've got a blog too.  
 image: /images/blog/1805.jpg
 ---
 

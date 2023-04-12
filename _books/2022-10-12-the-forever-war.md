@@ -4,7 +4,7 @@ author: Joe Haldeman
 date: 2022-10-12
 image: /images/blog/3132.jpg
 layout: post
-excerpt: Caught in an war he doesn't want to be in, and completely disconnected from the very world he is fighting for, Mandella's war goes on... forever!
+description: Caught in an war he doesn't want to be in, and completely disconnected from the very world he is fighting for, Mandella's war goes on... forever!
 book: true
 ---
 

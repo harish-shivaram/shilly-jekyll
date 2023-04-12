@@ -3,7 +3,7 @@ title: To Bee an Onion
 date: 2008-12-13
 layout: post
 Author: Hech
-excerpt: Say stung tongue... 5 times, fast.
+description: Say stung tongue... 5 times, fast.
 image: /images/blog/2193.jpg
 ---
 

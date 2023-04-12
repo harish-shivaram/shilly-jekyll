@@ -3,7 +3,7 @@ title: I'm feeling Sikh
 date: 2009-12-08
 layout: post
 Author: Hech
-excerpt: Jo Bole So Nihaal... Curd Rice
+description: Jo Bole So Nihaal... Curd Rice
 image: /images/blog/2202.jpg
 ---
 

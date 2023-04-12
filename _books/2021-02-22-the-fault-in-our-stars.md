@@ -4,7 +4,7 @@ author: John Green
 date: 2021-02-22
 image: /images/blog/3119.jpg
 layout: post
-excerpt: A romance involving a young girl and boy, both in remission from cancer, told from the perspective of the girl Hazel
+description: A romance involving a young girl and boy, both in remission from cancer, told from the perspective of the girl Hazel
 book: true
 ---
 

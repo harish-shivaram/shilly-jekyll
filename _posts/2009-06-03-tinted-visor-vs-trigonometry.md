@@ -3,7 +3,7 @@ title: Tinted Visor vs. Trigonometry
 date: 2009-06-03
 layout: post
 Author: Hech
-excerpt: When Wolfram Alpha, Google and Wikipedia all came through... to prove me wrong.
+description: When Wolfram Alpha, Google and Wikipedia all came through... to prove me wrong.
 image: /images/blog/2201.jpg
 ---
 

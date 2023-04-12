@@ -3,7 +3,7 @@ title: The Risque Mahabharatha
 date: 2007-03-15
 layout: post
 Author: Hech
-excerpt: Read between the lines of the Mahabharata
+description: Read between the lines of the Mahabharata
 image: /images/blog/1933.jpg
 ---
 

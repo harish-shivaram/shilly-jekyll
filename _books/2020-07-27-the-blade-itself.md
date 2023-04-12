@@ -4,7 +4,7 @@ Author: Joe Abercrombie
 date: 2020-07-27
 image: /images/blog/3115.jpg
 layout: post
-excerpt: Dark and gritty grimdark fantasy novel that doesn't rely on typical fantasy clichés
+description: Dark and gritty grimdark fantasy novel that doesn't rely on typical fantasy clichés
 book: true
 ---
 

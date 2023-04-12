@@ -4,7 +4,7 @@ Author: Kim Barker
 date: 2019-08-12
 image: /images/blog/3108.jpg
 layout: post
-excerpt: Whiskey! Tango! Foxtrot!
+description: Whiskey! Tango! Foxtrot!
 book: true
 ---
 

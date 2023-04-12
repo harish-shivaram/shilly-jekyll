@@ -3,7 +3,7 @@ title: Now, that's Dire!
 date: 2008-12-14
 layout: post
 Author: Hech
-excerpt: Knopfler vs Ranikhet... a rant
+description: Knopfler vs Ranikhet... a rant
 image: /images/blog/2196.jpg
 ---
 

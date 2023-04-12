@@ -3,7 +3,7 @@ title: Maximum Payne
 date: 2007-07-15
 layout: post
 Author: Hech
-excerpt: Painkillers, drug addicts, mobsters, occult, nightmares, nightmares, nightmares....
+description: Painkillers, drug addicts, mobsters, occult, nightmares, nightmares, nightmares....
 image: /images/blog/1991.jpg
 ---
 

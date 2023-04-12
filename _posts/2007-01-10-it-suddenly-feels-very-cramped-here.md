@@ -3,7 +3,7 @@ title: It suddenly feels very cramped here...
 date: 2007-01-10
 layout: post
 Author: Hech
-excerpt: Akshay &quot;Axeole&quot; Anand, an old pal from high school and then grad school, has the dubious honour of being the first one to sign up onto my site!
+description: Akshay &quot;Axeole&quot; Anand, an old pal from high school and then grad school, has the dubious honour of being the first one to sign up onto my site!
 image: /images/blog/1883.jpg
 ---
 

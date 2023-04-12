@@ -3,7 +3,7 @@ title: The Longish Break
 date: 2007-06-19
 layout: post
 Author: Hech
-excerpt: No blog is complete without a post about why there haven't been posts in a while
+description: No blog is complete without a post about why there haven't been posts in a while
 image: /images/blog/1987.jpg
 ---
 

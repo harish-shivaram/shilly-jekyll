@@ -3,7 +3,7 @@ title: And the pendulum swings on...
 date: 2007-09-26
 layout: post
 Author: Hech
-excerpt: A little bit of racing, a lot of cycling, some reading and unopenable eyes
+description: A little bit of racing, a lot of cycling, some reading and unopenable eyes
 image: /images/blog/2095.jpg
 ---
 

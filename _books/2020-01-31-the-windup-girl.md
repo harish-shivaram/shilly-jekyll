@@ -4,7 +4,7 @@ Author: Paolo Bacigalupi
 date: 2020-01-31
 image: /images/blog/3110.jpg
 layout: post
-excerpt: A probable near-future scenario with rampant climate change and biological warfare.
+description: A probable near-future scenario with rampant climate change and biological warfare.
 book: true
 ---
 

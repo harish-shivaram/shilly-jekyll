@@ -3,7 +3,7 @@ title: Land of hope and Gloria
 date: 2008-05-11
 layout: post
 Author: Hech
-excerpt: The British looted all wealth, and the word "loot", from India! - Shashi Tharoor
+description: The British looted all wealth, and the word "loot", from India! - Shashi Tharoor
 image: /images/blog/1966.png
 ---
 

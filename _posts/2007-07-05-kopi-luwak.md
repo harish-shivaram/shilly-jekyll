@@ -3,7 +3,7 @@ title: Kopi Luwak
 date: 2007-07-05
 layout: post
 Author: Hech
-excerpt: Surely this ought go down as the final revenge of developing nations!
+description: Surely this ought go down as the final revenge of developing nations!
 image: /images/blog/1990.jpg
 ---
 

@@ -3,7 +3,7 @@ title: The Ethics of Medicine
 date: 2007-06-20
 layout: post
 Author: Hech
-excerpt: Euthanasia should at least be partially legal.
+description: Euthanasia should at least be partially legal.
 image: /images/blog/1988.jpg
 ---
 

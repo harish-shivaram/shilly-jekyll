@@ -3,7 +3,7 @@ title: Black Like Me
 date: 2007-04-04
 layout: post
 Author: Hech
-excerpt: You never really know a person until you have lived in their skin
+description: You never really know a person until you have lived in their skin
 image: /images/blog/1947.jpg
 ---
 

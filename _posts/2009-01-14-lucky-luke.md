@@ -3,7 +3,7 @@ title: Lucky Luke
 date: 2009-01-14
 layout: post
 Author: Hech
-excerpt: Vintage Goscinny
+description: Vintage Goscinny
 image: /images/blog/2200.jpg
 ---
 

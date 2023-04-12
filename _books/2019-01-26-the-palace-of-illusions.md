@@ -4,7 +4,7 @@ Author: Chitra Banerjee Divakaruni
 date: 2019-01-26
 image: /images/blog/3104.jpg
 layout: post
-excerpt: Inside the mind of the fire-born one
+description: Inside the mind of the fire-born one
 book: true
 ---
 

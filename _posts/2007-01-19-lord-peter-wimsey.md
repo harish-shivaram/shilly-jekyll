@@ -3,7 +3,7 @@ title: Lord Peter Wimsey
 date: 2007-01-19
 layout: post
 Author: Hech
-excerpt: As his Whimsy takes him
+description: As his Whimsy takes him
 image: /images/blog/1890.jpg
 ---
 

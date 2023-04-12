@@ -4,7 +4,7 @@ author: Paolo Bacigalupi
 date: 2022-07-01
 image: /images/blog/3127.jpg
 layout: post
-excerpt: Paolo's second ecological dystopian (cli-fi?) novel sets the action in the arid American south west, where water is the most precious commodity.
+description: Paolo's second ecological dystopian (cli-fi?) novel sets the action in the arid American south west, where water is the most precious commodity.
 book: true
 ---
 

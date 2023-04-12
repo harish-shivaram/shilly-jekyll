@@ -3,7 +3,7 @@ title: How's that for romance?!
 date: 2010-03-16
 layout: post
 Author: Van
-excerpt: .... wait for it ....
+description: .... wait for it ....
 image: /images/blog/3006.jpg
 ---
 

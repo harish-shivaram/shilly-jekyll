@@ -4,7 +4,7 @@ Author: Richard Morgan
 date: 2019-01-05
 image: /images/blog/3101.jpg
 layout: post
-excerpt: A mish-mash that works
+description: A mish-mash that works
 book: true
 ---
 

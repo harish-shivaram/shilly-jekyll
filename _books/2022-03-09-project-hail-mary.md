@@ -2,7 +2,7 @@
 title: Project Hail Mary
 author: Andy Weir
 layout: post
-excerpt: This book is half science experiments, half wacky buddy comedy — and it just works so well! That nerdy glee I felt on every page of The Martian is back full force. 
+description: This book is half science experiments, half wacky buddy comedy — and it just works so well! That nerdy glee I felt on every page of The Martian is back full force. 
 image: /images/blog/3122.jpg
 book: true
 ---

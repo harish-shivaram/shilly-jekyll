@@ -3,7 +3,7 @@ title: Grade that!
 date: 2007-08-28
 layout: post
 Author: Hech
-excerpt: A unique grading system and some rampant sexism.
+description: A unique grading system and some rampant sexism.
 image: /images/blog/2092.jpg
 ---
 

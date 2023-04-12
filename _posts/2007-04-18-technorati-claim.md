@@ -3,7 +3,7 @@ title: Technorati Claim
 date: 2007-04-18
 layout: post
 Author: Hech
-excerpt: A lame-ass attempt at being more... "recognized".
+description: A lame-ass attempt at being more... "recognized".
 image: /images/blog/1974.png
 ---
 

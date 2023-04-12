@@ -3,7 +3,7 @@ title: 10 heads... isn't that punishment enough?
 date: 2007-03-08
 layout: post
 Author: Hech
-excerpt: He was well a-head of everyone else
+description: He was well a-head of everyone else
 image: /images/blog/1921.jpg
 ---
 

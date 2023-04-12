@@ -4,7 +4,7 @@ Author: Angie Thomas
 date: 2020-07-06
 image: /images/blog/3112.jpg
 layout: post
-excerpt: A look into the minds of the victims of racist police brutality, and what sends them over the breaking point
+description: A look into the minds of the victims of racist police brutality, and what sends them over the breaking point
 book: true
 ---
 

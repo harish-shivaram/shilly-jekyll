@@ -3,7 +3,7 @@ title: Hello... Dubya ?
 date: 2007-03-17
 layout: post
 Author: Hech
-excerpt: If he is the best we can do for a world leader... 
+description: If he is the best we can do for a world leader... 
 image: /images/blog/1934.jpg
 ---
 

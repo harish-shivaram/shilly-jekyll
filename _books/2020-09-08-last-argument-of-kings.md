@@ -4,7 +4,7 @@ Author: Joe Abercrombie
 date: 2020-09-08
 image: /images/blog/3117.jpg
 layout: post
-excerpt: Final installment of the "First Law" trilogy. A worthy finale which highlights all the shades of grey...
+description: Final installment of the "First Law" trilogy. A worthy finale which highlights all the shades of grey...
 book: true
 ---
 

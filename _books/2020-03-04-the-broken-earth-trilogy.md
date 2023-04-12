@@ -4,7 +4,7 @@ Author: N. K. Jemisin
 date: 2020-03-04
 image: /images/blog/3111.jpg
 layout: post
-excerpt: A series so well written, that each book in the trilogy won a Hugo award. The final book also won the Nebula award.
+description: A series so well written, that each book in the trilogy won a Hugo award. The final book also won the Nebula award.
 book: true
 ---
 

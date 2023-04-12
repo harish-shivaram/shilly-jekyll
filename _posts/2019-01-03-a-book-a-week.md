@@ -4,7 +4,7 @@ Author: Hech
 date: 2019-01-03
 image: /images/blog/3100.jpg
 layout: post
-excerpt: A new year challenge
+description: A new year challenge
 ---
 
 New year's resolutions are silly. 

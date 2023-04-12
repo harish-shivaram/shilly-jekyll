@@ -3,7 +3,7 @@ title: Horror Movies
 date: 2009-01-31
 layout: post
 Author: Hech
-excerpt: Ahhrrrr!
+description: Ahhrrrr!
 image: /images/blog/3001.jpg
 ---
 

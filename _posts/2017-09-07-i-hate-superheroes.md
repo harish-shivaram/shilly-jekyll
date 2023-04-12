@@ -4,7 +4,7 @@ Author: Hech
 date: 2017-09-07
 layout: post
 image: /images/blog/3010.jpg
-excerpt: Wearing undies on the outside doesn't make one super
+description: Wearing undies on the outside doesn't make one super
 ---
 
 I've never been much of a super-hero comic lover. I've often felt that the supers, if I may collectively address them as such, were poorly thought out characters. They always seem so infallible, completely lacking the rich tapestry of flaws that round out the personality of a "normal" human being. This has been especially true of the DC Universe characters. Let's just talk about their three favourite children.

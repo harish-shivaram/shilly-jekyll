@@ -3,7 +3,7 @@ title: Publicising the Blog
 date: 2007-01-03
 layout: post
 Author: Hech
-excerpt: It's all very well to have a nifty blog, but it isn't too much fun if you don't have people reading it and commenting on it.&nbsp; You might as well just write in a gilt-edged, leather bound book with a page for every date.   
+description: It's all very well to have a nifty blog, but it isn't too much fun if you don't have people reading it and commenting on it.&nbsp; You might as well just write in a gilt-edged, leather bound book with a page for every date.   
 image: /images/blog/1807.jpg
 ---
 

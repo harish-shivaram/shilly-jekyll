@@ -4,7 +4,7 @@ author: Kami Garcia, Margaret Stohl
 date: 2022-04-14
 image: /images/blog/3123.jpg
 layout: post
-excerpt: An unholy mess involving witches & wizards, reincarnation, American civil war, its re-enactment, a teenage romance and the insular mindset of deep south America. 
+description: An unholy mess involving witches & wizards, reincarnation, American civil war, its re-enactment, a teenage romance and the insular mindset of deep south America. 
 book: true
 ---
 

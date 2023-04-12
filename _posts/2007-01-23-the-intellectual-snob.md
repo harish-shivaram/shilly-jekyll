@@ -3,7 +3,7 @@ title: The Intellectual Snob
 date: 2007-01-23
 layout: post
 Author: Hech
-excerpt: Very familiar... where have I met them before?
+description: Very familiar... where have I met them before?
 image: /images/blog/1892.jpg
 ---
 

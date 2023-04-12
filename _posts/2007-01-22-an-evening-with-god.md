@@ -3,7 +3,7 @@ title: An evening with God
 date: 2007-01-22
 layout: post
 Author: Hech
-excerpt: Our mother, who art in heaven...
+description: Our mother, who art in heaven...
 image: /images/blog/1891.jpg
 ---
 

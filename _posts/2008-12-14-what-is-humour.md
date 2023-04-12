@@ -3,7 +3,7 @@ title: What is Humour ?
 date: 2008-12-14
 layout: post
 Author: Hech
-excerpt: No laughing matter.
+description: No laughing matter.
 image: /images/blog/2197.jpg
 ---
 

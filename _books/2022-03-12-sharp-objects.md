@@ -4,7 +4,7 @@ author: Gillian Flynn
 date: 2022-03-12
 image: /images/blog/3126.jpg
 layout: post
-excerpt: Disturbing story. Disturbing characters. This book will make you feel uncomfortable, that's what Gillian Flynn does best!
+description: Disturbing story. Disturbing characters. This book will make you feel uncomfortable, that's what Gillian Flynn does best!
 book: true
 ---
 

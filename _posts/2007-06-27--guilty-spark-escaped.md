@@ -3,7 +3,7 @@ title: 343 Guilty Spark Escaped
 date: 2007-06-27
 layout: post
 Author: Hech
-excerpt: A Covenant, a flood, Sentinels, Banshees and Warthogs. I finally destroyed the whole Halo, but...
+description: A Covenant, a flood, Sentinels, Banshees and Warthogs. I finally destroyed the whole Halo, but...
 image: /images/blog/1989.jpg
 ---
 

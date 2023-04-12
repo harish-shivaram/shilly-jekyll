@@ -3,7 +3,7 @@ title: French Foreign Legion
 date: 2008-05-11
 layout: post
 Author: Hech
-excerpt: The military force that erases your identity and gives you a new one
+description: The military force that erases your identity and gives you a new one
 image: /images/blog/1992.jpg
 ---
 

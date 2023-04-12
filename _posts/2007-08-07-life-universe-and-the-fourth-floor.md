@@ -3,7 +3,7 @@ title: Life, Universe and the Fourth Floor
 date: 2007-08-07
 layout: post
 Author: Hech
-excerpt: Philosophical time in an elevator
+description: Philosophical time in an elevator
 image: /images/blog/2007.jpg
 ---
 

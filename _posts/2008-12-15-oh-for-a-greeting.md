@@ -3,7 +3,7 @@ title: Oh for a greeting!
 date: 2008-12-15
 layout: post
 Author: Hech
-excerpt: Hello.
+description: Hello.
 image: /images/blog/2199.jpg
 ---
 

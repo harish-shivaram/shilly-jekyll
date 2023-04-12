@@ -3,7 +3,7 @@ title: Silly Putty
 date: 2007-01-31
 layout: post
 Author: Hech
-excerpt: That fleeting moment when a motivational poster actually... motivates
+description: That fleeting moment when a motivational poster actually... motivates
 image: /images/blog/1893.jpg
 ---
 

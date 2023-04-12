@@ -3,7 +3,7 @@ title: Bumper? I hardly know her!
 date: 2010-03-16
 layout: post
 Author: Hech
-excerpt: Crash! Boom! Bang!, as Roxette would say
+description: Crash! Boom! Bang!, as Roxette would say
 image: /images/blog/3007.jpg
 ---
 

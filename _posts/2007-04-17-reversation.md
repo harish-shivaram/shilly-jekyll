@@ -3,7 +3,7 @@ title: Reversation
 date: 2007-04-17
 layout: post
 Author: Hech
-excerpt: Is it really affirmative action when the effects are so negative?
+description: Is it really affirmative action when the effects are so negative?
 image: /images/blog/1965.png
 ---
 

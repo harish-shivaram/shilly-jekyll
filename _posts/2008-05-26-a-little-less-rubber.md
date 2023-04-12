@@ -3,7 +3,7 @@ title: A little less rubber
 date: 2008-05-26
 layout: post
 Author: Hech
-excerpt: Living on the wild side... with a puncture.
+description: Living on the wild side... with a puncture.
 image: /images/blog/2191.jpg
 ---
 

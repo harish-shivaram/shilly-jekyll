@@ -3,7 +3,7 @@ title: That's some crunchy paneer!
 date: 2010-02-26
 layout: post
 Author: Hech
-excerpt: If they don't have bread, let them eat Paneer
+description: If they don't have bread, let them eat Paneer
 image: /images/blog/3005.jpg
 ---
 

@@ -3,7 +3,7 @@ title: Mr. Shilly Ash to the rescue!
 date: 2009-10-05
 layout: post
 Author: Van
-excerpt: Monkey Business in the Urban Jungle
+description: Monkey Business in the Urban Jungle
 image: /images/blog/3004.jpg
 ---
 

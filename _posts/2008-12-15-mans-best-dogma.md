@@ -3,7 +3,7 @@ title: Man's best dogma
 date: 2008-12-15
 layout: post
 Author: Hech
-excerpt: A dog. Four-legged pet. Faithful. Obedient. Man's best friend. &nbsp;Everybody likes dogs. Right?
+description: A dog. Four-legged pet. Faithful. Obedient. Man's best friend. &nbsp;Everybody likes dogs. Right?
 image: /images/blog/2198.jpg
 ---
 

@@ -3,7 +3,7 @@ title: The Hero with a Thousand Faces
 date: 2007-01-15
 layout: post
 Author: Hech
-excerpt: This is a book written by comparative mythologist Joseph Campbell in 1949. In this, he postulates that all archetypal-hero mythology, independently evolved in various parts of the world, share a common structure which he calls the monomyth. He explains this as an unconscious force of the mind; the human mind looks up to the same kind of person as a hero.  
+description: This is a book written by comparative mythologist Joseph Campbell in 1949. In this, he postulates that all archetypal-hero mythology, independently evolved in various parts of the world, share a common structure which he calls the monomyth. He explains this as an unconscious force of the mind; the human mind looks up to the same kind of person as a hero.  
 image: /images/blog/1889.jpg
 ---
 

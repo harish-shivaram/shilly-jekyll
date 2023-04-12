@@ -3,7 +3,7 @@ title: Hindi Movies
 date: 2009-02-05
 layout: post
 Author: Van
-excerpt: Running around trees, singing songs
+description: Running around trees, singing songs
 image: /images/blog/3002.jpg
 ---
 

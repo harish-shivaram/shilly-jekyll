@@ -4,7 +4,7 @@ author: Leigh Bardugo
 date: 2022-07-13
 image: /images/blog/3128.jpg
 layout: post
-excerpt: First book of a YA fantasy series with excellent and rich world building and complex characters who are not all stark black-and-white.
+description: First book of a YA fantasy series with excellent and rich world building and complex characters who are not all stark black-and-white.
 book: true
 ---
 

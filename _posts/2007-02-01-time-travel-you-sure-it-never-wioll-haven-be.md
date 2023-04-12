@@ -3,7 +3,7 @@ title: Time travel... you sure it never wioll haven be ?
 date: 2007-02-01
 layout: post
 Author: Hech
-excerpt: The biggest problem with time travel is... grammar
+description: The biggest problem with time travel is... grammar
 image: /images/blog/1894.jpg
 ---
 

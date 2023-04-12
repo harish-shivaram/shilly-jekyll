@@ -4,7 +4,7 @@ Author: Patrick Lee
 date: 2019-03-15
 image: /images/blog/3106.jpg
 layout: post
-excerpt: What is that thing that came through the breach?
+description: What is that thing that came through the breach?
 book: true
 ---
 

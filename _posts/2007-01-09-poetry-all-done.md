@@ -3,7 +3,7 @@ title: Poetry, all done
 date: 2007-01-09
 layout: post
 Author: Hech
-excerpt: I located my old high school poetry text book... an Oxford University Press publication entitled &quot;Panorama - A selection of poems&quot;.
+description: I located my old high school poetry text book... an Oxford University Press publication entitled &quot;Panorama - A selection of poems&quot;.
 image: /images/blog/1882.jpg
 ---
 

@@ -3,7 +3,7 @@ title: Have you eaten ?
 date: 2008-12-14
 layout: post
 Author: Hech
-excerpt: In the western world, friends are greeted in a distant, and somewhat cold fashion.
+description: In the western world, friends are greeted in a distant, and somewhat cold fashion.
 image: /images/blog/2195.jpg
 ---
 

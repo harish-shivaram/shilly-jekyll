@@ -4,7 +4,7 @@ Author: Soha Ali Khan
 date: 2019-01-12
 image: /images/blog/3102.jpg
 layout: post
-excerpt: Does a pea under the mattress really bother a princess?
+description: Does a pea under the mattress really bother a princess?
 book: true
 ---
 

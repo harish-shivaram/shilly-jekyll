@@ -3,7 +3,7 @@ title: Eccentric Expatriates
 date: 2007-04-09
 layout: post
 Author: Hech
-excerpt: What some will do for green backs and green cards
+description: What some will do for green backs and green cards
 image: /images/blog/1948.jpg
 ---
 

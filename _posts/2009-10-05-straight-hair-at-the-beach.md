@@ -3,7 +3,7 @@ title: Straight hair... at the beach ?
 date: 2009-10-05
 layout: post
 Author: Hech
-excerpt: Running around trees, singing songs
+description: Running around trees, singing songs
 image: /images/blog/3003.jpg
 ---
 
