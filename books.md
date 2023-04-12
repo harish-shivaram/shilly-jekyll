@@ -1,5 +1,7 @@
 ---
 title: Books
+usedate: true
+layout: list
 pagination:
     enabled: true
     per_page: 8
