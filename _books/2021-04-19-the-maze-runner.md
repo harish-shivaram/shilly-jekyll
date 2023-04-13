@@ -5,7 +5,6 @@ date: 2021-04-19
 image: /images/blog/3120.jpg
 layout: post
 description: Another young-adult dystopian science fiction, in the mould of The Hunger Games
-book: true
 ---
 
 A group of teenaged boys are thrust into a large open area called the glade. None of them have any memories, other than their names. In the daytime, the Glade is a beautiful garden. But beyond the stone walls is an ever changing maze. The boys explore the maze in the daytime, but at night, the maze is closed off, and full of mechanical monsters which can slice and sting. Through the maze is the only way out, but no one has ever made it through alive.

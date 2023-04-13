@@ -5,7 +5,6 @@ date: 2020-08-17
 image: /images/blog/3116.jpg
 layout: post
 description: Sequel to "The Blade Itself", there are three POVs again; a road trip led by a Wizard, a colonel struggling against a huge foe and an inquisitor fighting traitors and conspirators
-book: true
 ---
 
 Superior Glokta has a problem. How do you defend a city surrounded by enemies and riddled with traitors, when your allies can by no means be trusted, and your predecessor vanished without a trace? It’s enough to make a torturer want to run – if he could even walk without a stick.

@@ -5,7 +5,6 @@ date: 2022-10-12
 image: /images/blog/3132.jpg
 layout: post
 description: Caught in an war he doesn't want to be in, and completely disconnected from the very world he is fighting for, Mandella's war goes on... forever!
-book: true
 ---
 
 This is the best Sci-fi books I had read in a long time, and one of the best ever. An allegory for the Vietnam war, or indeed, war of any kind.

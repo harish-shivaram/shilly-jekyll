@@ -5,7 +5,6 @@ date: 2022-04-14
 image: /images/blog/3123.jpg
 layout: post
 description: An unholy mess involving witches & wizards, reincarnation, American civil war, its re-enactment, a teenage romance and the insular mindset of deep south America. 
-book: true
 ---
 
 Lena Duchannes is unlike anyone the small Southern town of Gatlin has ever seen, and she's struggling to conceal her power, and a curse that has haunted her family for generations. But even within the overgrown gardens, murky swamps and crumbling graveyards of the forgotten South, a secret cannot stay hidden forever.

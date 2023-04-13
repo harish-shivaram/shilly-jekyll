@@ -5,7 +5,6 @@ date: 2022-07-28
 image: /images/blog/3129.jpg
 layout: post
 description: A gambler, a convict, a wayward son, a lost Grisha, a Suli girl who has become a killer, a boy from the Barrel who had become something worse.
-book: true
 ---
 
 Ketterdam: a bustling hub of international trade where anything can be had for the right price—and no one knows that better than criminal prodigy Kaz Brekker. Kaz is offered a chance at a deadly heist that could make him rich beyond his wildest dreams. But he can’t pull it off alone. . . .

@@ -5,7 +5,6 @@ date: 2022-06-21
 image: /images/blog/3125.jpg
 layout: post
 description: A book that is as brutal and honest as its title. This is like a handbook of reference for any atheist for the range of illogical, childish or even intelligent theist arguments that might be addressed to him.
-book: true
 ---
 
 A preeminent scientist - and the world's most prominent atheist - asserts the irrationality of belief in God, and the grievous harm religion has inflicted on society, from the Crusades to 9/11.

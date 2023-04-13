@@ -5,7 +5,6 @@ date: 2020-07-27
 image: /images/blog/3115.jpg
 layout: post
 description: Dark and gritty grimdark fantasy novel that doesn't rely on typical fantasy clichés
-book: true
 ---
 
 Logen Ninefingers, infamous barbarian, has finally run out of luck. Caught in one feud too many, he’s on the verge of becoming a dead barbarian – leaving nothing behind him but bad songs, dead friends, and a lot of happy enemies.

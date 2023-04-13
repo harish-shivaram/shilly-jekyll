@@ -5,7 +5,6 @@ date: 2023-01-17
 image: /images/blog/3109.jpg
 layout: post
 description: For the greater glory of God, but does that apply when dealing with alien creatures with even more alien cultures?
-book: true
 ---
 
 In 2019, humanity finally finds proof of extraterrestrial life when a listening post in Puerto Rico picks up exquisite singing from a planet that will come to be known as Rakhat. While United Nations diplomats endlessly debate a possible first contact mission, the Society of Jesus quietly organizes an eight-person scientific expedition of its own.  What the Jesuits find is a world so beyond comprehension that it will lead them to question what it means to be "human".

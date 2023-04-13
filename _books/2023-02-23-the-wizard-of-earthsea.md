@@ -5,7 +5,6 @@ date: 2023-02-23
 image: /images/blog/3135.jpg
 layout: post
 description: The origin story of sparrowhawk, the greatest wizard of Earthsea. As the young boy learns to be a wizard, his pride and ego causes him to take some mis-steps; and as a young man, he uses his skill and resourcefulness to rectify those mis-steps
-book: true
 ---
 
 Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in his reckless youth.

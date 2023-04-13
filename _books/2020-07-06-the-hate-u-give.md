@@ -5,7 +5,6 @@ date: 2020-07-06
 image: /images/blog/3112.jpg
 layout: post
 description: A look into the minds of the victims of racist police brutality, and what sends them over the breaking point
-book: true
 ---
 
 The title is from a lyric of Tupac: "The Hate U Give Little Infants F-s Everyone". The acronym makes that line significantly more profound: THUG-LIFE.

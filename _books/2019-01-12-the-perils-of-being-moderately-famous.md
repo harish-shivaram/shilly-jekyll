@@ -5,7 +5,6 @@ date: 2019-01-12
 image: /images/blog/3102.jpg
 layout: post
 description: Does a pea under the mattress really bother a princess?
-book: true
 ---
 
 Soha Ali Khan is a scion of what is arguably India's most famous family. Under different circumstances, she ought to have been a princess. A literal, big-disney-gown kind of princess.

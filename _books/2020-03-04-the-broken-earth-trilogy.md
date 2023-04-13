@@ -5,7 +5,6 @@ date: 2020-03-04
 image: /images/blog/3111.jpg
 layout: post
 description: A series so well written, that each book in the trilogy won a Hugo award. The final book also won the Nebula award.
-book: true
 ---
 
 I think this has to be one of the best world-building books I have ever read. This is a strange land, wracked with unusually strong and violent earthquakes, which happen cyclically.

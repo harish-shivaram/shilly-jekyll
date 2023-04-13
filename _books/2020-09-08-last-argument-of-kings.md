@@ -5,7 +5,6 @@ date: 2020-09-08
 image: /images/blog/3117.jpg
 layout: post
 description: Final installment of the "First Law" trilogy. A worthy finale which highlights all the shades of grey...
-book: true
 ---
 
 The end is coming. Logen Ninefingers might only have one more fight in him but it's going to be a big one. Battle rages across the North, the King of the Northmen still stands firm, and there's only one man who can stop him. His oldest friend, and his oldest enemy. It's past time for the Bloody-Nine to come home.

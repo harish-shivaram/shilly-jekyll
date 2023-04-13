@@ -5,7 +5,6 @@ date: 2022-07-01
 image: /images/blog/3127.jpg
 layout: post
 description: Paolo's second ecological dystopian (cli-fi?) novel sets the action in the arid American south west, where water is the most precious commodity.
-book: true
 ---
 
 In a future hammered by climate change and drought, mountain snows have turned to rain, and rain evaporates before it hits the ground. In a fragmenting United States, the cities of Phoenix and Las Vegas skirmish for a dwindling share of the Colorado River. But it is the Las Vegas water knives - assassins, terrorists and spies - who are legendary for protecting Las Vegas' water supplies, and for ensuring Phoenix's ruin.

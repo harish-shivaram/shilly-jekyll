@@ -5,7 +5,6 @@ date: 2021-11-03
 image: /images/blog/3121.jpg
 layout: post
 description: A simple way of putting it... a collection of tales about a man hunting monsters for money. But then, this book (and in fact, the whole series) is so much more...
-book: true
 ---
 
 Geralt the Witcher — revered and hated — is a man whose magic powers, enhanced by long training and a mysterious elixir, have made him a brilliant fighter and a merciless assassin. Yet he is no ordinary murderer: his targets are the multifarious monsters and vile fiends that ravage the land and attack the innocent.

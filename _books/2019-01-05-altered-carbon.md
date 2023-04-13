@@ -5,7 +5,6 @@ date: 2019-01-05
 image: /images/blog/3101.jpg
 layout: post
 description: A mish-mash that works
-book: true
 ---
 
 Morgan has borrowed ideas from a number of other sci-fi, detective potboiler and consipiracy thrillers and pulled it all together into a single book. It works, after a fashion. There's a bit of Arthur C Clarke, a lot of Peter F Hamilton, some good old Gumshoe stuff like Raymond Chandler and finally, some 

@@ -5,7 +5,6 @@ date: 2023-01-26
 image: /images/blog/3134.jpg
 layout: post
 description: Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit. 
-book: true
 ---
 
 The Diary of a Young Girl, also known as The Diary of Anne Frank, is a book of the writings from the Dutch language diary kept by Anne Frank while she was in hiding for two years with her family during the Nazi occupation of the Netherlands.

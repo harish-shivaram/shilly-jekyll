@@ -5,7 +5,6 @@ date: 2022-07-13
 image: /images/blog/3128.jpg
 layout: post
 description: First book of a YA fantasy series with excellent and rich world building and complex characters who are not all stark black-and-white.
-book: true
 ---
 
 Surrounded by enemies, the once-great nation of Ravka has been torn in two by the Shadow Fold, a swath of near impenetrable darkness crawling with monsters who feast on human flesh. Now its fate may rest on the shoulders of one lonely refugee.

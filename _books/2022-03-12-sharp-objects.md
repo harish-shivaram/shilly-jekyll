@@ -5,7 +5,6 @@ date: 2022-03-12
 image: /images/blog/3126.jpg
 layout: post
 description: Disturbing story. Disturbing characters. This book will make you feel uncomfortable, that's what Gillian Flynn does best!
-book: true
 ---
 
 Fresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the unsolved murder of a preteen girl and the disappearance of another.

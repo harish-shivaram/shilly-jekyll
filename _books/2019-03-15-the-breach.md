@@ -5,7 +5,6 @@ date: 2019-03-15
 image: /images/blog/3106.jpg
 layout: post
 description: What is that thing that came through the breach?
-book: true
 ---
 
 Thirty years ago, in a facility buried beneath a vast Wyoming emptiness, an experiment gone awry accidentally opened a door. It is the world's best-kept secret-and its most terrifying. Trying to regain his life in the Alaskan wilds, ex-con/ex-cop Travis Chase stumbles upon an impossible scene: a crashed 747 passenger jet filled with the murdered dead, including the wife of the President of the United States.

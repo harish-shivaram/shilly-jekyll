@@ -5,7 +5,6 @@ date: 2022-08-13
 image: /images/blog/3130.jpg
 layout: post
 description: Another collection of short stories, following the adventures of the collection The Last Wish. Geralt forges ahead, battling monsters, demons and prejudices alike...
-book: true
 ---
 
 Six short stories, again drawing inspiration from the various fairy tales and folk tales. This collection is less a sequence of cases, as was the previous book, but more of a deep dive into what shape and traits Geralt's character has. There are stories inspired by the little mermaid and the snow queen, among others.

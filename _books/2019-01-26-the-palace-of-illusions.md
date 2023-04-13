@@ -5,7 +5,6 @@ date: 2019-01-26
 image: /images/blog/3104.jpg
 layout: post
 description: Inside the mind of the fire-born one
-book: true
 ---
 
 Chitra Banerjee Divakaruni delves into the mind of Draupadi, arguably Indian mythology's most enigmatic characters, and presents her perspective of the times.

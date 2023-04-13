@@ -5,7 +5,6 @@ date: 2020-01-31
 image: /images/blog/3110.jpg
 layout: post
 description: A probable near-future scenario with rampant climate change and biological warfare.
-book: true
 ---
 
 What happens when calories become currency? What happens when bio-terrorism becomes a tool for corporate profits, when said bio-terrorism's genetic drift forces mankind to the cusp of post-human evolution? 

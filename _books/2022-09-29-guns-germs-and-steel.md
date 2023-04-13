@@ -5,7 +5,6 @@ date: 2022-09-29
 image: /images/blog/3131.jpg
 layout: post
 description: Winner of the Pulitzer Prize and a national bestseller, this book explores the rise of civilization in humans and how the world came to be the way it is, today.
-book: true
 ---
 
 Jared Diamond is a biologist, who had a passion for studying birds, particularly the birds of New Guinea. He came to know and appreciate the many native people he met in his work, the question asked by a New Guinean named Yani remained with him. Why was it that westerners had so much relative to New Guinean natives, who had been living on that land for forty thousand years.

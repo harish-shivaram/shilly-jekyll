@@ -5,7 +5,6 @@ date: 2021-02-22
 image: /images/blog/3119.jpg
 layout: post
 description: A romance involving a young girl and boy, both in remission from cancer, told from the perspective of the girl Hazel
-book: true
 ---
 
 Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.

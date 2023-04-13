@@ -5,7 +5,6 @@ date: 2022-03-26
 image: /images/blog/3124.jpg
 layout: post
 description: Medical doctor Ben Goldacre disassembles some of the biggest bullshitters supposedly sharing medical, health and/or nutrition theories or even cures at best just placebos, or at worse harmful, who in many cases have their voices amplified by the media.
-book: true
 ---
 
 How do we know if a treatment works, or if something causes cancer? Can the claims of homeopaths ever be as true - or as interesting - as the improbable research into the placebo effect? Who created the MMR hoax? Do journalists understand science? Why do we seek scientific explanations for social, personal and political problems? Are alternative therapists and the pharmaceutical companies really so different, or do they just use the same old tricks to sell different types of pill?
