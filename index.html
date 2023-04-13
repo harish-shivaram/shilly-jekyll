@@ -15,7 +15,8 @@ intro: true
 	<section class="posts">
 		{% assign newbooks = site.books | sort: 'date' | reverse %}
 		{% for post in newbooks limit:4 %}{% include brief.html %}{% endfor %}
-		{% for post in site.posts limit:4 %}{% include brief.html %}{% endfor %}
+		{% assign newcomics = site.comics | sort: 'path' | reverse %}
+		{% for post in newcomics limit:4 %}{% include brief.html %}{% endfor %}
 	</section>
 
 	<!-- Footer -->
