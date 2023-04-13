@@ -26,20 +26,6 @@ background_image:   /images/bg.jpg
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
-  #defaults:
-  #- scope:
-  #    path: ''
-  #    type: posts
-  #  values:
-  #    permalink: "/blog/:title/"
-  #    layout: post
-  #    author:
-  #- scope:
-  #    path: '/rpi'
-  #  values:
-  #    layout: post
-
-
 # Jekyll
 #permalink:          /blog/:title/
 permalink:          pretty
@@ -76,6 +62,19 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+
+defaults:
+- scope:
+    path: ''
+    type: comics
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: panorama
+  values:
+    layout: page
+
 
 autopages:
   enabled: false
