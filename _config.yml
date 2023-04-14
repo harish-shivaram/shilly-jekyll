@@ -79,21 +79,22 @@ defaults:
 autopages:
   enabled: false
   collections:
+    layouts:
+      - 'autopage_collection.html'
+    title: 'Posts in collection :coll'
+    permalink: '/collection/:coll'
+    silent: false
     slugify:
-      mode: 'ascii'
-      cased: true  # Causes B+W tag to show up as it is written on the terry-pratchet-diary-2017.md page and not lowercase
-
+      mode: 'default'
+      case: false
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate-v2
-
-    #paginate: 10
-    #paginate_path: "/blog/page:num/"
+  - jekyll-sitemap
 
 # Pagination Settings
 pagination:

@@ -19,15 +19,9 @@ intro: true
 		{% for post in newcomics limit:4 %}{% include brief.html %}{% endfor %}
 	</section>
 
-	<!-- Footer -->
-	<footer>
-		<ul class="actions">
-			<li><a href="{{ "/blog/" | absolute_url }}" class="button">More</a></li>
-		</ul>
-	</footer>
 	</div>
-				<!-- Footer -->
-        {% include foot.html %}
+	<!-- Footer -->
+	{% include foot.html %}
 </div>
 		<!-- Scripts -->
 		{% include scripts-main.html %}
