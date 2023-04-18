@@ -5,11 +5,15 @@ layout: post
 
 ## Orchestra
 
+![Symphony Orchestra](/images/classical/orchestra.jpg){:.image .fit}
+
 Orchestras come in four basic types: the standard symphony orchestra (comprising large forces of strings, wind instruments, a brass section and percussion), the chamber orchestra (a scaled-down version of the above), the original instrument orchestra (using instruments of the period in which the composer was writing and the exact number envisaged by the composer), and the string orchestra (consisting of violins, violas cellos and double basses).
 
 The orchestra has developed through the centuries usually by increasing the number of players and the term can also be applied to a large body of wind and brass instruments - the wind orchestra, which some would malign as being a glorified military band!
 
 ## Conductor
+
+![Conductor](/images/classical/conductor.jpg){:.image .fit}
 
 Originally, the job of the present-day conductor was undertaken by either the leader of the orchestra (the principal violinist) or the harpsichordist. Concertos were conducted by the soloist in close liaison with the leader and there was never a need for an independent person to wave the baton.
 
@@ -19,19 +23,27 @@ The conductor of an orchestra has enormous power, for it is he or she who has co
 
 ## Soloist
 
+![Soloist](/images/classical/soloist.jpg){:.image .fit}
+
 The soloist is the singer or instrumentalist taking the solo part in a work with orchestra. The term can sometimes also be applied to a duo; for example, where there is a violinist playing music for violin and piano, the pianist will often be labelled as the accompanist while the violonist is the soloist.
 
 Soloists appear taking the solo part in works called concertos and are often outstandingly gifted performers. Necessary qualities include an extremely fine technique and unique creativity. They are quite often flamboyant characters and a strong personality is most definitely an advantage. Some of the famous soloists of the past few years include the singers Luciano Pavarotti, Kiri Te Kanawa, Placido Domingo and Jose Carreras, and instrumentalists Nigel Kennedy, Vladimir Ashkenazy and James Galway.
 
 ## String Quartet
 
+![String Quartet](/images/classical/string-quartet.jpg){:.image .fit}
+
 The string quartet consists of four people playing two violins, a viola and a cello. It was really established as a standard combination by the eighteenth century and some of the finest works for the quartet were composed by [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Schubert](/classical/FSch) and [Beethoven](/classical/LBee), while more modern composers like [Bartok](/classical/BBar) and [Shostakovich ](/classical/DSho) have also made exceptional contributions to the repertoire.
 
 ## Piano Trio
 
+![Piano Trio](/images/classical/piano-trio.jpg){:.image .fit}
+
 Confusingly, a piano trio is not a piece for three pianos. The standard combination of a piano trio includes a violin and a cello with piano. Again, [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Beethoven](/classical/LBee) and [Schubert](/classical/FSch) were the ones who really provided the 'standard' repertoire. Other composers who have been inspired to write excellent works for this combination include [Schumann](/classical/RSch), [Brahms](/classical/JBra), [Debussy](/classical/CDeb) and [Ravel](/classical/MRav).
 
 ## Chamber Music
+
+![Chamber Orchestra](/images/classical/chamber.jpg){:.image .fit}
 
 Chamber music is the term given to 'serious' music two or more players up to the size of a smallish orchestra (of about fifteen players). There are a number of standard combinations that the mainstream classical composers wrote for, two of which, the string quartet and the piano trio, are described in more detail above.
 
