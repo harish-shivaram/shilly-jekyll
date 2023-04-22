@@ -1,16 +1,59 @@
-{% include top.html %}
-<section class="posts">
-	{% for post in paginator.posts %}<article>
-	<header>
-		{% if page.usedate %}<span class="date">{{post.date|date: "%-d %B %Y" }}</span>{% endif %}
-		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-	</header>
-	<a href="{{post.url}}" class="image fit"><img src="{{post.image}}" alt="{{post.title}}" /></a>
-	<p>{{post.description}}</p>
-	<ul class="actions">
-		<li><a href="{{post.url}}" class="button">Full Story</a></li>
-	</ul>
-	</article>{% endfor %}
-</section>
-{% include paginate.html %}
-{% include bottom.html %}
+---
+---
+{%include top.html %}
+<!-- Content-->
+<div class="wil-content">
+
+	<!-- Section -->
+	<section class="awe-section">
+		<div class="container">
+			<!-- page-title -->
+			<div class="page-title pb-40">
+				<h2 class="page-title__title">{{page.title}}</h2>
+				<p class="page-title__text">{{page.description}}</p>
+				<div class="page-title__divider"></div>
+			</div><!-- End / page-title -->
+		</div>
+	</section>
+	<!-- End / Section -->
+
+	<!-- Section -->
+	<section class="awe-section bg-gray">
+		<div class="container">
+			<div class="grid-css grid-css--masonry" data-col-lg="3" data-col-md="2" data-col-sm="2" data-col-xs="1" data-gap="30">
+				<div class="grid__inner">
+					<div class="grid-sizer"></div>
+					{% for post in paginator.posts %}
+					<div class="grid-item"><div class="grid-item__inner"><div class="grid-item__content-wrapper">
+						<!-- post -->
+						<div class="post">
+							<div class="post__media"><a href="{{post.url}}"><img src="{{post.image}}" alt=""/></a></div>
+							<div class="post__body">
+								<h2 class="post__title"><a href="{{post.url}}">{{post.title}}</a></h2>
+								<div class="post__meta">
+									{% if post.author %}<span class="author">by {{post.author}}</span>{%endif%}
+									{% if page.usedate %}<span class="date">{{post.date|date: "%-d %B %Y" }}</span>{% endif %}
+								</div>
+								<p class="post__text">{{post.description}}</p>
+								<a class="md-btn md-btn--outline-primary" href="{{post.url}}">read more</a>
+							</div>
+						</div>
+						<!-- End / post -->
+					</div></div></div>
+					{%endfor%}
+				</div>
+			</div>
+			{% include paginate.html %}
+		</div>
+	</section>
+	<!-- End / Section -->
+
+	<section class="awe-section">
+		<div class="container">
+			{% include disqus.html %}
+		</div>
+	</section>
+
+</div>
+<!-- End / Content-->
+{%include bottom.html%}

@@ -1,34 +1,50 @@
-<!DOCTYPE HTML>
-<!--
-    Massively by HTML5 UP
-    html5up.net | @ajlkn
-  Jekyll integration by somiibo.com
-    Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
+<!DOCTYPE html>
 <html>
-    <head>
-        {% include head.html %}
-    </head>
-    <body class="is-loading">
-        <!-- Wrapper -->
-        <div id="wrapper" class="fade-in">
-        {% if page.intro %}
-		<!-- Intro -->
-		<div id="intro">
-			<h1>{{site.title}}</h1>
-			<h2>{{site.bio}}</h2>
-			<p>{{site.description}}</p>
-			<ul class="actions">
-				<li><a href="#header" class="button icon solo fa-arrow-down scrolly">Continue</a></li>
-			</ul>
-		</div>
-        {%endif%}
-        <!-- Header -->
-        <header id="header">
-            <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
-        </header>
-        {% include nav.html %}
+	<head>
+		<title>{{page.title}}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<!-- Fonts-->
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/fontawesome/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/fonts/pe-icon/pe-icon.css">
+		<!-- Vendors-->
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap/grid.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/swiper/swiper.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/sortable/sortable.min.css">
+		<!-- App & fonts-->
+		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:400,700">
+		<link rel="stylesheet" type="text/css" id="app-stylesheet" href="/assets/css/main.css"><!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<![endif]-->
+	</head>
 
-	<!-- Main -->
-	<div id="main">
+	<body>
+		<div class="page-wrap" id="root">
+			<!-- header -->
+			<header class="header header--fixed">
+				<div class="header__inner">
+					<div class="header__logo">
+						<a href="/"><img src="/assets/img/logo.png" alt="" /></a>
+					</div>
+					<div class="navbar-toggle" id="fs-button">
+						<div class="navbar-icon"><span></span></div>
+					</div>
+				</div>
+
+				<!-- fullscreenmenu__module -->
+				<div class="fullscreenmenu__module" trigger="#fs-button">
+					<!-- overlay-menu -->
+					<nav class="overlay-menu">
+						<!--  -->
+						<ul class="wil-menu-list">
+							{% for item in site.data.navigation %}
+							{% if page.url contains item.link %}<li class="active">{% else %}<li>{%endif%}<a href="{{item.link}}">{{item.name}}</a></li>
+							{% endfor %}
+						</ul><!--  -->
+					</nav><!-- End / overlay-menu -->
+				</div><!-- End / fullscreenmenu__module -->
+			</header><!-- End / header -->
 

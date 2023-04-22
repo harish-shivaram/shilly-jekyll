@@ -1,14 +1,48 @@
-{% include top.html %}
-<section class="post">
-    <header class="major">
-        <h1>{{page.title}}</h1>
-	{%if page.excerpt %}<p>{{page.excerpt}}</p>{%endif%}
-        {% if page.born %}
-        <p>Born {{page.born}} in {{page.home}}, {{page.country}}. Died {{page.died}}<br/>
-        {{page.schools}} school(s).</p>
-        {% endif %}
-    </header>
-    {%if page.image%}<div class="image main"><img src="{{page.image}}" alt=""></div>{%endif %}
-    {{content}}
-</section><!-- post -->
-{% include bottom.html %}
+{%include top.html %}
+<!-- Content-->
+<div class="wil-content">
+	<!-- Section -->
+	<section class="awe-section">
+		<div class="container">
+			<!-- page-title -->
+			<div class="page-title pb-40">
+				<h2 class="page-title__title">{{page.title}}</h2>
+				<div class="post-detail__meta">
+					{%if page.excerpt %}<p>{{page.excerpt}}</p>{%endif%}
+					{% if page.born %}
+					<p>Born {{page.born}} in {{page.home}}, {{page.country}}. Died {{page.died}}<br/>
+					{{page.schools}} school(s).</p>
+					{% endif %}
+				</div>
+				<div class="page-title__divider"></div>
+			</div><!-- End / page-title -->
+		</div>
+	</section>
+	<!-- End / Section -->
+
+	<!-- Section -->
+	<section class="awe-section bg-gray">
+		<div class="container">
+			<!--  -->
+			<div>
+				{%if page.image %}
+				<div class="post-detail__media"><img src="{{page.image}}" alt=""></div>
+				{%endif%}
+				<div class="post-detail__entry row">
+					<div class="col-md-12 post__text">
+						{{content}}
+					</div>
+				</div>
+			</div><!-- End /  -->
+		</div>
+	</section>
+
+	<section class="awe-section">
+		<div class="container">
+			{% include disqus.html %}
+		</div>
+	</section>
+	
+</div>
+<!-- End / Content-->
+{%include bottom.html%}

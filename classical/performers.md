@@ -5,7 +5,7 @@ layout: post
 
 ## Orchestra
 
-![Symphony Orchestra](/images/classical/orchestra.jpg){:.image .fit}
+![Symphony Orchestra](/images/classical/orchestra.jpg){:.image .right}
 
 Orchestras come in four basic types: the standard symphony orchestra (comprising large forces of strings, wind instruments, a brass section and percussion), the chamber orchestra (a scaled-down version of the above), the original instrument orchestra (using instruments of the period in which the composer was writing and the exact number envisaged by the composer), and the string orchestra (consisting of violins, violas cellos and double basses).
 
@@ -13,7 +13,7 @@ The orchestra has developed through the centuries usually by increasing the numb
 
 ## Conductor
 
-![Conductor](/images/classical/conductor.jpg){:.image .fit}
+![Conductor](/images/classical/conductor.jpg){:.image .left}
 
 Originally, the job of the present-day conductor was undertaken by either the leader of the orchestra (the principal violinist) or the harpsichordist. Concertos were conducted by the soloist in close liaison with the leader and there was never a need for an independent person to wave the baton.
 
@@ -23,7 +23,7 @@ The conductor of an orchestra has enormous power, for it is he or she who has co
 
 ## Soloist
 
-![Soloist](/images/classical/soloist.jpg){:.image .fit}
+![Soloist](/images/classical/soloist.jpg){:.image .right}
 
 The soloist is the singer or instrumentalist taking the solo part in a work with orchestra. The term can sometimes also be applied to a duo; for example, where there is a violinist playing music for violin and piano, the pianist will often be labelled as the accompanist while the violonist is the soloist.
 
@@ -31,19 +31,27 @@ Soloists appear taking the solo part in works called concertos and are often out
 
 ## String Quartet
 
-![String Quartet](/images/classical/string-quartet.jpg){:.image .fit}
+![String Quartet](/images/classical/string-quartet.jpg){:.image .left}
 
-The string quartet consists of four people playing two violins, a viola and a cello. It was really established as a standard combination by the eighteenth century and some of the finest works for the quartet were composed by [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Schubert](/classical/FSch) and [Beethoven](/classical/LBee), while more modern composers like [Bartok](/classical/BBar) and [Shostakovich ](/classical/DSho) have also made exceptional contributions to the repertoire.
+The string quartet consists of four people playing two violins, a viola and a cello. It was really established as a standard combination by the eighteenth century. 
+
+The standard structure for a string quartet as established in the Classical era is four movements, with the first movement in sonata form, allegro, in the tonic key; a slow movement in a related key and a minuet and trio follow; and the fourth movement is often in rondo form or sonata rondo form, in the tonic key.
+
+Some of the finest works for the quartet were composed by [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Schubert](/classical/FSch) and [Beethoven](/classical/LBee), while more modern composers like [Bartok](/classical/BBar) and [Shostakovich ](/classical/DSho) have also made exceptional contributions to the repertoire.
 
 ## Piano Trio
 
-![Piano Trio](/images/classical/piano-trio.jpg){:.image .fit}
+![Piano Trio](/images/classical/piano-trio.jpg){:.image .right}
 
-Confusingly, a piano trio is not a piece for three pianos. The standard combination of a piano trio includes a violin and a cello with piano. Again, [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Beethoven](/classical/LBee) and [Schubert](/classical/FSch) were the ones who really provided the 'standard' repertoire. Other composers who have been inspired to write excellent works for this combination include [Schumann](/classical/RSch), [Brahms](/classical/JBra), [Debussy](/classical/CDeb) and [Ravel](/classical/MRav).
+Confusingly, a piano trio is not a piece for three pianos. The standard combination of a piano trio includes a violin and a cello with piano.
+
+Works titled "Piano Trio" tend to be in the same overall shape as a sonata. Initially this was in the three movement form, though some of [Haydn](/classical/JHay)'s have two movements.
+
+Again, [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Beethoven](/classical/LBee) and [Schubert](/classical/FSch) were the ones who really provided the 'standard' repertoire. Other composers who have been inspired to write excellent works for this combination include [Schumann](/classical/RSch), [Brahms](/classical/JBra), [Debussy](/classical/CDeb) and [Ravel](/classical/MRav).
 
 ## Chamber Music
 
-![Chamber Orchestra](/images/classical/chamber.jpg){:.image .fit}
+![Chamber Orchestra](/images/classical/chamber.jpg){:.image .left}
 
 Chamber music is the term given to 'serious' music two or more players up to the size of a smallish orchestra (of about fifteen players). There are a number of standard combinations that the mainstream classical composers wrote for, two of which, the string quartet and the piano trio, are described in more detail above.
 
