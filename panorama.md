@@ -12,10 +12,10 @@ More recently, my copy of the text book surfaced when we were dusting some old c
 
 Here are most of the poems from the book, the ones that could be found on the net.
 
-<table data-sortable>
+<table class="sortable">
 <thead><tr><th>Poet</th><th>Work</th></tr></thead>
 {% for poem in site.panorama %}
         <tr><td>{{ poem.author }}</td>
-        <td data-value="{{ poem.title }}"><a href="{{ poem.url }}">{{ poem.title }}</a></td></tr>
+        <td data-sort="{{ poem.title }}"><a href="{{ poem.url }}">{{ poem.title }}</a></td></tr>
 {% endfor %}
 </table>

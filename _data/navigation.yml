@@ -1,7 +1,5 @@
 - name: Books
   link: /books/
-- name: Blog
-  link: /blog/
 - name: Panorama
   link: /panorama/
 - name: Classical
@@ -12,3 +10,7 @@
   link: /comics/
 - name: Self-Hosted
   link: /rpi/
+- name: Blog
+  link: /blog/
+    #- name: Art
+    #  link: /art/
