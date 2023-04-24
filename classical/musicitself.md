@@ -19,7 +19,7 @@ Other types of scale that are mentioned are 'whole-tone' and 'pentatonic' scales
 
 ## Chords
 
-Two or more notes sounding together are known as a chord. Chords can take a number of forms. There are those which sound basically acceptable to all of us (such as those found in the music of [Haydn](JHay) and [Mozart](WMoz)) and these are known as diatonic. They take their form in a ragular way from notes in normal scales. However, with the advent of romantic composers and those that followed, more and more use of unusual notes within chords was introduced to produce more emotional effects, some composers even using direct clashes of notes (discords) to create tension in their music.
+Two or more notes sounding together are known as a chord. Chords can take a number of forms. There are those which sound basically acceptable to all of us (such as those found in the music of [Haydn](/classical/JHay) and [Mozart](/classical/WMoz)) and these are known as diatonic. They take their form in a ragular way from notes in normal scales. However, with the advent of romantic composers and those that followed, more and more use of unusual notes within chords was introduced to produce more emotional effects, some composers even using direct clashes of notes (discords) to create tension in their music.
 
 When chords move from one to another, it is called a progression and again, there are standard progressions to which we can all relate; but many composers were searching for new progressions to make their music sound different and consequently more interesting.
 

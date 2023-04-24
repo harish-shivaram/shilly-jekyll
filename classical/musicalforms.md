@@ -13,7 +13,7 @@ There are now two types of overture: First, the sort that is meant specifically 
 
 In the seventeenth and eighteenth centuries an overture implied a piece in three movements: Italian overtures would be quick-slow-quick, while french overtures would be slow-quick-slow. Later in the eighteenth century it was the composer Gluck who decided that an overture should be used 'to prepare the audience for the plot of the play'.
 
-[Mozart](WMoz), [Haydn](JHay), [Beethoven](LBee) and later, [Wagner](RWag) all thought this was a good idea and that is how it remains today.
+[Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Beethoven](/classical/LBee) and later, [Wagner](/classical/RWag) all thought this was a good idea and that is how it remains today.
 
 ## Concerto
 
@@ -21,37 +21,37 @@ Usually second in a standard orchestral concert programme, a concerto is a piece
 
 By the end of the seventeenth century, however, it was generally accepted that a concerto would feature a small group of string players (the _concertante_, _soli_, or _concertato_) playing in alternation with a larger body (the _ripieno_). The title _concerto grosso_ was introduced, meaning 'great concerto', and the best examples of this type are Bach's _Brandenburg Concertos_, which feature a small group of soloists playing alongside, and in alternation with, a small orchestra.
 
-The idea developed to the point where [Haydn](JHay), [Mozart](WMoz) and [Beethoven](LBee) wrote concertos purely for a single soloist with orchestra - and this was sometimes called a virtuoso concerto (a virtuoso being someone who is highly skilled in the art of performance), but is now simply called a concerto.
+The idea developed to the point where [Haydn](/classical/JHay), [Mozart](/classical/WMoz) and [Beethoven](/classical/LBee) wrote concertos purely for a single soloist with orchestra - and this was sometimes called a virtuoso concerto (a virtuoso being someone who is highly skilled in the art of performance), but is now simply called a concerto.
 
 ## Symphony
 
-The word symphony comes from the Greek meaning 'sounding together', but like the overture and the concerto it changed its meaning as time went on. [Hande](GHan) put a spanner in the works when he called an instrumental piece in his oratorio _Messiah `The Pastoral Symphony'_, whe it would have made like much simpler to have just called it an overture to the second act.
+The word symphony comes from the Greek meaning 'sounding together', but like the overture and the concerto it changed its meaning as time went on. [Hande](/classical/GHan) put a spanner in the works when he called an instrumental piece in his oratorio _Messiah `The Pastoral Symphony'_, whe it would have made like much simpler to have just called it an overture to the second act.
 
 Symphonies as we know them developed from the [sonata form](#sonataform), which was a basic structure for writing pieces in the seventeenth century. As a rule, a symphony would be four movements, although there are plenty of exceptions! The usual pattern for these four movements is fast, slow, minuet, fast; but, as time went on, smome composers changed this format to suit their own particular creative needs, so that the term _symphony_ has been applied to almost all kinds of largish-scale orchestral works that do not feature a soloist.
 
 ## Symphonic Poem
 
-The composer [Liszt](FLis) is reputed to have invented this term, otherwise known as the 'tone poem' in certain circles. Essentially, a symphonic poem is a piece for orchestra that has some kind of literary, dramatic or pictorial association. It is in one continuous movement that the composer moulds into whatever form he so desires for optimum creative freedom to suit his subject matter. Music with such connotation can also be known as programme music.
+The composer [Liszt](/classical/FLis) is reputed to have invented this term, otherwise known as the 'tone poem' in certain circles. Essentially, a symphonic poem is a piece for orchestra that has some kind of literary, dramatic or pictorial association. It is in one continuous movement that the composer moulds into whatever form he so desires for optimum creative freedom to suit his subject matter. Music with such connotation can also be known as programme music.
 
-The famous writers of symphonic poems are [Liszt](FLis), [Richard Strauss](RStr) and [Smetana](BSme), among others.
+The famous writers of symphonic poems are [Liszt](/classical/FLis), [Richard Strauss](/classical/RStr) and [Smetana](/classical/BSme), among others.
 
 ## Suite
 
 A suite is the name given to a piece consisting of a chain of dance movements. During the seventeenth and eighteenth centuries it was one of the most important forms of music and there are four types of dance which conventionally appear in suites of the Baroque era: the _allemando_, the _courante_, the _sarabande_ and the _gigue_. Interestingly these have four different countries of origin: the _allemande_ from Germany, the _courante_ from France (or Italy), the _sarabande_ from Spain and the _gigue_ from either England or Ireland.
 
-[Bach](JBac) wrote a number of _French Suites_ for keyboard instruments and orchestral suites utilizing the forces of a small chamber orchestra. Later examples can be found in [Grieg](EGri)'s _Peer Gynt_ and [Stravinsky](IStr)'s _Firebird_ - and these do not strictly conform to the original dance forms but are more contemporary adaptations of the same.
+[Bach](/classical/JBac) wrote a number of _French Suites_ for keyboard instruments and orchestral suites utilizing the forces of a small chamber orchestra. Later examples can be found in [Grieg](/classical/EGri)'s _Peer Gynt_ and [Stravinsky](/classical/IStr)'s _Firebird_ - and these do not strictly conform to the original dance forms but are more contemporary adaptations of the same.
 
 ## Minuet and Trio
 
-The minuet and trio is another dance type of movement often inserted into later forms of the suite. The minuet originated in France and was one of the approved dances at the court of Louis XIV. It was a gracefu, stately dance, but as time went on [Haydn](JHay) and [Mozart](WMoz) livened the whole thing up and in the hands of [Beethoven](LBee) the character changed so much that he eventually replaced it with an even faster movement called the scherzo.
+The minuet and trio is another dance type of movement often inserted into later forms of the suite. The minuet originated in France and was one of the approved dances at the court of Louis XIV. It was a gracefu, stately dance, but as time went on [Haydn](/classical/JHay) and [Mozart](/classical/WMoz) livened the whole thing up and in the hands of [Beethoven](/classical/LBee) the character changed so much that he eventually replaced it with an even faster movement called the scherzo.
 
-Minuets were expanded to contain another short section within the piece called the trio. This comes as the middle section before a repetition of the original minuet. There are lovely examples of minuet and trios in [Mozart](WMoz)'s _Eine Kleine Nachtmusik_ and his _Clarinet Quintet K.485_, an actual interesting feature of the latter neing that Mozart actually incorporated two trio sections within the whole movement.
+Minuets were expanded to contain another short section within the piece called the trio. This comes as the middle section before a repetition of the original minuet. There are lovely examples of minuet and trios in [Mozart](/classical/WMoz)'s _Eine Kleine Nachtmusik_ and his _Clarinet Quintet K.485_, an actual interesting feature of the latter neing that Mozart actually incorporated two trio sections within the whole movement.
 
 ## Sonata
 
 The word _sonata_ literally means 'sounded' as opposed to sung. In the seventeenth and early part of the eighteenth centuries there were two varieties: the _sonata da camera_ (chamber sonata) and the _sonata da chiesa_ (church sonata). Both were written for string instruments with keyboard accompaniment, the difference being that the chamber type was based on a series of movements featuring dance rhythms while the church type was altogether more serious in character.
 
-Without getting too technical, it all started to settle down at about the time of [Mozart](WMoz) and [Beethoven](LBee) when the established composers decided on a four-movement work rather like the symphony: fast, slow, minuet or schero and finally a fast finale-type movement. Unlike symphonies, however, a sonata is usually played by one or two players.
+Without getting too technical, it all started to settle down at about the time of [Mozart](/classical/WMoz) and [Beethoven](/classical/LBee) when the established composers decided on a four-movement work rather like the symphony: fast, slow, minuet or schero and finally a fast finale-type movement. Unlike symphonies, however, a sonata is usually played by one or two players.
 
 ## Sonatina
 
@@ -65,4 +65,4 @@ The piece is split up into three basic sections: the exposition, the development
 
 ## Theme and Variations
 
-This is the form that has been commonly adopted by many composers whereby the initial theme is presented and then modified several times over, usually melodically, rhythmically and harmonically. Sometimes composers took a tune by someone else and did their own set of variations on that particular theme. For example, numerous composers have been inspired to write variations on Paganini's _24th Caprice_, ranging from [Rachmaninoff](SRac) to Andrew Lloyd Webber.
+This is the form that has been commonly adopted by many composers whereby the initial theme is presented and then modified several times over, usually melodically, rhythmically and harmonically. Sometimes composers took a tune by someone else and did their own set of variations on that particular theme. For example, numerous composers have been inspired to write variations on Paganini's _24th Caprice_, ranging from [Rachmaninoff](/classical/SRac) to Andrew Lloyd Webber.

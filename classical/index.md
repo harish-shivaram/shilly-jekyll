@@ -7,9 +7,9 @@ school: ""
 
 To the majority of people, the term 'classical music' seems to be the one used to describe almost any music that is played by orchestras and musicians wearing white tie and tails, or indeed , any 'serious' music that doesn't automatically fall into the categories of pop, rock, jazz, ethnic or new age.
  
-However, this is not strictly the case. To be really pedantic, 'classical music' is the music that was written from around the mid-eighteenth century through to the early part of the nineteenth century, encompassing the works of composers like [Mozart](WMoz) and [Beethoven](LBee).
+However, this is not strictly the case. To be really pedantic, 'classical music' is the music that was written from around the mid-eighteenth century through to the early part of the nineteenth century, encompassing the works of composers like [Mozart](/classical/WMoz) and [Beethoven](/classical/LBee).
 
-At the time when [Bach](JBac), [Mozart](WMoz) and [Beethoven](LBee) were writing, their music was the popular music of the day; but it has now been dubbed 'classical', playing on the exact dictionary definition of the word meaning simple, harmonious and formally structured. This umbrella title encompasses many different styles: Baroque, Romantic, Impressionistic, and Nationalitic schools are just a few examples. Pop music suffers the same fate: the title 'pop music' has to cover a multitude of styles - from soul to reggae and from heavy metal to hip-hop.
+At the time when [Bach](/classical/JBac), [Mozart](/classical/WMoz) and [Beethoven](/classical/LBee) were writing, their music was the popular music of the day; but it has now been dubbed 'classical', playing on the exact dictionary definition of the word meaning simple, harmonious and formally structured. This umbrella title encompasses many different styles: Baroque, Romantic, Impressionistic, and Nationalitic schools are just a few examples. Pop music suffers the same fate: the title 'pop music' has to cover a multitude of styles - from soul to reggae and from heavy metal to hip-hop.
 
 Confusing though it is, keep in mind that the term 'classical music' can either be applied to the music specifically written between the years 1750 and 1827, or be used as the all-encompassing title for 'serious' music - or not so serious, as we may well find out.
 
@@ -19,16 +19,16 @@ Here, we will focus on the main styles of music that have achieved mass appeal s
 
 ## More Reading
 
-- [The Performers](performers)
-- [Musical Forms](musicalforms)
-- [The Music Itself](musicitself)
+- [The Performers](/classical/performers)
+- [Musical Forms](/classical/musicalforms)
+- [The Music Itself](/classical/musicitself)
 
 ## Schools of Music
 
-- [Baroque](Baroque) 1650-1750
-- [Classical](Classical) 1750-1827
-- [Romantic](Romantic) 1800-1910
-- [Modern](Modern) 1910-
+- [Baroque](/classical/Baroque) 1650-1750
+- [Classical](/classical/Classical) 1750-1827
+- [Romantic](/classical/Romantic) 1800-1910
+- [Modern](/classical/Modern) 1910-
 
 ## Famous Composers
 
