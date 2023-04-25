@@ -2838,6 +2838,42 @@ ul {
     opacity: 0;
 }
 
+.grid-of-images a {
+	cursor:-webkit-zoom-in;
+	cursor:-moz-zoom-in;
+	cursor:zoom-in;
+	border-bottom:0;
+	height:200px;
+	display:block;
+	float:left;
+	margin:0 5px 25px 0;
+}
+
+.grid-of-images a:hover {
+	opacity:.9
+}
+
+.pswp__custom-caption {
+  background: rgba(75, 150, 75, 0.75);
+  font-size: 16px;
+  color: #fff;
+  width: calc(100% - 32px);
+  max-width: 400px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+}
+.pswp__custom-caption a {
+  color: #fff;
+  text-decoration: underline;
+}
+.hidden-caption-content {
+  display: none;
+}
+
 .sharebox__module {
     padding: 30px 0;
     border-top: 1px solid #ebebeb;

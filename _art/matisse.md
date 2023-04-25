@@ -1,0 +1,83 @@
+---
+title: Henri Matisse
+image: /images/art/matisse_1.jpg
+layout: artist
+born: 1869
+died: 1954
+gallery:
+ - image: /images/art/matisse_1.jpg
+   small: /images/art/matisse_1_small.jpg
+   title: La Danse
+   width: 2000
+   height: 1329
+ - image: /images/art/matisse_2.jpg
+   small: /images/art/matisse_2_small.jpg
+   title: Woman in a Hat
+   width: 1214
+   height: 1653
+ - image: /images/art/matisse_3.jpg
+   small: /images/art/matisse_3_small.jpg
+   title: Le bonheur de vivre (The Joy of Life)
+   width: 1088
+   height: 784
+ - image: /images/art/matisse_4.jpg
+   small: /images/art/matisse_4_small.jpg
+   title: Nu Bleu (Blue Nude)
+   width: 2000
+   height: 1315
+ - image: /images/art/matisse_5.jpg
+   small: /images/art/matisse_5_small.jpg
+   title: L'Atelier Rouge (The Red Studio)
+   width: 1447
+   height: 1185
+ - image: /images/art/matisse_6.jpg
+   small: /images/art/matisse_6_small.jpg
+   title: L'Escargot (The Snail)
+   width: 1188
+   height: 1200
+---
+
+Matisse had an orderly and brilliant academic mind; he would probably have been
+a lawyer if he had not turned to painting to amuse himself during a period of
+convalescence from appendicitis. As a result, the world of art gained one of
+its most outstanding and admired figures of the twentieth century.
+
+What began as a diversion for Matisse became an obsession, and he gave up his
+legal training and joined the studio of Gustave Moreau in Paris. He was
+influenced by the Impressionists, and particularly by the work of Cezanne. But
+he broke away from their gentle studies in light, and by 1905 had become the
+leader of a group of artists known as Les Fauves, the wild beasts, because of
+their use of violent explosive colour and aggressively rough paint textures. He
+was also much drawn to the formality, the inventive patterns and the colours of
+Islamic art, particularly after a visit to the great Islamic exposition in
+Munich in 1910.  This influence can be seen in the pure, contrasting colours
+and shapes of most of his work. He turned his talent to sculpture and
+printmaking, books, murals and designs for the theatre as well as painting.
+
+His subjects were mainly domestic interiors, scenes framed by windows, and -
+above all - the female form. He said, ‘What interests me most is neither still
+life nor landscape, but the human figure. It is through it that I best succeed
+in expressing the almost religious feeling I have towards life.’
+
+![La Danse](/images/art/matisse_1.jpg){:.image .right}
+_Dance_ and _Music_ were two decorative panels produced for the Russian collector
+Sergei Shchukin, which explains why they are now, after confiscation from
+private ownership, in the Russian state collections. But Matisse had initially
+produced for Shchukin’s inspection another full-scale version of _Dance_ - over
+eight-and-a-half feet high and nearly thirteen feet wide - and this is the one
+that is now in the Museum of Modern Art in New York. In it Matisse probably
+used as his starting point a ring of dancers from the background of his own
+painting _Bonheur de vivre_. 1909 was the year Diaghilev and the Russian ballet
+arrived in Paris, and dance was a topical subject.  The figures are dancing on
+a hill (a traditional site for ancient mystic rites and ceremonies), but it is
+as if they are afloat in the blazing blue sky, their feet barely touching the
+ground.
+
+Their five naked bodies, linked in a circle, are painted in clear flat colour
+without shadows, and the simplified outlines of the figures stand out very
+strongly against the background. They are drawn without detail, but the
+movement of their limbs and twisting bodies is realistic and full of life. The
+vibrant blue and green of the sky and the grass are perfectly balanced and
+extraordinarily intense. The total effect of this striking painting is one of
+primitive joy and exhilaration, communicating the joy Matisse derived from
+brilliant colour and dramatic forms.

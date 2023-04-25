@@ -12,5 +12,5 @@
   link: /rpi/
 - name: Blog
   link: /blog/
-    #- name: Art
-    #  link: /art/
+- name: Art
+  link: /art/

@@ -62,6 +62,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+  art:
+    output: true
+    permalink: /art/:title/
 
 defaults:
 - scope:
@@ -74,6 +77,12 @@ defaults:
     type: panorama
   values:
     layout: page
+- scope:
+    path: ''
+    type: art
+  values:
+    layout: artist
+
 
 
 autopages:
