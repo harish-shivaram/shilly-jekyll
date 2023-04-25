@@ -68,7 +68,7 @@ are dense with the dark green leaves of mid-summer, and the women wear pale
 delicate dresses of embroidered cotton and fine muslin. The seated woman
 shields her face from the sun with a parasol; and Monet has caught precisely
 the effect of shade-on the colour of her skin and the top of her dress,
-contrasting it with the bright undeflected light on her skirt and the flowers
+contrasting it with the bright reflected light on her skirt and the flowers
 in her lap. The two women standing together are in the shade of a tree, with
 the sun flickering through and forming patches of light on their dresses. The
 fourth is in the full sun, its strong rays shining directly on to the back of
@@ -91,4 +91,4 @@ criticism. Renoir said of him, ‘Without Monet, without my dear Monet who gave
 us all courage, we would have given up.’ After about thirty years of struggle,
 their work began to be understood and appreciated ; and finally it has come to
 be valued as one of the most important movements, and certainly the most
-popular, of the nineteenth centurv.
+popular, of the nineteenth century.

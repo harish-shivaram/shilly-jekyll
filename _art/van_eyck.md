@@ -75,6 +75,6 @@ recognized as a symbol of fidelity.
 An informal atmosphere is created by the presence of the dog and the man’s
 clogs lying askew on the floor, which adds to the astonishing realism of the
 painting.  Van Eyck has defined the relationship of marriage in both worldly
-and spiritual terms in this unidealized portrait, and reveals his
-extraordinarily accomplished technique in its accuracy, clarity of colour and
-perception of the realities of life.
+and spiritual terms in this portrait, and reveals his extraordinarily
+accomplished technique in its accuracy, clarity of colour and perception of the
+realities of life.

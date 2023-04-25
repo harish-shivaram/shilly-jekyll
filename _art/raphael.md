@@ -48,14 +48,14 @@ arts. Raphael produced a large number of devotional pictures and altarpieces
 for him and for his successor Pope Leo x, and he also painted portraits and
 designed interiors for many other wealthy Romans.
 
-![The Alba Madonna](/images/art/raphael_1.jpg){:.image .right}
+![The Alba Madonna](/images/art/raphael_3.jpg){:.image .right}
 _The Alba Madonna_ is so called because for over one hundred years it was in
 the collection of the Spanish Dukes of Alba.  The painting is a tondo , a
 circular format that was popular at the time, of the Madonna with the Christ
 Child on her lap, seated serenely in the Italian country-side. The adoring
 infant John the Baptist, clothed traditionally in animal skins, holds out a
 cross of twigs to Christ. The Virgin Mary wears her customary blue cloak; the
-haloes are fine whisps of gold.  The bright soft colours and delicate detail of
+haloes are fine wisps of gold.  The bright soft colours and delicate detail of
 the draperies and hair, and the circle of wild flowers round the feet of the
 three figures, make an unusually light and beautiful composition. It is
 remarkable for its serenity and perfect calm, although the cross is a reminder

@@ -49,12 +49,12 @@ allegory is beyond doubt. Over half of Bosch’s surviving paintings have
 religious subjects, and his work can only be interpreted in a religious
 framework; his art was, as a Spanish cleric remarked, ‘a painted satire on the
 sins and ravings of man’. It studied those human feelings which in the Middle
-Ages were thought to be the result of divine or devilish inspira- tion. Bosch
+Ages were thought to be the result of divine or devilish inspiration. Bosch
 was painting at the climax of a period when people firmly believed in the
-existence of grotesque demons; it was lso a time of robust, even cruel humour.
+existence of grotesque demons; it was also a time of robust, even cruel humour.
 
 This great work, with its imaginary buildings, landscapes of parks and gardens
-and dark firelit inferno, exposes humanity in a truly terrifying light. In the
+and dark fire-lit inferno, exposes humanity in a truly terrifying light. In the
 central panel a wild sexual orgy is depicted showing every imaginable aspect of
 lust, the cause of man’s downfall, and revealing his ignorance and corruption.
 Writhing human bodies are dwarfed by massive birds, fish and fruits: one figure

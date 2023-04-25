@@ -59,7 +59,7 @@ talent. He became the greatest Spanish painter between Velazquez and Picasso,
 and one of the greatest artists in Europe.
 
 _The Third of May_ is one of a pair of paintings which together depict two days
-in the shortlived uprising of the people of Madrid against the French troops in
+in the short-lived uprising of the people of Madrid against the French troops in
 the Napoleonic Wars. The paintings were commissioned a few years after the
 event, with the command to the artist to ‘perpetuate with his brush the most
 notable and heroic actions or events of our glorious insurrection against the

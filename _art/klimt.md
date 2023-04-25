@@ -29,7 +29,7 @@ gallery:
 
 Klimt lived and worked in a scandalous city at a scandalous time: Vienna in the
 late nineteenth century. It was a hothouse of creative activity, producing the
-de- liciously amorous operas of Richard Strauss, the salacious witty plays of
+deliciously amorous operas of Richard Strauss, the salacious witty plays of
 Arthur Schnitzler, and a new wave in art and architecture called ‘Jugendstil’
 (Young Style) a variant of Art Nouveau.  All this came together with a new
 sexual freedom and an emphasis on the female form to produce the highly erotic

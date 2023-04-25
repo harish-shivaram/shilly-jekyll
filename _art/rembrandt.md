@@ -62,6 +62,7 @@ pictures, scenes of contemporary life and domestic scenes.  He exploited to the
 full the effects of chiaroscuro , and has been called the most dramatic painter
 in history.
 
+![Self-Portrait with Two Circles](/images/art/rembrandt_1.jpg){:.image .right}
 Rembrandt produced a long series of self-portraits, which reveal every stage of
 his life and career in an ever-deepening analysis. One of his first recorded
 paintings contains a portrait of himself, and something like a hundred
@@ -74,7 +75,6 @@ later in his life he reveals increasingly his disillusionment, suffering,
 doubts and need for reassurance. Taken together, the self-portraits are the
 finest, broadest and most moving visual autobiography ever created.
 
-![Self-Portrait with Two Circles](/images/art/rembrandt_1.jpg){:.image .right}
 This one was painted near the end of his life, and is probably the most famous.
 He is in working clothes, with a white cloth round his head, and a thick warm
 coat to keep the cold at bay in the studio.  The sombre colours show the
@@ -85,10 +85,28 @@ He holds his palette, a handful of brushes and a maulstick, a rigid slender rod
 used by painters to keep hand and brush steady when carrying out detailed work.
 The slant of the shoulders and spreading arms creates a wide pyramid shape,
 which gives the figure a solid, rock-like quality. The face is heavily
-furrowed, the skin pouchy, and the bulbous nose is shown with no attempt at
+furrowed, the skin patchy, and the bulbous nose is shown with no attempt at
 disguising its prominence. The expression in the mouth and eyes shows a
 lifetime’s experience. It is a remarkably self-penetrating study which reveals
 his sensitivity and imagination as a man and as an artist.  Through capturing
 an outward appearance accurately and completely, Rembrandt exposes the inner
 landscape of the human character, and it is this understanding of humanity and
 his skill in portraying it that sets his art so high.
+
+![The Night Watch](/images/art/rembrandt_4.jpg){:.image .left}
+Arguably the most well known among his works, _The Night Watch_ is one of the
+most famous Dutch Golden Age paintings.
+
+The painting is famous for three things:
+- its colossal size (363 by 437 centimetres (12 by 14+1⁄2 feet)),
+- the dramatic use of light and shadow (tenebrism), and
+- the perception of motion in what would have traditionally been a static military group portrait.
+
+The painting was completed in 1642, at the peak of the Dutch Golden Age. It
+depicts the eponymous company moving out, led by their Captain (dressed in
+black, with a red sash) and his lieutenant (dressed in yellow, with a white
+sash). With effective use of sunlight and shade, Rembrandt leads the eye to the
+three most important characters among the crowd: the two men in the centre
+(from whom the painting gets its original title), and the woman in the
+centre-left background carrying a chicken. Behind them, the company's colours
+are carried by the ensign. The figures are almost life-size. 
