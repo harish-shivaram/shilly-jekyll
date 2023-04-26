@@ -62,7 +62,7 @@ pictures, scenes of contemporary life and domestic scenes.  He exploited to the
 full the effects of chiaroscuro , and has been called the most dramatic painter
 in history.
 
-![Self-Portrait with Two Circles](/images/art/rembrandt_1.jpg){:.image .right}
+[![Self-Portrait with Two Circles](/images/art/rembrandt_1.jpg){:.image .right}](/images/art/rembrandt_1.jpg){:.popup}
 Rembrandt produced a long series of self-portraits, which reveal every stage of
 his life and career in an ever-deepening analysis. One of his first recorded
 paintings contains a portrait of himself, and something like a hundred
@@ -93,7 +93,7 @@ an outward appearance accurately and completely, Rembrandt exposes the inner
 landscape of the human character, and it is this understanding of humanity and
 his skill in portraying it that sets his art so high.
 
-![The Night Watch](/images/art/rembrandt_4.jpg){:.image .left}
+[![The Night Watch](/images/art/rembrandt_4.jpg){:.image .left}](/images/art/rembrandt_4.jpg){:.popup}
 Arguably the most well known among his works, _The Night Watch_ is one of the
 most famous Dutch Golden Age paintings.
 

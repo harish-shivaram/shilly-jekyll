@@ -59,7 +59,7 @@ above all - the female form. He said, ‘What interests me most is neither still
 life nor landscape, but the human figure. It is through it that I best succeed
 in expressing the almost religious feeling I have towards life.’
 
-![La Danse](/images/art/matisse_1.jpg){:.image .right}
+[![La Danse](/images/art/matisse_1.jpg){:.image .right}](/images/art/matisse_1.jpg){:.popup}
 _Dance_ and _Music_ were two decorative panels produced for the Russian collector
 Sergei Shchukin, which explains why they are now, after confiscation from
 private ownership, in the Russian state collections. But Matisse had initially

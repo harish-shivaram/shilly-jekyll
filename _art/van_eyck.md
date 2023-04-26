@@ -44,7 +44,7 @@ although this has been disproved, it is certain that he perfected a medium of
 pigment, oil and varnish which has allowed his rich colour to survive almost
 unchanged.
 
-![The Arnolfi Marriage](/images/art/vaneyck_1.jpg){:.image .right}
+[![The Arnolfi Marriage](/images/art/vaneyck_1.jpg){:.image .right}](/images/art/vaneyck_1.jpg){:.popup}
 The Arnolfini Marriage was probably the first double full-length contemporary
 portrait in the North. It was painted for a merchant of Bruges, and it is
 generally thought that the picture celebrates the marriage of Giovanni

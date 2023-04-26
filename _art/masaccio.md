@@ -44,7 +44,7 @@ naked but for a garland of leaves.  Eve’s hands, one covering her groin, the
 other her breasts, are in the traditional pose of female nudes derived from
 classical statues of Venus.
 
-![The Expulsion of Adam and Eve](/images/art/masaccio_1.jpg){:.image .right}
+[![The Expulsion of Adam and Eve](/images/art/masaccio_1.jpg){:.image .right}](/images/art/masaccio_1.jpg){:.popup}
 Her mouth is open in a scream of anguish; perhaps she already anticipates the
 pain she must soon suffer in childbirth, now that the gift of immortality has
 been taken away from them. Adam holds his hands to his eyes, his shoulders

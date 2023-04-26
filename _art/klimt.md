@@ -46,7 +46,7 @@ which decorate the churches. This is evident in the rich ornament and
 intricately worked small areas in his pictures which are linked to form
 complex, tightly-knit patterns.
 
-![The Kiss](/images/art/klimt_5.jpg){:.image .right}
+[![The Kiss](/images/art/klimt_5.jpg){:.image .right}](/images/art/klimt_5.jpg){:.popup}
 Klimt was naturally a silent man, but he expressed himself eloquently through
 his art. He never married, but he adored women and often painted them. The
 Kiss, his most famous painting, was shown in 1908 at a major exhibition in

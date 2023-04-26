@@ -41,6 +41,24 @@
 		<!-- App-->
 		<script type="text/javascript" src="/assets/js/main.js"></script>
 		<script type="module" src="/assets/js/pswp.js"></script>
-
+		<script type="text/javascript">
+			  $('.popup').magnificPopup({
+				  type: 'image',
+				  closeOnContentClick: true,
+				  closeBtnInside: false,
+				  fixedContentPos: true,
+				  mainClass: 'mfp-with-zoom',
+				  image: {
+					  verticalFit: true
+				  },
+				  zoom: {
+					  enabled: true,
+					  duration: 300,
+					  opener: function(element) {
+						  return element.find('img');
+					  }
+				  }
+			  });
+		</script>
 	</body>
 </html>

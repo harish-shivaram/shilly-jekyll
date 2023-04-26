@@ -66,7 +66,7 @@ notable and heroic actions or events of our glorious insurrection against the
 tyrant of Europe’; and Goya has produced two of the most electrifying and
 dramatic works in European art.
 
-![The Third of May 1808](/images/art/goya_1.jpg){:.image .right}
+[![The Third of May 1808](/images/art/goya_1.jpg){:.image .right}](/images/art/goya_1.jpg){:.popup}
 This painting depicts the second day, when Spanish civilians were executed by
 the invading army in the aftermath of the fighting. The group of Spaniards
 cowering in panic in front of a French firing squad are depicted with

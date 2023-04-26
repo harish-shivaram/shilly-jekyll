@@ -60,7 +60,7 @@ up so that he could reach the top. Light interested him more than anything, and
 he was concerned to reveal the fact that colour only exists in terms of light,
 and that it changes in all the normal variations of daylight and shadow.
 
-![Women in the Garden](/images/art/monet_1.jpg){:.image .right}
+[![Women in the Garden](/images/art/monet_1.jpg){:.image .right}](/images/art/monet_1.jpg){:.popup}
 The scene in the garden is a study of the effects of sunlight filtering through
 leaves, casting dark shadows and dappling the figures of the four women (who
 were all modelled by Monet’s mistress Camille).  Roses are in bloom, the trees

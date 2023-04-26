@@ -10,6 +10,16 @@ gallery:
     title: The Raft of the Medusa
     width: 1465
     height: 1000
+  - image: /images/art/gericault_2.jpg
+    small: /images/art/gericault_2_small.jpg
+    title: Officer of the Hussars
+    width: 1122
+    height: 1463
+  - image: /images/art/gericault_3.jpg
+    small: /images/art/gericault_3_small.jpg
+    title: The Insane Woman
+    width: 1202
+    height: 1465
 ---
 
 Géricault was born in Rouen, the son of wealthy parents, and unlike the
@@ -31,7 +41,7 @@ lack of lifeboats, and the number of people drowned as a result. A hundred and
 fifty passengers and crew were crammed on to a makeshift raft, but two weeks
 later only fifteen of them were alive to tell the tale.
 
-![The Raft of the Medusa](/images/art/gericault_1.jpg){:.image .right}
+[![The Raft of the Medusa](/images/art/gericault_1.jpg){:.image .right}](/images/art/gericault_1.jpg){:.popup}
 Géricault worked for over a year on the huge painting, some sixteen feet high
 and over eighteen feet wide, in a special studio hired for the purpose. He
 launched a raft into the sea to see how it would work; he interviewed

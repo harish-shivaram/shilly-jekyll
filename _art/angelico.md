@@ -51,7 +51,7 @@ the Holy Trinity.’ Along the edge of the floor is a reminder to the friars of
 the convent : ‘When you come before the image of the spotless Virgin, beware
 lest through carelessness the Ave be left unsaid.’
 
-![The Annunciation](/images/art/angelico_1.jpg){:.image .right}
+[![The Annunciation](/images/art/angelico_1.jpg){:.image .right}](/images/art/angelico_1.jpg){:.popup}
 The soft pale colours and comparatively simple structure give the painting a
 sparkling serenity, and a directness that is charming, if a little naive. If
 Mary and the Angel were to stand up, their heads would no doubt touch the

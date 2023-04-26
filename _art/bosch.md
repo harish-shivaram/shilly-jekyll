@@ -43,7 +43,7 @@ colour and mesmerizing detail. On the left is the Garden of Eden, in the centre
 the Garden of Earthly Delights, which is thought to depict the world before the
 Flood, and on the right a terrifying vision of Hell.
 
-![The Garden of Earthly Delights](/images/art/bosch_3.jpg){:.image .right}
+[![The Garden of Earthly Delights](/images/art/bosch_3.jpg){:.image .right}](/images/art/bosch_3.jpg){:.popup}
 The meaning of the work as a whole is uncertain, but the sense of a powerful
 allegory is beyond doubt. Over half of Bosch’s surviving paintings have
 religious subjects, and his work can only be interpreted in a religious

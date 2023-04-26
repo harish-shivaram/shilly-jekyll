@@ -20,6 +20,11 @@ gallery:
     title: The Adoration of the Magi
     width: 1661
     height: 1353
+  - image: /images/art/botticelli_4.jpg
+    small: /images/art/botticelli_4_small.jpg
+    title: The Mystical Nativity
+    width: 1112
+    height: 1610
 ---
 
 
@@ -36,7 +41,7 @@ day. In _The Birth of Venus_ he makes little attempt to persuade us of the
 reality of the scene, but we are completely convinced that we are witness to a
 splendid moment in the world of ancient myth.
 
-![The Birth of Venus](/images/art/botticelli_1.jpg){:.image .right}
+[![The Birth of Venus](/images/art/botticelli_1.jpg){:.image .right}](/images/art/botticelli_1.jpg){:.popup}
 Legend tells us that Venus, the Roman goddess of love and fertility, was born
 from sea-foam, and here she is seen slowly floating on her shell-boat in to the
 shore.  The navigation of her journey is undertaken by two intertwined figures,

@@ -48,7 +48,7 @@ arts. Raphael produced a large number of devotional pictures and altarpieces
 for him and for his successor Pope Leo x, and he also painted portraits and
 designed interiors for many other wealthy Romans.
 
-![The Alba Madonna](/images/art/raphael_3.jpg){:.image .right}
+[![The Alba Madonna](/images/art/raphael_3.jpg){:.image .right}](/images/art/raphael_3.jpg){:.popup}
 _The Alba Madonna_ is so called because for over one hundred years it was in
 the collection of the Spanish Dukes of Alba.  The painting is a tondo , a
 circular format that was popular at the time, of the Madonna with the Christ
