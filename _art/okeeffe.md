@@ -52,6 +52,7 @@ symbolic representations of vaginas, but the idea has stuck. Nevertheless,
 there so much more to the artist’s work, which could be described as a blend of
 symbolism, precisionism and abstraction.
 
+[![Cow's Skull: Red, White, and Blue](/images/art/okeeffe_1.jpg){:.image .right}](/images/art/okeeffe_1.jpg){:.popup}
 _Cow's Skull: Red, White, and Blue_ depicts a cow skull centered in front of
 what appears to be a cloth background. In the center of the background is a
 vertical black stripe. On either side of that are two vertical stripes of white
