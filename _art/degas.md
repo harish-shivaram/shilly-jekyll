@@ -6,32 +6,32 @@ born: 1834
 died: 1917
 gallery:
   - image: /images/art/degas_1.jpg
-    small: /images/art/degas_1_small.jpg
+    small: /images/art/small/degas_1.jpg
     title: The Bellelli Family
     width: 1247
     height: 998 
   - image: /images/art/degas_2.jpg
-    small: /images/art/degas_2_small.jpg
+    small: /images/art/small/degas_2.jpg
     title: The Ballet Class
     width: 924
     height: 1060
   - image: /images/art/degas_3.jpg
-    small: /images/art/degas_3_small.jpg
+    small: /images/art/small/degas_3.jpg
     title: The Absinthe
     width: 984
     height: 1350
   - image: /images/art/degas_4.jpg
-    small: /images/art/degas_4_small.jpg
+    small: /images/art/small/degas_4.jpg
     title: The Tub
     width: 1316
     height: 960
   - image: /images/art/degas_5.jpg
-    small: /images/art/degas_5_small.jpg
+    small: /images/art/small/degas_5.jpg
     title: The Dance Foyer at the Opera on the rue Le Peletier
     width: 1573
     height: 1068
   - image: /images/art/degas_6.jpg
-    small: /images/art/degas_6_small.jpg
+    small: /images/art/small/degas_6.jpg
     title: The Laundresses
     width: 600 
     height: 556 

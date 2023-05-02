@@ -5,37 +5,37 @@ died: 1851
 image: /images/art/turner_2.jpg
 gallery:
   - image: /images/art/turner_1.jpg
-    small: /images/art/turner_1_small.jpg
+    small: /images/art/small/turner_1.jpg
     title: The Fighting Temeraire
     width: 1705
     height: 1267
   - image: /images/art/turner_2.jpg
-    small: /images/art/turner_2_small.jpg
+    small: /images/art/small/turner_2.jpg
     title: Fishermen at Sea
     width: 1806
     height: 1342
   - image: /images/art/turner_3.jpg
-    small: /images/art/turner_3_small.jpg
+    small: /images/art/small/turner_3.jpg
     title: Fire at Sea
     width: 1536
     height: 1194
   - image: /images/art/turner_4.jpg
-    small: /images/art/turner_4_small.jpg
+    small: /images/art/small/turner_4.jpg
     title: The Slave Ship
     width: 2152
     height: 1616
   - image: /images/art/turner_5.jpg
-    small: /images/art/turner_5_small.jpg
+    small: /images/art/small/turner_5.jpg
     title: "Snow Storm: Hannibal and his Army Crossing the Alps"
     width: 1536
     height: 942
   - image: /images/art/turner_6.jpg
-    small: /images/art/turner_6_small.jpg
+    small: /images/art/small/turner_6.jpg
     title: The Burning of the Houses of Lords and Commons
     width: 1594
     height: 1186
   - image: /images/art/turner_7.jpg
-    small: /images/art/turner_7_small.jpg
+    small: /images/art/small/turner_7.jpg
     title: Rain, Steam and Speed – The Great Western Railway
     width: 1594
     height: 1186

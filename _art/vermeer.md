@@ -6,22 +6,22 @@ born: 1632
 died: 1675
 gallery:
   - image: /images/art/vermeer_1.jpg
-    small: /images/art/vermeer_1_small.jpg
+    small: /images/art/small/vermeer_1.jpg
     title: The Girl with the Pearl Earring
     width: 1638
     height: 1918
   - image: /images/art/vermeer_2.jpg
-    small: /images/art/vermeer_2_small.jpg
+    small: /images/art/small/vermeer_2.jpg
     title: The Milkmaid
     width: 1600
     height: 1794
   - image: /images/art/vermeer_3.jpg
-    small: /images/art/vermeer_3_small.jpg
+    small: /images/art/small/vermeer_3.jpg
     title: The Astronomer
     width: 1320
     height: 1500
   - image: /images/art/vermeer_4.jpg
-    small: /images/art/vermeer_4_small.jpg
+    small: /images/art/small/vermeer_4.jpg
     title: View of Delft
     width: 1800
     height: 1495

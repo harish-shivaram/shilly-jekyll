@@ -6,27 +6,27 @@ born: 1839
 died: 1906
 gallery:
   - image: /images/art/cezanne_1.jpg
-    small: /images/art/cezanne_1_small.jpg
+    small: /images/art/small/cezanne_1.jpg
     title: La Montague Sainte-Victoire
     width: 1571
     height: 1037
   - image: /images/art/cezanne_2.jpg
-    small: /images/art/cezanne_2_small.jpg
+    small: /images/art/small/cezanne_2.jpg
     title: Rideau, Cruchon et Compotier 
     width: 1270
     height: 1042
   - image: /images/art/cezanne_3.jpg
-    small: /images/art/cezanne_3_small.jpg
+    small: /images/art/small/cezanne_3.jpg
     title: Card Players
     width: 1210
     height: 992
   - image: /images/art/cezanne_4.jpg
-    small: /images/art/cezanne_4_small.jpg
+    small: /images/art/small/cezanne_4.jpg
     title: The Bathers
     width: 1149
     height: 961 
   - image: /images/art/cezanne_5.jpg
-    small: /images/art/cezanne_5_small.jpg
+    small: /images/art/small/cezanne_5.jpg
     title: Apothéose de Delacroix
     width: 1498
     height: 1153

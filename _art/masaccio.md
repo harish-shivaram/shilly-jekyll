@@ -6,22 +6,22 @@ born: 1401
 died: 1428
 gallery:
   - image: /images/art/masaccio_1.jpg
-    small: /images/art/masaccio_1_small.jpg
+    small: /images/art/small/masaccio_1.jpg
     title: The Expulsion of Adam and Eve
     width: 913
     height: 1173
   - image: /images/art/masaccio_2.jpg
-    small: /images/art/masaccio_2_small.jpg
+    small: /images/art/small/masaccio_2.jpg
     title: Tribute Money
     width: 2200
     height: 1015
   - image: /images/art/masaccio_3.jpg
-    small: /images/art/masaccio_3_small.jpg
+    small: /images/art/small/masaccio_3.jpg
     title: Pisa Altarpiece
     width: 1054
     height: 1415
   - image: /images/art/masaccio_4.jpg
-    small: /images/art/masaccio_4_small.jpg
+    small: /images/art/small/masaccio_4.jpg
     title: Holy Trinity
     width: 1028
     height: 2073

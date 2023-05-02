@@ -6,37 +6,37 @@ born: 1746
 died: 1828
 gallery:
  - image: /images/art/goya_1.jpg
-   small: /images/art/goya_1_small.jpg
+   small: /images/art/small/goya_1.jpg
    title: The Third of May 1808
    width: 2929
    height: 2263
  - image: /images/art/goya_2.jpg
-   small: /images/art/goya_2_small.jpg
+   small: /images/art/small/goya_2.jpg
    title: The Nude Maja
    width: 2362
    height: 1198
  - image: /images/art/goya_3.jpg
-   small: /images/art/goya_3_small.jpg
+   small: /images/art/small/goya_3.jpg
    title: The Clothed Maja
    width: 2362
    height: 1188
  - image: /images/art/goya_4.jpg
-   small: /images/art/goya_4_small.jpg
+   small: /images/art/small/goya_4.jpg
    title: Charles IV of Spain and His Family
    width: 1435
    height: 1170
  - image: /images/art/goya_5.jpg
-   small: /images/art/goya_5_small.jpg
+   small: /images/art/small/goya_5.jpg
    title: Witches' Sabbath (The Great He-Goat)
    width: 3051
    height: 966
  - image: /images/art/goya_6.jpg
-   small: /images/art/goya_6_small.jpg
+   small: /images/art/small/goya_6.jpg
    title: Saturn Devouring His Son
    width: 831
    height: 1526
  - image: /images/art/goya_7.jpg
-   small: /images/art/goya_7_small.jpg
+   small: /images/art/small/goya_7.jpg
    title: Boys with Mastiffs
    width: 1536
    height: 1174

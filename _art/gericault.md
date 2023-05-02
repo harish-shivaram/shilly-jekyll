@@ -6,17 +6,17 @@ born: 1791
 died: 1824
 gallery:
   - image: /images/art/gericault_1.jpg
-    small: /images/art/gericault_1_small.jpg
+    small: /images/art/small/gericault_1.jpg
     title: The Raft of the Medusa
     width: 1465
     height: 1000
   - image: /images/art/gericault_2.jpg
-    small: /images/art/gericault_2_small.jpg
+    small: /images/art/small/gericault_2.jpg
     title: Officer of the Hussars
     width: 1122
     height: 1463
   - image: /images/art/gericault_3.jpg
-    small: /images/art/gericault_3_small.jpg
+    small: /images/art/small/gericault_3.jpg
     title: The Insane Woman
     width: 1202
     height: 1465

@@ -6,22 +6,22 @@ born: 1577
 died: 1640
 gallery:
   - image: /images/art/rubens_1.jpg
-    small: /images/art/rubens_1_small.jpg
+    small: /images/art/small/rubens_1.jpg
     title: The Descent from the Cross
     width: 1044
     height: 1402
   - image: /images/art/rubens_3.jpg
-    small: /images/art/rubens_3_small.jpg
+    small: /images/art/small/rubens_3.jpg
     title: The Arrival of Marie de Medici at Marseilles
     width: 1443
     height: 1900
   - image: /images/art/rubens_2.jpg
-    small: /images/art/rubens_2_small.jpg
+    small: /images/art/small/rubens_2.jpg
     title: Triptych
     width: 1871
     height: 1096
   - image: /images/art/rubens_4.jpg
-    small: /images/art/rubens_4_small.jpg
+    small: /images/art/small/rubens_4.jpg
     title: Old Woman and Boy with Candles
     width: 1094
     height: 1350

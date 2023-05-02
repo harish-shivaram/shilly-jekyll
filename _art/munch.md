@@ -5,17 +5,17 @@ born: 1863
 died: 1944
 gallery:
   - image: /images/art/munch_1.jpg
-    small: /images/art/munch_1_small.jpg
+    small: /images/art/small/munch_1.jpg
     title: The Scream
     width: 1612
     height: 2000
   - image: /images/art/munch_2.jpg
-    small: /images/art/munch_2_small.jpg
+    small: /images/art/small/munch_2.jpg
     title: Madonna
     width: 1436
     height: 1894
   - image: /images/art/munch_3.jpg
-    small: /images/art/munch_3_small.jpg
+    small: /images/art/small/munch_3.jpg
     title: The Sick Child
     width: 1785
     height: 1800

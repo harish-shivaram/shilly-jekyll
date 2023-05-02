@@ -6,32 +6,32 @@ born: 1869
 died: 1954
 gallery:
  - image: /images/art/matisse_1.jpg
-   small: /images/art/matisse_1_small.jpg
+   small: /images/art/small/matisse_1.jpg
    title: La Danse
    width: 2000
    height: 1329
  - image: /images/art/matisse_2.jpg
-   small: /images/art/matisse_2_small.jpg
+   small: /images/art/small/matisse_2.jpg
    title: Woman in a Hat
    width: 1214
    height: 1653
  - image: /images/art/matisse_3.jpg
-   small: /images/art/matisse_3_small.jpg
+   small: /images/art/small/matisse_3.jpg
    title: Le bonheur de vivre (The Joy of Life)
    width: 1088
    height: 784
  - image: /images/art/matisse_4.jpg
-   small: /images/art/matisse_4_small.jpg
+   small: /images/art/small/matisse_4.jpg
    title: Nu Bleu (Blue Nude)
    width: 2000
    height: 1315
  - image: /images/art/matisse_5.jpg
-   small: /images/art/matisse_5_small.jpg
+   small: /images/art/small/matisse_5.jpg
    title: L'Atelier Rouge (The Red Studio)
    width: 1447
    height: 1185
  - image: /images/art/matisse_6.jpg
-   small: /images/art/matisse_6_small.jpg
+   small: /images/art/small/matisse_6.jpg
    title: L'Escargot (The Snail)
    width: 1188
    height: 1200

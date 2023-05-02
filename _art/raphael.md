@@ -6,27 +6,27 @@ born: 1483
 died: 1520
 gallery:
   - image: /images/art/raphael_1.jpg
-    small: /images/art/raphael_1_small.jpg
+    small: /images/art/small/raphael_1.jpg
     title: The School of Athens
     width: 1910
     height: 1482
   - image: /images/art/raphael_2.jpg
-    small: /images/art/raphael_2_small.jpg
+    small: /images/art/small/raphael_2.jpg
     title: Sistine Madonna
     width: 1000
     height: 1371
   - image: /images/art/raphael_3.jpg
-    small: /images/art/raphael_3_small.jpg
+    small: /images/art/small/raphael_3.jpg
     title: Alba Madonna
     width: 962
     height: 1000
   - image: /images/art/raphael_4.jpg
-    small: /images/art/raphael_4_small.jpg
+    small: /images/art/small/raphael_4.jpg
     title: Transfiguration
     width: 1067
     height: 1608
   - image: /images/art/raphael_5.jpg
-    small: /images/art/raphael_5_small.jpg
+    small: /images/art/small/raphael_5.jpg
     title: The Wedding of the Virgin
     width: 1134
     height: 1626

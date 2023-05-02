@@ -5,62 +5,62 @@ died: 1610
 image: /images/art/caravaggio_2.jpg
 gallery:
   - image: /images/art/caravaggio_1.jpg
-    small: /images/art/caravaggio_1_small.jpg
+    small: /images/art/small/caravaggio_1.jpg
     width: 1116
     height: 1226
     title: Boy with a Basket of Fruit
   - image: /images/art/caravaggio_2.jpg
-    small: /images/art/caravaggio_2_small.jpg
+    small: /images/art/small/caravaggio_2.jpg
     width: 1326
     height: 1565
     title: Bacchus
   - image: /images/art/caravaggio_3.jpg
-    small: /images/art/caravaggio_3_small.jpg
+    small: /images/art/small/caravaggio_3.jpg
     width: 1784
     height: 1268
     title: The Supper at Emmaus
   - image: /images/art/caravaggio_4.jpg
-    small: /images/art/caravaggio_4_small.jpg
+    small: /images/art/small/caravaggio_4.jpg
     width: 1519
     height: 1202
     title: Basket of Fruit
   - image: /images/art/caravaggio_5.jpg
-    small: /images/art/caravaggio_5_small.jpg
+    small: /images/art/small/caravaggio_5.jpg
     width: 1918
     height: 1459
     title: The Musicians
   - image: /images/art/caravaggio_6.jpg
-    small: /images/art/caravaggio_6_small.jpg
+    small: /images/art/small/caravaggio_6.jpg
     width: 1958
     height: 1410
     title: St. Francis of Assisi in Ecstasy
   - image: /images/art/caravaggio_7.jpg
-    small: /images/art/caravaggio_7_small.jpg
+    small: /images/art/small/caravaggio_7.jpg
     width: 1916
     height: 1496
     title: The Lute Player
   - image: /images/art/caravaggio_8.jpg
-    small: /images/art/caravaggio_8_small.jpg
+    small: /images/art/small/caravaggio_8.jpg
     width: 1685
     height: 1727
     title: Medusa
   - image: /images/art/caravaggio_9.jpg
-    small: /images/art/caravaggio_9_small.jpg
+    small: /images/art/small/caravaggio_9.jpg
     width: 1481
     height: 1832
     title: David with the Head of Goliath
   - image: /images/art/caravaggio_a.jpg
-    small: /images/art/caravaggio_a_small.jpg
+    small: /images/art/small/caravaggio_a.jpg
     width: 1638
     height: 1566
     title: The Calling of Saint Matthew
   - image: /images/art/caravaggio_b.jpg
-    small: /images/art/caravaggio_b_small.jpg
+    small: /images/art/small/caravaggio_b.jpg
     width: 1216
     height: 902
     title: Judith Beheading Holofernes 
   - image: /images/art/caravaggio_c.jpg
-    small: /images/art/caravaggio_c_small.jpg
+    small: /images/art/small/caravaggio_c.jpg
     width: 1488
     height: 1801
     title: Narcissus at the Source

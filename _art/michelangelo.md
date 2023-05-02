@@ -6,57 +6,57 @@ born: 1475
 died: 1564
 gallery:
   - image: /images/art/michelangelo_1.jpg
-    small: /images/art/michelangelo_1_small.jpg
+    small: /images/art/small/michelangelo_1.jpg
     title: The ceiling of the Sistine Chapel
     width: 3129
     height: 1125
   - image: /images/art/michelangelo_2.jpg
-    small: /images/art/michelangelo_2_small.jpg
+    small: /images/art/small/michelangelo_2.jpg
     title: Separation of Light from Darkness
     width: 1555
     height: 1037
   - image: /images/art/michelangelo_3.jpg
-    small: /images/art/michelangelo_3_small.jpg
+    small: /images/art/small/michelangelo_3.jpg
     title: Creation of the Sun, Moon, and Plants
     width: 1210
     height: 886
   - image: /images/art/michelangelo_4.jpg
-    small: /images/art/michelangelo_4_small.jpg
+    small: /images/art/small/michelangelo_4.jpg
     title: Separation of Land and Water
     width: 1085
     height: 820
   - image: /images/art/michelangelo_5.jpg
-    small: /images/art/michelangelo_5_small.jpg
+    small: /images/art/small/michelangelo_5.jpg
     title: Creation of Adam
     width: 1702
     height: 1137
   - image: /images/art/michelangelo_6.jpg
-    small: /images/art/michelangelo_6_small.jpg
+    small: /images/art/small/michelangelo_6.jpg
     title: Creation of Eve
     width: 1101
     height: 810
   - image: /images/art/michelangelo_7.jpg
-    small: /images/art/michelangelo_7_small.jpg
+    small: /images/art/small/michelangelo_7.jpg
     title: The Fall and Expulsion from Paradise
     width: 1726
     height: 1154
   - image: /images/art/michelangelo_8.jpg
-    small: /images/art/michelangelo_8_small.jpg
+    small: /images/art/small/michelangelo_8.jpg
     title: Sacrifice of Noah
     width: 1149
     height: 770
   - image: /images/art/michelangelo_9.jpg
-    small: /images/art/michelangelo_9_small.jpg
+    small: /images/art/small/michelangelo_9.jpg
     title: The Flood
     width: 1457
     height: 958
   - image: /images/art/michelangelo_a.jpg
-    small: /images/art/michelangelo_a_small.jpg
+    small: /images/art/small/michelangelo_a.jpg
     title: Drunkenness of Noah
     width: 1148
     height: 800
   - image: /images/art/michelangelo_b.jpg
-    small: /images/art/michelangelo_b_small.jpg
+    small: /images/art/small/michelangelo_b.jpg
     title: Last Judgement
     width: 1197
     height: 1319

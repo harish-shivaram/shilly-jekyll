@@ -6,37 +6,37 @@ born: 1840
 died: 1926
 gallery:
   - image: /images/art/monet_1.jpg
-    small: /images/art/monet_1_small.jpg
+    small: /images/art/small/monet_1.jpg
     title: Women in the Garden
     width: 1012
     height: 1245
   - image: /images/art/monet_2.jpg
-    small: /images/art/monet_2_small.jpg
+    small: /images/art/small/monet_2.jpg
     title: Impression, Sunrise
     width: 1443
     height: 1120
   - image: /images/art/monet_3.jpg
-    small: /images/art/monet_3_small.jpg
+    small: /images/art/small/monet_3.jpg
     title: Rouen Cathedral
     width: 559 
     height: 874 
   - image: /images/art/monet_4.jpg
-    small: /images/art/monet_4_small.jpg
+    small: /images/art/small/monet_4.jpg
     title: Houses of Parliament, London
     width: 1500
     height: 1312
   - image: /images/art/monet_5.jpg
-    small: /images/art/monet_5_small.jpg
+    small: /images/art/small/monet_5.jpg
     title: Water Lilies
     width: 1235
     height: 619 
   - image: /images/art/monet_6.jpg
-    small: /images/art/monet_6_small.jpg
+    small: /images/art/small/monet_6.jpg
     title: Haystacks
     width: 1800
     height: 1067
   - image: /images/art/monet_7.jpg
-    small: /images/art/monet_7_small.jpg
+    small: /images/art/small/monet_7.jpg
     title: Poplars on the Epte
     width: 1576
     height: 1553

@@ -6,32 +6,32 @@ born: 1541
 died: 1614
 gallery:
   - image: /images/art/elgreco_1.jpg
-    small: /images/art/elgreco_1_small.jpg
+    small: /images/art/small/elgreco_1.jpg
     title: Christ Driving the Money Changers from the Temple
     width: 1600
     height: 1244
   - image: /images/art/elgreco_2.jpg
-    small: /images/art/elgreco_2_small.jpg
+    small: /images/art/small/elgreco_2.jpg
     title: The Disrobing of Christ
     width: 745
     height: 1280
   - image: /images/art/elgreco_3.jpg
-    small: /images/art/elgreco_3_small.jpg
+    small: /images/art/small/elgreco_3.jpg
     title: The Burial of the Count of Orgaz
     width: 1316
     height: 1612
   - image: /images/art/elgreco_4.jpg
-    small: /images/art/elgreco_4_small.jpg
+    small: /images/art/small/elgreco_4.jpg
     title: View of Toledo
     width: 1203
     height: 1357
   - image: /images/art/elgreco_5.jpg
-    small: /images/art/elgreco_5_small.jpg
+    small: /images/art/small/elgreco_5.jpg
     title: Opening of the Fifth Seal
     width: 1384
     height: 1570
   - image: /images/art/elgreco_6.jpg
-    small: /images/art/elgreco_6_small.jpg
+    small: /images/art/small/elgreco_6.jpg
     title: The Assumption of the Virgin
     width: 1105
     height: 2158

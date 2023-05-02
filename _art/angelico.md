@@ -5,27 +5,27 @@ born: 1400
 died: 1455
 gallery:
   - image: /images/art/angelico_1.jpg
-    small: /images/art/angelico_1_small.jpg
+    small: /images/art/small/angelico_1.jpg
     title: The Annunciation
     width: 1008
     height: 700
   - image: /images/art/angelico_2.jpg
-    small: /images/art/angelico_2_small.jpg
+    small: /images/art/small/angelico_2.jpg
     title: Fiesole Altarpiece
     width: 1700
     height: 1274
   - image: /images/art/angelico_3.jpg
-    small: /images/art/angelico_3_small.jpg
+    small: /images/art/small/angelico_3.jpg
     title: San Marco Altarpiece
     width: 2024
     height: 1962
   - image: /images/art/angelico_4.jpg
-    small: /images/art/angelico_4_small.jpg
+    small: /images/art/small/angelico_4.jpg
     title: Deposition of Christ
     width: 1098
     height: 1037
   - image: /images/art/angelico_5.jpg
-    small: /images/art/angelico_5_small.jpg
+    small: /images/art/small/angelico_5.jpg
     title: Niccoline Chapel
     width: 897
     height: 1200

@@ -6,22 +6,22 @@ born: 1450
 died: 1516
 gallery:
   - image: /images/art/bosch_1.jpg
-    small: /images/art/bosch_1_small.jpg
+    small: /images/art/small/bosch_1.jpg
     title: The Garden of Earthly Delights (Exterior Panel)
     width: 876
     height: 950
   - image: /images/art/bosch_2.jpg
-    small: /images/art/bosch_2_small.jpg
+    small: /images/art/small/bosch_2.jpg
     title: The Garden of Earthly Delights (Left Panel; The Garden of Eden)
     width: 1769
     height: 4319
   - image: /images/art/bosch_3.jpg
-    small: /images/art/bosch_3_small.jpg
+    small: /images/art/small/bosch_3.jpg
     title: The Garden of Earthly Delights (Centre Panel)
     width: 4016
     height: 4315
   - image: /images/art/bosch_4.jpg
-    small: /images/art/bosch_4_small.jpg
+    small: /images/art/small/bosch_4.jpg
     title: The Garden of Earthly Delights (Right Panel; Hell)
     width: 1778
     height: 4324

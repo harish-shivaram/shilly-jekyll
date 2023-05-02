@@ -5,32 +5,32 @@ died: 1954
 image: /images/art/kahlo_1.jpg
 gallery:
   - image: /images/art/kahlo_1.jpg
-    small: /images/art/kahlo_1_small.jpg
+    small: /images/art/small/kahlo_1.jpg
     width: 1200
     height: 1000
     title: The Two Fridas
   - image: /images/art/kahlo_2.jpg
-    small: /images/art/kahlo_2_small.jpg
+    small: /images/art/small/kahlo_2.jpg
     width: 600
     height: 720
     title: The Broken Column
   - image: /images/art/kahlo_3.jpg
-    small: /images/art/kahlo_3_small.jpg
+    small: /images/art/small/kahlo_3.jpg
     width: 940
     height: 726
     title: Henry Ford Hospital
   - image: /images/art/kahlo_4.jpg
-    small: /images/art/kahlo_4_small.jpg
+    small: /images/art/small/kahlo_4.jpg
     width: 778
     height: 1143
     title: Memory My Heart
   - image: /images/art/kahlo_5.jpg
-    small: /images/art/kahlo_5_small.jpg
+    small: /images/art/small/kahlo_5.jpg
     width: 800
     height: 1023
     title: What The Water Gave Me
   - image: /images/art/kahlo_6.jpg
-    small: /images/art/kahlo_6_small.jpg
+    small: /images/art/small/kahlo_6.jpg
     width: 848
     height: 1106
     title: Self-Portrait with Thorn Necklace and Hummingbird

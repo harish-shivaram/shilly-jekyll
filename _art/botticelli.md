@@ -6,22 +6,22 @@ born: 1445
 died: 1510
 gallery:
   - image: /images/art/botticelli_1.jpg
-    small: /images/art/botticelli_1_small.jpg
+    small: /images/art/small/botticelli_1.jpg
     title: The Birth of Venus
     width: 3000
     height: 1884
   - image: /images/art/botticelli_2.jpg
-    small: /images/art/botticelli_2_small.jpg
+    small: /images/art/small/botticelli_2.jpg
     title: Primavera
     width: 1970
     height: 1294
   - image: /images/art/botticelli_3.jpg
-    small: /images/art/botticelli_3_small.jpg
+    small: /images/art/small/botticelli_3.jpg
     title: The Adoration of the Magi
     width: 1661
     height: 1353
   - image: /images/art/botticelli_4.jpg
-    small: /images/art/botticelli_4_small.jpg
+    small: /images/art/small/botticelli_4.jpg
     title: The Mystical Nativity
     width: 1112
     height: 1610

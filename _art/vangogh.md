@@ -5,47 +5,47 @@ died: 1890
 image: /images/art/vangogh_4.jpg
 gallery:
   - image: /images/art/vangogh_1.jpg
-    small: /images/art/vangogh_1_small.jpg
+    small: /images/art/small/vangogh_1.jpg
     width: 1290
     height: 1690
     title: Sunflowers
   - image: /images/art/vangogh_2.jpg
-    small: /images/art/vangogh_2_small.jpg
+    small: /images/art/small/vangogh_2.jpg
     width: 1500
     height: 1190
     title: Bedroom in Arles
   - image: /images/art/vangogh_3.jpg
-    small: /images/art/vangogh_3_small.jpg
+    small: /images/art/small/vangogh_3.jpg
     width: 2456
     height: 1168
     title: Wheatfield with Crows
   - image: /images/art/vangogh_4.jpg
-    small: /images/art/vangogh_4_small.jpg
+    small: /images/art/small/vangogh_4.jpg
     width: 2100
     height: 1663
     title: Starry Night
   - image: /images/art/vangogh_5.jpg
-    small: /images/art/vangogh_5_small.jpg
+    small: /images/art/small/vangogh_5.jpg
     width: 2126
     height: 1510
     title: The Potato Eaters
   - image: /images/art/vangogh_6.jpg
-    small: /images/art/vangogh_6_small.jpg
+    small: /images/art/small/vangogh_6.jpg
     width: 2075
     height: 1610
     title: The Yellow House
   - image: /images/art/vangogh_7.jpg
-    small: /images/art/vangogh_7_small.jpg
+    small: /images/art/small/vangogh_7.jpg
     width: 1732
     height: 1338
     title: Starry Night Over the Rhône
   - image: /images/art/vangogh_8.jpg
-    small: /images/art/vangogh_8_small.jpg
+    small: /images/art/small/vangogh_8.jpg
     width: 1241
     height: 1571
     title: "Still Life: Vase with Irises Against a Yellow Background"
   - image: /images/art/vangogh_9.jpg
-    small: /images/art/vangogh_9_small.jpg
+    small: /images/art/small/vangogh_9.jpg
     width: 2105
     height: 1034
     title: Wheatfield Under Thunderclouds

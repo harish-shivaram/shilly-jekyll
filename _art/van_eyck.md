@@ -6,27 +6,27 @@ born: 1390
 died: 1441
 gallery:
   - image: /images/art/vaneyck_1.jpg
-    small: /images/art/vaneyck_1_small.jpg
+    small: /images/art/small/vaneyck_1.jpg
     title: The Arnolfi Marriage
     width: 994
     height: 1360
   - image: /images/art/vaneyck_2.jpg
-    small: /images/art/vaneyck_2_small.jpg
+    small: /images/art/small/vaneyck_2.jpg
     title: Ghent Altarpiece
     width: 1566
     height: 1145
   - image: /images/art/vaneyck_3.jpg
-    small: /images/art/vaneyck_3_small.jpg
+    small: /images/art/small/vaneyck_3.jpg
     title: Madonna of Chancellor Rolin
     width: 1435
     height: 1507
   - image: /images/art/vaneyck_4.jpg
-    small: /images/art/vaneyck_4_small.jpg
+    small: /images/art/small/vaneyck_4.jpg
     title: Annunciation
     width: 646
     height: 1703
   - image: /images/art/vaneyck_5.jpg
-    small: /images/art/vaneyck_5_small.jpg
+    small: /images/art/small/vaneyck_5.jpg
     title: Madonna in the Church
     width: 1000
     height: 2078

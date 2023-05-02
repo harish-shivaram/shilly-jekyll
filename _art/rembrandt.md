@@ -6,37 +6,37 @@ born: 1606
 died: 1669
 gallery:
   - image: /images/art/rembrandt_1.jpg
-    small: /images/art/rembrandt_1_small.jpg
+    small: /images/art/small/rembrandt_1.jpg
     title: Self-Portrait with Two Circles
     width: 1142
     height: 1376
   - image: /images/art/rembrandt_2.jpg
-    small: /images/art/rembrandt_2_small.jpg
+    small: /images/art/small/rembrandt_2.jpg
     title: The Anatomy Lesson of Dr Nicolaes Tulp
     width: 1500
     height: 1130
   - image: /images/art/rembrandt_3.jpg
-    small: /images/art/rembrandt_3_small.jpg
+    small: /images/art/small/rembrandt_3.jpg
     title: Belshazzar's Feast
     width: 1327
     height: 1057
   - image: /images/art/rembrandt_4.jpg
-    small: /images/art/rembrandt_4_small.jpg
+    small: /images/art/small/rembrandt_4.jpg
     title: Night's Watch
     width: 2891
     height: 2422
   - image: /images/art/rembrandt_5.jpg
-    small: /images/art/rembrandt_5_small.jpg
+    small: /images/art/small/rembrandt_5.jpg
     title: Bathsheba at Her Bath
     width: 1496
     height: 1500
   - image: /images/art/rembrandt_6.jpg
-    small: /images/art/rembrandt_6_small.jpg
+    small: /images/art/small/rembrandt_6.jpg
     title: Syndics of the Drapers' Guild
     width: 1775
     height: 1200
   - image: /images/art/rembrandt_7.jpg
-    small: /images/art/rembrandt_7_small.jpg
+    small: /images/art/small/rembrandt_7.jpg
     title: The Hundred Guilder Print
     width: 1507
     height: 1094

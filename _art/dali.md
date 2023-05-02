@@ -6,47 +6,47 @@ born: 1904
 died: 1989
 gallery:
   - image: /images/art/dali_1.jpg
-    small: /images/art/dali_1_small.jpg
+    small: /images/art/small/dali_1.jpg
     title: The Persistence of Memory
     width: 1400
     height: 1058
   - image: /images/art/dali_2.jpg
-    small: /images/art/dali_2_small.jpg
+    small: /images/art/small/dali_2.jpg
     title: Soft Construction with Boiled Beans (Premonition of Civil War)
     width: 1140
     height: 1200
   - image: /images/art/dali_3.jpg
-    small: /images/art/dali_3_small.jpg
+    small: /images/art/small/dali_3.jpg
     title: Dream Caused by the Flight of a Bumblebee around a Pomegranate a Second Before Awakening
     width: 960
     height: 1204
   - image: /images/art/dali_4.jpg
-    small: /images/art/dali_4_small.jpg
+    small: /images/art/small/dali_4.jpg
     title: Christ of Saint John of the Cross
     width: 960
     height: 1704
   - image: /images/art/dali_5.jpg
-    small: /images/art/dali_5_small.jpg
+    small: /images/art/small/dali_5.jpg
     title: Galatea of the Spheres
     width: 1000
     height: 1318
   - image: /images/art/dali_6.jpg
-    small: /images/art/dali_6_small.jpg
+    small: /images/art/small/dali_6.jpg
     title: Crucifixion (Corpus Hypercubus)
     width: 1006
     height: 1376
   - image: /images/art/dali_7.jpg
-    small: /images/art/dali_7_small.jpg
+    small: /images/art/small/dali_7.jpg
     title: The Ecumenical Council
     width: 864
     height: 1024
   - image: /images/art/dali_8.jpg
-    small: /images/art/dali_8_small.jpg
+    small: /images/art/small/dali_8.jpg
     title: The Hallucinogenic Toreador
     width: 1170
     height: 1600
   - image: /images/art/dali_9.jpg
-    small: /images/art/dali_9_small.jpg
+    small: /images/art/small/dali_9.jpg
     title: Invisible Afghan with the Apparition on the Beach of the Face of Garcia Lorca in the Form of a Fruit Dish with Three Figs
     width: 1400
     height: 1050

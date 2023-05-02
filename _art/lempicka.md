@@ -5,27 +5,27 @@ died: 1980
 image: /images/art/lempicka_5.jpg
 gallery:
   - image: /images/art/lempicka_1.jpg
-    small: /images/art/lempicka_1_small.jpg
+    small: /images/art/small/lempicka_1.jpg
     title: Adam and Eve
     width: 460
     height: 797
   - image: /images/art/lempicka_2.jpg
-    small: /images/art/lempicka_2_small.jpg
+    small: /images/art/small/lempicka_2.jpg
     title: Self-portrait
     width: 420
     height: 558
   - image: /images/art/lempicka_3.jpg
-    small: /images/art/lempicka_3_small.jpg
+    small: /images/art/small/lempicka_3.jpg
     title: Woman with Dove
     width: 629
     height: 837
   - image: /images/art/lempicka_4.jpg
-    small: /images/art/lempicka_4_small.jpg
+    small: /images/art/small/lempicka_4.jpg
     title: la belle rafaela
     width: 700
     height: 525
   - image: /images/art/lempicka_5.jpg
-    small: /images/art/lempicka_5_small.jpg
+    small: /images/art/small/lempicka_5.jpg
     title: Les Jeune Fille Aux Gant
     width: 892
     height: 1200

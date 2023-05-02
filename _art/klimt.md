@@ -6,22 +6,22 @@ born: 1862
 died: 1918
 gallery:
   - image: /images/art/klimt_1.jpg
-    small: /images/art/klimt_1_small.jpg
+    small: /images/art/small/klimt_1.jpg
     title: Judith and the Head of Holofernes
     width: 688
     height: 1400
   - image: /images/art/klimt_2.jpg
-    small: /images/art/klimt_2_small.jpg
+    small: /images/art/small/klimt_2.jpg
     title: Portrait of Adele Bloch-Bauer I
     width: 1399
     height: 1400
   - image: /images/art/klimt_4.jpg
-    small: /images/art/klimt_4_small.jpg
+    small: /images/art/small/klimt_4.jpg
     title: Danaë
     width: 1446
     height: 1400
   - image: /images/art/klimt_5.jpg
-    small: /images/art/klimt_5_small.jpg
+    small: /images/art/small/klimt_5.jpg
     title: The Kiss
     width: 1395
     height: 1400

@@ -5,37 +5,37 @@ died: 1956
 image: /images/art/pollock_7.jpg
 gallery:
   - image: /images/art/pollock_1.jpg
-    small: /images/art/pollock_1_small.jpg
+    small: /images/art/small/pollock_1.jpg
     title: Blue Poles (Number 11, 1952)
     width: 1920
     height: 861
   - image: /images/art/pollock_2.jpg
-    small: /images/art/pollock_2_small.jpg
+    small: /images/art/small/pollock_2.jpg
     title: Number 17A
     width: 1248
     height: 896
   - image: /images/art/pollock_3.jpg
-    small: /images/art/pollock_3_small.jpg
+    small: /images/art/small/pollock_3.jpg
     title: No. 5, 1948
     width: 1100
     height: 647
   - image: /images/art/pollock_4.jpg
-    small: /images/art/pollock_4_small.jpg
+    small: /images/art/small/pollock_4.jpg
     title: Mural on Indian Red Ground
     width: 650
     height: 366
   - image: /images/art/pollock_5.jpg
-    small: /images/art/pollock_5_small.jpg
+    small: /images/art/small/pollock_5.jpg
     title: Autumn Rhythm
     width: 1200
     height: 872
   - image: /images/art/pollock_6.jpg
-    small: /images/art/pollock_6_small.jpg
+    small: /images/art/small/pollock_6.jpg
     title: Convergence
     width: 1100
     height: 660
   - image: /images/art/pollock_7.jpg
-    small: /images/art/pollock_7_small.jpg
+    small: /images/art/small/pollock_7.jpg
     title: The Deep
     width: 609
     height: 910

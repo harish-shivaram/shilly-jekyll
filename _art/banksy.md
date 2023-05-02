@@ -5,27 +5,27 @@ died: "?"
 image: /images/art/banksy_1.jpg
 gallery:
   - image: /images/art/banksy_1.jpg
-    small: /images/art/banksy_1_small.jpg
+    small: /images/art/small/banksy_1.jpg
     width: 1150
     height: 1642
     title: Girl With Balloon
   - image: /images/art/banksy_2.jpg
-    small: /images/art/banksy_2_small.jpg
+    small: /images/art/small/banksy_2.jpg
     width: 1800
     height: 1800
     title: Love Is In The Bin
   - image: /images/art/banksy_3.jpg
-    small: /images/art/banksy_3_small.jpg
+    small: /images/art/small/banksy_3.jpg
     width: 2560
     height: 1709
     title: Flame Thrower
   - image: /images/art/banksy_4.jpg
-    small: /images/art/banksy_4_small.jpg
+    small: /images/art/small/banksy_4.jpg
     width: 2048
     height: 2682
     title: Kissing Coppers
   - image: /images/art/banksy_5.jpg
-    small: /images/art/banksy_5_small.jpg
+    small: /images/art/small/banksy_5.jpg
     width: 2400
     height: 1799
     title: Show Me The Monet

@@ -5,17 +5,17 @@ born: 1797
 died: 1858
 gallery:
   - image: /images/art/hiroshige_1.jpg
-    small: /images/art/hiroshige_1_small.jpg
+    small: /images/art/small/hiroshige_1.jpg
     title: Night Snow at Kanbara (from Fifty-three stations of the Tokaido Road)
     width: 2000
     height: 1346
   - image: /images/art/hiroshige_2.jpg
-    small: /images/art/hiroshige_2_small.jpg
+    small: /images/art/small/hiroshige_2.jpg
     title: View of Mount Fuji from Satta Point (from Thirty-six Views of Mount Fuji)
     width: 1121
     height: 1631
   - image: /images/art/hiroshige_3.jpg
-    small: /images/art/hiroshige_3_small.jpg
+    small: /images/art/small/hiroshige_3.jpg
     title: Plum Park at Kameido (from One Hundred Famous Views of Edo)
     width: 1021
     height: 1500

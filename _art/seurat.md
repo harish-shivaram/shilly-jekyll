@@ -6,12 +6,12 @@ born: 1859
 died: 1891
 gallery:
   - image: /images/art/seurat_1.jpg
-    small: /images/art/seurat_1_small.jpg
+    small: /images/art/small/seurat_1.jpg
     title: Bathers at Asnières
     width: 2547
     height: 1690
   - image: /images/art/seurat_2.jpg
-    small: /images/art/seurat_2_small.jpg
+    small: /images/art/small/seurat_2.jpg
     title: A Sunday Afternoon on the Island of La Grande Jatte
     width: 1869
     height: 1258
