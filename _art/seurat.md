@@ -8,8 +8,8 @@ gallery:
   - image: /images/art/seurat_1.jpg
     small: /images/art/seurat_1_small.jpg
     title: Bathers at Asnières
-    width: 1592
-    height: 1057
+    width: 2547
+    height: 1690
   - image: /images/art/seurat_2.jpg
     small: /images/art/seurat_2_small.jpg
     title: A Sunday Afternoon on the Island of La Grande Jatte
