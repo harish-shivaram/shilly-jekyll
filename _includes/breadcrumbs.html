@@ -1,0 +1,6 @@
+<span class="post-detail__cat">
+	<a href="/">Home</a>
+	{%if page.collabel %}&nbsp;&raquo;&nbsp;<a href="{{page.colurl}}">{{page.collabel}}</a>{%endif %}
+	{%if page.up %}{% for pg in site.trips %}{% if pg.url contains page.up %}{% assign bc = pg.title %}{% break %}{% endif %}{% endfor %}
+	&nbsp;&raquo;&nbsp;<a href="{{page.up}}">{{bc}}</a>{%endif %}
+</span>
