@@ -2,6 +2,7 @@
 title: Panorama
 layout: post
 image: /images/panorama.jpg
+needsortable: true
 ---
 
 We had a text book in high school English called "Panorama: A Selection of Poems". The book comprised a nice cross-section of poetry by the great masters, as well as a number of poems by Indian poets.

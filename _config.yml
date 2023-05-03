@@ -82,7 +82,12 @@ defaults:
     type: art
   values:
     layout: artist
-
+    needpopup: true
+- scope:
+    path: ''
+    type: classical
+  values:
+    needsortable: true
 
 
 autopages:

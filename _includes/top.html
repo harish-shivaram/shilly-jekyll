@@ -11,10 +11,13 @@
 		<link rel="stylesheet" type="text/css" href="/assets/fonts/pe-icon/pe-icon.css">
 		<!-- Vendors-->
 		<link rel="stylesheet" type="text/css" href="/assets/vendors/bootstrap/grid.css">
+		{% if page.needpopup %}
 		<link rel="stylesheet" type="text/css" href="/assets/vendors/magnific-popup/magnific-popup.min.css">
-		<link rel="stylesheet" type="text/css" href="/assets/vendors/swiper/swiper.css">
-		<link rel="stylesheet" type="text/css" href="/assets/vendors/sortable/sortable.min.css">
 		<link rel="stylesheet" type="text/css" href="/assets/vendors/photoswipe/photoswipe.css">
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/swiper/swiper.css">
+		{% endif %}{% if page.needsortable %}
+		<link rel="stylesheet" type="text/css" href="/assets/vendors/sortable/sortable.min.css">
+		{% endif %}
 		<!-- App & fonts-->
 		<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700|Open+Sans:400,700">
 		<link rel="stylesheet" type="text/css" id="app-stylesheet" href="/assets/css/main.css"><!--[if lt IE 9]>

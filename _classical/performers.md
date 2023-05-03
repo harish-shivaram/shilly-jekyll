@@ -1,11 +1,12 @@
 ---
 title: The Performers
 layout: post
+needpopup: true
 ---
 
 ## Orchestra
 
-![Symphony Orchestra](/images/classical/orchestra.jpg){:.image .right}
+[![Symphony Orchestra](/images/classical/orchestra.jpg){:.image .right}](/images/classical/orchestra.jpg){:.popup}
 
 Orchestras come in four basic types: the standard symphony orchestra (comprising large forces of strings, wind instruments, a brass section and percussion), the chamber orchestra (a scaled-down version of the above), the original instrument orchestra (using instruments of the period in which the composer was writing and the exact number envisaged by the composer), and the string orchestra (consisting of violins, violas cellos and double basses).
 
@@ -13,7 +14,7 @@ The orchestra has developed through the centuries usually by increasing the numb
 
 ## Conductor
 
-![Conductor](/images/classical/conductor.jpg){:.image .left}
+[![Conductor](/images/classical/conductor.jpg){:.image .left}](/images/classical/conductor.jpg){:.popup}
 
 Originally, the job of the present-day conductor was undertaken by either the leader of the orchestra (the principal violinist) or the harpsichordist. Concertos were conducted by the soloist in close liaison with the leader and there was never a need for an independent person to wave the baton.
 
@@ -23,7 +24,7 @@ The conductor of an orchestra has enormous power, for it is he or she who has co
 
 ## Soloist
 
-![Soloist](/images/classical/soloist.jpg){:.image .right}
+[![Soloist](/images/classical/soloist.jpg){:.image .right}](/images/classical/soloist.jpg){:.popup}
 
 The soloist is the singer or instrumentalist taking the solo part in a work with orchestra. The term can sometimes also be applied to a duo; for example, where there is a violinist playing music for violin and piano, the pianist will often be labelled as the accompanist while the violonist is the soloist.
 
@@ -31,7 +32,7 @@ Soloists appear taking the solo part in works called concertos and are often out
 
 ## String Quartet
 
-![String Quartet](/images/classical/string-quartet.jpg){:.image .left}
+[![String Quartet](/images/classical/string-quartet.jpg){:.image .left}](/images/classical/string-quartet.jpg){:.popup}
 
 The string quartet consists of four people playing two violins, a viola and a cello. It was really established as a standard combination by the eighteenth century. 
 
@@ -41,7 +42,7 @@ Some of the finest works for the quartet were composed by [Mozart](/classical/WM
 
 ## Piano Trio
 
-![Piano Trio](/images/classical/piano-trio.jpg){:.image .right}
+[![Piano Trio](/images/classical/piano-trio.jpg){:.image .right}](/images/classical/piano-trio.jpg){:.popup}
 
 Confusingly, a piano trio is not a piece for three pianos. The standard combination of a piano trio includes a violin and a cello with piano.
 
@@ -51,7 +52,7 @@ Again, [Mozart](/classical/WMoz), [Haydn](/classical/JHay), [Beethoven](/classic
 
 ## Chamber Music
 
-![Chamber Orchestra](/images/classical/chamber.jpg){:.image .left}
+[![Chamber Orchestra](/images/classical/chamber.jpg){:.image .left}](/images/classical/chamber.jpg){:.popup}
 
 Chamber music is the term given to 'serious' music two or more players up to the size of a smallish orchestra (of about fifteen players). There are a number of standard combinations that the mainstream classical composers wrote for, two of which, the string quartet and the piano trio, are described in more detail above.
 

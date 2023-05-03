@@ -2,6 +2,7 @@
 title: Classical Music
 layout: post
 image: /images/classical.jpg
+needsortable: true
 school: ""
 ---
 

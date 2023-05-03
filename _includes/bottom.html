@@ -31,34 +31,20 @@
 		<script type="text/javascript" src="/assets/vendors/jquery-one-page/jquery.nav.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/jquery.easing/jquery.easing.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
-		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
 		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
-		<script type="text/javascript" src="/assets/vendors/swiper/swiper.jquery.js"></script>
 		<script type="text/javascript" src="/assets/vendors/menu/menu.js"></script>
 		<script type="text/javascript" src="/assets/vendors/typed/typed.min.js"></script>
+		{% if page.needsortable %}
 		<script type="text/javascript" src="/assets/vendors/sortable/sortable.min.js"></script>
+		{% endif %}
 		<!-- App-->
 		<script type="text/javascript" src="/assets/js/main.js"></script>
+		{% if page.needpopup %}
+		<script type="text/javascript" src="/assets/vendors/swiper/swiper.jquery.js"></script>
+		<script type="text/javascript" src="/assets/vendors/magnific-popup/jquery.magnific-popup.min.js"></script>
 		<script type="module" src="/assets/js/pswp.js"></script>
-		<script type="text/javascript">
-			  $('.popup').magnificPopup({
-				  type: 'image',
-				  closeOnContentClick: true,
-				  closeBtnInside: false,
-				  fixedContentPos: true,
-				  mainClass: 'mfp-with-zoom',
-				  image: {
-					  verticalFit: true
-				  },
-				  zoom: {
-					  enabled: true,
-					  duration: 300,
-					  opener: function(element) {
-						  return element.find('img');
-					  }
-				  }
-			  });
-		</script>
+		<script type="text/javascript" src="/assets/js/popup.js"></script>
+		{% endif %}
 	</body>
 </html>
