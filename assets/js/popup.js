@@ -1,7 +1,6 @@
 $('.popup').magnificPopup({
   type: 'image',
   closeOnContentClick: true,
-  closeBtnInside: false,
   fixedContentPos: true,
   mainClass: 'mfp-with-zoom',
   image: {

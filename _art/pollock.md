@@ -39,6 +39,11 @@ gallery:
     title: The Deep
     width: 609
     height: 910
+  - image: /images/art/pollock_8.jpg
+    small: /images/art/small/pollock_8.jpg
+    width: 1646
+    height: 2000
+    title: Reflection of the Big Dipper
 ---
 
 
