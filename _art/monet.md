@@ -25,6 +25,11 @@ gallery:
     title: Houses of Parliament, London
     width: 1500
     height: 1312
+  - image: /images/art/monet_8.jpg
+    small: /images/art/small/monet_8.jpg
+    title: Water Lilies and Japanese Bridge
+    width: 1992
+    height: 1957
   - image: /images/art/monet_5.jpg
     small: /images/art/small/monet_5.jpg
     title: Water Lilies
