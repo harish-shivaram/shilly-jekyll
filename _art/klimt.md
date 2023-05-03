@@ -25,6 +25,16 @@ gallery:
     title: The Kiss
     width: 1395
     height: 1400
+  - image: /images/art/klimt_3.jpg
+    small: /images/art/small/klimt_3.jpg
+    title: Three Ages of Woman
+    width: 1395
+    height: 1400
+  - image: /images/art/klimt_6.jpg
+    small: /images/art/small/klimt_6.jpg
+    title: Judith II
+    width: 740
+    height: 2987
 ---
 
 Klimt lived and worked in a scandalous city at a scandalous time: Vienna in the
