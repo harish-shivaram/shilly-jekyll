@@ -14,16 +14,16 @@ gallery:
     width: 1958
     height: 1564
     title: Vision After the Sermon
-  - image: /images/art/gauguin_3.jpg
-    small: /images/art/small/gauguin_3.jpg
-    width: 1231
-    height: 1570
-    title: The Yellow Christ
   - image: /images/art/gauguin_4.jpg
     small: /images/art/small/gauguin_4.jpg
     width: 1500
     height: 1125
     title: Day of the God
+  - image: /images/art/gauguin_3.jpg
+    small: /images/art/small/gauguin_3.jpg
+    width: 1231
+    height: 1570
+    title: The Yellow Christ
   - image: /images/art/gauguin_5.jpg
     small: /images/art/small/gauguin_5.jpg
     width: 1318

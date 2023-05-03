@@ -30,6 +30,7 @@ shock therapy. He was outstandingly good-looking, drank far too much, never
 married, and seems at times to have regarded women as devouring, destructive
 creatures, in spite of or perhaps because of his extended love affairs.
 
+[![The Scream](/images/art/munch_1.jpg){:.image .right}](/images/art/munch_1.jpg){:.popup}
 Munch was an Expressionist painter: one who deliberately rejects fidelity to
 nature, which the Impressionists had striven for, in favour of a simplified and
 emphatic use of line and colour which carries great emotional impact. It was a
@@ -39,7 +40,6 @@ emotional life were his subject. He said, ‘Art is the opposite of Nature. A
 work of • art can only come from inside a person.  Art is the shape of the
 picture fashioned through the nerves, heart, brain and eye of a man.’
 
-[![The Scream](/images/art/munch_1.jpg){:.image .right}](/images/art/munch_1.jpg){:.popup}
 Munch has left us an exact description of how he came to invent the image of
 _The Scream_. He was taking a walk one evening, feeling tired and ill, and in
 this mood observed the sun setting over the sea and the clouds burning
