@@ -2,8 +2,7 @@
 title: The Sparrow
 author: Mary Doria Russell
 date: 2023-01-17
-image: /images/blog/3109.jpg
-layout: post
+image: /images/books/3109.jpg
 description: For the greater glory of God, but does that apply when dealing with alien creatures with even more alien cultures?
 ---
 

@@ -2,8 +2,7 @@
 title: Sword of Destiny
 author: Andrzej Sapkowski
 date: 2022-08-13
-image: /images/blog/3130.jpg
-layout: post
+image: /images/books/3130.jpg
 description: Another collection of short stories, following the adventures of the collection The Last Wish. Geralt forges ahead, battling monsters, demons and prejudices alike...
 ---
 

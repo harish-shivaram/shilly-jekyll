@@ -2,8 +2,7 @@
 title: Six of Crows
 author: Leigh Bardugo
 date: 2022-07-28
-image: /images/blog/3129.jpg
-layout: post
+image: /images/books/3129.jpg
 description: A gambler, a convict, a wayward son, a lost Grisha, a Suli girl who has become a killer, a boy from the Barrel who had become something worse.
 ---
 

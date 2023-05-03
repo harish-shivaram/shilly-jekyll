@@ -2,8 +2,7 @@
 title: The Diary of a Young Girl
 author: Anne Frank
 date: 2023-01-26
-image: /images/blog/3134.jpg
-layout: post
+image: /images/books/3134.jpg
 description: Discovered in the attic in which she spent the last years of her life, Anne Frank’s remarkable diary has become a world classic—a powerful reminder of the horrors of war and an eloquent testament to the human spirit. 
 ---
 

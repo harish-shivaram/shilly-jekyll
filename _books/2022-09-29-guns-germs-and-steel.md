@@ -2,8 +2,7 @@
 title: Guns, Germs and Steel
 author: Jared Diamond
 date: 2022-09-29
-image: /images/blog/3131.jpg
-layout: post
+image: /images/books/3131.jpg
 description: Winner of the Pulitzer Prize and a national bestseller, this book explores the rise of civilization in humans and how the world came to be the way it is, today.
 ---
 

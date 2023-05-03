@@ -2,8 +2,7 @@
 title: The God Delusion
 author: Richard Dawkins
 date: 2022-06-21
-image: /images/blog/3125.jpg
-layout: post
+image: /images/books/3125.jpg
 description: A book that is as brutal and honest as its title. This is like a handbook of reference for any atheist for the range of illogical, childish or even intelligent theist arguments that might be addressed to him.
 ---
 

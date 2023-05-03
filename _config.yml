@@ -88,6 +88,11 @@ defaults:
     type: classical
   values:
     needsortable: true
+- scope:
+    path: ''
+    type: books
+  values:
+    layout: post
 
 
 autopages:

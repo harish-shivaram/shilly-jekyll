@@ -2,8 +2,7 @@
 title: The Broken Earth Trilogy
 Author: N. K. Jemisin
 date: 2020-03-04
-image: /images/blog/3111.jpg
-layout: post
+image: /images/books/3111.jpg
 description: A series so well written, that each book in the trilogy won a Hugo award. The final book also won the Nebula award.
 ---
 

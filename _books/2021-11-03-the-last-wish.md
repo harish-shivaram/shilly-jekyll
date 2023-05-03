@@ -2,8 +2,7 @@
 title: The Last Wish
 Author: Andrzej Sapkowski
 date: 2021-11-03
-image: /images/blog/3121.jpg
-layout: post
+image: /images/books/3121.jpg
 description: A simple way of putting it... a collection of tales about a man hunting monsters for money. But then, this book (and in fact, the whole series) is so much more...
 ---
 
