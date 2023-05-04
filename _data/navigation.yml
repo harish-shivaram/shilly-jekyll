@@ -1,16 +1,40 @@
 - name: Books
   link: /books/
-- name: Panorama
-  link: /panorama/
-- name: Classical
-  link: /classical/
-- name: Travelogues
-  link: /trips/
+  long: Book Reviews and a reader log
+  img: /images/front/books.jpg
+  hover: slide-left
+- name: Art
+  long: Appreciating Art
+  link: /art/
+  img: /images/front/art.jpg
+  hover: slide-top
 - name: Comics
   link: /comics/
+  long: Comic and Graphic novel reviews and reader log
+  img: /images/front/comics.jpg
+  hover: slide-right
 - name: Self-Hosted
-  link: /rpi/
+  link: /selfhosted/
+  img: /images/front/selfhosted.jpg
+  long: Adventures with Self hosting
+  hover: slide-right
+- name: Travelogues
+  link: /trips/
+  long: Travelogues and travel photo galleries
+  img: /images/front/trips.jpg
+  hover: zoom-in
+- name: Panorama
+  link: /panorama/
+  long: "Panorama- A Selection of Poems"
+  img: /images/front/panorama.jpg
+  hover: slide-left
 - name: Blog
+  long: An old, unmaintained Blog
+  img: /images/front/blog.jpg
   link: /blog/
-- name: Art
-  link: /art/
+  hover: slide-bottom
+- name: Classical
+  long: All about Classical Music
+  img: /images/front/classical.jpg
+  link: /classical/
+  hover: slide-bottom

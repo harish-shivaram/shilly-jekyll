@@ -18,7 +18,7 @@ intro: true
 
 			<!-- page-title -->
 			<div class="page-title">
-				<h2 class="page-title__title">{{site.bio}}<br/>
+				<h2 class="page-title__title">{{site.bio}}
 
 					<!-- typing__module -->
 					<!--div class="typing__module">
@@ -52,222 +52,32 @@ intro: true
 			<div class="grid-css grid-css--masonry" data-col-lg="3" data-col-md="2" data-col-sm="2" data-col-xs="1" data-gap="30">
 				<div class="grid__inner">
 					<div class="grid-sizer"></div>
+					{% for item in site.data.navigation %}
 					<div class="grid-item">
 						<div class="grid-item__inner">
 							<div class="grid-item__content-wrapper">
-
 								<!-- work -->
-								<div class="work"><a href="/books">
+								<div class="work"><a href="{{item.link}}">
 
 										<!-- hoverbox ef-slide-bottom -->
-										<div class="hoverbox ef-slide-bottom light">
+										<div class="hoverbox ef-{{item.hover}} light">
 
 											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/books.jpg" alt=""/>
+											<div class="hb_front"><img src="{{item.img}}" alt="{{item.name}}"/>
 											</div><!-- End / hb_front -->
-
 
 											<!-- hb_back -->
 											<div class="hb_back">
-												<h2 class="work__title">Book Reviews and a reader log</h2><span class="work__text">More</span>
+													<h2 class="work__title">{{item.long}}</h2><span class="work__text">More</span>
 											</div><!-- End / hb_back -->
 
 										</div><!-- End / hoverbox ef-slide-bottom -->
 										</a>
 								</div><!-- End / work -->
-
 							</div>
 						</div>
 					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/trips">
-
-										<!-- hoverbox ef-move-top -->
-										<div class="hoverbox ef-move-top light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/trips.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">Travelogues and travel photo galleries</h2><span class="work__text">More</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-move-top -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/panorama">
-
-										<!-- hoverbox ef-slide-right -->
-										<div class="hoverbox ef-slide-right light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/panorama.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">Panorama: A Selection of Poems</h2><span class="work__text">View detail</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-slide-right -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/blog">
-
-										<!-- hoverbox ef-zoom-in -->
-										<div class="hoverbox ef-zoom-in light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/blog.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">An old, unmaintained Blog</h2><span class="work__text">More</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-zoom-in -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/classical">
-
-										<!-- hoverbox ef-zoom-in -->
-										<div class="hoverbox ef-zoom-in light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/classical.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">All about Classical Music</h2><span class="work__text">More</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-zoom-in -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/comics">
-
-										<!-- hoverbox ef-slide-right -->
-										<div class="hoverbox ef-slide-right light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/comics.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">Comic and Graphic novel reviews and reader log</h2><span class="work__text">More</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-slide-right -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/rpi">
-
-										<!-- hoverbox ef-move-right -->
-										<div class="hoverbox ef-move-right light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/selfhosted.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">Adventures with Self hosting</h2><span class="work__text">More</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-move-right -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
-					<div class="grid-item">
-						<div class="grid-item__inner">
-							<div class="grid-item__content-wrapper">
-
-								<!-- work -->
-								<div class="work"><a href="/art">
-
-										<!-- hoverbox ef-move-bottom -->
-										<div class="hoverbox ef-move-bottom light">
-
-											<!-- hb_front -->
-											<div class="hb_front"><img src="/images/front/art.jpg" alt=""/>
-											</div><!-- End / hb_front -->
-
-
-											<!-- hb_back -->
-											<div class="hb_back">
-												<h2 class="work__title">Appreciating Art</h2><span class="work__text">View detail</span>
-											</div><!-- End / hb_back -->
-
-										</div><!-- End / hoverbox ef-move-bottom -->
-										</a>
-								</div><!-- End / work -->
-
-							</div>
-						</div>
-					</div>
+					{% endfor %}
 				</div>
 			</div>
 			<div class="awe-text-center mt-50">

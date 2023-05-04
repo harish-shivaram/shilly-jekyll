@@ -85,7 +85,7 @@ defaults:
   values:
     layout: artist
     needpopup: true
-    collabel: Art
+    collabel: Appreciating Art
     colurl: /art
 - scope:
     type: classical
