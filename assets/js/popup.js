@@ -4,7 +4,10 @@ $('.popup').magnificPopup({
   fixedContentPos: true,
   mainClass: 'mfp-with-zoom',
   image: {
-	  verticalFit: true
+	  verticalFit: true,
+	  titleSrc: function(item) {
+		  return item.el.find('img').attr('alt');
+	  },
   },
   zoom: {
 	  enabled: true,

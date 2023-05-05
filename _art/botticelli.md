@@ -36,12 +36,12 @@ But he was also the first painter of the Renaissance to use classical myths as
 central subject matter in his work. _The Birth of Venus_ was almost certainly
 executed for Lorenzo di Pierfrancesco’s Villa di Costello near Florence.
 
+[![The Birth of Venus](/images/art/botticelli_1.jpg){:.image .right}](/images/art/botticelli_1.jpg){:.popup}
 Botticelli was unaffected by the passion for realism that was current in his
 day. In _The Birth of Venus_ he makes little attempt to persuade us of the
 reality of the scene, but we are completely convinced that we are witness to a
 splendid moment in the world of ancient myth.
 
-[![The Birth of Venus](/images/art/botticelli_1.jpg){:.image .right}](/images/art/botticelli_1.jpg){:.popup}
 Legend tells us that Venus, the Roman goddess of love and fertility, was born
 from sea-foam, and here she is seen slowly floating on her shell-boat in to the
 shore.  The navigation of her journey is undertaken by two intertwined figures,
@@ -50,6 +50,7 @@ springtime, supports the female, who is probably Flora, his wife. Just where
 the sea touches the shore, a young woman adorned with leaves and flowers steps
 forward to envelop Venus in a flowered cloak.
 
+[![The Mystical Nativity](/images/art/botticelli_4.jpg){:.image .left}](/images/art/botticelli_4.jpg){:.popup}
 Venus herself, her wide grey eyes gentle and a little pensive, embodies here
 not sensual love but perfect beauty. The draperies of the winds, the flowing
 clothes of Venus’s welcoming attendant, and her own glorious golden hair
@@ -69,3 +70,8 @@ the wings of the winds and the sharp spiky leaves of the trees are outlined in
 gold. There is no physical depth or perspective in the painting; but this
 heightens the feeling that we are present at a mysterious and magical event,
 depicted with the delicate beauty which characterizes Botticelli’s work.
+
+The inscription in _The Mystical Nativity_ referring to the Apocalypse and the
+"troubles of italy" is in both Greek and Latin. Botticelli had used an archaic
+device that magnifies the Virgin and Child; altogether, the picture is calling
+for a return to medieval morality.

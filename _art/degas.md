@@ -35,6 +35,11 @@ gallery:
     title: The Laundresses
     width: 600 
     height: 556 
+  - image: /images/art/degas_7.jpg
+    small: /images/art/small/degas_7.jpg
+    title: The Orchestra of the Opera
+    width: 1333
+    height: 1627 
 ---
 
 Degas, born in Paris, was the son of a wealthy banker, and for most of his life
@@ -71,3 +76,18 @@ scene portrayed.  Degas observed, analyzed and recorded with great care, by
 means of numerous sketches from life, before beginning work on a canvas in the
 studio. As a result he caught revealingly, and with extraordinary realism, the
 movement and atmosphere of his subject.
+
+[![The Orchestra of the Opera](/images/art/degas_7.jpg){:.image .left}](/images/art/degas_7.jpg){:.popup}
+_The Orchestra of the Opera_ is the first of a series of canvases featuring
+orchestral musicians. This is a portrait of Degas's friend Désiré Dihau,
+democratically placed among other members of the orchestra just below a bright
+freize of dancers in the stage footlights. The work is relatively early and
+hints of Ingres and Delacroix, both admired by Degas. Degas and Delacroix both
+had a scientific interest in colour theory and pigments.
+
+[![The Laundresses](/images/art/degas_6.jpg){:.image .right}](/images/art/degas_6.jpg){:.popup}
+Nothing could be much further from the glamour of the Opera than the toil of
+two weary laundresses, but the strong diagonal of the ironing table is
+reminiscent of the edge of the stage. His other inspiration for this picture is
+the realism of Daumier's portrayal of working life. Degas counted almost 2000
+Daumier prints among his private art collection.

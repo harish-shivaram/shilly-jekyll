@@ -99,3 +99,12 @@ dark background, and this chiaroscuro device heightens the effect of his
 gesture. The bowl of fruit and carafe of wine underline his sensuality and the
 mood of indulgence. Bacchus is a superb example of the effects of lighting,
 foreshortening and vivid realism achieved by Caravaggio.
+
+[![The Supper at Emmaus](/images/art/caravaggio_3.jpg){:.image .left}](/images/art/caravaggio_3.jpg){:.popup}
+The gestures in this painting tell us a great deal. The outstretched hand of
+the disciple on the right, and those of the others gripping his chair, capture
+the immediate moment of recognition, as the beardless youth they met along the
+road reveals himself to be the resurrected Christ by blessing the meal. The
+still life of fruit makes biblical references to restored life and expectations
+fulfilled, whilst the apples - symbols of temptation - remain noticeably
+blighted.

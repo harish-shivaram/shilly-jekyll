@@ -39,10 +39,23 @@ major exhibition of his work was held, which startled the world.
 
 He was born in Southern France, the son of a wealthy banker, but much of his
 working life was spent in Paris, where he mixed with all the Impressionist
-painters of his day. Whereas other artists in the group sought to capture
-rapidly changing light and colour, Cézanne’s greatest achievement lay in
-exposing in planes of colour the underlying shapes in nature, which he believed
-to be the sphere, the cylinder and the cone.
+painters of his day. He was a shy, irritable man who, after a discouraging
+start in the early 1860's - a forbidding father, examination failure and Salon
+refusals - scarcely seemed destined for lasting recognition.
+
+Acclaim was hard won, taking over thirty years of disciplined work before his
+first one-man exhibition in 1895; following which, younger artists like the
+Nabis formed an enthusiastic clique, alert to Cézanne's pushing of the
+boundaries beyond airy Impressionism.  Whereas other artists in the group
+sought to capture rapidly changing light and colour, Cézanne’s greatest
+achievement lay in exposing in planes of colour the underlying shapes in
+nature, which he believed to be the sphere, the cylinder and the cone.
+
+Cézanne knew that the theories of Parisian academics and critics, let alone
+public opinion, were not sympathetic to his ideal of "the logical development
+of everything we see and feel through the study of nature". It was his desire
+for this essential harmony, expressed by colour as tone, which drew him back to
+his beloved Provence in 1882.
 
 [![La Montague Sainte-Victoire](/images/art/cezanne_1.jpg){:.image .right}](/images/art/cezanne_1.jpg){:.popup}
 He applied this analysis of structure to _La Montague Sainte-Victoire_, a scene
