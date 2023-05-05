@@ -9,4 +9,5 @@ pagination:
     collection: books
     sort_field: date
     sort_reverse: true
+needmasonry: true
 ---

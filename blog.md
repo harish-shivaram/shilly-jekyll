@@ -8,4 +8,5 @@ pagination:
     collection: posts
     sort_field: date
     sort_reverse: true
+needmasonry: true
 ---

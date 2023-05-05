@@ -6,4 +6,5 @@ pagination:
     collection: trips
     category: top
     sort_field: filename
+needmasonry: true
 ---

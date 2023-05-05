@@ -8,4 +8,5 @@ pagination:
     collection: art
     sort_field: born
     sort_reverse: true
+needmasonry: true
 ---

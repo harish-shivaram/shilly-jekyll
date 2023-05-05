@@ -29,9 +29,13 @@
 		<script type="text/javascript" src="/assets/vendors/imagesloaded/imagesloaded.pkgd.js"></script>
 		<script type="text/javascript" src="/assets/vendors/isotope-layout/isotope.pkgd.js"></script>
 		<script type="text/javascript" src="/assets/vendors/jquery-one-page/jquery.nav.min.js"></script>
+		{% if page.intro %}
 		<script type="text/javascript" src="/assets/vendors/jquery.easing/jquery.easing.min.js"></script>
+		{% endif %}
+		{% if page.needmasonry %}
 		<script type="text/javascript" src="/assets/vendors/jquery.matchHeight/jquery.matchHeight.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/masonry-layout/masonry.pkgd.js"></script>
+		{% endif %}
 		<script type="text/javascript" src="/assets/vendors/jquery.waypoints/jquery.waypoints.min.js"></script>
 		<script type="text/javascript" src="/assets/vendors/menu/menu.js"></script>
 		<script type="text/javascript" src="/assets/vendors/typed/typed.min.js"></script>
