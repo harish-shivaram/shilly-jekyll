@@ -56,6 +56,14 @@ which decorate the churches. This is evident in the rich ornament and
 intricately worked small areas in his pictures which are linked to form
 complex, tightly-knit patterns.
 
+[![Three Ages of Woman](/images/art/klimt_3.jpg){:.image .left}](/images/art/klimt_3.jpg){:.popup}
+_The Three Ages of Woman_ represents the cycle of life and are set in a sea of
+silver bubbles. The figures themselves are more closely surrounded by shapes
+reflecting Klimt's interest in the science of microbiology. A little research
+reveals the shapes floating above the younger woman resemble colonies of
+bacteria, while the older one stands amid an elongated protozoa associated
+with death and decomposition.
+
 [![The Kiss](/images/art/klimt_5.jpg){:.image .right}](/images/art/klimt_5.jpg){:.popup}
 Klimt was naturally a silent man, but he expressed himself eloquently through
 his art. He never married, but he adored women and often painted them. The
@@ -69,3 +77,4 @@ their sexuality. They are sinking together on to a carpet of flowers, and the
 woman’s eyes are closed in ecstasy as he kisses her. She is supported by his
 arms, her hand resting lightly on his neck, only her toes stretched to balance
 her, and to increase the erotic tension of the painting.
+

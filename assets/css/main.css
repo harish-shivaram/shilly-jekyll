@@ -2133,7 +2133,7 @@ ul {
     display:block
 }
 .image.left,.image.center,.image.right{
-    max-width:40%
+    max-width:30%
 }
 .image.left img,.image.center img,.image.right img{
     width:100%

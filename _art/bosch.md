@@ -25,6 +25,11 @@ gallery:
     title: The Garden of Earthly Delights (Right Panel; Hell)
     width: 1778
     height: 4324
+  - image: /images/art/bosch_5.jpg
+    small: /images/art/small/bosch_5.jpg
+    title: The Adoration of the Magi
+    width: 1898
+    height: 1653
 ---
 
 The Flemish painter Hieronymus Bosch was one of the world’s greatest masters of

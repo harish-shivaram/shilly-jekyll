@@ -51,6 +51,13 @@ the Holy Trinity.’ Along the edge of the floor is a reminder to the friars of
 the convent : ‘When you come before the image of the spotless Virgin, beware
 lest through carelessness the Ave be left unsaid.’
 
+[![Deposition of Christ](/images/art/angelico_4.jpg){:.image .left}](/images/art/angelico_4.jpg){:.popup}
+The frescoes in the convent of San Marco decorated both the communal spaces
+and the nuns' private cells, where they were designed to encourage meditation.
+Fra Angelico's experience as an illuminator shows in his thin, precise
+application of paint. It was an ideal method for detailing wing feathers and
+embroider, and well suited to background features.
+
 [![The Annunciation](/images/art/angelico_1.jpg){:.image .right}](/images/art/angelico_1.jpg){:.popup}
 The soft pale colours and comparatively simple structure give the painting a
 sparkling serenity, and a directness that is charming, if a little naive. If
@@ -63,3 +70,10 @@ The figures have a weightlessness and stillness about them which makes them
 seem more spiritual. It is a painting about the communication of faith, and as
 the friars walked in the cloister of San Marco the event depicted must have
 seemed very real to them.
+
+[![San Marco Altarpiece](/images/art/angelico_3.jpg){:.image .left}](/images/art/angelico_3.jpg){:.popup}
+Fra Angelico had an innovative approach to composition and is credited with
+the invention of the _Sacra Conversazione_, a device which places all the
+figures in a painting close to one another, as though in a conversation.
+Although the Renaissance meant a strong move towards humanism, Fra Angelico's
+work maintained a firm reverence for the Christian ideal.
