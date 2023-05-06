@@ -10,7 +10,7 @@
 				<h2 class="page-title__title">{{page.title}}</h2>
 				<div class="post-detail__meta">
 					{%if page.author %}<span class="author">by {{page.author}}</span>{%endif%}
-					{%if page.date %}<span class="date">[ {{page.date | date_to_string}} ]</span>{%endif %}
+					{%if page.date %}<span class="date">&mdash; {{page.date | date_to_string}}</span>{%endif %}
 				</div>
 				<p class="page-title__text">{{page.description}}</p>
 				<div class="page-title__divider"></div>

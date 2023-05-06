@@ -272,7 +272,7 @@ a:focus {
 
 @media (min-width: 1200px) {
     .awe-section {
-        padding-top: 80px;
+        padding-top: 20px;
         padding-bottom: 0px; /* 80px; */
     }
 }
