@@ -12,7 +12,7 @@ gallery:
     height: 1173
   - image: /images/art/masaccio_2.jpg
     small: /images/art/small/masaccio_2.jpg
-    title: Tribute Money
+    title: The Rendering of the Tribute Money
     width: 2200
     height: 1015
   - image: /images/art/masaccio_3.jpg
@@ -25,6 +25,11 @@ gallery:
     title: Holy Trinity
     width: 1028
     height: 2073
+  - image: /images/art/masaccio_5.jpg
+    small: /images/art/small/masaccio_5.jpg
+    title: Virgin and Child with St. Anne
+    width: 721
+    height: 1200
 ---
 
 The tragically short-lived Masaccio (Tommaso di Ser
@@ -33,7 +38,19 @@ the Italian Renaissance. He created dramatic effects by his use of space, light
 and perspective; and in the twenty-seven years of his life he developed an
 austere realism and economy of style which influenced many other artists.
 
-He was responsible for several of the frescoes in the Brancacci Chapel in
+[![The Rendering of the Tribute Money](/images/art/masaccio_2.jpg){:.image .left}](/images/art/masaccio_2.jpg){:.popup}
+_The Rendering of the Tribute Money_ describes a scene from Matthew's gospel.
+The tax collector at the Capernaun demands payment of the temple tax. Jesus'
+answer is to order Peter to catch a fish, and in its mouth they will find a
+miraculous silver coin. Historians believe this painting alludes to a
+controversial tax reform in Florence. Masaccio may have included himself in
+the group of apostles, possibly as St. Thomas, on the right. The apostles
+stand in a distinct semi-circle, solidly modeled in their Greek-style tunics
+and cloaks. The landscape in the background is painted in perfect perspective
+with successive planes of distance and the light very clearly coming from one
+source.
+
+Masaccio was responsible for several of the frescoes in the Brancacci Chapel in
 Florence. One of these, _The Expulsion_, shows the figures of Adam and Eve as
 they leave the Garden of Eden after their banishment. There seems to be a
 physical force behind them, driving them through the gates of Paradise; and
@@ -62,3 +79,12 @@ Three centuries after the fresco was painted, Cosimo III de' Medici, in line
 with contemporary ideas of decorum, ordered that fig leaves be added to conceal
 the genitals of the figures. These were eventually removed in the 1980s when
 the painting was fully restored and cleaned.
+
+[![Virgin and Child with St. Anne](/images/art/masaccio_4.jpg){:.image .left}](/images/art/masaccio_4.jpg){:.popup}
+This group was a collaboration between Masaccio and Masolino. The composition
+of the major figures shows that they were Masaccio's contribution. The
+Madonna's right knee presses forward through the fabric of her dress and the
+hand of St. Anne seems to explore the depth of the picture-space. By contrast,
+Masolino's angels remain rather flat and pale, with scarcely enough strength in
+their slender hands to hold the curtain up at the back.
+
