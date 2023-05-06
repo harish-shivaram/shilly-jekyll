@@ -50,8 +50,8 @@ Impressionist group for a time, but his work was more academic than theirs, and
 although he made intense studies of light and colour, he was fascinated
 principally by movement.
 
-Many of his pictures are of women - laundresses, hat-makers and, above all,
-dancers - depicted in a deeply perceptive and sympathetic manner in paintings,
+Many of his pictures are of women &mdash; laundresses, hat-makers and, above all,
+dancers &mdash; depicted in a deeply perceptive and sympathetic manner in paintings,
 drawings and sculptures. His interest in movement can also be seen in his
 pictures of horses in training, scenes at the racetrack and people at work.
 

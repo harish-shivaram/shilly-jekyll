@@ -40,8 +40,8 @@ major exhibition of his work was held, which startled the world.
 He was born in Southern France, the son of a wealthy banker, but much of his
 working life was spent in Paris, where he mixed with all the Impressionist
 painters of his day. He was a shy, irritable man who, after a discouraging
-start in the early 1860's - a forbidding father, examination failure and Salon
-refusals - scarcely seemed destined for lasting recognition.
+start in the early 1860's &mdash; a forbidding father, examination failure and Salon
+refusals &mdash; scarcely seemed destined for lasting recognition.
 
 Acclaim was hard won, taking over thirty years of disciplined work before his
 first one-man exhibition in 1895; following which, younger artists like the

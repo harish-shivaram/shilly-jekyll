@@ -21,7 +21,7 @@ gallery:
     height: 1500
 ---
 
-Utagawa Hiroshige was a leading exponent of _ukiyo-e_ - 'Pictures of the floating
+Utagawa Hiroshige was a leading exponent of _ukiyo-e_ &mdash; 'Pictures of the floating
 world' during the last half century of its existence as a Japaense art form.
 Ukiyo-e originated in the late seventeenth century, dedicated to the pursuit
 of pleasure in everyday urban life and based on popular idols taken from the

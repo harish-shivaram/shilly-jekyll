@@ -63,9 +63,17 @@ and the movement of the figures take the eye inwards from the left, while the
 ropes and the mast, with its billowing sail, strain back to hold the structural
 balance.
 
+[![The Insane Woman](/images/art/gericault_3.jpg){:.image .left}](/images/art/gericault_3.jpg){:.popup}
 Géricault’s ambition was ‘to shine, to illuminate, to astonish the world’, but
 _The Raft of the Medusa_ was considered by some as an attack on a government
 which had allowed inefficiency to lead to tragedy, and it was given a
 lukewarm reception when it was first shown in Paris in 1819. Now, however, it
 is appreciated as an outstanding work of the French Romantic movement,
 brilliantly constructed and intensely powerful.
+
+This painting is variously titled _The Mad Woman_, _The Insane Woman_, _The
+Monomania of Envy_ and _The Hyena of the Salpêtrière_. Whilst in England,
+Géricault made studies of the poverty and misery to be found on the streets of
+London. In the same vein, on his return to Paris, he visited La Salpêtrière, an
+insane asylum, where he made portraits of the inmates in a compassionate
+attempt to capture and understand the image of mental illness.

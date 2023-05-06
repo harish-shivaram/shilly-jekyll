@@ -106,5 +106,5 @@ the disciple on the right, and those of the others gripping his chair, capture
 the immediate moment of recognition, as the beardless youth they met along the
 road reveals himself to be the resurrected Christ by blessing the meal. The
 still life of fruit makes biblical references to restored life and expectations
-fulfilled, whilst the apples - symbols of temptation - remain noticeably
+fulfilled, whilst the apples &mdash; symbols of temptation &mdash; remain noticeably
 blighted.

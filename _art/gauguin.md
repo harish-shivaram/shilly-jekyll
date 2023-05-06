@@ -38,7 +38,7 @@ gallery:
     small: /images/art/small/gauguin_7.jpg
     width: 1710
     height: 2500
-    title: Primitive Tales
+    title: Contes Barbares (Primitive Tales)
   - image: /images/art/gauguin_8.jpg
     small: /images/art/small/gauguin_8.jpg
     width: 1588
@@ -66,6 +66,13 @@ and, in 1891, to Tahiti, where his work began to develop the features for which
 he is best known: simplified figures, clear outlines, rich colour patterns and
 exotic tropical settings. His new life brought him no real happiness, however,
 and he was tortured by anxieties and self-doubts.
+
+[![Contes Barbares (Primitive Tales)](/images/art/gauguin_7.jpg){:.image .left}](/images/art/gauguin_7.jpg){:.popup}
+"Your civilization is your disease; my barbarism is my restoration to health. I
+am a savage". Gauguin's bold, non-naturalistic style in _Primitive Tales_
+evolved while working with Van Gogh's friend, Emile Bernard. Strong decorative
+lines and flat, bright colurs were inspired by simple woodcuts and Japanese
+prints.
 
 [![Where Do We Come From? What Are We? Where Are We Going?](/images/art/gauguin_1.jpg){:.image .right}](/images/art/gauguin_1.jpg){:.popup}
 This troubled, searching picture reflects his state of mind and sums up his

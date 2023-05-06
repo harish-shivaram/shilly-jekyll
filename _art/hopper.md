@@ -33,7 +33,7 @@ gallery:
 
 Edward Hopper was one of the pioneers of twentieth-century American realism.
 He painted scenes from the country of New England and the city of New York:
-backwater scenes - old shabby houses, a few people waiting at a cinema, a
+backwater scenes &mdash; old shabby houses, a few people waiting at a cinema, a
 street early on a Sunday morning or a lonely garage at dusk on a country road.
 He painted an America of loneliness and isolation, whose citizens lead lives of
 spiritual poverty, and he found a sad, touching beauty in their desperation.
@@ -60,7 +60,15 @@ glare.  The composition is made up of simple, stark horizontal and vertical
 shapes, which emphasize the bleakness of the environment, and make the people
 seem more vulnerable.
 
+[![Automat](/images/art/hopper_1.jpg){:.image .left}](/images/art/hopper_1.jpg){:.popup}
 Hopper thought of his art as *intimate transcriptions from nature*, and he
 denied any social message or purpose, but he conveys through his paintings such
 a deep understanding of human isolation that we can identify with this silent
 group.
+
+A woman sits alone with a cup of coffee. We can only guess if the empty chair
+opposite means that she is expecting someone, or indeed would welcome the
+arrival of anyone at all. Placing her in an alienating environment where people
+connect only with vending machines, Hopper makes use of distance and detachment
+&mdash; painted and imaginary &mdash; to create a situation where the viewer supposes the
+consequences.

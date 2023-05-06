@@ -70,17 +70,17 @@ status of Fine Arts.
 
 He was first apprenticed in the Florentine workshop of Domenico Ghirlandaio,
 and shortly afterwards transferred to a school set up under the patronage of
-Lorenzo de' Medici, who was known as _Il Magnifico_. After the death of Lorenzo,
-Michelangelo went to Bologna and then to Rome, where he first made his name
-with his _Pieta_ (a sculpture of the Virgin with the body of Christ after the
-descent from the cross) in St Peter’s Cathedral. The Medici of Florence and the
-Popes of Rome - Julius II, Leo X, Paul III - were his patrons, and he produced
-work for them that won him public acclaim and adulation. Vasari tells us simply
-that the work of Michelangelo ‘transcends and eclipses that of every other
-artist, living or dead... supreme not in one art alone but in all three...’
-Probably his greatest achievement, which can be seen in both sculptures and
-paintings, was his extraordinary ability to express all the human emotions
-through the beauty of the naked body.
+Lorenzo de' Medici, who was known as _Il Magnifico_. After the death of
+Lorenzo, Michelangelo went to Bologna and then to Rome, where he first made his
+name with his _Pieta_ (a sculpture of the Virgin with the body of Christ after
+the descent from the cross) in St Peter’s Cathedral. The Medici of Florence and
+the Popes of Rome &mdash; Julius II, Leo X, Paul III &mdash; were his patrons,
+and he produced work for them that won him public acclaim and adulation. Vasari
+tells us simply that the work of Michelangelo ‘transcends and eclipses that of
+every other artist, living or dead... supreme not in one art alone but in all
+three...’ Probably his greatest achievement, which can be seen in both
+sculptures and paintings, was his extraordinary ability to express all the
+human emotions through the beauty of the naked body.
 
 [![The Creation of Adam](/images/art/michelangelo_5.jpg){:.image .right}](/images/art/michelangelo_5.jpg){:.popup}
 The Sistine Chapel was built in the Vatican by Pope Sixtus IV (hence its name);

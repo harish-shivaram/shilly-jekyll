@@ -54,8 +54,8 @@ Munich in 1910.  This influence can be seen in the pure, contrasting colours
 and shapes of most of his work. He turned his talent to sculpture and
 printmaking, books, murals and designs for the theatre as well as painting.
 
-His subjects were mainly domestic interiors, scenes framed by windows, and -
-above all - the female form. He said, ‘What interests me most is neither still
+His subjects were mainly domestic interiors, scenes framed by windows, and &mdash; 
+above all &mdash; the female form. He said, ‘What interests me most is neither still
 life nor landscape, but the human figure. It is through it that I best succeed
 in expressing the almost religious feeling I have towards life.’
 
@@ -63,8 +63,8 @@ in expressing the almost religious feeling I have towards life.’
 _Dance_ and _Music_ were two decorative panels produced for the Russian collector
 Sergei Shchukin, which explains why they are now, after confiscation from
 private ownership, in the Russian state collections. But Matisse had initially
-produced for Shchukin’s inspection another full-scale version of _Dance_ - over
-eight-and-a-half feet high and nearly thirteen feet wide - and this is the one
+produced for Shchukin’s inspection another full-scale version of _Dance_ &mdash; over
+eight-and-a-half feet high and nearly thirteen feet wide &mdash; and this is the one
 that is now in the Museum of Modern Art in New York. In it Matisse probably
 used as his starting point a ring of dancers from the background of his own
 painting _Bonheur de vivre_. 1909 was the year Diaghilev and the Russian ballet

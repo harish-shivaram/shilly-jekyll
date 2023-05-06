@@ -47,8 +47,9 @@ gallery:
     height: 1553
 ---
 
-It was from one of Claude Monet’s paintings - Impression , Sunrise - that the
-Impressionist group, of which he was the leader, acquired its name.
+It was from one of Claude Monet’s paintings &mdash; Impression , Sunrise
+&mdash; that the Impressionist group, of which he was the leader, acquired its
+name.
 
 He was born in Paris, but spent most of his working life on the Normandy coast
 or in the French countryside, and he passionately loved the sea and the open
@@ -59,11 +60,12 @@ scraping off the paint in order to use the canvas again.
 
 He spent the summer of 1866 at Ville d’Avray, near Paris, and it was there that
 he painted _Women in the Garden_. He worked, as usual, out of doors, and had a
-trench dug in the garden into which his huge canvas - about eight-and-a-half
-feet by six-and-a-half feet - was lowered, and a pulley arrangement was rigged
-up so that he could reach the top. Light interested him more than anything, and
-he was concerned to reveal the fact that colour only exists in terms of light,
-and that it changes in all the normal variations of daylight and shadow.
+trench dug in the garden into which his huge canvas &mdash; about
+eight-and-a-half feet by six-and-a-half feet &mdash; was lowered, and a pulley
+arrangement was rigged up so that he could reach the top. Light interested him
+more than anything, and he was concerned to reveal the fact that colour only
+exists in terms of light, and that it changes in all the normal variations of
+daylight and shadow.
 
 [![Women in the Garden](/images/art/monet_1.jpg){:.image .right}](/images/art/monet_1.jpg){:.popup}
 The scene in the garden is a study of the effects of sunlight filtering through

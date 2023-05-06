@@ -38,7 +38,7 @@ suggested that Talleyrand, the great politician and statesman, was Delacroix’s
 real father. In any event a network of connections, allied with his talent,
 helped to secure official patronage for him throughout his life.
 
-By 1816 he was studying painting under Guerin - the teacher of Gericault, whom
+By 1816 he was studying painting under Guerin &mdash; the teacher of Gericault, whom
 he ardently admired. Delacroix visited London and became deeply interested in
 English landscape painting, especially the work of Constable, and in the epic
 poets of England and Germany.  He copied the masters in the Louvre, notably
@@ -73,3 +73,17 @@ link with the red in the banner above, an example of his highly imaginative use
 of colour. He has been labelled a Romantic, and although the harsh realities of
 death and destruction are exposed in all their horror, the painting has a glory
 and patriotism that is highly romantic and inspirational.
+
+[![The Massacre at Chios](/images/art/delacroix_2.jpg){:.image .left}](/images/art/delacroix_2.jpg){:.popup}
+Delacroix had completed the journey from startling, innovative colourist to
+respected older artist by the time he came to influence modern masters, such as
+Cézanne, Degas, Van Gogh and Picasso. As long as he lived, he was, as the poet
+Baudelaire wrote, "passionately in love with passion, and coldly determined to
+seek the means to express passion in the manner visible."
+
+Inspired by Gericault's treatment of the theme of suffering, Delacroix presents
+a harrowing scene from the Greek rebellion against the Turks, which roused many
+Europeans (including Byron) to their cause. The painting was bought at the
+Salon of 1824 by the French government, perhaps by Talleyrand in covery support
+of his son. Significantly, at the same Salon, Delacroix encountered Constable's
+_Haywain_.
