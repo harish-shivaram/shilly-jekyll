@@ -57,9 +57,9 @@ gallery:
     height: 800
   - image: /images/art/michelangelo_b.jpg
     small: /images/art/small/michelangelo_b.jpg
-    title: Last Judgement
-    width: 1197
-    height: 1319
+    title: The Last Judgement
+    width: 1975
+    height: 2198
 ---
 
 The phenomenal genius of Michelangelo has been praised consistently since the
@@ -82,7 +82,6 @@ three...’ Probably his greatest achievement, which can be seen in both
 sculptures and paintings, was his extraordinary ability to express all the
 human emotions through the beauty of the naked body.
 
-[![The Creation of Adam](/images/art/michelangelo_5.jpg){:.image .right}](/images/art/michelangelo_5.jpg){:.popup}
 The Sistine Chapel was built in the Vatican by Pope Sixtus IV (hence its name);
 his nephew, who became Pope Julius II, commissioned the ceiling frescoes from
 Michelangelo to complete its decoration (the walls already bore many famous
@@ -100,6 +99,17 @@ view of what he was doing. There are nearly 350 figures in the ceiling as a
 whole, in a wonderfully rich variety of poses which has been drawn on by
 artists ever since.
 
+[![The Last Judgement](/images/art/michelangelo_b.jpg){:.image .left}](/images/art/michelangelo_b.jpg){:.popup}
+_The Last Judgement_ was designed at a grand scale, and spans the entire wall
+behind the altar of the Sistine Chapel. This fresco gave rise to controversy
+from the start. Christ standing, rather than sitting as the Bible states, was
+the chief problem. Although standing certainly seems a more authoritative
+position, in response to later laws against nudity, another painter added
+spurious draperies. Level with Christ's left foot sits the martyred St.
+Bartholomew, holding his own flayed skin. The skin contains Michelangelo's
+self-portrait.
+
+[![The Creation of Adam](/images/art/michelangelo_5.jpg){:.image .right}](/images/art/michelangelo_5.jpg){:.popup}
 _The Creation of Adam_ shows with extraordinary power and subtlety the moment
 when the hand of God gave life to Adam, and symbolically to the human world.
 The Creator’s flowing mantle encloses some eleven figures, angels or beings
@@ -113,3 +123,4 @@ moment of creation.
 
 At its unveiling the ceiling of the Sistine Chapel was hailed as a supreme work
 of art, and it earned its artist the name _Il divino Michelangelo_.
+

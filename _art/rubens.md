@@ -25,6 +25,31 @@ gallery:
     title: Old Woman and Boy with Candles
     width: 1094
     height: 1350
+  - image: /images/art/rubens_5.jpg
+    small: /images/art/small/rubens_5.jpg
+    width: 1153
+    height: 1690
+    title: The Straw Hat (Portrait of Susanna Lunden)
+  - image: /images/art/rubens_6.jpg
+    small: /images/art/small/rubens_6.jpg
+    width: 1086
+    height: 700
+    title: The Elevation of the Cross
+  - image: /images/art/rubens_7.jpg
+    small: /images/art/small/rubens_7.jpg
+    width: 1750
+    height: 1356
+    title: The Massacre of the Innocents
+  - image: /images/art/rubens_8.jpg
+    small: /images/art/small/rubens_8.jpg
+    width: 1485
+    height: 1920
+    title: The Fall of Man
+  - image: /images/art/rubens_9.jpg
+    small: /images/art/small/rubens_9.jpg
+    width: 1800
+    height: 1629
+    title: Samson and Delilah
 ---
 
 The Prince of Painters was the name given to the Flemish artist Sir Peter Paul
@@ -68,9 +93,22 @@ purpose for which it was intended &mdash; to encourage the faithful.
 
 The side panels of the altarpiece depict, on the left, the Virgin’s visit to
 her cousin Elizabeth to celebrate their pregnancies, and, on the right, the
-presentation of Jesus at the Temple of Jerusalem.  Rubens was an exceptionally
-talented, energetic and prolific painter, a favourite at the court of Philip IV
-of Spain, knighted by Charles I of England, and court painter first to the Duke
-of Mantua in Italy, and later to the Spanish rulers of the Netherlands in his
-native Antwerp. He held this appointment until his death, and became the most
-important Baroque artist in Northern Europe.
+presentation of Jesus at the Temple of Jerusalem.
+
+[![The Arrival of Marie de Medici at Marseilles](/images/art/rubens_3.jpg){:.image .left}](/images/art/rubens_3.jpg){:.popup}
+Drawing upon his Latin school education, Rubens produced scores of elaborate
+altarpieces and allegorical ceilings. He was adept at painting supposedly
+Christian virtue but giving it a subversive sinuosity; the voluptuous features
+of hisnudes are deliberately exaggerated to emphasize fecundity and freedom
+from want.
+
+One of a cycle of 21 paintings for the Palais de Luxembourg, commissioned by the French dowager queen Marie de Medici to depict her life. Rubens prepared hundreds of master sketches for his studio to work from. It was no easy task diplomatically either, since the queen was quarrelsome, far from attractive and had wasted huge amounts of money without achieving anything remarkable in her life. To Rubens' credit, he left a satisfied customer on completion.
+
+Rubens was an exceptionally talented, energetic and prolific painter, a
+favourite at the court of Philip IV of Spain, knighted by Charles I of England,
+and court painter first to the Duke of Mantua in Italy, and later to the
+Spanish rulers of the Netherlands in his native Antwerp. He held this
+appointment until his death, and became the most important Baroque artist in
+Northern Europe. Rubens' stylistic influence endured over three centuries,
+inspiring artists from Van Dyck and Murillo, through Watteau and Gainsborough
+to Delacroix and Renoir.
