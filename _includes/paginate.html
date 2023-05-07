@@ -1,26 +1,22 @@
-<div class="awe-text-center mt-50">{% if paginator.total_pages > 1 %}
+<div class="awe-text-center mt-40 mb-40">{% if paginator.total_pages > 1 %}
 	{% if paginator.first_page %}
-		<a href="{{ paginator.first_page_path | absolute_url }}" class="md-btn md-btn--outline-primary"> &laquo; First</a>
+	<a href="{{ paginator.first_page_path }}" class="md-btn md-btn--outline-primary"> &laquo; First</a>
 	{% endif %}
 	{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | absolute_url }}" class="md-btn md-btn--outline-primary">&lsaquo; Previous</a>
+	<a href="{{ paginator.previous_page_path }}" class="md-btn md-btn--outline-primary">&lsaquo; Previous</a>
 	{% endif %}
 	{% if paginator.page_trail %}
 	{% for trail in paginator.page_trail %}
-		{% if page.url == trail.path %}
-			{% assign trclass = "page active" %}
-		{% else %}
-			{% assign trclass = "page" %}
-		{% endif %}
-		<a href="{{ trail.path | absoloute_url }}" title="{{trail.title}}" class="md-btn md-btn--outline-primary">{{ trail.num }}</a>
+	{% if page.url == trail.path %}{% assign trclass = "md-btn--primary" %}{% else %}{% assign trclass = "md-btn--outline-primary" %}{% endif %}
+		<a href="{{ trail.path }}" title="{{trail.title}}" class="md-btn {{trclass}}">{{ trail.num }}</a>
 	{% endfor %}
 	{% endif %}
 
 	{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | absolute_url }}" class="md-btn md-btn--outline-primary">Next &rsaquo;</a>
+	<a href="{{ paginator.next_page_path }}" class="md-btn md-btn--outline-primary">Next &rsaquo;</a>
 	{% endif %}
 
 	{% if paginator.last_page %}
-		<a href="{{ paginator.last_page_path | absolute_url }}" class="md-btn md-btn--outline-primary">Last &raquo;</a>
+	<a href="{{ paginator.last_page_path }}" class="md-btn md-btn--outline-primary">Last &raquo;</a>
 	{% endif %}
 {% endif %}</div>
