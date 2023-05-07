@@ -49,6 +49,16 @@ gallery:
     width: 2105
     height: 1034
     title: Wheatfield Under Thunderclouds
+  - image: /images/art/vangogh_a.jpg
+    small: /images/art/small/vangogh_a.jpg
+    width: 1570
+    height: 1240
+    title: Almond Blossom
+  - image: /images/art/vangogh_b.jpg
+    small: /images/art/small/vangogh_b.jpg
+    width: 1403
+    height: 1800
+    title: Van Gogh's Chair
 ---
 
 Van Gogh was probably the greatest Dutch artist after Rembrandt. He was a
@@ -77,7 +87,7 @@ to an asylum at Saint-Remy. He was allowed freedom to paint, however, and in
 his clear periods was still productive, but it was there in 1890 that he
 eventually shot himself.
 
-[![Starry Night](/images/art/vangogh_4.jpg){:.image .right}](/images/art/vangogh_4.jpg){:.popup}
+[![Starry Night](/images/art/vangogh_4.jpg){:.image .left}](/images/art/vangogh_4.jpg){:.popup}
 In _Starry Night_ it is easy to see the turbulence of his unbalanced and
 tormented personality behind the vibrant colour and fast and furious brushwork,
 with its characteristic short strokes and swirls of paint. But the painting has
@@ -94,3 +104,17 @@ worlds continuing into infinity and dwarfing our own planet, yet the village
 lights and the church link the earth with them, emphasizing that it is part of
 the same immense creation. It is an intensely religious picture, painted with
 an almost fanatical fervour, and its strength and energy are electrifying.
+
+[![Starry Night Over the Rhône](/images/art/vangogh_7.jpg){:.image .right}](/images/art/vangogh_7.jpg){:.popup}
+Van Gogh's desire to paint a starry night sky was something he mentioned
+repeatedly in his letters throughout 1888. The result was this study of Arles,
+as he described it to Eugene Boch: "The town lighted with gfas reflected in a
+blue river. Over it the starry sky with the Great Bear &mdash; a sparkling of
+pink and green on the cobalt blue field of the night sky, whereas the lights of
+the town and its ruthless reflections are in red gold and bronzed green'.
+
+[![Van Gogh's Chair](/images/art/vangogh_b.jpg){:.image .left}](/images/art/vangogh_b.jpg){:.popup}
+Van Gogh's own "white deal chair", painted as a pendant (companion piece) to
+Gauguin's armchair. Both chairs were symbolic portraits of the two young men,
+painted in a rare period of calm, shortly after Gauguin's arrival at the Yellow
+House in Arles. 
