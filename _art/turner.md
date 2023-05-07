@@ -1,5 +1,5 @@
 ---
-title: JMW Turner
+title: Joseph Mallord William Turner
 born: 1775
 died: 1851
 image: /images/art/turner_2.jpg
@@ -41,7 +41,7 @@ gallery:
     height: 1186
 ---
 
-Joseph Mallord William Turner was one of the two outstanding geniuses of
+JMW Turner was one of the two outstanding geniuses of
 British painting (the other was Constable). His characteristics even fit the
 dictionary definition of genius: unusual capacity for imaginative creation,
 intellectual power, unusual energy and precocity.
