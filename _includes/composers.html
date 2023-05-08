@@ -5,7 +5,7 @@
 		<th>Born</th>
 		<th>Died</th>
 	</tr></thead><tbody>
-	{% for item in site.data.classical %}{% if item.schools contains page.school %}
+	{% for item in site.data.classical | sort: order %}{% if item.schools contains page.school %}
 		<tr>
 		<td data-sort="{{ item.title }}"><a href="/classical/{{ item.name }}">{{ item.title }}</a></td>
 		<td data-sort="{{ item.home }}">{{ item.home }}</td>
