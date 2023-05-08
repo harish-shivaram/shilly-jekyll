@@ -3,14 +3,14 @@ title: A Wrinkle in Time
 author: Madeleine L'Engle
 date: 2023-03-11
 image: /images/books/3140.jpg
-description: 
+description: Not entirely sure which genre to slot this book into, but that's OK, since it would be embarrassing for that genre to count this book in its ilk.
 ---
 
 It was a dark and stormy night.
 
 Out of this wild night, a strange visitor comes to the Murry house and beckons
 Meg, her brother Charles Wallace, and their friend Calvin O'Keefe on a most
-dangerous and extraordinary adventure—one that will threaten their lives and
+dangerous and extraordinary adventure &mdash; one that will threaten their lives and
 our universe.
 
 All the characters are flat &mdash; the genius child, the misfit girl, the
