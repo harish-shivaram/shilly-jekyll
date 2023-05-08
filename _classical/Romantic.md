@@ -2,6 +2,7 @@
 title: Romantic School
 school: Romantic
 layout: post
+lastmod: 2017-11-02
 ---
 
 ## The Romantic Period, 1800–1910

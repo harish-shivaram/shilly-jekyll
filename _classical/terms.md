@@ -1,6 +1,7 @@
 ---
 title: Glossary of Terms
 layout: post
+lastmod: 2017-12-01
 ---
 
 This is a glossary of terms used quite commonly across the world of classical music.
