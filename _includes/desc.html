@@ -1,0 +1,4 @@
+{% if page.collection == 'classical' %} {% assign f = "From " | append: page.home %} {% assign h = f | append: ", " %} {% assign c = h | append: page.country %} {% assign s = ". School: " | append: page.schools %} {% assign desc = c | append: s  %} {%endif%}
+{% if page.collection == 'panorama' %} {% assign desc=page.author %} {%endif %}
+{% if page.collection == 'art' %} {% assign b = page.born | append: " - " %} {% assign desc = b | append: page.died %} {%endif %}
+{% if page.description %}{% assign desc=page.description %}{%endif%}
