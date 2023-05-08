@@ -1,6 +1,7 @@
 ---
 title: George Frideric Handel
 layout: composer
+lastmod: 2017-09-25
 order: 3
 born: 1685
 died: 1759

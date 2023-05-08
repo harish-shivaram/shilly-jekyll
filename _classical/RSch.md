@@ -1,6 +1,7 @@
 ---
 title: Robert Schumann
 layout: composer
+lastmod: 2017-10-04
 order: 12
 born: 1810
 died: 1856

@@ -1,6 +1,7 @@
 ---
 title: Edvard Grieg
 layout: composer
+lastmod: 2017-10-12
 order: 20
 born: 1843
 died: 1907

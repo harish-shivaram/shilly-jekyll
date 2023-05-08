@@ -1,5 +1,6 @@
 ---
 title: Artemisia Gentileschi
+lastmod: 2023-05-02
 born: 1593
 died: 1652
 image: /images/art/artemisia_3.jpg

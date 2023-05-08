@@ -1,5 +1,6 @@
 ---
 title: Henri Matisse
+lastmod: 2023-04-24
 image: /images/art/matisse_1.jpg
 layout: artist
 born: 1869

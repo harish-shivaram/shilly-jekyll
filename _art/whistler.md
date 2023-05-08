@@ -1,5 +1,6 @@
 ---
 title: James Abbott McNeill Whistler
+lastmod: 2023-05-07
 born: 1834
 died: 1903
 image: /images/art/whistler_1.jpg

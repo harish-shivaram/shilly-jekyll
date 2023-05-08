@@ -1,6 +1,7 @@
 ---
 title: Gustav Mahler
 layout: composer
+lastmod: 2017-10-18
 order: 25
 born: 1860
 died: 1911

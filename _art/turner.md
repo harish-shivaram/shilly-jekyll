@@ -1,5 +1,6 @@
 ---
 title: Joseph Mallord William Turner
+lastmod: 2023-05-07
 born: 1775
 died: 1851
 image: /images/art/turner_2.jpg

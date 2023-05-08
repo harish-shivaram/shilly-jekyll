@@ -1,5 +1,6 @@
 ---
 title: Edward Hopper
+lastmod: 2023-04-26
 born: 1882
 died: 1967
 image: /images/art/hopper_3.jpg

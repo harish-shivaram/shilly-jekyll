@@ -1,5 +1,6 @@
 ---
 title: Jackson Pollock
+lastmod: 2023-04-28
 born: 1912
 died: 1956
 image: /images/art/pollock_7.jpg

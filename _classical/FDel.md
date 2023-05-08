@@ -1,6 +1,7 @@
 ---
 title: Frederick Delius
 layout: composer
+lastmod: 2017-10-20
 order: 27
 born: 1862
 died: 1934

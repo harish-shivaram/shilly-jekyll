@@ -1,5 +1,6 @@
 ---
 title: Hieronymous Bosch
+lastmod: 2023-05-03
 layout: artist
 image: /images/art/bosch_1.jpg
 born: 1450

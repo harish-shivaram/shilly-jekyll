@@ -1,6 +1,7 @@
 ---
 title: Felix Mendelssohn
 layout: composer
+lastmod: 2017-10-02
 order: 10
 born: 1809
 died: 1847

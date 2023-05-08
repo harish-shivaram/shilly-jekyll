@@ -1,6 +1,7 @@
 ---
 title: Antonio Vivaldi
 layout: composer
+lastmod: 2017-09-23
 order: 1
 born: 1678
 died: 1741

@@ -1,6 +1,7 @@
 ---
 title: Maurice Ravel
 layout: composer
+lastmod: 2017-10-26
 order: 33
 born: 1875
 died: 1937

@@ -1,6 +1,7 @@
 ---
 title: Peter Ilyitch Tchaikovsky
 layout: composer
+lastmod: 2017-10-10
 order: 18
 born: 1840
 died: 1893

@@ -1,5 +1,6 @@
 ---
 title: Caravaggio
+lastmod: 2023-05-04
 born: 1571
 died: 1610
 image: /images/art/caravaggio_2.jpg

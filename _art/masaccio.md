@@ -1,5 +1,6 @@
 ---
 title: Masaccio
+lastmod: 2023-05-05
 layout: artist
 image: /images/art/masaccio_1.jpg
 born: 1401

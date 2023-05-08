@@ -1,6 +1,7 @@
 ---
 title: Strauss Family
 layout: composer
+lastmod: 2017-10-01
 order: 9
 born: 1804
 died: 1916

@@ -1,6 +1,7 @@
 ---
 title: Zoltán Kodály
 layout: composer
+lastmod: 2017-10-28
 order: 35
 born: 1882
 died: 1967

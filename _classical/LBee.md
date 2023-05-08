@@ -1,6 +1,7 @@
 ---
 title: Ludwig van Beethoven
 layout: composer
+lastmod: 2017-09-28
 order: 6
 born: 1770
 died: 1827

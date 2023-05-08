@@ -1,6 +1,7 @@
 ---
 title: Modeste Mussorgsky
 layout: composer
+lastmod: 2017-10-09
 order: 17
 born: 1839
 died: 1881

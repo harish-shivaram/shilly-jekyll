@@ -1,6 +1,7 @@
 ---
 title: Michael Tippett
 layout: composer
+lastmod: 2017-11-05
 order: 43
 born: 1905
 died: 1998

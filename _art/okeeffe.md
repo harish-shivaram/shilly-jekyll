@@ -1,5 +1,6 @@
 ---
 title: Georgia O'Keeffe
+lastmod: 2023-04-24
 born: 1887
 died: 1986
 image: /images/art/okeeffe_1.jpg

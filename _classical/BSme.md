@@ -1,6 +1,7 @@
 ---
 title: Bedrich Smetana
 layout: composer
+lastmod: 2017-10-07
 order: 15
 born: 1824
 died: 1884

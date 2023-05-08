@@ -1,5 +1,6 @@
 ---
 title: Edvard Munch
+lastmod: 2023-04-27
 image: /images/art/munch_1.jpg
 born: 1863
 died: 1944

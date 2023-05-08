@@ -1,6 +1,7 @@
 ---
 title: Jean Sibelius
 layout: composer
+lastmod: 2017-10-22
 order: 29
 born: 1865
 died: 1957

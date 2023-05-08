@@ -1,6 +1,7 @@
 ---
 title: Richard Wagner
 layout: composer
+lastmod: 2017-10-06
 order: 14
 born: 1813
 died: 1883

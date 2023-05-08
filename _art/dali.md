@@ -1,5 +1,6 @@
 ---
 title: Salvador Dali
+lastmod: 2023-05-04
 layout: artist
 image: /images/art/dali_1.jpg
 born: 1904

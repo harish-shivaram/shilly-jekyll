@@ -1,5 +1,6 @@
 ---
 title: Paul Gauguin
+lastmod: 2023-04-27
 born: 1848
 died: 1903
 image: /images/art/gauguin_1.jpg

@@ -1,5 +1,6 @@
 ---
 title: Tamara Łempicka
+lastmod: 2023-04-24
 born: 1898
 died: 1980
 image: /images/art/lempicka_5.jpg

@@ -1,5 +1,6 @@
 ---
 title: Frida Kahlo
+lastmod: 2023-04-26
 born: 1907
 died: 1954
 image: /images/art/kahlo_1.jpg

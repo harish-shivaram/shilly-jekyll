@@ -1,5 +1,6 @@
 ---
 title: Edgar Degas
+lastmod: 2023-05-04
 layout: artist
 image: /images/art/degas_2.jpg
 born: 1834

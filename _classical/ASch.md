@@ -1,6 +1,7 @@
 ---
 title: Arnold Schoenberg
 layout: composer
+lastmod: 2017-10-25
 order: 32
 born: 1874
 died: 1951

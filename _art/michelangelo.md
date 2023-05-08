@@ -1,5 +1,6 @@
 ---
 title: Michelangelo
+lastmod: 2023-05-06
 layout: artist
 image: /images/art/michelangelo_5.jpg
 born: 1475

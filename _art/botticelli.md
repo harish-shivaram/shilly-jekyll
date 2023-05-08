@@ -1,5 +1,6 @@
 ---
 title: Sandro Botticelli
+lastmod: 2023-05-04
 layout: artist
 image: /images/art/botticelli_1.jpg
 born: 1445

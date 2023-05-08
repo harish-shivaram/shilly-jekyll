@@ -1,6 +1,7 @@
 ---
 title: Aaron Copland
 layout: composer
+lastmod: 2017-11-03
 order: 41
 born: 1900
 died: 1991

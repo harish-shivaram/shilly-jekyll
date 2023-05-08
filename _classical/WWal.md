@@ -1,6 +1,7 @@
 ---
 title: William Walton
 layout: composer
+lastmod: 2017-11-04
 order: 42
 born: 1902
 died: 1983

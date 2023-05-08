@@ -1,6 +1,7 @@
 ---
 title: Wolfgang Amadeus Mozart
 layout: composer
+lastmod: 2017-09-27
 order: 5
 born: 1756
 died: 1791

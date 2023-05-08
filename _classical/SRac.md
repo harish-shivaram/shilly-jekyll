@@ -1,6 +1,7 @@
 ---
 title: Sergei Rachmaninov
 layout: composer
+lastmod: 2017-10-24
 order: 31
 born: 1873
 died: 1943

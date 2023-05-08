@@ -1,6 +1,7 @@
 ---
 title: Ralph Vaughan Williams
 layout: composer
+lastmod: 2017-10-23
 order: 30
 born: 1872
 died: 1958

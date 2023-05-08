@@ -1,6 +1,7 @@
 ---
 title: George Gershwin
 layout: composer
+lastmod: 2017-11-02
 order: 40
 born: 1898
 died: 1937

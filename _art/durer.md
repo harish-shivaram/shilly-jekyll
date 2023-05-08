@@ -1,5 +1,6 @@
 ---
 title: Albrecht Dürer
+lastmod: 2023-05-07
 born: 1471
 died: 1528
 image: /images/art/durer_1.jpg

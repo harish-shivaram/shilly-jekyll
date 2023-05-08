@@ -1,6 +1,7 @@
 ---
 title: Leoš Janáček
 layout: composer
+lastmod: 2017-10-15
 order: 23
 born: 1854
 died: 1928

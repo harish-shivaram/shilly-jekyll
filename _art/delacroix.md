@@ -1,5 +1,6 @@
 ---
 title: Eugène Delacroix
+lastmod: 2023-05-02
 born: 1798
 died: 1863
 image: /images/art/delacroix_1.jpg

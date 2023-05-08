@@ -1,5 +1,6 @@
 ---
 title: Théodore Géricault
+lastmod: 2023-04-25
 layout: artist
 image: /images/art/gericault_1.jpg
 born: 1791

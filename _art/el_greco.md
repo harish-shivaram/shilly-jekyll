@@ -1,5 +1,6 @@
 ---
 title: El Greco
+lastmod: 2023-04-25
 layout: artist
 image: /images/art/elgreco_1.jpg
 born: 1541

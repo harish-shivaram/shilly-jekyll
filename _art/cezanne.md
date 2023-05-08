@@ -1,5 +1,6 @@
 ---
 title: Paul Cézanne
+lastmod: 2023-05-04
 layout: artist
 image: /images/art/cezanne_1.jpg
 born: 1839

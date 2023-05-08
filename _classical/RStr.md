@@ -1,6 +1,7 @@
 ---
 title: Richard Strauss
 layout: composer
+lastmod: 2017-10-21
 order: 28
 born: 1864
 died: 1949

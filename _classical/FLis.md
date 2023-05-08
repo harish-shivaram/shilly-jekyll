@@ -1,6 +1,7 @@
 ---
 title: Franz Liszt
 layout: composer
+lastmod: 2017-10-05
 order: 13
 born: 1811
 died: 1886

@@ -1,6 +1,7 @@
 ---
 title: Nikolai Rimsky-Korsakov
 layout: composer
+lastmod: 2017-10-13
 order: 21
 born: 1844
 died: 1908

@@ -1,6 +1,7 @@
 ---
 title: Benjamin Britten
 layout: composer
+lastmod: 2017-11-07
 order: 45
 born: 1913
 died: 1976

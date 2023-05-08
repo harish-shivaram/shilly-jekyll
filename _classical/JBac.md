@@ -1,6 +1,7 @@
 ---
 title: Johann Sebastian Bach
 layout: composer
+lastmod: 2017-09-24
 order: 2
 born: 1685
 died: 1750

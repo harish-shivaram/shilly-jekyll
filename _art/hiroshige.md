@@ -1,5 +1,6 @@
 ---
 title: Hiroshige Utagawa
+lastmod: 2023-04-24
 image: /images/art/hiroshige_1.jpg
 born: 1797
 died: 1858

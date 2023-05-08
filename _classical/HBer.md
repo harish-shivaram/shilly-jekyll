@@ -1,6 +1,7 @@
 ---
 title: Hector Berlioz
 layout: composer
+lastmod: 2017-09-30
 order: 8
 born: 1803
 died: 1869

@@ -1,6 +1,7 @@
 ---
 title: Johannes Brahms
 layout: composer
+lastmod: 2017-10-08
 order: 16
 born: 1833
 died: 1897

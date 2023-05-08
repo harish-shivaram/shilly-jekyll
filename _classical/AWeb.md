@@ -1,6 +1,7 @@
 ---
 title: Anton Webern
 layout: composer
+lastmod: 2017-10-30
 order: 37
 born: 1883
 died: 1945

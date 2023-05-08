@@ -1,5 +1,6 @@
 ---
 title: Vincent van Gogh
+lastmod: 2023-05-07
 born: 1853
 died: 1890
 image: /images/art/vangogh_4.jpg

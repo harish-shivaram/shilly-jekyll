@@ -1,5 +1,6 @@
 ---
 title: Banksy
+lastmod: 2023-04-26
 born: 1973
 died: "?"
 image: /images/art/banksy_1.jpg

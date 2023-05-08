@@ -1,6 +1,7 @@
 ---
 title: Dimitri Shostakovich
 layout: composer
+lastmod: 2017-11-06
 order: 44
 born: 1906
 died: 1975

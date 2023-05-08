@@ -1,5 +1,6 @@
 ---
 title: Jan van Eyck
+lastmod: 2023-04-23
 layout: artist
 image: /images/art/vaneyck_1.jpg
 born: 1390

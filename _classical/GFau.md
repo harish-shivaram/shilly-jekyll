@@ -1,6 +1,7 @@
 ---
 title: Gabriel Fauré
 layout: composer
+lastmod: 2017-10-14
 order: 22
 born: 1845
 died: 1924

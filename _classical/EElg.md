@@ -1,6 +1,7 @@
 ---
 title: Edward Elgar
 layout: composer
+lastmod: 2017-10-17
 order: 24
 born: 1857
 died: 1934

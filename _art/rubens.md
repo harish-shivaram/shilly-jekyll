@@ -1,5 +1,6 @@
 ---
 title: Peter Paul Rubens
+lastmod: 2023-05-06
 layout: artist
 image: /images/art/rubens_1.jpg
 born: 1577

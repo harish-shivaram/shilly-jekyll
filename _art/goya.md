@@ -1,5 +1,6 @@
 ---
 title: Francisco Goya
+lastmod: 2023-04-25
 image: /images/art/goya_1.jpg
 layout: artist
 born: 1746

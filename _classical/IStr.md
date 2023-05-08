@@ -1,6 +1,7 @@
 ---
 title: Igor Stravinsky
 layout: composer
+lastmod: 2017-10-29
 order: 36
 born: 1882
 died: 1971

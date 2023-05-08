@@ -1,6 +1,7 @@
 ---
 title: Sergei Prokofiev
 layout: composer
+lastmod: 2017-11-01
 order: 39
 born: 1891
 died: 1953

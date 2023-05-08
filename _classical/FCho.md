@@ -1,6 +1,7 @@
 ---
 title: Frederic Chopin
 layout: composer
+lastmod: 2017-10-03
 order: 11
 born: 1810
 died: 1849

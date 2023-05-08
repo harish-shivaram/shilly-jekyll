@@ -1,6 +1,7 @@
 ---
 title: Alban Berg
 layout: composer
+lastmod: 2017-10-31
 order: 38
 born: 1885
 died: 1935

@@ -1,5 +1,6 @@
 ---
 title: Gustav Klimt
+lastmod: 2023-05-03
 layout: artist
 image: /images/art/klimt_5.jpg
 born: 1862

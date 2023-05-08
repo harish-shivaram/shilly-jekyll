@@ -1,5 +1,6 @@
 ---
 title: Claude Monet
+lastmod: 2023-04-26
 layout: artist
 image: /images/art/monet_1.jpg
 born: 1840

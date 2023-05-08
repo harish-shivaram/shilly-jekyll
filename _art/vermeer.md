@@ -1,5 +1,6 @@
 ---
 title: Johannes Vermeer
+lastmod: 2023-04-23
 layout: artist
 image: /images/art/vermeer_1.jpg
 born: 1632

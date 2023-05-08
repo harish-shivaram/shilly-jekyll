@@ -1,6 +1,7 @@
 ---
 title: Claude Debussy
 layout: composer
+lastmod: 2017-10-19
 order: 26
 born: 1862
 died: 1918

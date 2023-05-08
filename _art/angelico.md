@@ -1,5 +1,6 @@
 ---
 title: Fra Angelico
+lastmod: 2023-05-03
 image: /images/art/angelico_1.jpg
 born: 1400
 died: 1455

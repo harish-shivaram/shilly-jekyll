@@ -1,6 +1,7 @@
 ---
 title: Franz Schubert
 layout: composer
+lastmod: 2017-09-29
 order: 7
 born: 1797
 died: 1828

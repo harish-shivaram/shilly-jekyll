@@ -1,6 +1,7 @@
 ---
 title: Antonín Dvořák
 layout: composer
+lastmod: 2017-10-11
 order: 19
 born: 1841
 died: 1904

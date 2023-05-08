@@ -1,5 +1,6 @@
 ---
 title: Raphael (Raffaello Sanzio da Urbino)
+lastmod: 2023-04-23
 layout: artist
 image: /images/art/raphael_1.jpg
 born: 1483

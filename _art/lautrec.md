@@ -1,5 +1,6 @@
 ---
 title: Henri de Toulouse-Lautrec
+lastmod: 2023-04-28
 born: 1864
 died: 1901
 image: /images/art/lautrec_1.jpg

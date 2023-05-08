@@ -1,5 +1,6 @@
 ---
 title: René Magritte
+lastmod: 2023-05-05
 born: 1898
 died: 1967
 image: /images/art/magritte_2.jpg

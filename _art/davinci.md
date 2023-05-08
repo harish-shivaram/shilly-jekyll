@@ -1,5 +1,6 @@
 ---
 title: Leonardo da Vinci
+lastmod: 2023-04-28
 born: 1452
 died: 1519
 image: /images/art/davinci_1.jpg

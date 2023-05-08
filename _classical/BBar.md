@@ -1,6 +1,7 @@
 ---
 title: Béla Bartók
 layout: composer
+lastmod: 2017-10-27
 order: 34
 born: 1881
 died: 1945

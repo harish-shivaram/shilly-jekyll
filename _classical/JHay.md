@@ -1,6 +1,7 @@
 ---
 title: Joseph Haydn
 layout: composer
+lastmod: 2017-09-26
 order: 4
 born: 1732
 died: 1809
