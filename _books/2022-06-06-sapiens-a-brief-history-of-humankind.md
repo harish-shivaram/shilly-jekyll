@@ -1,5 +1,5 @@
 ---
-title: Sapiens- A Brief History of Humankind
+title: "Sapiens: A Brief History of Humankind"
 Author: Yuval Noah Harari
 date: 2022-06-06
 image: /images/books/3113.jpg
