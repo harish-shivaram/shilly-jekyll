@@ -1,6 +1,6 @@
 ---
 title: The Windup Girl
-Author: Paolo Bacigalupi
+author: Paolo Bacigalupi
 date: 2020-01-31
 image: /images/books/3110.jpg
 description: A probable near-future scenario with rampant climate change and biological warfare.

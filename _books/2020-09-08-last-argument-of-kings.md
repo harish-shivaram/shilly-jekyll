@@ -1,6 +1,6 @@
 ---
 title: Last Argument of Kings
-Author: Joe Abercrombie
+author: Joe Abercrombie
 date: 2020-09-08
 image: /images/books/3117.jpg
 description: Final installment of the "First Law" trilogy. A worthy finale which highlights all the shades of grey...

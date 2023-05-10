@@ -1,6 +1,6 @@
 ---
 title: "Sapiens: A Brief History of Humankind"
-Author: Yuval Noah Harari
+author: Yuval Noah Harari
 date: 2022-06-06
 image: /images/books/3113.jpg
 description: It's like a common man's version of Guns, Germs and Steel by Jared Diamond. But where Diamond's book is a scientific treatise, this one has a more narrative structure along with some insightful conclusions

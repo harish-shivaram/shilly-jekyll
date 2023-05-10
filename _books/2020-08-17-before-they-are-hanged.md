@@ -1,6 +1,6 @@
 ---
 title: Before They Are Hanged
-Author: Joe Abercrombie
+author: Joe Abercrombie
 date: 2020-08-17
 image: /images/books/3116.jpg
 description: Sequel to "The Blade Itself", there are three POVs again; a road trip led by a Wizard, a colonel struggling against a huge foe and an inquisitor fighting traitors and conspirators

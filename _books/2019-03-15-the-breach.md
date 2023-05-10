@@ -1,6 +1,6 @@
 ---
 title: The Breach
-Author: Patrick Lee
+author: Patrick Lee
 date: 2019-03-15
 image: /images/books/3106.jpg
 description: What is that thing that came through the breach?

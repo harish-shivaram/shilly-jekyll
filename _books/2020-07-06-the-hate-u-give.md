@@ -1,6 +1,6 @@
 ---
 title: The Hate U Give
-Author: Angie Thomas
+author: Angie Thomas
 date: 2020-07-06
 image: /images/books/3112.jpg
 description: A look into the minds of the victims of racist police brutality, and what sends them over the breaking point

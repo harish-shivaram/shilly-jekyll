@@ -1,6 +1,6 @@
 ---
 title: Altered Carbon
-Author: Richard Morgan
+author: Richard Morgan
 date: 2019-01-05
 image: /images/books/3101.jpg
 description: A mish-mash that works

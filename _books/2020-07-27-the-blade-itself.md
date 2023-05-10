@@ -1,6 +1,6 @@
 ---
 title: The Blade Itself
-Author: Joe Abercrombie
+author: Joe Abercrombie
 date: 2020-07-27
 image: /images/books/3115.jpg
 description: Dark and gritty grimdark fantasy novel that doesn't rely on typical fantasy clichés
