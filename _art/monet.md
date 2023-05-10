@@ -46,6 +46,26 @@ gallery:
     title: Poplars on the Epte
     width: 1576
     height: 1553
+  - image: /images/art/monet_9.jpg
+    small: /images/art/small/monet_9.jpg
+    width: 900
+    height: 674
+    title: The Poppy Field near Argenteuil
+  - image: /images/art/monet_a.jpg
+    small: /images/art/small/monet_a.jpg
+    width: 2207
+    height: 1651
+    title: Bain à la Grenouillère
+  - image: /images/art/monet_b.jpg
+    small: /images/art/small/monet_b.jpg
+    width: 1800
+    height: 2237
+    title: Woman with a Parasol - Madame Monet and Her Son
+  - image: /images/art/monet_c.jpg
+    small: /images/art/small/monet_c.jpg
+    width: 2164
+    height: 1582
+    title: La Gare Saint-Lazare
 ---
 
 It was from one of Claude Monet’s paintings &mdash; Impression , Sunrise
@@ -59,6 +79,7 @@ exasperated and depressed him. He was reduced to scrounging from his friends
 and patrons just to survive, and frequently had to sacrifice finished work by
 scraping off the paint in order to use the canvas again.
 
+[![Women in the Garden](/images/art/monet_1.jpg){:.image .right}](/images/art/monet_1.jpg){:.popup}
 He spent the summer of 1866 at Ville d’Avray, near Paris, and it was there that
 he painted _Women in the Garden_. He worked, as usual, out of doors, and had a
 trench dug in the garden into which his huge canvas &mdash; about
@@ -68,7 +89,6 @@ more than anything, and he was concerned to reveal the fact that colour only
 exists in terms of light, and that it changes in all the normal variations of
 daylight and shadow.
 
-[![Women in the Garden](/images/art/monet_1.jpg){:.image .right}](/images/art/monet_1.jpg){:.popup}
 The scene in the garden is a study of the effects of sunlight filtering through
 leaves, casting dark shadows and dappling the figures of the four women (who
 were all modelled by Monet’s mistress Camille).  Roses are in bloom, the trees
@@ -91,6 +111,17 @@ He is generally considered to be the greatest of all the Impressionist
 painters.  He had an astonishing ability to observe and record a scene with a
 fresh eye, as free as possible from influences and conventions, and to paint
 exactly what lay before him as if he were seeing for the first time.
+
+[![La Gare Saint-Lazare](/images/art/monet_c.jpg){:.image .left}](/images/art/monet_c.jpg){:.popup}
+One of a series of twelve railway station pictures, created at different times
+of the day. For his most ambitious study of the urban landscape, Monet chose
+Saint-Lazare, gateway to his beloved Normandy. He concentrated on the
+full-spectrum effects of light, smoke and steam, building cloud shapes with
+curly brushstrokes. Monet was a master at adapting strokes to show how light
+affects texture and form.
+
+[![Haystacks](/images/art/monet_6.jpg){:.image .right}](/images/art/monet_6.jpg){:.popup}
+After _La Gare Saint-Lazare_, Monet subsequently embarked on other series &mdash; haystacks, Rouen cathedral and the waterlilies at Giverny &mdash; each a painstaking demonstration that atmospheric colour, caused by changes in the light, can modulate a subject through the entire spectrum.
 
 In spite of his destitute state, he more than anyone stuck to the ideals of
 Impressionism throughout his long life without deviating, and he was a great
