@@ -3,6 +3,7 @@ title: Jean-Antoine Watteau
 born: 1684
 died: 1721
 image: /images/art/watteau_1.jpg
+lastmod: 2023-05-10
 gallery:
   - image: /images/art/watteau_1.jpg
     small: /images/art/small/watteau_1.jpg

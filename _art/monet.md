@@ -1,8 +1,8 @@
 ---
 title: Claude Monet
-lastmod: 2023-04-26
 layout: artist
 image: /images/art/monet_1.jpg
+lastmod: 2023-05-10
 born: 1840
 died: 1926
 gallery:

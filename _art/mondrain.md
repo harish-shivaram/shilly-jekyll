@@ -3,6 +3,7 @@ title: Piet Mondrain
 born: 1872
 died: 1944
 image: /images/art/mondrain_1.jpg
+lastmod: 2023-05-09
 gallery:
   - image: /images/art/mondrain_1.jpg
     small: /images/art/small/mondrain_1.jpg

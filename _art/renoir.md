@@ -3,6 +3,7 @@ title: Pierre-Auguste Renoir
 born: 1841
 image: /images/art/renoir_1.jpg
 died: 1919
+lastmod: 2023-05-10
 gallery:
   - image: /images/art/renoir_1.jpg
     small: /images/art/small/renoir_1.jpg
