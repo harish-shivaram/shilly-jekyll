@@ -50,6 +50,11 @@ gallery:
     width: 661
     height: 960
     title: The Happy Donor
+  - image: /images/art/magritte_a.jpg
+    small: /images/art/small/magritte_a.jpg
+    width: 697
+    height: 600
+    title: Roof of the World
 ---
 
 René Magritte was the son of a Belgian businessman, and the eldest of three
