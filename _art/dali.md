@@ -1,6 +1,6 @@
 ---
 title: Salvador Dali
-lastmod: 2023-05-04
+lastmod: 2023-05-12
 layout: artist
 image: /images/art/dali_1.jpg
 born: 1904
@@ -51,6 +51,21 @@ gallery:
     title: Invisible Afghan with the Apparition on the Beach of the Face of Garcia Lorca in the Form of a Fruit Dish with Three Figs
     width: 1400
     height: 1050
+  - image: /images/art/dali_a.jpg
+    small: /images/art/small/dali_a.jpg
+    width: 776
+    height: 1036
+    title: The Burning Giraffe
+  - image: /images/art/dali_b.jpg
+    small: /images/art/small/dali_b.jpg
+    width: 1500
+    height: 1075
+    title: Metamorphosis of Narcissus
+  - image: /images/art/dali_c.jpg
+    small: /images/art/small/dali_c.jpg
+    width: 3088
+    height: 2305
+    title: Tuna Fishing
 ---
 
 Perhaps the most spectacular personality in twentieth-century painting is
