@@ -1,6 +1,6 @@
 ---
 title: Johannes Vermeer
-lastmod: 2023-04-23
+lastmod: 2023-05-12
 layout: artist
 image: /images/art/vermeer_1.jpg
 born: 1632
@@ -13,7 +13,7 @@ gallery:
     height: 1918
   - image: /images/art/vermeer_2.jpg
     small: /images/art/small/vermeer_2.jpg
-    title: The Milkmaid
+    title: The Milkmaid (The Kitchen Maid)
     width: 1600
     height: 1794
   - image: /images/art/vermeer_3.jpg
@@ -26,6 +26,21 @@ gallery:
     title: View of Delft
     width: 1800
     height: 1495
+  - image: /images/art/vermeer_5.jpg
+    small: /images/art/small/vermeer_5.jpg
+    width: 1596
+    height: 1830
+    title: The Lacemaker
+  - image: /images/art/vermeer_6.jpg
+    small: /images/art/small/vermeer_6.jpg
+    width: 1800
+    height: 1659
+    title: Diana and her Companions
+  - image: /images/art/vermeer_7.jpg
+    small: /images/art/small/vermeer_7.jpg
+    width: 1548
+    height: 1924
+    title: Saint Praxedis
 ---
 
 On the basis of some thirty-six small surviving pictures, Vermeer is now
@@ -44,14 +59,13 @@ is bathed with light, for the play of light on domestic objects and
 furnishings, and above all on people, fascinated Vermeer.  He used it to
 brilliant effect in bringing out the depth and clarity of his colours.
 
-
-[![The Girl with the Pearl Earring](/images/art/vermeer_1.jpg){:.image .right}](/images/art/vermeer_1.jpg){:.popup}
 Whereas other masters concentrated on official portraits, still life and scenes
 from stories, Vermeer became one of the world’s greatest painters of women. He
 captured them at private moments, writing letters or poised to play a musical
 instrument, as though they were unobserved, and showed their strength and
 vulnerability, straightforwardness and mystery.
 
+[![The Girl with the Pearl Earring](/images/art/vermeer_1.jpg){:.image .right}](/images/art/vermeer_1.jpg){:.popup}
 The identity of Vermeer’s models is uncertain, but he did have eleven children,
 and it is thought that this may be one of his daughters. Her turban may be part
 of the Turkish-style costumes, probably dressing-up clothes, which were among
@@ -69,6 +83,14 @@ back and balance the upward tilt of her head. The extraordinarily luminous
 colours of the turban and the girl’s pale skin are accentuated by the deep
 shadow of the background, which seems to recede and throw them into relief in
 an almost mesmerizing way.
+
+[![The Astronomer](/images/art/vermeer_3.jpg){:.image .left}](/images/art/vermeer_3.jpg){:.popup}
+This painting reminds us that Vermeer lived in an age of scientific discovery.
+He grew up in Delft with the inventor of the microscope, van Leeuwenboek, who
+after Vermeer's death, became trustee for his estate. The astronomer's globe
+was made by Hondius in 1600. It sits on a table draped with an exotic cloth and
+the anstronomer wears a flowing gown, as if the scholarly scientific future has
+still to contend with the superstitious past.
 
 Vermeer was one of the greatest masters of light and colour there has ever
 been, and his small calm paintings shine with a wonderful intensity.
