@@ -36,6 +36,21 @@ gallery:
     width: 1330
     height: 1783
     title: The Virgin and Child with St. Anne
+  - image: /images/art/davinci_7.jpg
+    small: /images/art/small/davinci_7.jpg
+    width: 1054
+    height: 1600
+    title: Bacchus (restored)
+  - image: /images/art/davinci_8.jpg
+    small: /images/art/small/davinci_8.jpg
+    width: 1928
+    height: 1828
+    title: Adoration of the Magi
+  - image: /images/art/davinci_9.jpg
+    small: /images/art/small/davinci_9.jpg
+    width: 2434
+    height: 1104
+    title: The Annunciation
 ---
 
 Leonardo, born in the small village of Vinci in Tuscany, was the illegitimate
