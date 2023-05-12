@@ -1,6 +1,6 @@
 ---
 title: Rembrandt
-lastmod: 2023-04-23
+lastmod: 2023-05-10
 layout: artist
 image: /images/art/rembrandt_1.jpg
 born: 1606

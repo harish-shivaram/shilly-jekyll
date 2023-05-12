@@ -46,6 +46,11 @@ gallery:
     title: Poplars on the Epte
     width: 1576
     height: 1553
+  - image: /images/art/monet_b.jpg
+    small: /images/art/small/monet_b.jpg
+    width: 1800
+    height: 2237
+    title: Woman with a Parasol - Madame Monet and Her Son
   - image: /images/art/monet_9.jpg
     small: /images/art/small/monet_9.jpg
     width: 900
@@ -56,16 +61,16 @@ gallery:
     width: 2207
     height: 1651
     title: Bain à la Grenouillère
-  - image: /images/art/monet_b.jpg
-    small: /images/art/small/monet_b.jpg
-    width: 1800
-    height: 2237
-    title: Woman with a Parasol - Madame Monet and Her Son
   - image: /images/art/monet_c.jpg
     small: /images/art/small/monet_c.jpg
     width: 2164
     height: 1582
     title: La Gare Saint-Lazare
+  - image: /images/art/monet_d.jpg
+    small: /images/art/small/monet_d.jpg
+    width: 977
+    height: 871
+    title:  The Artist's Garden in Giverny
 ---
 
 It was from one of Claude Monet’s paintings &mdash; Impression , Sunrise
