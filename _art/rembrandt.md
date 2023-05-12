@@ -41,6 +41,21 @@ gallery:
     title: The Hundred Guilder Print
     width: 1507
     height: 1094
+  - image: /images/art/rembrandt_8.jpg
+    small: /images/art/small/rembrandt_8.jpg
+    width: 1800
+    height: 1674
+    title: Judith at the Banquet for Holofernes (Artemisia)
+  - image: /images/art/rembrandt_9.jpg
+    small: /images/art/small/rembrandt_9.jpg
+    width: 1434
+    height: 1600
+    title: David and Uriah
+  - image: /images/art/rembrandt_a.jpg
+    small: /images/art/small/rembrandt_a.jpg
+    width: 1501
+    height: 1866
+    title: The Storm on the Sea of Galilee
 ---
 
 Rembrandt ranks with the greatest artists of all time, outstandingly gifted as
