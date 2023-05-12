@@ -1,6 +1,6 @@
 ---
 title: Peter Paul Rubens
-lastmod: 2023-05-06
+lastmod: 2023-05-12
 layout: artist
 image: /images/art/rubens_1.jpg
 born: 1577
@@ -51,6 +51,21 @@ gallery:
     width: 1800
     height: 1629
     title: Samson and Delilah
+  - image: /images/art/rubens_a.jpg
+    small: /images/art/small/rubens_a.jpg
+    width: 1775
+    height: 1780
+    title: Alethea Talbot with attendants and Sir Dudley Carleton
+  - image: /images/art/rubens_b.jpg
+    small: /images/art/small/rubens_b.jpg
+    width: 1855
+    height: 1995
+    title: The Rape of the Daughters of Leucippus
+  - image: /images/art/rubens_c.jpg
+    small: /images/art/small/rubens_c.jpg
+    width: 1296
+    height: 1920
+    title: The Assumption of the Virgin
 ---
 
 The Prince of Painters was the name given to the Flemish artist Sir Peter Paul
