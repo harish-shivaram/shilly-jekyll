@@ -1,6 +1,6 @@
 ---
 title: Édouard Manet
-lastmod: 2023-05-08
+lastmod: 2023-05-12
 born: 1832
 died: 1883
 image: /images/art/manet_1.jpg
@@ -50,6 +50,21 @@ gallery:
     width: 800
     height: 1101
     title: Lola de Valence
+  - image: /images/art/manet_a.jpg
+    small: /images/art/small/manet_a.jpg
+    width: 1704
+    height: 1388
+    title: The Railway
+  - image: /images/art/manet_b.jpg
+    small: /images/art/small/manet_b.jpg
+    width: 1250
+    height: 1582
+    title: Rochefort's Escape
+  - image: /images/art/manet_c.jpg
+    small: /images/art/small/manet_c.jpg
+    width: 1906
+    height: 1175
+    title: The Monet Family in their Garden at Argenteuil
 ---
 
 Manet came from a comfortable middle-class Parisian background &mdash; his
@@ -91,3 +106,16 @@ shown them in a wooded country setting, with a woman bathing in a pool in the
 background, and a soft light filtering through the trees, highlighting the pale
 flesh against the rich deep greens of the grass. The flesh tones are contrasted
 so dramatically with their dark background as to seem almost luminous.
+
+[![Music in the Tuileries](/images/art/manet_5.jpg){:.image .left}](/images/art/manet_5.jpg){:.popup}
+_Music in the Tuileries_ is a statement of Manet’s desire to paint in an
+entirely new way. It is chaotic, dynamic and most importantly, it is modern.
+The figures do not appear to be posed or static, they are living, breathing
+people who inhabit urban Paris.
+
+The irony of this piece is that despite its title, no music is seen being played.
+
+There are no musicians, no instruments, and no obvious performances taking
+place. In this way, the piece contrasts with Manet’s earlier works that feature
+music and musicians such as _Spanish Guitarist_, _Street Singer_ and _Old
+Musician_.
