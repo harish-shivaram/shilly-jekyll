@@ -1,6 +1,6 @@
 ---
 title: Raphael (Raffaello Sanzio da Urbino)
-lastmod: 2023-04-23
+lastmod: 2023-05-12
 layout: artist
 image: /images/art/raphael_1.jpg
 born: 1483
@@ -31,6 +31,21 @@ gallery:
     title: The Wedding of the Virgin
     width: 1134
     height: 1626
+  - image: /images/art/raphael_6.jpg
+    small: /images/art/small/raphael_6.jpg
+    width: 1000
+    height: 1222
+    title: Triumph of Galatea
+  - image: /images/art/raphael_7.jpg
+    small: /images/art/small/raphael_7.jpg
+    width: 1561
+    height: 1800
+    title: Aldobrandini Madonna (Garvagh Madonna)
+  - image: /images/art/raphael_8.jpg
+    small: /images/art/small/raphael_8.jpg
+    width: 1400
+    height: 1448
+    title: The Deposition of Christ
 ---
 
 So remarkable was Raphael’s talent that he became known as ‘the boy genius’;
