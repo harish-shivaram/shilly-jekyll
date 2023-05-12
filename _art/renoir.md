@@ -3,7 +3,7 @@ title: Pierre-Auguste Renoir
 born: 1841
 image: /images/art/renoir_1.jpg
 died: 1919
-lastmod: 2023-05-10
+lastmod: 2023-05-12
 gallery:
   - image: /images/art/renoir_1.jpg
     small: /images/art/small/renoir_1.jpg
@@ -55,6 +55,11 @@ gallery:
     width: 564
     height: 700
     title: Blonde Bather
+  - image: /images/art/renoir_f.jpg
+    small: /images/art/small/renoir_f.jpg
+    width: 1576
+    height: 2971
+    title: Dance at Bougival
   - image: /images/art/renoir_b.jpg
     small: /images/art/small/renoir_b.jpg
     width: 2018
@@ -75,16 +80,26 @@ gallery:
     width: 1075
     height: 1690 
     title: The Umbrellas
-  - image: /images/art/renoir_f.jpg
-    small: /images/art/small/renoir_f.jpg
-    width: 1576
-    height: 2971
-    title: Dance at Bougival
   - image: /images/art/renoir_g.jpg
     small: /images/art/small/renoir_g.jpg
     width: 1214
     height: 1516
     title: The Theater Box
+  - image: /images/art/renoir_h.jpg
+    small: /images/art/small/renoir_h.jpg
+    width: 1500
+    height: 1244
+    title: Lunch at the Restaurant Fournaise
+  - image: /images/art/renoir_i.jpg
+    small: /images/art/small/renoir_i.jpg
+    width: 1915
+    height: 1529
+    title: Le Pont Neuf
+  - image: /images/art/renoir_j.jpg
+    small: /images/art/small/renoir_j.jpg
+    width: 1397
+    height: 1760
+    title: By The Seashore
 ---
 
 Renoir came from a poor Parisian family - his father was a tailor, his mother a
