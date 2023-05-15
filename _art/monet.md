@@ -2,7 +2,7 @@
 title: Claude Monet
 layout: artist
 image: /images/art/monet_1.jpg
-lastmod: 2023-05-10
+lastmod: 2023-05-15
 born: 1840
 died: 1926
 gallery:
@@ -16,11 +16,6 @@ gallery:
     title: Impression, Sunrise
     width: 1443
     height: 1120
-  - image: /images/art/monet_3.jpg
-    small: /images/art/small/monet_3.jpg
-    title: Rouen Cathedral
-    width: 559 
-    height: 874 
   - image: /images/art/monet_4.jpg
     small: /images/art/small/monet_4.jpg
     title: Houses of Parliament, London
@@ -31,6 +26,11 @@ gallery:
     title: Water Lilies and Japanese Bridge
     width: 1992
     height: 1957
+  - image: /images/art/monet_d.jpg
+    small: /images/art/small/monet_d.jpg
+    width: 977
+    height: 871
+    title:  The Artist's Garden in Giverny
   - image: /images/art/monet_5.jpg
     small: /images/art/small/monet_5.jpg
     title: Water Lilies
@@ -51,6 +51,11 @@ gallery:
     width: 1800
     height: 2237
     title: Woman with a Parasol - Madame Monet and Her Son
+  - image: /images/art/monet_3.jpg
+    small: /images/art/small/monet_3.jpg
+    title: Rouen Cathedral
+    width: 559 
+    height: 874 
   - image: /images/art/monet_9.jpg
     small: /images/art/small/monet_9.jpg
     width: 900
@@ -66,11 +71,11 @@ gallery:
     width: 2164
     height: 1582
     title: La Gare Saint-Lazare
-  - image: /images/art/monet_d.jpg
-    small: /images/art/small/monet_d.jpg
-    width: 977
-    height: 871
-    title:  The Artist's Garden in Giverny
+  - image: /images/art/monet_e.jpg
+    small: /images/art/small/monet_e.jpg
+    width: 1984
+    height: 1406
+    title: San Giorgio Maggiore at Dusk
 ---
 
 It was from one of Claude Monet’s paintings &mdash; Impression , Sunrise
