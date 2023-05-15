@@ -1,6 +1,6 @@
 ---
 title: Paul Cézanne
-lastmod: 2023-05-04
+lastmod: 2023-05-15
 layout: artist
 image: /images/art/cezanne_1.jpg
 born: 1839
@@ -23,7 +23,7 @@ gallery:
     height: 992
   - image: /images/art/cezanne_4.jpg
     small: /images/art/small/cezanne_4.jpg
-    title: The Bathers
+    title: The Bathers (Les Grandes Baigneuses)
     width: 1149
     height: 961 
   - image: /images/art/cezanne_5.jpg
@@ -31,6 +31,21 @@ gallery:
     title: Apothéose de Delacroix
     width: 1498
     height: 1153
+  - image: /images/art/cezanne_6.jpg
+    small: /images/art/small/cezanne_6.jpg
+    width: 1038
+    height: 829
+    title: Pyramid of Skulls
+  - image: /images/art/cezanne_7.jpg
+    small: /images/art/small/cezanne_7.jpg
+    width: 1775
+    height: 1402
+    title: The Basket of Apples
+  - image: /images/art/cezanne_8.jpg
+    small: /images/art/small/cezanne_8.jpg
+    width: 1422
+    height: 1861
+    title: Madame Cézanne in a Yellow Armchair
 ---
 
 The work of Paul Cézanne has had such a far-reaching influence that he has been
