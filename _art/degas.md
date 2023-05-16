@@ -1,6 +1,6 @@
 ---
 title: Edgar Degas
-lastmod: 2023-05-04
+lastmod: 2023-05-16
 layout: artist
 image: /images/art/degas_2.jpg
 born: 1834
@@ -26,6 +26,11 @@ gallery:
     title: The Tub
     width: 1316
     height: 960
+  - image: /images/art/degas_8.jpg
+    small: /images/art/small/degas_8.jpg
+    width: 1280
+    height: 1668
+    title: Ballerina Posing for a Photographer
   - image: /images/art/degas_5.jpg
     small: /images/art/small/degas_5.jpg
     title: The Dance Foyer at the Opera on the rue Le Peletier
@@ -41,6 +46,16 @@ gallery:
     title: The Orchestra of the Opera
     width: 1333
     height: 1627 
+  - image: /images/art/degas_9.jpg
+    small: /images/art/small/degas_9.jpg
+    width: 1044
+    height: 1920
+    title: Fin d'Arabesque
+  - image: /images/art/degas_a.jpg
+    small: /images/art/small/degas_a.jpg
+    width: 1906
+    height: 1409
+    title: The Rehearsal On Stage
 ---
 
 Degas, born in Paris, was the son of a wealthy banker, and for most of his life
