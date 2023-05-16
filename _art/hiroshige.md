@@ -23,7 +23,7 @@ gallery:
 ---
 
 Utagawa Hiroshige was a leading exponent of _ukiyo-e_ &mdash; 'Pictures of the floating
-world' during the last half century of its existence as a Japaense art form.
+world' during the last half century of its existence as a Japanese art form.
 Ukiyo-e originated in the late seventeenth century, dedicated to the pursuit
 of pleasure in everyday urban life and based on popular idols taken from the
 ranks of courtesans and actors.
@@ -46,7 +46,7 @@ stations of the Tokaido Road_. His characteristically shaded sky registers
 twilight over a mountain village engulfed in snow, through which three people
 are struggling home. Snow, rain or mist are favoured background conditions
 against which Hiroshige sets his travellers, often depicted crossing each
-others' paths, emphasizing the transcience of existence.
+others' paths, emphasizing the transience of existence.
 
 Working in the nineteenth century, Hiroshige and Hokusai each preferred to
 creates landscapes rather than portraits of actors, wrestlers, poets and

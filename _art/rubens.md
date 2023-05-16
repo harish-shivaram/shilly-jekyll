@@ -115,10 +115,15 @@ presentation of Jesus at the Temple of Jerusalem.
 Drawing upon his Latin school education, Rubens produced scores of elaborate
 altarpieces and allegorical ceilings. He was adept at painting supposedly
 Christian virtue but giving it a subversive sinuosity; the voluptuous features
-of hisnudes are deliberately exaggerated to emphasize fecundity and freedom
+of his nudes are deliberately exaggerated to emphasize fecundity and freedom
 from want.
 
-One of a cycle of 21 paintings for the Palais de Luxembourg, commissioned by the French dowager queen Marie de Medici to depict her life. Rubens prepared hundreds of master sketches for his studio to work from. It was no easy task diplomatically either, since the queen was quarrelsome, far from attractive and had wasted huge amounts of money without achieving anything remarkable in her life. To Rubens' credit, he left a satisfied customer on completion.
+One of a cycle of 21 paintings for the Palais de Luxembourg, commissioned by
+the French dowager queen Marie de Medici to depict her life. Rubens prepared
+hundreds of master sketches for his studio to work from. It was no easy task
+diplomatically either, since the queen was quarrelsome, far from attractive and
+had wasted huge amounts of money without achieving anything remarkable in her
+life. To Rubens' credit, he left a satisfied customer on completion.
 
 Rubens was an exceptionally talented, energetic and prolific painter, a
 favourite at the court of Philip IV of Spain, knighted by Charles I of England,

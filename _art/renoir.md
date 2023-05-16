@@ -132,12 +132,12 @@ to be the servant, not the master, and that he would attempt to express form
 more carefully by tonal relationships. Not that he altered his palette; Renoir
 kept to the bright colours he had always favoured. In his later works, Renoir's
 experimentation brought an outpouring of monumental nudes and sensual young
-women with luminiscent skin.
+women with luminescent skin.
 
 [![Bal du moulin de la Galette](/images/art/renoir_1.jpg){:.image .right}](/images/art/renoir_1.jpg){:.popup}
 The attraction of _Le Moulin de la Galette_ is largely the result of Renoir’s
 preoccupation with a technical problem: the portrayal of dappled sunlight
-filtering through trees and illuminating the danc- ing, chattering figures
+filtering through trees and illuminating the dancing, chattering figures
 underneath, and he has mastered it with a wonderful delicacy.
 
 He was fascinated by the pearly tints of female flesh, and frequently used this

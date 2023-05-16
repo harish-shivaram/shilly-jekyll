@@ -75,7 +75,7 @@ journey to Cythera, or if the mood is one of sweet regret that the day on the
 island of love is over and they must return; but this exquisite painting has an
 atmosphere of wistful melancholy, implying the transitory nature of happiness
 and life itself. It reflects the restlessness of Watteau’s temperament and his
-strivings after perfection; and it is one of the most haunting and delicate
+striving after perfection; and it is one of the most haunting and delicate
 examples of French eighteenth-century art.
 
 [![Pierrot](/images/art/watteau_3.jpg){:.image .left}](/images/art/watteau_3.jpg){:.popup}

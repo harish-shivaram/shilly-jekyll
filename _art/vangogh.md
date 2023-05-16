@@ -109,7 +109,7 @@ an almost fanatical fervour, and its strength and energy are electrifying.
 [![Starry Night Over the Rhône](/images/art/vangogh_7.jpg){:.image .right}](/images/art/vangogh_7.jpg){:.popup}
 Van Gogh's desire to paint a starry night sky was something he mentioned
 repeatedly in his letters throughout 1888. The result was this study of Arles,
-as he described it to Eugene Boch: "The town lighted with gfas reflected in a
+as he described it to Eugene Boch: "The town lighted with gas reflected in a
 blue river. Over it the starry sky with the Great Bear &mdash; a sparkling of
 pink and green on the cobalt blue field of the night sky, whereas the lights of
 the town and its ruthless reflections are in red gold and bronzed green'.

@@ -72,7 +72,7 @@ and he was tortured by anxieties and self-doubts.
 "Your civilization is your disease; my barbarism is my restoration to health. I
 am a savage". Gauguin's bold, non-naturalistic style in _Primitive Tales_
 evolved while working with Van Gogh's friend, Emile Bernard. Strong decorative
-lines and flat, bright colurs were inspired by simple woodcuts and Japanese
+lines and flat, bright colours were inspired by simple woodcuts and Japanese
 prints.
 
 [![Where Do We Come From? What Are We? Where Are We Going?](/images/art/gauguin_1.jpg){:.image .right}](/images/art/gauguin_1.jpg){:.popup}

@@ -73,12 +73,12 @@ a result very few finished paintings by him exist.
 
 [![Mona Lisa](/images/art/davinci_1.jpg){:.image .right}](/images/art/davinci_1.jpg){:.popup}
 He worked on the _Mona Lisa_ for nearly four years, and it was completed around 1503.
-Mona comes from madonna meaning madam, and the woman is thought to be the
+Mona comes from Madonna meaning madam, and the woman is thought to be the
 wife of the silk merchant Francesco del Giocondo (the picture is also
 known as La Gioconda). She would have been about twenty-four when Leonardo
 began her portrait. Her identity is not entirely certain &mdash; the painting itself
 has few specific clues &mdash; and the power of the picture has probably been
-enhanced by the mystery surounding it.
+enhanced by the mystery surrounding it.
 
 We know the figure was framed originally by two stone columns as well as by the
 parapet behind her. Her body is turned at a slight angle and her eyes gaze

@@ -53,7 +53,7 @@ teaching career in favour of the artist's life itself, and later still, to his
 embrace of Theosophy.
 
 This mystical belief system &mdash; in humanity's evolution towards spiritual
-unity &mdash; ws popular in the West at that time, not least amongst the
+unity &mdash; was popular in the West at that time, not least amongst the
 pioneers of abstract art, Kandinsky and Malevich. Mondrain encounter with
 Cubism in 1911 was the critical point of his artistic development, when he
 removed natural forms from his pictorial vocabulary. Together with Theosophy,

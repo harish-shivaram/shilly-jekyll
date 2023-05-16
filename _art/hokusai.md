@@ -65,7 +65,7 @@ gallery:
 Hokusai was responsible for a phenomenal 30,000 works of art. He lived for
 nothing else and was driven to perfect his style with every new undertaking.
 Between the ages of sixty-four and seventy-two he had a burst of creativity
-that resulted in several major seriesof woodblock prints, including _The
+that resulted in several major series of woodblock prints, including _The
 Thirty-Six Views of Mount Fuji_.
 
 As a youth, Hokusai was on a constant quest for his artistic niche. After a
@@ -85,7 +85,7 @@ ensuing work went into twelve volumes of the Hokusai Manga (sketchbooks)
 published in 1814.
 
 But it was _ukiyo-e_ &mdash; pictures of the floating world &mdash; that made
-the reverse journey in the late nineteenth centure to complete a circle of
+the reverse journey in the late nineteenth century to complete a circle of
 influences and reveal to a delighted Europe the glories of Japanese print.
 
 [![The Great Wave off Kanagawa (Thirty-six Views of Mount Fuji)](/images/art/hokusai_1.jpg){:.image .right}](/images/art/hokusai_1.jpg){:.popup}

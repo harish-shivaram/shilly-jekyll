@@ -89,7 +89,7 @@ This painting reminds us that Vermeer lived in an age of scientific discovery.
 He grew up in Delft with the inventor of the microscope, van Leeuwenboek, who
 after Vermeer's death, became trustee for his estate. The astronomer's globe
 was made by Hondius in 1600. It sits on a table draped with an exotic cloth and
-the anstronomer wears a flowing gown, as if the scholarly scientific future has
+the astronomer wears a flowing gown, as if the scholarly scientific future has
 still to contend with the superstitious past.
 
 Vermeer was one of the greatest masters of light and colour there has ever

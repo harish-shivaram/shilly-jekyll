@@ -97,7 +97,7 @@ movement and atmosphere of his subject.
 _The Orchestra of the Opera_ is the first of a series of canvases featuring
 orchestral musicians. This is a portrait of Degas's friend Désiré Dihau,
 democratically placed among other members of the orchestra just below a bright
-freize of dancers in the stage footlights. The work is relatively early and
+frieze of dancers in the stage footlights. The work is relatively early and
 hints of Ingres and Delacroix, both admired by Degas. Degas and Delacroix both
 had a scientific interest in colour theory and pigments.
 

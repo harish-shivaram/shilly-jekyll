@@ -73,6 +73,6 @@ heightens the feeling that we are present at a mysterious and magical event,
 depicted with the delicate beauty which characterizes Botticelli’s work.
 
 The inscription in _The Mystical Nativity_ referring to the Apocalypse and the
-"troubles of italy" is in both Greek and Latin. Botticelli had used an archaic
+"troubles of Italy" is in both Greek and Latin. Botticelli had used an archaic
 device that magnifies the Virgin and Child; altogether, the picture is calling
 for a return to medieval morality.

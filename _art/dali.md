@@ -113,10 +113,10 @@ Mediterranean light create a clinically accurate illusion of reality, which is
 alarming, amusing and brilliantly inventive.
 
 [![Invisible Afghan with the Apparition on the Beach of the Face of Garcia Lorca in the Form of a Fruit Dish with Three Figs](/images/art/dali_9.jpg){:.image .left}](/images/art/dali_9.jpg){:.popup}
-The "paranoic-critical" method used in Dali's "hand-painted dream photographs"
+The "paranoiac-critical" method used in Dali's "hand-painted dream photographs"
 involved perceiving more than one image in a configuration. The dominant image
 here is a face constructed from an urn and two men's heads; the figs are formed
-by the rocks beyond. The oultine of the Afghan hound takes shape through the
+by the rocks beyond. The outline of the Afghan hound takes shape through the
 windswept clouds, its head resting on the cliffs and its paws on the sand.
 Dali's friend, the poet Lorca, had been killed in the Spanish Civil War in 1936
 and this may explain his apparition.

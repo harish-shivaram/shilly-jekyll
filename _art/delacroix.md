@@ -65,7 +65,7 @@ barefoot through a field littered with corpses, and behind her is an armed band
 of men and boys, determined and ruthless in their fight for freedom from
 oppression. They are armed with swords, muskets, pistols and even rocks as they
 march through the streets of Paris. In the distance are the towers of Notre
-Dame amid a low-lying haze of gunsmoke.
+Dame amid a low-lying haze of gun smoke.
 
 In Delacroix’s crowded composition there is an underlying order; the figure of
 Liberty and the two bodies in front of her form a triangle, and the use of red
@@ -85,6 +85,6 @@ seek the means to express passion in the manner visible."
 Inspired by Gericault's treatment of the theme of suffering, Delacroix presents
 a harrowing scene from the Greek rebellion against the Turks, which roused many
 Europeans (including Byron) to their cause. The painting was bought at the
-Salon of 1824 by the French government, perhaps by Talleyrand in covery support
+Salon of 1824 by the French government, perhaps by Talleyrand in covert support
 of his son. Significantly, at the same Salon, Delacroix encountered Constable's
-_Haywain_.
+_Hay-wain_.

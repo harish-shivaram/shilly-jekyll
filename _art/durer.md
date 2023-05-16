@@ -102,7 +102,7 @@ hapless humans. An angel watches over the landscape, which is framed by
 majestic clouds and beams of light. The three horsemen are recognized in the
 Scripture primarily by the colors of their horses.
 
-Dürer, forced to work in grayscale owing to the limitations of the woodcut
+Dürer, forced to work in gray-scale owing to the limitations of the woodcut
 technique, clearly portrays their weaponry &mdash; trident, sword, a set of
 scales, and a bow &mdash; as defining features. Death is also identified as an
 old weary figure with a beard riding a malnourished stallion.

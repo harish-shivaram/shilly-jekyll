@@ -54,7 +54,7 @@ uterus and abdomen.
 
 She started painting after her accident, but she was always interested in art;
 her father was a photographer, and Kahlo would assist in his studio as well as
-learn drawing from Fernando Fernandez, who was a printmaker and friend of her
+learn drawing from Fernando Fernandez, who was a print-maker and friend of her
 father’s. Kahlo produced numerous notable paintings throughout her career, all
 inspired by her rich inner world as well as her passion for politics, activism,
 and her heritage.

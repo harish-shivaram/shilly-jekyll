@@ -31,7 +31,7 @@ Artemisia Gentileschi's early education consisted entirely of painting; in
 fact she couldn't read or write until she was an adult. She studied initially
 with her painter father and in this way she met Caravaggio, whose chiaroscuro
 style impressed her so much that she was drawn to Baroque drama and
-expressiveness. She was her own modelk for her firt version of _Susannah and
+expressiveness. She was her own model for her first version of _Susannah and
 the Elders_, painted when she was only seventeen.
 
 But at nineteen, Gentileschi was raped by her tutor Agostino Tassi. Her father
