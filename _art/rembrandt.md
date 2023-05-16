@@ -56,6 +56,16 @@ gallery:
     width: 1501
     height: 1866
     title: The Storm on the Sea of Galilee
+  - image: /images/art/rembrandt_b.jpg
+    small: /images/art/small/rembrandt_b.jpg
+    width: 795
+    height: 1045
+    title: Archangel Raphael Leaving the Family of Tobias
+  - image: /images/art/rembrandt_c.jpg
+    small: /images/art/small/rembrandt_c.jpg
+    width: 1008
+    height: 1280
+    title: Portrait of the Young Saskia
 ---
 
 Rembrandt ranks with the greatest artists of all time, outstandingly gifted as
@@ -126,3 +136,8 @@ three most important characters among the crowd: the two men in the centre
 (from whom the painting gets its original title), and the woman in the
 centre-left background carrying a chicken. Behind them, the company's colours
 are carried by the ensign. The figures are almost life-size. 
+
+[![Archangel Raphael Leaving the Family of Tobias](/images/art/rembrandt_b.jpg){:.image .right}](/images/art/rembrandt_b.jpg){:.popup}
+The Archangel Raphael helps Tobias to restore his father's sight and then flies
+off in a Baroque flurry of foreshortened limbs, wings and drapery. But most
+impressive of all is Rembrandt's masterful chiaroscuro.
