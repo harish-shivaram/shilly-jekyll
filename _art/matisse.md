@@ -6,36 +6,51 @@ layout: artist
 born: 1869
 died: 1954
 gallery:
- - image: /images/art/matisse_1.jpg
-   small: /images/art/small/matisse_1.jpg
-   title: La Danse
-   width: 2000
-   height: 1329
- - image: /images/art/matisse_2.jpg
-   small: /images/art/small/matisse_2.jpg
-   title: Woman in a Hat
-   width: 1214
-   height: 1653
- - image: /images/art/matisse_3.jpg
-   small: /images/art/small/matisse_3.jpg
-   title: Le bonheur de vivre (The Joy of Life)
-   width: 1088
-   height: 784
- - image: /images/art/matisse_4.jpg
-   small: /images/art/small/matisse_4.jpg
-   title: Nu Bleu (Blue Nude)
-   width: 2000
-   height: 1315
- - image: /images/art/matisse_5.jpg
-   small: /images/art/small/matisse_5.jpg
-   title: L'Atelier Rouge (The Red Studio)
-   width: 1447
-   height: 1185
- - image: /images/art/matisse_6.jpg
-   small: /images/art/small/matisse_6.jpg
-   title: L'Escargot (The Snail)
-   width: 1188
-   height: 1200
+  - image: /images/art/matisse_1.jpg
+    small: /images/art/small/matisse_1.jpg
+    title: La Danse
+    width: 2000
+    height: 1329
+  - image: /images/art/matisse_2.jpg
+    small: /images/art/small/matisse_2.jpg
+    title: Woman in a Hat
+    width: 1214
+    height: 1653
+  - image: /images/art/matisse_3.jpg
+    small: /images/art/small/matisse_3.jpg
+    title: Le bonheur de vivre (The Joy of Life)
+    width: 1088
+    height: 784
+  - image: /images/art/matisse_4.jpg
+    small: /images/art/small/matisse_4.jpg
+    title: Nu Bleu (Blue Nude)
+    width: 2000
+    height: 1315
+  - image: /images/art/matisse_5.jpg
+    small: /images/art/small/matisse_5.jpg
+    title: L'Atelier Rouge (The Red Studio)
+    width: 1447
+    height: 1185
+  - image: /images/art/matisse_6.jpg
+    small: /images/art/small/matisse_6.jpg
+    title: L'Escargot (The Snail)
+    width: 1188
+    height: 1200
+  - image: /images/art/matisse_7.jpg
+    small: /images/art/small/matisse_7.jpg
+    width: 1128
+    height: 938
+    title: Les toits de Collioure (View of Collioure)
+  - image: /images/art/matisse_8.jpg
+    small: /images/art/small/matisse_8.jpg
+    width: 1395
+    height: 1742
+    title: Green Stripe
+  - image: /images/art/matisse_9.jpg
+    small: /images/art/small/matisse_9.jpg
+    width: 812
+    height: 1021
+    title: Madras Rouge
 ---
 
 Matisse had an orderly and brilliant academic mind; he would probably have been
