@@ -20,6 +20,21 @@ gallery:
     title: The Sick Child
     width: 1785
     height: 1800
+  - image: /images/art/munch_4.jpg
+    small: /images/art/small/munch_4.jpg
+    width: 1280
+    height: 1005
+    title: Love and Pain (Vampire)
+  - image: /images/art/munch_5.jpg
+    small: /images/art/small/munch_5.jpg
+    width: 1318
+    height: 1950
+    title: Girl By The Window
+  - image: /images/art/munch_6.jpg
+    small: /images/art/small/munch_6.jpg
+    width: 2000
+    height: 1824
+    title: Two Women on the Shore
 ---
 
 _The Scream_ is one of the most disturbing and famous paintings of modern
