@@ -21,6 +21,21 @@ gallery:
     title: The Sideshow
     width: 1960
     height: 1311
+  - image: /images/art/seurat_4.jpg
+    small: /images/art/small/seurat_4.jpg
+    width: 1612
+    height: 1957
+    title: Le Chahut (Can-Can)
+  - image: /images/art/seurat_5.jpg
+    small: /images/art/small/seurat_5.jpg
+    width: 1800
+    height: 1465
+    title: The Lighthouse at Honfleur
+  - image: /images/art/seurat_6.jpg
+    small: /images/art/small/seurat_6.jpg
+    width: 1755
+    height: 1442
+    title: Gray Weather, Grand Jatte
 ---
 
 Georges Seurat’s brief life included a short academic art training in Paris, a
