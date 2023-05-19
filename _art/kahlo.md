@@ -35,6 +35,26 @@ gallery:
     width: 848
     height: 1106
     title: Self-Portrait with Thorn Necklace and Hummingbird
+  - image: /images/art/kahlo_7.jpg
+    small: /images/art/small/kahlo_7.jpg
+    width: 1074
+    height: 1589
+    title: Fulang-Chang and I
+  - image: /images/art/kahlo_8.jpg
+    small: /images/art/small/kahlo_8.jpg
+    width: 1533
+    height: 2000
+    title: Self-Portrait dedicated to Leon Trotsky
+  - image: /images/art/kahlo_9.jpg
+    small: /images/art/small/kahlo_9.jpg
+    width: 976
+    height: 1400
+    title: Self-Portrait with Cropped Hair
+  - image: /images/art/kahlo_a.jpg
+    small: /images/art/small/kahlo_a.jpg
+    width: 1000
+    height: 879
+    title: My Grandparents, My Parents and I
 ---
 
 The Mexican artist and feminist icon was a performance artist of paint, using
