@@ -5,41 +5,51 @@ born: 1887
 died: 1986
 image: /images/art/okeeffe_1.jpg
 gallery:
- -  image: /images/art/okeeffe_1.jpg
+  - image: /images/art/okeeffe_1.jpg
     small: /images/art/small/okeeffe_1.jpg
     title: "Cow’s Skull: Red, White, and Blue"
     width: 1076
     height: 1200
- -  image: /images/art/okeeffe_2.jpg
+  - image: /images/art/okeeffe_2.jpg
     small: /images/art/small/okeeffe_2.jpg
     title: Jimson Weed, White Flower No. 1
     width: 600
     height: 731
- -  image: /images/art/okeeffe_3.jpg
+  - image: /images/art/okeeffe_3.jpg
     small: /images/art/small/okeeffe_3.jpg
     title: Oriental Poppies
     width: 1948
     height: 1434
- -  image: /images/art/okeeffe_4.jpg
+  - image: /images/art/okeeffe_4.jpg
     small: /images/art/small/okeeffe_4.jpg
     title: Ram’s Head White Hollyhock and Little Hills
     width: 1536
     height: 1288
- -  image: /images/art/okeeffe_5.jpg
+  - image: /images/art/okeeffe_5.jpg
     small: /images/art/small/okeeffe_5.jpg
     title: Blue and Green Music
     width: 642
     height: 768
- -  image: /images/art/okeeffe_6.jpg
+  - image: /images/art/okeeffe_6.jpg
     small: /images/art/small/okeeffe_6.jpg
     title: Sky Above Clouds IV
     width: 804
     height: 456
- -  image: /images/art/okeeffe_7.jpg
+  - image: /images/art/okeeffe_7.jpg
     small: /images/art/small/okeeffe_7.jpg
     title: Summer Days
     width: 1329
     height: 1600
+  - image: /images/art/okeeffe_8.jpg
+    small: /images/art/small/okeeffe_8.jpg
+    width: 843
+    height: 1260
+    title: Cow's Skill with Calico Roses
+  - image: /images/art/okeeffe_9.jpg
+    small: /images/art/small/okeeffe_9.jpg
+    width: 2048
+    height: 1294
+    title: Black Place
 ---
 
 Georgia Totto O'Keeffe was an American modernist artist. She was known for her
