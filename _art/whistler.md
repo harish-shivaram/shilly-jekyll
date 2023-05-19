@@ -20,6 +20,11 @@ gallery:
     width: 1124
     height: 1485
     title: "Nocturne: Blue and Gold - Old Battersea Bridge"
+  - image: /images/art/whistler_4.jpg
+    small: /images/art/small/whistler_4.jpg
+    width: 840
+    height: 1024
+    title: "Arrangement in Grey and Black, No. 2: Portrait of Thomas Carlyle"
 ---
 
 Whistler was born in America and spent much of his life in England, and both
