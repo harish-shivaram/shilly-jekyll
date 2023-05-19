@@ -55,6 +55,11 @@ gallery:
     width: 697
     height: 600
     title: Roof of the World
+  - image: /images/art/magritte_b.jpg
+    small: /images/art/small/magritte_b.jpg
+    width: 1585
+    height: 1200
+    title: Mysteries of the Horizon
 ---
 
 René Magritte was the son of a Belgian businessman, and the eldest of three

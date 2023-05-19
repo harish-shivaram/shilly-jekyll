@@ -51,6 +51,11 @@ gallery:
     width: 812
     height: 1021
     title: Madras Rouge
+  - image: /images/art/matisse_a.jpg
+    small: /images/art/small/matisse_a.jpg
+    width: 531
+    height: 800
+    title: Goldfish
 ---
 
 Matisse had an orderly and brilliant academic mind; he would probably have been
