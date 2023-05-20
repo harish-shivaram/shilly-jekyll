@@ -2,7 +2,7 @@
   link: /books/
   long: Book Reviews and a reader log
   img: /images/front/books.jpg
-  hover: slide-top
+  hover: push-top
 - name: Art
   long: Appreciating Art
   link: /art/
@@ -12,29 +12,29 @@
   link: /comics/
   long: Comic and Graphic novel reviews and reader log
   img: /images/front/comics.jpg
-  hover: slide-top
+  hover: push-top
 - name: Self-Hosted
   link: /selfhosted/
   img: /images/front/selfhosted.jpg
   long: Adventures with Self hosting
-  hover: slide-right
+  hover: push-left
 - name: Travelogues
   link: /trips/
   long: Travelogues and travel photo galleries
   img: /images/front/trips.jpg
-  hover: slide-left
+  hover: push-right
 - name: Panorama
   link: /panorama/
   long: "Panorama: A Selection of Poems"
   img: /images/front/panorama.jpg
-  hover: slide-bottom
+  hover: push-bottom
 - name: Blog
   long: An old, unmaintained Blog
   img: /images/front/blog.jpg
   link: /blog/
-  hover: slide-bottom
+  hover: push-bottom
 - name: Classical
   long: All about Classical Music
   img: /images/front/classical.jpg
   link: /classical/
-  hover: slide-bottom
+  hover: push-bottom
