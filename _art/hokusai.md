@@ -60,6 +60,21 @@ gallery:
     width: 1600
     height: 1069
     title: Tenma Bridge in Setsu Province (Rare Views of Famous Japanese Bridges)
+  - image: /images/art/hokusai_c.jpg
+    small: /images/art/small/hokusai_c.jpg
+    width: 1950
+    height: 1341
+    title: Fujimigahara in Owari Province (Thirty-six Views of Mount Fuji)
+  - image: /images/art/hokusai_d.jpg
+    small: /images/art/small/hokusai_d.jpg
+    width: 843
+    height: 1124
+    title: Bullfinch and Weeping Cherry Blossoms (Small Flowers)
+  - image: /images/art/hokusai_e.jpg
+    small: /images/art/small/hokusai_e.jpg
+    width: 1794
+    height: 1179
+    title: Kajikazawa in Kai Province (Thirty-six Views of Mount Fuji)
 ---
 
 Hokusai was responsible for a phenomenal 30,000 works of art. He lived for
