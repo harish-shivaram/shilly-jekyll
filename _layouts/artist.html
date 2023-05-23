@@ -1,0 +1,51 @@
+{%include top.html %}
+<!-- Content-->
+<div class="wil-content">
+	<!-- Section -->
+	<section class="awe-section">
+		<div class="container">
+			<!-- page-title -->
+			<div class="page-title pb-40">
+				{% include breadcrumbs.html %}
+				<h1 class="page-title__title">{{page.title}}</h1>
+				<div class="post-detail__meta">
+					<p>( {{page.born}} &mdash; {{page.died}} )</p>
+				</div>
+				<p class="page-title__text">{{page.description}}</p>
+				<div class="page-title__divider"></div>
+			</div><!-- End / page-title -->
+		</div>
+	</section>
+	<!-- End / Section -->
+
+	<!-- Section -->
+	<section class="awe-section bg-gray">
+		<div class="container">
+			<!--  -->
+			<div>
+				<div class="post__media grid-of-images" id="pswp-grid-of-images">
+					{% for inf in page.gallery %}<div class="pswp-gallery__item">
+
+					<a href="{{inf.image}}" title="{{inf.title}}" data-pswp-width="{{inf.width}}" data-pswp-height="{{inf.height}}">
+						<img src="{{inf.small}}" height="200" alt="{{inf.title}}"/>
+					</a></div>
+					{%endfor%}
+				</div>
+				<div class="post-detail__entry row">
+					<div class="col-md-12 post__text">
+						{{content}}
+					</div>
+				</div>
+			</div><!-- End /  -->
+		</div>
+	</section>
+
+	<section class="awe-section">
+		<div class="container">
+			{% include disqus.html %}
+		</div>
+	</section>
+	
+</div>
+<!-- End / Content-->
+{%include bottom.html%}

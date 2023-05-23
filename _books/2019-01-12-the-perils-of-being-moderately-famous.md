@@ -1,9 +1,8 @@
 ---
 title: The Perils of being Moderately Famous
-Author: Soha Ali Khan
+author: Soha Ali Khan
 date: 2019-01-12
-image: /images/blog/3102.jpg
-layout: post
+image: /images/books/3102.jpg
 description: Does a pea under the mattress really bother a princess?
 ---
 

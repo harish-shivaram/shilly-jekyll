@@ -1,9 +1,8 @@
 ---
 title: The Palace of Illusions
-Author: Chitra Banerjee Divakaruni
+author: Chitra Banerjee Divakaruni
 date: 2019-01-26
-image: /images/blog/3104.jpg
-layout: post
+image: /images/books/3104.jpg
 description: Inside the mind of the fire-born one
 ---
 

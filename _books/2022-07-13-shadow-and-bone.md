@@ -2,8 +2,7 @@
 title: Shadow and Bone
 author: Leigh Bardugo
 date: 2022-07-13
-image: /images/blog/3128.jpg
-layout: post
+image: /images/books/3128.jpg
 description: First book of a YA fantasy series with excellent and rich world building and complex characters who are not all stark black-and-white.
 ---
 

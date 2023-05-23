@@ -2,8 +2,7 @@
 title: The Water Knife
 author: Paolo Bacigalupi
 date: 2022-07-01
-image: /images/blog/3127.jpg
-layout: post
+image: /images/books/3127.jpg
 description: Paolo's second ecological dystopian (cli-fi?) novel sets the action in the arid American south west, where water is the most precious commodity.
 ---
 

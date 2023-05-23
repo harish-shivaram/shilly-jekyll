@@ -1,9 +1,8 @@
 ---
 title: The Maze Runner
-Author: James Dashner
+author: James Dashner
 date: 2021-04-19
-image: /images/blog/3120.jpg
-layout: post
+image: /images/books/3120.jpg
 description: Another young-adult dystopian science fiction, in the mould of The Hunger Games
 ---
 

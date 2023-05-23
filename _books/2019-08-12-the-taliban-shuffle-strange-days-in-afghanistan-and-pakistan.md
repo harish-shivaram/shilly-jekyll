@@ -1,9 +1,8 @@
 ---
-title: The Taliban Shuffle- Strange Days in Afghanistan and Pakistan
-Author: Kim Barker
+title: "The Taliban Shuffle: Strange Days in Afghanistan and Pakistan"
+author: Kim Barker
 date: 2019-08-12
-image: /images/blog/3108.jpg
-layout: post
+image: /images/books/3108.jpg
 description: Whiskey! Tango! Foxtrot!
 ---
 

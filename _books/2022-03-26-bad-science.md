@@ -2,8 +2,7 @@
 title: Bad Science
 author: Ben Goldacre
 date: 2022-03-26
-image: /images/blog/3124.jpg
-layout: post
+image: /images/books/3124.jpg
 description: Medical doctor Ben Goldacre disassembles some of the biggest bullshitters supposedly sharing medical, health and/or nutrition theories or even cures at best just placebos, or at worse harmful, who in many cases have their voices amplified by the media.
 ---
 

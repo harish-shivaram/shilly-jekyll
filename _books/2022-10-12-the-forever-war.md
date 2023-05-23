@@ -2,8 +2,7 @@
 title: The Forever War
 author: Joe Haldeman
 date: 2022-10-12
-image: /images/blog/3132.jpg
-layout: post
+image: /images/books/3132.jpg
 description: Caught in an war he doesn't want to be in, and completely disconnected from the very world he is fighting for, Mandella's war goes on... forever!
 ---
 

@@ -2,8 +2,7 @@
 title: Sharp Objects
 author: Gillian Flynn
 date: 2022-03-12
-image: /images/blog/3126.jpg
-layout: post
+image: /images/books/3126.jpg
 description: Disturbing story. Disturbing characters. This book will make you feel uncomfortable, that's what Gillian Flynn does best!
 ---
 

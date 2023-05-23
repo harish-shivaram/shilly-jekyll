@@ -1,9 +1,8 @@
 ---
 title: Project Hail Mary
 author: Andy Weir
-layout: post
 description: This book is half science experiments, half wacky buddy comedy — and it just works so well! That nerdy glee I felt on every page of The Martian is back full force. 
-image: /images/blog/3122.jpg
+image: /images/books/3122.jpg
 ---
 
 Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and the earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it.

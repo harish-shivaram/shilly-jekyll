@@ -53,6 +53,7 @@ collections:
     output: true
     permalink: /classical/:title/
   books:
+    label: Books
     output: true
     sort_by: date
     permalink: /books/:title/
@@ -62,19 +63,54 @@ collections:
   posts:
     output: true
     permalink: /blog/:title/
+  art:
+    output: true
+    permalink: /art/:title/
 
 defaults:
 - scope:
-    path: ''
     type: comics
   values:
     layout: page
+    collabel: Comics
+    colurl: /comics
 - scope:
-    path: ''
     type: panorama
   values:
     layout: page
-
+    collabel: Panorama
+    colurl: /panorama
+- scope:
+    type: art
+  values:
+    layout: artist
+    needpopup: true
+    collabel: Appreciating Art
+    colurl: /art
+- scope:
+    type: classical
+  values:
+    needsortable: true
+    collabel: Classical
+    colurl: /classical
+- scope:
+    type: books
+  values:
+    layout: post
+    collabel: Books
+    colurl: /books
+- scope:
+    type: trips
+  values:
+    layout: post
+    collabel: Travelogues
+    colurl: /trips
+- scope:
+    type: posts
+  values:
+    layout: post
+    collabel: Blog
+    colurl: /blog
 
 autopages:
   enabled: false
