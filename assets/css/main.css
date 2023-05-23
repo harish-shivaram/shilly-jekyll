@@ -2000,7 +2000,7 @@ ul {
 }
 
 .page-title__text {
-    font-size: 16px;
+    font-size: 18px;
     color: #a3a3a3;
 }
 
@@ -2054,7 +2054,7 @@ ul {
 
 .post-detail__meta {
     text-transform: capitalize;
-    font-size: 16px;
+    font-size: 20px;
     margin-bottom: 40px;
 }
 
@@ -2115,7 +2115,7 @@ ul {
 }
 
 .post__text {
-    font-size: 18px;
+    font-size: 20px;
     /* color: #c0c0c0; */
     margin-bottom: 20px;
 }
