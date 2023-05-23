@@ -42,8 +42,8 @@ gallery:
     height: 1186
 ---
 
-JMW Turner was one of the two outstanding geniuses of
-British painting (the other was Constable). His characteristics even fit the
+JMW Turner was one of the two outstanding geniuses of British painting (the
+other was [Constable](/art/constable)). His characteristics even fit the
 dictionary definition of genius: unusual capacity for imaginative creation,
 intellectual power, unusual energy and precocity.
 

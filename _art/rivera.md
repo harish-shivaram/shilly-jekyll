@@ -45,11 +45,11 @@ Francisco, Detroit and New York City.
 A government scholarship enabled Rivera to study art at the Academy of San
 Carlos in Mexico City from age 10, and a grant from the governor of Veracruz
 enabled him to continue his studies in Europe in 1907. He studied in Spain and
-in 1909 settled in Paris, where he became a friend of Pablo Picasso, Georges
-Braque, and other leading modern painters. About 1917 he abandoned the Cubist
-style in his own work and moved closer to the Post-Impressionism of Paul
-Cézanne, adopting a visual language of simplified forms and bold areas of
-colour.
+in 1909 settled in Paris, where he became a friend of [Pablo
+Picasso](/art/picasso), Georges Braque, and other leading modern painters.
+About 1917 he abandoned the Cubist style in his own work and moved closer to
+the Post-Impressionism of Paul Cézanne, adopting a visual language of
+simplified forms and bold areas of colour.
 
 On returning to Mexico, Rivera painted his first important mural, _Creation_,
 for the Bolívar Auditorium of the National Preparatory School in Mexico City.

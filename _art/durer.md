@@ -88,14 +88,13 @@ It is a portrait of self-scrutiny, maybe even self-promotion, and it embodies a
 great deal of the artist’s character and attitudes as well as his genius as a
 draughtsman.
 
-[![The Four Horseman of the Apocalypse
-(Colourized)](/images/art/durer_2a.jpg){:.image
-.left}](/images/art/durer_2a.jpg){:.popup} Dürer realized that prints made his
-art available to the widest possible public and hired an agent to sell them in
-the fairs and markets of Europe. The Apocalypse was Dürer's earliest major
-series, illustrating the Book of Revelation with the Scripture on the reverse.
-His interpretation of the four horsemen &mdash; War, Famine, Pestilence and
-Death &mdash; has never been surpassed.
+[![The Four Horseman of the Apocalypse (Colourized)](/images/art/durer_2a.jpg){:.image .left}](/images/art/durer_2a.jpg){:.popup}
+Dürer realized that prints made his art available to the widest possible public
+and hired an agent to sell them in the fairs and markets of Europe. The
+Apocalypse was Dürer's earliest major series, illustrating the Book of
+Revelation with the Scripture on the reverse. His interpretation of the four
+horsemen &mdash; War, Famine, Pestilence and Death &mdash; has never been
+surpassed.
 
 The Four Horsemen are riding their steeds and treading on a gathering of
 hapless humans. An angel watches over the landscape, which is framed by

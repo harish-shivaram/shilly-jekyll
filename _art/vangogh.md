@@ -62,13 +62,13 @@ gallery:
     title: Van Gogh's Chair
 ---
 
-Van Gogh was probably the greatest Dutch artist after Rembrandt. He was a
-bitterly unhappy and lonely man, and we know a good deal about his inner life
-as a result of a massive, stirring and deeply moving autobiography in the form
-of hundreds of letters written to his brother Theo. These described how his
-paintings and drawings attempted to give shape to his feelings; they were cries
-of anguish in his passionate and ultimately destructive search for
-self-knowledge.
+Van Gogh was probably the greatest Dutch artist after
+[Rembrandt](/art/rembrandt). He was a bitterly unhappy and lonely man, and we
+know a good deal about his inner life as a result of a massive, stirring and
+deeply moving autobiography in the form of hundreds of letters written to his
+brother Theo. These described how his paintings and drawings attempted to give
+shape to his feelings; they were cries of anguish in his passionate and
+ultimately destructive search for self-knowledge.
 
 He was a man of deep religious belief, the son of a minister, and he was both
 lay preacher and missionary in a coal-mining district of Belgium before he took
@@ -117,5 +117,5 @@ the town and its ruthless reflections are in red gold and bronzed green'.
 [![Van Gogh's Chair](/images/art/vangogh_b.jpg){:.image .left}](/images/art/vangogh_b.jpg){:.popup}
 Van Gogh's own "white deal chair", painted as a pendant (companion piece) to
 Gauguin's armchair. Both chairs were symbolic portraits of the two young men,
-painted in a rare period of calm, shortly after Gauguin's arrival at the Yellow
-House in Arles. 
+painted in a rare period of calm, shortly after [Gauguin](/art/gauguin)'s
+arrival at the Yellow House in Arles. 

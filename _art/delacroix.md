@@ -39,12 +39,13 @@ suggested that Talleyrand, the great politician and statesman, was Delacroix’s
 real father. In any event a network of connections, allied with his talent,
 helped to secure official patronage for him throughout his life.
 
-By 1816 he was studying painting under Guerin &mdash; the teacher of Gericault, whom
-he ardently admired. Delacroix visited London and became deeply interested in
-English landscape painting, especially the work of Constable, and in the epic
-poets of England and Germany.  He copied the masters in the Louvre, notably
-Rubens and Veronese, and although a superb draughtsman, colour was his passion.
-He declared that ‘when the tones are right, the lines draw themselves’.
+By 1816 he was studying painting under Guerin &mdash; the teacher of
+[Gericault](/art/gericault), whom he ardently admired. Delacroix visited London
+and became deeply interested in English landscape painting, especially the work
+of [Constable](/art/constable), and in the epic poets of England and Germany.
+He copied the masters in the Louvre, notably Rubens and Veronese, and although
+a superb draughtsman, colour was his passion.  He declared that ‘when the tones
+are right, the lines draw themselves’.
 
 [![Liberty Leading the People](/images/art/delacroix_1.jpg){:.image .right}](/images/art/delacroix_1.jpg){:.popup}
 He had an enormous range of subject matter, much of which was based on literary
@@ -78,13 +79,14 @@ and patriotism that is highly romantic and inspirational.
 [![The Massacre at Chios](/images/art/delacroix_2.jpg){:.image .left}](/images/art/delacroix_2.jpg){:.popup}
 Delacroix had completed the journey from startling, innovative colourist to
 respected older artist by the time he came to influence modern masters, such as
-Cézanne, Degas, Van Gogh and Picasso. As long as he lived, he was, as the poet
-Baudelaire wrote, "passionately in love with passion, and coldly determined to
-seek the means to express passion in the manner visible."
+[Cézanne](/art/cezanne), [Degas](/art/degas), [Van Gogh](/art/vangogh) and
+[Picasso](/art/picasso). As long as he lived, he was, as the poet Baudelaire
+wrote, "passionately in love with passion, and coldly determined to seek the
+means to express passion in the manner visible."
 
-Inspired by Gericault's treatment of the theme of suffering, Delacroix presents
-a harrowing scene from the Greek rebellion against the Turks, which roused many
-Europeans (including Byron) to their cause. The painting was bought at the
-Salon of 1824 by the French government, perhaps by Talleyrand in covert support
-of his son. Significantly, at the same Salon, Delacroix encountered Constable's
-_Hay-wain_.
+Inspired by [Gericault](/art/gericault)'s treatment of the theme of suffering,
+Delacroix presents a harrowing scene from the Greek rebellion against the
+Turks, which roused many Europeans (including Byron) to their cause. The
+painting was bought at the Salon of 1824 by the French government, perhaps by
+Talleyrand in covert support of his son. Significantly, at the same Salon,
+Delacroix encountered [Constable](/art/constable)'s _Hay-wain_.

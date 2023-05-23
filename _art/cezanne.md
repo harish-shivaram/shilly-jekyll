@@ -95,6 +95,6 @@ picture reveals his intimate familiarity with his subject.
 He became the most important of the Post-Impressionists, who concentrated in a
 rigorously disciplined way on form and outline. In his technique of exposing
 the structural shapes in nature he was also the forerunner of Cubism, which was
-fully developed by Picasso and Braque. He was greatly respected and admired by
-his fellow artists, and is generally considered now to be one of the most
-brilliant painters of the last hundred years.
+fully developed by [Picasso](/art/picasso) and Braque. He was greatly respected
+and admired by his fellow artists, and is generally considered now to be one of
+the most brilliant painters of the last hundred years.

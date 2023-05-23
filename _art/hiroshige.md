@@ -48,10 +48,10 @@ are struggling home. Snow, rain or mist are favoured background conditions
 against which Hiroshige sets his travellers, often depicted crossing each
 others' paths, emphasizing the transience of existence.
 
-Working in the nineteenth century, Hiroshige and Hokusai each preferred to
-creates landscapes rather than portraits of actors, wrestlers, poets and
-courtesans. Their innate love of the Japanese for all aspects of the natural
-world ensured that both artists had an enthusiastic following. Although he may
-not have matched Hokusai's draftsmanship, Hiroshige at his best is unsurpassed
-in his poetic vision. His ability to evoke the mood of a particular place
-still has unfailing appeal to westerners.
+Working in the nineteenth century, Hiroshige and [Hokusai](/art/hokusai) each
+preferred to creates landscapes rather than portraits of actors, wrestlers,
+poets and courtesans. Their innate love of the Japanese for all aspects of the
+natural world ensured that both artists had an enthusiastic following. Although
+he may not have matched Hokusai's draftsmanship, Hiroshige at his best is
+unsurpassed in his poetic vision. His ability to evoke the mood of a particular
+place still has unfailing appeal to westerners.

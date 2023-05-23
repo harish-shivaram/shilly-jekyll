@@ -44,7 +44,7 @@ gallery:
 ---
 
 The artistic career of the Spanish artist Goya was long and successful. He was
-principal painter to King Charles iv of Spain and director of the Spanish Royal
+principal painter to King Charles IV of Spain and director of the Spanish Royal
 Academy, and prodigiously gifted as a draughtsman, print-maker and painter.  He
 was born in Saragossa, had a conventional apprenticeship in art, and became
 known principally as a painter of portraits and of the horrors of war.

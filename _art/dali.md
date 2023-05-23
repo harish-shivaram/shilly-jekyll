@@ -84,10 +84,10 @@ America. Since then he has moved from one extreme to another: from embracing
 revolutionary politics and producing highly provocative work, he has turned to
 religious pictures and right-wing orthodox views. His life and paintings have
 always caused violent reactions, but he has defined the aims of Surrealism more
-precisely than any other artist. The work of Magritte is intellectual and turns
-physical laws upside down to express an idea ; Dali appeals directly to the
-emotions for an instinctive spontaneous reaction, and he does it with enormous
-technical skill and originality.
+precisely than any other artist. The work of [Magritte](/art/magritte) is
+intellectual and turns physical laws upside down to express an idea ; Dali
+appeals directly to the emotions for an instinctive spontaneous reaction, and
+he does it with enormous technical skill and originality.
 
 [![The Persistence of Memory](/images/art/dali_1.jpg){:.image .right}](/images/art/dali_1.jpg){:.popup} 
 The Persistence of Memory is an early work, and one of his most fascinating. In

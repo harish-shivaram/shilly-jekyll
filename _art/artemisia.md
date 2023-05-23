@@ -56,7 +56,7 @@ her era.
 _Judith and Holofernes_ illustrates the decapitation of the Assyrian
 oppressor Holofernes by the Jewish heroine Judith. This is a powerful
 expression of the artist's own emotional turmoil. The realism and dramatic
-chiaroscuro easily match Caravaggio or Rubens.
+chiaroscuro easily match [Caravaggio](/art/caravaggio) or [Rubens](/art/rubens).
 
 Gentileschi painted five other versions; it was a theme that particularly
 appealed to the Florentines who were often threatened by the more powerful

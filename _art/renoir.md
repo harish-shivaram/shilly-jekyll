@@ -150,7 +150,6 @@ haze of diff used colour fills the entire canvas.
 [![Woman Combing Her Hair](/images/art/renoir_7.jpg){:.image .left}](/images/art/renoir_7.jpg){:.popup}
 This cafe in Montmartre, housed in an old windmill, was a favourite gathering
 place for flirting, drinking grenadine, eating the _galettes_ or pancakes from
-which it took its name, and waltzing on Sunday afternoons. Renoir took his
 canvas there every week, and painted the picture on the spot.  His friends and
 regular models posed for most of the figures. He has captured delightfully the
 atmosphere of gentle gaiety and the soft shimmering effects of summer afternoon

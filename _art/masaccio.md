@@ -33,11 +33,11 @@ gallery:
     height: 1200
 ---
 
-The tragically short-lived Masaccio (Tommaso di Ser
-Giovanni di Mone) was the first great Florentine painter of
-the Italian Renaissance. He created dramatic effects by his use of space, light
-and perspective; and in the twenty-seven years of his life he developed an
-austere realism and economy of style which influenced many other artists.
+The tragically short-lived Masaccio (Tommaso di Ser Giovanni di Mone) was the
+first great Florentine painter of the Italian Renaissance. He created dramatic
+effects by his use of space, light and perspective; and in the twenty-seven
+years of his life he developed an austere realism and economy of style which
+influenced many other artists.
 
 [![The Rendering of the Tribute Money](/images/art/masaccio_2.jpg){:.image .left}](/images/art/masaccio_2.jpg){:.popup}
 _The Rendering of the Tribute Money_ describes a scene from Matthew's gospel.

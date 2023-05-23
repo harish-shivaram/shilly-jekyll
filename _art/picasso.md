@@ -92,11 +92,12 @@ time, while remaining individual and becoming permanently identified with none.
 _Les Demoiselles d’ Avignon_, started when Picasso was only twenty-five, began
 a remarkable phase in his work. Artistic innovations do not come about in a
 vacuum : Picasso drew on the influence of African sculpture and the work of
-Cezanne and Matisse in this painting, and it is therefore a meeting place for
-the traditions of primitive and contemporary art, disrupting both to create
-something new and disturbing. The harsh angularity and distortion of the almost
-naked figures, heralding the movement known as Cubism, are as disconcerting and
-alarming now as they were for Picasso’s astonished fellow artists.
+[Cezanne](/art/cezanne) and [Matisse](/art/matisse) in this painting, and it
+is therefore a meeting place for the traditions of primitive and contemporary
+art, disrupting both to create something new and disturbing. The harsh
+angularity and distortion of the almost naked figures, heralding the movement
+known as Cubism, are as disconcerting and alarming now as they were for
+Picasso’s astonished fellow artists.
 
 The title of the painting comes from a street in the red-light district of
 Barcelona, and the five statuesque females are presumably prostitutes, their

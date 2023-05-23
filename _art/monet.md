@@ -131,13 +131,16 @@ curly brushstrokes. Monet was a master at adapting strokes to show how light
 affects texture and form.
 
 [![Haystacks](/images/art/monet_6.jpg){:.image .right}](/images/art/monet_6.jpg){:.popup}
-After _La Gare Saint-Lazare_, Monet subsequently embarked on other series &mdash; haystacks, Rouen cathedral and the waterlilies at Giverny &mdash; each a painstaking demonstration that atmospheric colour, caused by changes in the light, can modulate a subject through the entire spectrum.
+After _La Gare Saint-Lazare_, Monet subsequently embarked on other series
+&mdash; haystacks, Rouen cathedral and the waterlilies at Giverny &mdash; each
+a painstaking demonstration that atmospheric colour, caused by changes in the
+light, can modulate a subject through the entire spectrum.
 
 In spite of his destitute state, he more than anyone stuck to the ideals of
 Impressionism throughout his long life without deviating, and he was a great
 source of stimulation to others in the group in the face of poverty and endless
-criticism. Renoir said of him, ‘Without Monet, without my dear Monet who gave
-us all courage, we would have given up.’ After about thirty years of struggle,
-their work began to be understood and appreciated ; and finally it has come to
-be valued as one of the most important movements, and certainly the most
-popular, of the nineteenth century.
+criticism. [Renoir ](/art/renoir) said of him, ‘Without Monet, without my dear
+Monet who gave us all courage, we would have given up.’ After about thirty
+years of struggle, their work began to be understood and appreciated ; and
+finally it has come to be valued as one of the most important movements, and
+certainly the most popular, of the nineteenth century.

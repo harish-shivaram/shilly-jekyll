@@ -79,7 +79,7 @@ great zest and vitality.
 
 He longed for public recognition, but his unconventional ideas led to him being
 labelled a rebel, and his paintings were frequently refused by the official
-Salons.  He joined the Impressionist group soon after it was formed, and became
+Salons. He joined the Impressionist group soon after it was formed, and became
 one of its key figures, although, fearing more disparagement from the critics,
 he refused to take part in its exhibitions.
 
