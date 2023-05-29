@@ -8,21 +8,8 @@ died: 1893
 home: Votkinsk
 country: Russia
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Andante Cantabile](#andante-cantabile)
-- [Romeo and Juliet](#romeo-and-juliet)
-- [Eugene Onegin](#eugene-onegin)
-- [1812 Overture](#1812-overture)
-- [Serenade for Strings](#serenade-for-strings)
-- [Sleeping Beauty](#sleeping-beauty)
-- [Dance of the Reed Flutes](#dance-of-the-reed-flutes)
-- [Dance of the Sugar Plum Fairy](#dance-of-the-sugar-plum-fairy)
-- [Nutcracker March](#nutcracker-march)
-- [Pathétique](#pathtique)
-- [Swan Lake](#swan-lake)
 
 ## Biography
 
@@ -102,7 +89,7 @@ If you do see a concert advertising the music of Tchaikovsky, do go and try it a
 
 _
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eZFUaQxuymA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eZFUaQxuymA'  allowfullscreen></iframe></div>
 
 Taken from Tchaikovsky's First String Quartet in D Major, this movement is Romantic in the most pastoral sense. The atmosphere is completely relaxed and mellow, yet very much typical of the man's style.
 
@@ -111,7 +98,7 @@ Taken from Tchaikovsky's First String Quartet in D Major, this movement is Roman
 
 _1869, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/tnyC2uwJ4qg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/tnyC2uwJ4qg'  allowfullscreen></iframe></div>
 
 The composers who have been inspired, or thought they were inspired, by Shakespeare make an endless list. 
 
@@ -132,7 +119,7 @@ Mixing in the Lawrence theme, the orchestra combines all these opposing musical 
 
 _1879, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/-vC5BZ9o0Vs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/-vC5BZ9o0Vs'  allowfullscreen></iframe></div>
 
 Based on Pushkin's poem of the same name, this is the moving story of a young girl who is humiliated after declaring a teenage passion.
 
@@ -141,7 +128,7 @@ Based on Pushkin's poem of the same name, this is the moving story of a young gi
 
 _1880, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/VbxgYlcNxE8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VbxgYlcNxE8'  allowfullscreen></iframe></div>
 
 In 1880 Nicholas Rubinstein asked Tchaikovsky to write a new piece for the All Russian Art and Industrial Exhibition to be held in Moscow. Initially Tchaikovsky was rather reluctant but changed his mind when he learnt that the new Cathedral of Christ the Redeemer, built to commemorate the turning away of Napoleon's armies in 1812, was expected to be consecrated at the time of the exhibition. He soon realised exactly what was required – something to rouse the emotions and encourage patriotic fervour. After starting work, he wrote to a friend saying about the overture: 'It will be very noisy!!'  It was written to be played in the open air and he included in the music not just a full symphony orchestra, but bells, canons, plenty of percussion and a full military band. Being a completely professional composer and a fine craftsman, Tchaikovsky achieved exactly what he wanted, and this is certainly one his more famous works.
 
@@ -150,7 +137,7 @@ In 1880 Nicholas Rubinstein asked Tchaikovsky to write a new piece for the All R
 
 _1880, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/DPBKukl0oc4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/DPBKukl0oc4'  allowfullscreen></iframe></div>
 
 In October 1880 Tchaikovsky wrote a letter to his friend and patron, Nadeja von Meck, describing two works he had just completed. One of these was a serenade written for a string orchestra in four movements. He was very proud of the work, saying:
 
@@ -171,7 +158,7 @@ The finale is an Allegro con spirito, though it does begin with a slow introduct
 
 _1890, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/2Sb8WCPjPDs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/2Sb8WCPjPDs'  allowfullscreen></iframe></div>
 
 The story of the sleeping beauty must be one of the most famous fairy tales of all time that will never fade in popularity: a princess, put under a spell on her twentieth birthday by the wicked fairy Carabosse, who can only be brought back to life by the kiss of a handsome prince.
 
@@ -182,7 +169,7 @@ This is definitely one of Tchaikovsky's greatest scores and, along with his othe
 
 _1892, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/dntCj0KWZs8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/dntCj0KWZs8'  allowfullscreen></iframe></div>
 
 Taken from Tchaikovsky's famous ballet The Nutcracker, the Dance of the Reed Flutes is the seventh movement of the suite.  In the ballet, we witness a dance of 'mirlitons' – a kind of French crunchy pastry filled with whipped cream, usually eaten with tea or coffee, yet 'mirliton' is also the French name for the sort of children's instrument that the English call a 'kazoo'.  'Dance of the Kazoos' is, however, a rather unflattering name for this piece and, as there is no English name for this pastry, 'Dance of the Reed Flutes' has become the popular title.
 
@@ -193,7 +180,7 @@ The music is a trio for orchestral flutes.
 
 _1892, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ow4t3C_gCCY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ow4t3C_gCCY'  allowfullscreen></iframe></div>
 
 Tchaikovsky based what was to become his most famous ballet on a children's Christmas story which tells the tale of a young girl named Clara who receives, as a Christmas present, a grotesque nutcracker.  Later that night she sneaks downstairs to find the living-room greatly transformed, as the Christmas tree has grown tremendously and all the toys have come to life.  Suddenly the room is invaded by an army of mice and all the toys rally against them, led by the nutcracker.  At a crisis in the battle Clara throws her slipper at the king mouse and saves the day, at which point the nutcracker suddenly turns into a handsome young prince who invites her to the Kingdom of Sweets.
 
@@ -208,7 +195,7 @@ Ultimately, this is Tchaikovsky at his most light-hearted and capricious, where 
 
 _1892, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9t1AeJm7XF0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9t1AeJm7XF0'  allowfullscreen></iframe></div>
 
 Taken from Tchaikovsky's famous ballet The Nutcracker, the March is the work's second movement and is set in a playful mood, with spritely rhythms emphasised by cymbals, plucked cellos and double basses.
 
@@ -217,7 +204,7 @@ Taken from Tchaikovsky's famous ballet The Nutcracker, the March is the work's s
 
 _1892, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/yDqCIcsUtPI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/yDqCIcsUtPI'  allowfullscreen></iframe></div>
 
 For many years the exact 'program' of the Sixth Symphony remained a mystery.  Early this century, however, a note was discovered among the composer's papers saying:
 
@@ -235,6 +222,6 @@ Tchaikovsky died nine days after its first performance, aged fifty-three.
 
 _1895, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9rJoB7y6Ncs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9rJoB7y6Ncs'  allowfullscreen></iframe></div>
 
 With 'The Nutcracker', Tchaikovsky's 'Swan Lake' is one of the most famous pieces of ballet music ever written and throws us into the romantic world of moonlight, grottoes, misty forests and dark secrets.

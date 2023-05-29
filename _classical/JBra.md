@@ -8,22 +8,8 @@ died: 1897
 home: Hamburg
 country: Germany
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Brahms Lullaby](#brahms-lullaby)
-- [Four Ballades](#four-ballades)
-- [Hungarian Dances](#hungarian-dances)
-- [Waltz No. 15](#waltz-no-15)
-- [Symphony No. 1](#symphony-no-1)
-- [German Requiem](#german-requiem)
-- [Symphony No. 2](#symphony-no-2)
-- [Academic Festival Overture](#academic-festival-overture)
-- [Piano Concerto No.2](#piano-concerto-no2)
-- [Symphony No. 3](#symphony-no-3)
-- [Symphony No. 4](#symphony-no-4)
-- [Clarinet Quintet in B Minor](#clarinet-quintet-in-b-minor)
 
 ## Biography
 
@@ -85,7 +71,7 @@ The most endearing aspect of his music is the lovely, reflective, autumnal, year
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/pREtP6YRMR8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/pREtP6YRMR8'  allowfullscreen></iframe></div>
 
 One of the most famous lullabies in the world, the 'Cradle Song' is a delightful piano piece that has been arranged for many different instruments.
 
@@ -94,7 +80,7 @@ One of the most famous lullabies in the world, the 'Cradle Song' is a delightful
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/E7uMTqcazOg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/E7uMTqcazOg'  allowfullscreen></iframe></div>
 
 Brahms will always be remembered not just for his music, but also for his forbidden love of his friend Robert Schumann's wife, Clara.  Much his music was written (albeit secretly) for her, including these four Ballades for piano.  The mood of the music is neither happy nor sad, as if the composer had given up his hope, but not his longing.
 
@@ -103,7 +89,7 @@ Brahms will always be remembered not just for his music, but also for his forbid
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QAMxkietiik'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QAMxkietiik'  allowfullscreen></iframe></div>
 
 Altogether Brahms wrote twenty-one Hungarian Dances for piano duet, all based on folk themes of the country. He arranged three of the for orchestra, of which the first is the most famous.  It is in a full-blooded gypsy style that was used to great effect in a hilarious shaving scene in the film 'The Great Dictator'
 
@@ -112,7 +98,7 @@ Altogether Brahms wrote twenty-one Hungarian Dances for piano duet, all based on
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/oy6uV-eMOEs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/oy6uV-eMOEs'  allowfullscreen></iframe></div>
 
 Close in sound to Schumann's piano music, this is a gentle and wistful piano waltz.
 
@@ -121,7 +107,7 @@ Close in sound to Schumann's piano music, this is a gentle and wistful piano wal
 
 _1876, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/EGRqIGOAPcE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/EGRqIGOAPcE'  allowfullscreen></iframe></div>
 
 Brahms's early friends and admirers always felt that he was a born symphony writer – much against Brahms's own view of himself, who once said to a friend:
 
@@ -142,7 +128,7 @@ The finale is often compared with the last movement of Beethoven's Ninth Symphon
 
 _1868, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/MAnUk6MxXQ0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/MAnUk6MxXQ0'  allowfullscreen></iframe></div>
 
 Brahms wrote this, his largest vocal work, after the death of his mother. 
 
@@ -153,7 +139,7 @@ As opposed to the standard religious texts used for a typical Requiem, Brahms, a
 
 _1877, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9ny6HjTHv80'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9ny6HjTHv80'  allowfullscreen></iframe></div>
 
 This symphony begins in a relaxed manner yet accelerates with rushing strings and fiery brass work.
 
@@ -162,7 +148,7 @@ This symphony begins in a relaxed manner yet accelerates with rushing strings an
 
 _1880, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Gdcjq08XLzc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Gdcjq08XLzc'  allowfullscreen></iframe></div>
 
 Although the title is rather pompous, Brahms wrote this riotous melody in gratitude for receiving a university degree. 
 
@@ -173,7 +159,7 @@ In the music he pokes a bit of fun at the assembled dignitaries, who were obviou
 
 _1881, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/o6_lbrlehsg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/o6_lbrlehsg'  allowfullscreen></iframe></div>
 
 This piano concerto is possibly one of the most gigantic concertos ever written, yet when he finished it, in 1881, Brahms modestly wrote to a friend saying:
 
@@ -192,7 +178,7 @@ The introductory movement (Allegro non troppo) opens with a beautiful horn passa
 
 _1883, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/4L0MqnAoEJM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/4L0MqnAoEJM'  allowfullscreen></iframe></div>
 
 This symphony is often compared with Beethoven's 'Pastoral' (No. 6) for its tranquillity.
 
@@ -201,7 +187,7 @@ This symphony is often compared with Beethoven's 'Pastoral' (No. 6) for its tran
 
 _1885, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/6yy3eQwu63A'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/6yy3eQwu63A'  allowfullscreen></iframe></div>
 
 Brahms was fifty-two when he completed his Fourth Symphony in 1885.  The work was composed in the Alpine town of Murzzuschlag, which was at such an altitude that spring came late, autumn early and local fruit barely had time to ripen before winter set in.  In fact, when he sent the finished product to a friend of his he enclosed a letter, saying:
 
@@ -212,6 +198,6 @@ Brahms was fifty-two when he completed his Fourth Symphony in 1885.  The work wa
 
 _1891, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/uWnhppC9mFw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uWnhppC9mFw'  allowfullscreen></iframe></div>
 
 The best of Brahms's huge catalogue of chamber music, this quintet was written for a friend towards the end of the composer's life.  It has a serene, almost autumnal feel that creates a relaxed and mellow atmosphere.

@@ -8,14 +8,8 @@ died: 1934
 home: Bradford
 country: England
 schools: Romantic, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [In a Summer Garden](#in-a-summer-garden)
-- [Summer Night on the River](#summer-night-on-the-river)
-- [Brigg Fair](#brigg-fair)
-- [On Hearing the First Cuckoo in Spring](#on-hearing-the-first-cuckoo-in-spring)
 
 ## Biography
 
@@ -44,7 +38,7 @@ Delius wrote beautifully for the orchestra and also had a good degree of success
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ojEiAF9HCFI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ojEiAF9HCFI'  allowfullscreen></iframe></div>
 
 Quiet and thoughtful, Delius's In a Summer Garden evokes the image of an evening in an English country garden, which is created by a smooth and layered foundation of string sounds over which we occasionally hear the bird-calls of an oboe and flute.
 
@@ -52,7 +46,7 @@ Quiet and thoughtful, Delius's In a Summer Garden evokes the image of an evening
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ttK8eRueuWI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ttK8eRueuWI'  allowfullscreen></iframe></div>
 
 Delius seems to have found a lot of inspiration in the seasons, particularly those of summer and spring.  Summer Night on the River lives up to its title perfectly where, with eyes closed, we can almost imagine an exceptionally lazy time afloat, probably engaged in some twilight punting, gently pushing through the lilies and swans.
 
@@ -60,7 +54,7 @@ Delius seems to have found a lot of inspiration in the seasons, particularly tho
 
 _1907, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/rjpvZZL5X2Q'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/rjpvZZL5X2Q'  allowfullscreen></iframe></div>
 
 Very much an 'English Rhapsody', this orchestral work is an exact and unpretentious set of variations on a Lincolnshire folk song.
 
@@ -68,6 +62,6 @@ Very much an 'English Rhapsody', this orchestral work is an exact and unpretenti
 
 _1912, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/aTk3iYI7zn4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/aTk3iYI7zn4'  allowfullscreen></iframe></div>
 
 Although this symphonic poem is based on a Norwegian folk song, with a title clearly indicating a season, the music seems to conjure up an Edwardian image of tea on the lawn on an English summer afternoon.  The piece is short but highly evocative.

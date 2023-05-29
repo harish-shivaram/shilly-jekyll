@@ -8,16 +8,8 @@ died: 1908
 home: Novgorod
 country: Russia
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Dance of the Tumblers](#dance-of-the-tumblers)
-- [Capriccio Espagnol](#capriccio-espagnol)
-- [Russian Easter Festival Overture](#russian-easter-festival-overture)
-- [Scheherazade](#scheherazade)
-- [Flight of the Bumblebee](#flight-of-the-bumblebee)
-- [Golden Cockerel](#golden-cockerel)
 
 ## Biography
 
@@ -55,7 +47,7 @@ Rimsky wrote an enormous amount of music, but we rarely get to hear very much of
 
 _1882, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/sFtCULVqUQA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/sFtCULVqUQA'  allowfullscreen></iframe></div>
 
 The Dance of The Tumblers is taken from Rimsky-Korsakov's 1882 opera 'The Snow Maiden', which tells the story of the legendary Snow Maiden – the daughter of Fairy Spring and King Frost.  In the opera, she is wooed in vain by the Sun God.
 
@@ -64,7 +56,7 @@ The Dance of The Tumblers is taken from Rimsky-Korsakov's 1882 opera 'The Snow M
 
 _1887, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Kq65ufWquRE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Kq65ufWquRE'  allowfullscreen></iframe></div>
 
 Rimsky-Korsakov loved orchestral colour, and used it like a great painter would exploit a canvas.  ,He had a gift for composition that had been refined by years of patient self-analysis and study. He was much admired by the likes of Tchaikovsky who once wrote to Rimsky-Korsakov saying:
 
@@ -82,7 +74,7 @@ The five movements, to be played without any breaks, opens with a morning serena
 
 _1888, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/hbDYtAHTQoE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/hbDYtAHTQoE'  allowfullscreen></iframe></div>
 
 In Russian, the Easter period is referred to as 'The Bright Holiday', and when Rimsky-Korsakov designed his overture he planned it to be a carefully calculated explosion of orchestral colour which, he felt, would reflect popular Russian feelings on this important Christian feast.  He wished to capture somehow the solemn pageantry of Christian ritual mixed with the ancient pagan memories celebrating the rebirth of nature. Rimsky took his melodies from a collection of best-known canticles of the Greek Orthodox Church and began his composition in early 1888, completing it in the summer of the same year. 
 
@@ -100,7 +92,7 @@ The composer accompanied his music with some text, partly from the New Testament
 
 _1888, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/cHjR70DVAGQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/cHjR70DVAGQ'  allowfullscreen></iframe></div>
 
 A thousand years ago, a collection of stories were famous in Arabia and could be heard from the mouths of poets, beggars and professional story-tellers in the market-places of Egypt and Persia.  These stories were known as 'The Thousand and One Nights' and their origins could be found in poetry and folklore.  No one knows their exact origins. They were revived in the eighteenth century via a French adaptation in 1704. 
 
@@ -125,7 +117,7 @@ The finale, 'Festival at Baghdad; The Sea; The Ship Goes to Pieces Against a Roc
 
 _1900, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/8alxBofd_eQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/8alxBofd_eQ'  allowfullscreen></iframe></div>
 
 An incredibly popular piece taken from the opera 'The Legend of Tsar Saltan', The Flight of the Bumblebee has been arranged for practically every instrument – even the tuba.
 
@@ -134,6 +126,6 @@ An incredibly popular piece taken from the opera 'The Legend of Tsar Saltan', Th
 
 _1909, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/acmFNjHn9Hc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/acmFNjHn9Hc'  allowfullscreen></iframe></div>
 
 One of the most frequently staged of Rimsky-Korsakov's operas, The Golden Cockerel is a delightful fairy-tale about a lazy king who relies on a pet cockerel to warn him of any danger.

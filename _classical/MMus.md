@@ -8,14 +8,8 @@ died: 1881
 home: Karevo
 country: Russia
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Night on the Bare Mountain](#night-on-the-bare-mountain)
-- [Boris Godunov](#boris-godunov)
-- [Pictures at an Exhibition](#pictures-at-an-exhibition)
-- [Khovanshchina](#khovanshchina)
 
 ## Biography
 
@@ -70,7 +64,7 @@ One other very different version of this piece is that by the seventies pop grou
 
 _1867, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/XyR-poMsSWI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/XyR-poMsSWI'  allowfullscreen></iframe></div>
 
 In November 1861 Mussorgsky wrote to a friend, saying:
 
@@ -92,7 +86,7 @@ It begins with wild, whirring sounds from the violins, through which a powerful 
 
 _1869, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/UEBq-gsdI58'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/UEBq-gsdI58'  allowfullscreen></iframe></div>
 
 This opera was originally written in the style of a historical pageant filled with bustling crowd-scenes rather than arias, but Mussorgsky soon found himself more interested in Tsar Boris – a man full of self-hatred and no self-esteem – to the point that work was revised (and re-orchestrated by Rimsky-Korsakov) to become a powerful and moving operatic study of the  man.
 
@@ -100,7 +94,7 @@ This opera was originally written in the style of a historical pageant filled wi
 
 _1873, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_5r8sa863Ts'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_5r8sa863Ts'  allowfullscreen></iframe></div>
 
 Initially this work was written as a piano suite, and it wasn't until Maurice Ravel orchestrated it that it was made truly available to a general public, some forty-two years after Mussorgsky's death.
 
@@ -119,6 +113,6 @@ The music opens with a solo trumpet theme before going into the first 'picture',
 
 _1886, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/zcVOjWeBV9s'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/zcVOjWeBV9s'  allowfullscreen></iframe></div>
 
 Sometimes seen as a follow-up work to Boris Gudunov, this opera tells the story of the military revolt of the princes Khovansky against the modernisation and Westernisation of Russia.

@@ -8,18 +8,8 @@ died: 1904
 home: Bohemia
 country: Czechoslovakia
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Serenade for Strings in E](#serenade-for-strings-in-e)
-- [Stabat Mater](#stabat-mater)
-- [Slavonic Dances](#slavonic-dances)
-- [New World Symphony](#new-world-symphony)
-- [Symphony No. 7](#symphony-no-7)
-- [Piano Quintet in A](#piano-quintet-in-a)
-- [Dumky Piano Trio](#dumky-piano-trio)
-- [Cello Concerto in B Minor](#cello-concerto-in-b-minor)
 
 ## Biography
 
@@ -57,7 +47,7 @@ He spent three years in the United States, where he wrote his Symphony No. 9 (Th
 
 _1875, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/OWjxVrJMSMA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/OWjxVrJMSMA'  allowfullscreen></iframe></div>
 
 Full of catchy lines, the Serenade for Strings was originally written as a five-movement suite, yet it sounds more like a chain of endless melodies that are hard to forget.
 
@@ -66,7 +56,7 @@ Full of catchy lines, the Serenade for Strings was originally written as a five-
 
 _1877, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/MTPxgiAtTp0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/MTPxgiAtTp0'  allowfullscreen></iframe></div>
 
 Dvorák is not so well known for his choral work, yet this solemn and religious text is well handled, with a good use of melody.
 
@@ -75,7 +65,7 @@ Dvorák is not so well known for his choral work, yet this solemn and religious 
 
 _1878, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/WIywT8fKVZA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/WIywT8fKVZA'  allowfullscreen></iframe></div>
 
 Originally written as a piano duet, this fast and rhythmic folk dance is even more red-blooded in its orchestral version.
 
@@ -84,7 +74,7 @@ Originally written as a piano duet, this fast and rhythmic folk dance is even mo
 
 _1884, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/WuqyfEyNXQo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/WuqyfEyNXQo'  allowfullscreen></iframe></div>
 
 The Czechs – or Bohemians, as they used to be called – have been famous as musicians as long as European music has been made, and, from chronicles of the Middle Ages, we can see that they held positions such as pipers and fiddlers to the great dukes and kings of France and Germany. 
 
@@ -103,7 +93,7 @@ The Scherzo that follows is bright and alive and could be a festive village scen
 
 _1885, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/wHnBrYtoICg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/wHnBrYtoICg'  allowfullscreen></iframe></div>
 
 Dvorák's Symphony No. 7 was one of the most important he ever wrote – at least, according to him – for in June 1884 he had been made an honorary member of the London Philharmonic Society, and furthermore he had recently been completely overwhelmed by Brahms's Third Symphony and wished to produce something of equal stature.  The LPS invited him to write a work for  them and he duly obliged, producing a symphony that is possibly eclipsed only by his 'New World' Symphony (No. 9).
 
@@ -112,7 +102,7 @@ Dvorák's Symphony No. 7 was one of the most important he ever wrote – at leas
 
 _1887, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lm5ZS1WNGlY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lm5ZS1WNGlY'  allowfullscreen></iframe></div>
 
 This is a work that seems to be smiling at the listener. Set in four movements, a bright piano is contrasted with some strenuous string lines, as if the two parties are having a friendly conversation.
 
@@ -121,7 +111,7 @@ This is a work that seems to be smiling at the listener. Set in four movements, 
 
 _1891, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BwozYAY3cjo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BwozYAY3cjo'  allowfullscreen></iframe></div>
 
 A 'dumka' is a traditional Czech folk dance with alternating slow and fast sections, often based on the same theme.  Dvorák uses this structure in combination with the more serious sonata form to produce a work of considerable charm.
 
@@ -130,7 +120,7 @@ A 'dumka' is a traditional Czech folk dance with alternating slow and fast secti
 
 _1894, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/fF9zI33Oass'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/fF9zI33Oass'  allowfullscreen></iframe></div>
 
 Dvorák's cello concerto was the last thing he wrote while working in America: he began it in New York in November 1894 and finished it three months later.  It was a stunning piece, and when Brahms first read the music he exclaimed:
 

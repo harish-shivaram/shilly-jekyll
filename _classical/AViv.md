@@ -8,22 +8,8 @@ died: 1741
 home: Venice
 country: Italy
 schools: Baroque
+toc: true
 ---
-
-## Essential Listening
-
-- [Concerto for Two Trumpets and Strings](#concerto-for-two-trumpets-and-strings)
-- [Concerto for Violin in A Minor](#concerto-for-violin-in-a-minor)
-- [Concerto Grosso](#concerto-grosso)
-- [Concerto in C Minor](#concerto-in-c-minor)
-- [Gloria in D](#gloria-in-d)
-- [Concerto for Violin and Strings in G Minor](#concerto-for-violin-and-strings-in-g-minor)
-- [Four Seasons – Spring](#four-seasons--spring)
-- [Four Seasons – Summer](#four-seasons--summer)
-- [Four Seasons – Autumn](#four-seasons--autumn)
-- [Four Seasons – Winter](#four-seasons--winter)
-- [Concerto for Flute and Strings in D Major](#concerto-for-flute-and-strings-in-d-major)
-- [Concerto for Viola d'amore](#concerto-for-viola-damore)
 
 ## Biography
 
@@ -62,7 +48,7 @@ There are, in addition, forty-six operas listed in the catalogue (although Vival
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/SVtLeR2K8sk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/SVtLeR2K8sk'  allowfullscreen></iframe></div>
 
 Vivaldi was an amazing composer who could write an entire concerto in a day if necessary.
 
@@ -73,7 +59,7 @@ This particular one for Two Trumpets and Strings has the two lead instruments pl
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eTPiZup0QmM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eTPiZup0QmM'  allowfullscreen></iframe></div>
 
 This is just one of the countless violin works Vivaldi wrote, many of which have been lost over the years.
 
@@ -86,7 +72,7 @@ Consequently his music is inevitably charming and delightful, with a strong sens
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/WKDzek3VOvY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/WKDzek3VOvY'  allowfullscreen></iframe></div>
 
 Vivaldi is reputed to have written over 450 concerti grossi.  This one is a wonderful example of the man's style.
 
@@ -94,7 +80,7 @@ Vivaldi is reputed to have written over 450 concerti grossi.  This one is a wond
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0BMlQky9CI4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0BMlQky9CI4'  allowfullscreen></iframe></div>
 
 It is claimed that Vivaldi could write a concerto in a single day and an opera in a week.  Many of his concerti were written for up to four soloists, as he enjoyed nothing more than performing with others.
 
@@ -103,7 +89,7 @@ It is claimed that Vivaldi could write a concerto in a single day and an opera i
 
 _Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/RMHguvZPcqQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/RMHguvZPcqQ'  allowfullscreen></iframe></div>
 
 Vivaldi's Gloria is probably his most popular piece of church music and can often be heard today.
 
@@ -112,7 +98,7 @@ Vivaldi's Gloria is probably his most popular piece of church music and can ofte
 
 _1717, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AUGmLL7t7z4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AUGmLL7t7z4'  allowfullscreen></iframe></div>
 
 This violin concerto is one of a set of six that Vivaldi wrote between 1716 and 1717.
 
@@ -125,7 +111,7 @@ Consequently his music is inevitably charming and delightful, with a strong sens
 
 _1725, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?end=631'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?end=631'  allowfullscreen></iframe></div>
 
 This is quite possibly Vivaldi's most famous work, notorious in the world of television and advertising for its subtle yet powerful portrayal of a year.
 
@@ -138,7 +124,7 @@ Written solely for strings, Vivaldi's masterpiece has somehow managed to stand t
 
 _1725, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=631&end=1259'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=631&end=1259'  allowfullscreen></iframe></div>
 
 This is quite possibly Vivaldi's most famous work, notorious in the world of television and advertising for its subtle yet powerful portrayal of a year.
 
@@ -151,7 +137,7 @@ Written solely for strings, Vivaldi's masterpiece has somehow managed to stand t
 
 _1725, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=1259&end=1968'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=1259&end=1968'  allowfullscreen></iframe></div>
 
 This is quite possibly Vivaldi's most famous work, notorious in the world of television and advertising for its subtle yet powerful portrayal of a year.
 
@@ -164,7 +150,7 @@ Written solely for strings, Vivaldi's masterpiece has somehow managed to stand t
 
 _1725, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=1968'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/GRxofEmo3HA?start=1968'  allowfullscreen></iframe></div>
 
 This is quite possibly Vivaldi's most famous work, notorious in the world of television and advertising for its subtle yet powerful portrayal of a year.
 
@@ -179,7 +165,7 @@ Written solely for strings, Vivaldi's masterpiece has somehow managed to stand t
 
 _1728, Concerti_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/vYrvOQiCx4I'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/vYrvOQiCx4I'  allowfullscreen></iframe></div>
 
 Altogether Vivaldi composed thirteen flute concerti, the opus 10 set being written in 1728.  At the time, it created something of a small record, as it was the first ever publication of music composed for a solo flute accompanied by strings and there was no dedication on the title page, the implication being that Vivaldi had written them purely for pleasure.
 
@@ -188,6 +174,6 @@ Altogether Vivaldi composed thirteen flute concerti, the opus 10 set being writt
 
 _1740, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/xuVhd99CS6o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/xuVhd99CS6o'  allowfullscreen></iframe></div>
 
 A viola d'amore was a six-stringed bowed instrument that was roughly equivalent to a combination of a violin and a viola. It also possessed a set of 'sympathetic' strings that would resonate under the main six to produce a silvery sweet sound. This particular work is really a double concerto for the viola d'amore and lute.

@@ -8,13 +8,8 @@ died: 1886
 home: Sopron
 country: Hungary
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Piano Concerto No. 1](#piano-concerto-no-1)
-- [Les Préludes](#les-préludes)
-- [Hungarian Rhapsodies](#hungarian-rhapsodies)
 
 ## Biography
 
@@ -80,7 +75,7 @@ He was quite rightly hailed as being one of the finest keyboard virtuosi ever to
 
 _1849, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BvgqLIdqP1k'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BvgqLIdqP1k'  allowfullscreen></iframe></div>
 
 Liszt wrote his First Piano Concerto with the deliberate intention of writing a show-stopper that would bring the audience cheering to their feet.  Riddled with pounding cadenzas, wrenching melodies and delightful accompaniments, this really is a work for a showman.
 
@@ -89,7 +84,7 @@ Liszt wrote his First Piano Concerto with the deliberate intention of writing a 
 
 _1856, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/5j5zY-h7gOg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/5j5zY-h7gOg'  allowfullscreen></iframe></div>
 
 This symphonic work is based on a poem by Lamartine which attempts to represent life as a series of preludes to some unknown future existence. A gorgeous tune rides through the moods of the music, which range from passion to pageantry.
 
@@ -98,6 +93,6 @@ This symphonic work is based on a poem by Lamartine which attempts to represent 
 
 _1858, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/uNi-_0kqpdE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uNi-_0kqpdE'  allowfullscreen></iframe></div>
 
 Liszt, along with Bartók, has long been credited with the rediscovery of Hungarian folk music, especially when he wrote his nineteen Hungarian Rhapsodies.  These seem to capture perfectly the Gypsy melodies and rhythms with which the composer was so enamoured.

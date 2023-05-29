@@ -287,6 +287,14 @@ hr {
     position: relative;
 }
 
+.section-nav {
+  /* background-color: #fff; */
+  margin: 5px 0;
+  padding: 10px 30px;
+  border: 1px solid #e8e8e8;
+  border-radius: 3px;
+}
+
 /* 2. button
 --------------------------------------------------------------------------------*/
 
@@ -622,7 +630,7 @@ h2 {
 }
 
 h3 {
-    font-size: 34px;
+    font-size: 28px;
 }
 
 h4 {

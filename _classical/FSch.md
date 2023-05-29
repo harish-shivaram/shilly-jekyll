@@ -8,19 +8,8 @@ died: 1828
 home: Vienna
 country: Austria
 schools: Classical
+toc: true
 ---
-
-## Essential Listening
-
-- [Symphony No. 5 in B Flat](#symphony-no-5-in-b-flat)
-- [Trout Quintet](#trout-quintet)
-- [Unfinished Symphony](#unfinished-symphony)
-- [Ballet Music Rosamunde ](#ballet-music-rosamunde-)
-- [Die schöne Müllerin](#die-schöne-müllerin)
-- [Octet](#octet)
-- [String Quartet No. 13 in A Minor](#string-quartet-no-13-in-a-minor)
-- [Die Winterreise](#die-winterreise)
-- [Great C Major Symphony](#great-c-major-symphony)
 
 ## Biography
 
@@ -64,7 +53,7 @@ Although he'd been an extremely popular man he was quickly forgotten, and it is 
 
 _1816, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/xL4P1xjsiuo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/xL4P1xjsiuo'  allowfullscreen></iframe></div>
 
 Incredibly, Schubert was only nineteen when he wrote this enchanting little symphony, which is sometimes referred to as 'The Symphony without Trumpets and Drums'. The orchestra for which he wrote it was so small that today we would call it a chamber orchestra – an outgrowth of the string quartet that used to meet in Schubert's home.  At the time he composed the work, Schubert had gone through a major artistic crisis concerning the effects on him of the great symphonist Beethoven. His previous symphony, the 'Tragic', had been written very much under the influence of Beethoven, yet Schubert had come up against a temporary hatred of the man's music. In his diary, the young composer described Beethoven's influence as:
 
@@ -85,7 +74,7 @@ In the finale (Allegro vivace) we are treated to a masterpiece of symphonic geni
 
 _1819, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/wlxVTpEyMEw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/wlxVTpEyMEw'  allowfullscreen></iframe></div>
 
 This is one of the jolliest pieces of chamber music Schubert ever wrote, and certainly evokes the title image with its leaping accompaniment and sparkling tune. This is Schubert at his most smiling and serene.
 
@@ -94,7 +83,7 @@ This is one of the jolliest pieces of chamber music Schubert ever wrote, and cer
 
 _1822, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_X9UEYDeTE0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_X9UEYDeTE0'  allowfullscreen></iframe></div>
 
 It will probably never be known why Schubert left his B Minor Symphony incomplete.
 
@@ -110,7 +99,7 @@ After all the feeling of the first movement, the opening of the second (Andante 
 
 _1823, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eweNfeaztoY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eweNfeaztoY'  allowfullscreen></iframe></div>
 
 This ballet was written around the drama 'Rosamunde, Princess of Cypress' and took Schubert only nineteen days to compose. Rather than write a unique overture, Schubert took a previously written one, which he tacked on the rest of the music.
 
@@ -118,7 +107,7 @@ This ballet was written around the drama 'Rosamunde, Princess of Cypress' and to
 
 _1823, Songs_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/rpISxQcXwZs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/rpISxQcXwZs'  allowfullscreen></iframe></div>
 
 Like the 'Winter Journey', 'The Beautiful Maid of the Mill' is a set of songs on the subject of hopeless love. The songs have a bubbly piano accompaniment that represents both the mill stream and the hope in the heart of the love-struck young man.
 
@@ -127,7 +116,7 @@ Like the 'Winter Journey', 'The Beautiful Maid of the Mill' is a set of songs on
 
 _1824, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ztYX3-yUO90'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ztYX3-yUO90'  allowfullscreen></iframe></div>
 
 Schubert was commissioned to write a chamber work modelled on Beethoven's Septet and, instead of tossing it off lightly, as one would with a commissioned work rather than an inspired one, he put all his energies into creating a serious piece.   His Octet is altogether a well-crafted piece of chamber music.
 
@@ -135,7 +124,7 @@ Schubert was commissioned to write a chamber work modelled on Beethoven's Septet
 
 _Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/JGO_qd4PTh4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/JGO_qd4PTh4'  allowfullscreen></iframe></div>
 
 A very Classical work, Schubert's String Quartet is well paced, as if he were following some unwritten rules for making chamber music.
 
@@ -143,7 +132,7 @@ A very Classical work, Schubert's String Quartet is well paced, as if he were fo
 
 _1827, Songs_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/iJETtWr47PY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/iJETtWr47PY'  allowfullscreen></iframe></div>
 
 The 'Winter Journey' is a set of songs, lasting about forty minutes, which is both sombre and tragic yet, at moments, quite uplifting.
 
@@ -152,6 +141,6 @@ The 'Winter Journey' is a set of songs, lasting about forty minutes, which is bo
 
 _1828, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/XjxPyVROMTs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/XjxPyVROMTs'  allowfullscreen></iframe></div>
 
 Nicknamed the Great C Major Symphony to distinguish it from Symphony No. 6, which is also in C Major, this is probably Schubert's finest orchestral work.  Even though it is rather long and grand, the main impression is one of good humour.

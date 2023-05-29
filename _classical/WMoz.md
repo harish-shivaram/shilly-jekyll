@@ -8,31 +8,8 @@ died: 1791
 home: Salzburg
 country: Austria
 schools: Classical
+toc: true
 ---
-
-## Essential Listening
-
-- [Cassation](#cassation)
-- [Divertimento in D](#divertimento-in-d)
-- [Eine Kleine Nachtmusik](#eine-kleine-nachtmusik)
-- [Violin Concerto](#violin-concerto)
-- [Flute Concerto in D Major](#flute-concerto-in-d-major)
-- [Serenade](#serenade)
-- [Marriage of Figaro](#marriage-of-figaro)
-- [Horn Concerto No. 3](#horn-concerto-no-3)
-- [Horn Concerto No. 4](#horn-concerto-no-4)
-- [Turkish March](#turkish-march)
-- [Piano Concerto No. 20 in D Minor](#piano-concerto-no-20-in-d-minor)
-- [Piano Concerto No. 21 in C](#piano-concerto-no-21-in-c)
-- [Piano Concerto No. 23 in A](#piano-concerto-no-23-in-a)
-- [Don Giovanni](#don-giovanni)
-- [Jupiter Symphony](#jupiter-symphony)
-- [Symphony No. 39](#symphony-no-39)
-- [Symphony No. 40](#symphony-no-40)
-- [Cosi Fan Tutti](#cosi-fan-tutti)
-- [Clarinet Concerto](#clarinet-concerto)
-- [The Magic Flute](#the-magic-flute)
-- [Requiem](#requiem)
 
 ## Biography
 
@@ -104,7 +81,7 @@ You won't be disappointed.
 
 _1769, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/KNA3ACkfdJM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/KNA3ACkfdJM'  allowfullscreen></iframe></div>
 
 Though Mozart is famed for his symphonies, concerti and operas, there exists a vast catalogue of miscellaneous orchestral music that often goes unnoticed, eclipsed by his greater achievements. These works include serenades, divertimenti, marches and cassations.
 
@@ -123,7 +100,7 @@ Written in 1769, this is a delightful, throw-away piece for orchestra that is pu
 
 _1772, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/E_GT8CPcIkg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/E_GT8CPcIkg'  allowfullscreen></iframe></div>
 
 Though famous for his symphonies, concerti and other classical genres, Mozart also produced a large volume of miscellaneous orchestral work that came under the headings of cassations, divertimenti and general symphonic pieces.
 
@@ -134,7 +111,7 @@ This Divertimento in D (literal translation: 'an amusement') is typical of Mozar
 
 _1772, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nPbxIT9W1AY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nPbxIT9W1AY'  allowfullscreen></iframe></div>
 
 This is perhaps one of Mozart's best-known works and falls easily into the category of 'entertainment music', keeping in line with his personal nature and character.  All composers of the time produced such pieces, but certain divertimentos written in Salzburg in 1772, when Mozart was only sixteen, show this type of music raised to a high level, not least in terms of craftsmanship.
 
@@ -149,7 +126,7 @@ This is a perfect work of its kind and deservedly one of Mozart's best-known pie
 
 _1775, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/N-mA9OMP3DE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/N-mA9OMP3DE'  allowfullscreen></iframe></div>
 
 This is one of five violin concerti that Mozart wrote in 1775, and critics have often said that it is the most strikingly 'French' of the set.
 
@@ -160,7 +137,7 @@ It is scored for 2 oboes, 2 horns and a standard string ensemble, which, in Moza
 
 _1777, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AKrO7lzx-nk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AKrO7lzx-nk'  allowfullscreen></iframe></div>
 
 Mozart probably wrote this flute concerto, set in three movements, just before he went to Paris in the autumn of 1777. What is certain, however, is that he originally wrote it when he was twenty-one for an Italian oboist, Guiseppe Ferlandi, and transposed it for the flute when he was offered a lucrative commission from the amateur flautist De Jean.
 
@@ -169,7 +146,7 @@ Mozart probably wrote this flute concerto, set in three movements, just before h
 
 _1782, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Dr1mTJzqhUA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Dr1mTJzqhUA'  allowfullscreen></iframe></div>
 
 Written in 1782, this Serenade for Wind Instruments in E Flat Major helped Mozart get his first engagement at the court of Joseph the II.
 
@@ -186,7 +163,7 @@ To understand the music of the Serenade a little better, one must consider that,
 
 _1782, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_oKU94kxv-o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_oKU94kxv-o'  allowfullscreen></iframe></div>
 
 In 1782, the French playwright Beaumarchais wrote The Marriage of Figaro, which was considered to be rather daring and risqué for its time. During a private reading for the French King Louis XVI, the monarch flew into a rage, shouting, 'This is detestable . . . this will never be played!'
 
@@ -203,7 +180,7 @@ It all ends with rushing scales and a brilliant fanfare for the full orchestra.
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lNuJVfe-t3o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lNuJVfe-t3o'  allowfullscreen></iframe></div>
 
 This Horn Concerto is one of four concerti Mozart wrote for the E flat horn, probably for a player called Ignaz Leutgab, a Salzburg musician for whom a great deal of horn music was written at the time.
 
@@ -212,7 +189,7 @@ This Horn Concerto is one of four concerti Mozart wrote for the E flat horn, pro
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/VEJFuWgkGkY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VEJFuWgkGkY'  allowfullscreen></iframe></div>
 
 This Horn Concerto is one of four concerti Mozart wrote for the E flat horn, probably for a player called Ignaz Leutgab, a Salzburg musician for whom a great deal of horn music was written at the time.
 
@@ -221,7 +198,7 @@ This Horn Concerto is one of four concerti Mozart wrote for the E flat horn, pro
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/juLRqSV45vo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/juLRqSV45vo'  allowfullscreen></iframe></div>
 
 The Turkish March, or 'Rondo', as it is sometimes known, makes up the final movement of one Mozart's more unusual piano sonatas.  The Sonata for Piano in A Major (K331) was one of Mozart's tentative steps towards introducing more 'exotic' themes to a polite Western audience.  The March has a light and bouncy feel and follows on neatly from the previous frivolous movements; it is far better heard in the context of the whole work, which was written in  Mozart's favourite key.
 
@@ -230,7 +207,7 @@ The Turkish March, or 'Rondo', as it is sometimes known, makes up the final move
 
 _1785, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/yM8CFR01KwQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/yM8CFR01KwQ'  allowfullscreen></iframe></div>
 
 Though Mozart was strictly a Classical composer, this is often seen as one of his most romantic works.  Written in 1785, this concerto was first performed exactly a day after its completion by Mozart himself; there was no time for a rehearsal, yet the work was well received by the audience, which included Mozart's father Leopold.  It is in three movements (Allegro – Romance – Allegro assai), and the music swings between plaintive figures for the solo piano to fiery displays for the entire orchestra. 
 
@@ -241,7 +218,7 @@ Mozart wrote only two piano concerti in the minor mode.
 
 _1785, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/fNU-XAZjhzA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/fNU-XAZjhzA'  allowfullscreen></iframe></div>
 
 On the crest of his greatest triumphs as a composer and performer and at the peak of his most prosperous season in Vienna, Mozart composed this concerto with the sole purpose of showing off his own enthusiastic virtuosity at the piano.  Essentially an assertive work, it could hardly be described as serene, except perhaps in the slow second movement.
 
@@ -254,7 +231,7 @@ The second movement (Andante) is a slow lament played principally by the strings
 
 _1786, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/-s68kHOnpiE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/-s68kHOnpiE'  allowfullscreen></iframe></div>
 
 This piano concerto was written in 1786 and is in A Major, which was Mozart's favourite key for the piano; he produced some of his happiest sounding pieces in this key.
 
@@ -265,7 +242,7 @@ The first movement (Allegro) is a sunny beginning to this work, though the Adagi
 
 _1787, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nemAKvtXL8w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nemAKvtXL8w'  allowfullscreen></iframe></div>
 
 'Don Giovanni' was the Italian equivalent of Don Juan, and Mozart wonderfully reproduced this story as semi-tragic opera.
 
@@ -276,7 +253,7 @@ The title character does exactly what he pleases, seducing whoever takes his fan
 
 _1788, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/6RbKWhr0o1c'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/6RbKWhr0o1c'  allowfullscreen></iframe></div>
 
 Mozart composed this symphony (together with symphonies nos. 39 and 40), one of his most famous, in a period of only two months.  At the same time he had just written some begging letters to a well-to-do merchant friend that show him sinking deeper and deeper into debt and depression. 
 
@@ -293,7 +270,7 @@ All this drops by the wayside, however, in comparison with the final movement, w
 
 _1788, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/kSmMFMJOYlA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/kSmMFMJOYlA'  allowfullscreen></iframe></div>
 
 Mozart wrote this symphony (together with symphonies nos. 40 and 41), one of his most famous, in a period of only two months.  At the same time he had just written some begging letters to a well-to-do merchant friend that show him sinking deeper and deeper into debt and depression. 
 
@@ -310,7 +287,7 @@ The third and final movements provide a return to the lively feel of the opening
 
 _1788, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/JTc1mDieQI8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/JTc1mDieQI8'  allowfullscreen></iframe></div>
 
 Mozart wrote this symphony (together with symphonies nos. 39 and 41), one of his most famous, in a period of only two months.  At the same time he had just written some begging letters to a well-to-do merchant friend that show him sinking deeper and deeper into debt and depression. 
 
@@ -323,7 +300,7 @@ With its famous principal theme introduced by the violins, the symphony moves th
 
 _1790, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Dz5jy8dNWRo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Dz5jy8dNWRo'  allowfullscreen></iframe></div>
 
 Written in 1790 and produced in Vienna, this opera mocks women's vows and is a comedy based on their fickleness.  The title means 'So Do All Women', and the opera is sometimes subtitled 'School for Lovers'.
 
@@ -332,7 +309,7 @@ Written in 1790 and produced in Vienna, this opera mocks women's vows and is a c
 
 _1791, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_0mIhjhUnjQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_0mIhjhUnjQ'  allowfullscreen></iframe></div>
 
 Mozart had always been fascinated by the clarinet ever since, at the age of seven, he had heard the clarinets of the famous Mannheim orchestra. He was most captivated by the dynamic range of the instrument, with its rainbow span of tone colour and tonal range.
 
@@ -349,7 +326,7 @@ Unfortunately, the earliest printed editions have been revised to cater for a no
 
 _1791, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/s2Gedb05J5M'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/s2Gedb05J5M'  allowfullscreen></iframe></div>
 
 The Magic Flute revolves around the adventures of the bird-catcher Papageno, and is a mixture of comedy and unearthly, fairy-tale events, involving a magic battle between light and darkness.
 
@@ -358,7 +335,7 @@ The Magic Flute revolves around the adventures of the bird-catcher Papageno, and
 
 _1791, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/neDnpgZPPvY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/neDnpgZPPvY'  allowfullscreen></iframe></div>
 
 Mozart's Requiem Mass could be described as his most infamous work due to the fact that he died before its completion. 
 

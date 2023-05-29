@@ -8,13 +8,8 @@ died: 1924
 home: Paris
 country: France
 schools: Romantic, French
+toc: true
 ---
-
-## Essential Listening
-
-- [Pavane](#pavane)
-- [Requiem](#requiem)
-- [Pelléas et Mélisande Suite](#pelléas-et-mélisande-suite)
 
 ## Biography
 
@@ -55,7 +50,7 @@ Fauré died in 1924 but has left us with the most beautiful collection of music 
 
 _1887, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/wQDoN40-_C4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/wQDoN40-_C4'  allowfullscreen></iframe></div>
 
 Fauré was always attracted to the cool straight-forwardness of ancient Greek civilisation and wrote many works in this classical style. This is his best known, being a beautiful flute melody played over plucked strings.
 
@@ -63,7 +58,7 @@ Fauré was always attracted to the cool straight-forwardness of ancient Greek ci
 
 _1889, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/UnilUPXmipM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/UnilUPXmipM'  allowfullscreen></iframe></div>
 
 Definitely one the best loved of all choral works, this is essentially a reflective piece. The solo treble movement, 'Pie Jesu', is stunning and often performed separately.
 
@@ -71,6 +66,6 @@ Definitely one the best loved of all choral works, this is essentially a reflect
 
 _1898, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/jm-Iwi3zVWY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/jm-Iwi3zVWY'  allowfullscreen></iframe></div>
 
 Fauré wrote a lot of instrumental music for the theatre, the most notable being for Maeterlinck's 'Pelleas and Melisande' – a play based on doomed love.  Debussy, Sibelius and Schoenberg all wrote music based on this play, strangely enough, all within five years of one another.

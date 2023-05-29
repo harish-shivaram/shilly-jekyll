@@ -8,11 +8,8 @@ died: 1945
 home: Vienna
 country: Austria
 schools: Modern, 2nd Viennese
+toc: true
 ---
-
-## Essential Listening
-
-- [Five Pieces for Small Orchestra](#five-pieces-for-small-orchestra)
 
 ## Biography
 
@@ -33,7 +30,7 @@ Soon after the war ended, Webern's life was tragically cut short when, smoking a
 
 _1913, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/91N7pfEO_jQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/91N7pfEO_jQ'  allowfullscreen></iframe></div>
 
 There is no question that Anton von Webern was one of the most minimalist composers who ever lived and, therefore, was open to a lot of criticism concerning his approach to music.  He is often described as a late Late Romantic, and this was true not only of his music, but also of his character and tragic life.  He was gripped by an almost fanatical idealism in pursuing his style of music and, as a result, found himself at odds with the general public and music critics.  But he was never disheartened, merely withdrawing from the hustle and bustle of the musical market-place so as to continue with his work.
 

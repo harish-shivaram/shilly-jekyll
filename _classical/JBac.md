@@ -8,30 +8,8 @@ died: 1750
 home: Eisenach
 country: Germany
 schools: Baroque
+toc: true
 ---
-
-## Essential Listening
-
-- [Fugue in G Minor](#fugue-in-g-minor)
-- [Italian Concerto](#italian-concerto)
-- [Partita No. 1](#partita-no-1)
-- [Toccata and Fugue in D Minor](#toccata-and-fugue-in-d-minor)
-- [Brandenburg Concerto No. 1](#brandenburg-concerto-no-1)
-- [Brandenburg Concerto No. 2](#brandenburg-concerto-no-2)
-- [Brandenburg Concerto No. 3](#brandenburg-concerto-no-3)
-- [Brandenburg Concerto No. 6](#brandenburg-concerto-no-6)
-- [Double Violin Concerto](#double-violin-concerto)
-- [Brandenburg Concerto No. 4](#brandenburg-concerto-no-4)
-- [Brandenburg Concerto No. 5](#brandenburg-concerto-no-5)
-- [Suite for Orchestra No. 2](#suite-for-orchestra-no-2)
-- [Air on the G String](#air-on-the-g-string)
-- [Gavotte from Suite No. 3](#gavotte-from-suite-no-3)
-- [Suite for Orchestra No. 3](#suite-for-orchestra-no-3)
-- [Suite for Orchestra No. 4](#suite-for-orchestra-no-4)
-- [St Matthew Passion](#st-matthew-passion)
-- [Sleepers Awake](#sleepers-awake)
-- [Mass in B Minor – 'Gloria'](#mass-in-b-minor--gloria)
-- [Goldberg Variations](#goldberg-variations)
 
 ## Biography
 
@@ -83,7 +61,7 @@ His skill at writing for keyboard instruments and for choirs also had a signific
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/PhRa3REdozw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/PhRa3REdozw'  allowfullscreen></iframe></div>
 
 Bach wrote more than forty works for solo organ to be used before or after a church service, the most famous being his Toccata and Fugue in D Minor.  This Fugue in G Minor is in a similar vein and shows that Bach was without doubt a fine organist as well as composer.
 
@@ -92,7 +70,7 @@ Bach wrote more than forty works for solo organ to be used before or after a chu
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ghTitIMtTCM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ghTitIMtTCM'  allowfullscreen></iframe></div>
 
 Instantly recognisable, the Italian Concerto represents Bach at his Baroque best.
 
@@ -107,7 +85,7 @@ It is evident that the late Baroque composers did not fully utilise this when on
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/sGMbBZky-gA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/sGMbBZky-gA'  allowfullscreen></iframe></div>
 
 The six movements of Bach's Partita are typically Baroque and popular pieces for piano students.
 
@@ -116,7 +94,7 @@ The six movements of Bach's Partita are typically Baroque and popular pieces for
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Nnuq9PXbywA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Nnuq9PXbywA'  allowfullscreen></iframe></div>
 
 This must be one of the most famous works ever written for a church organ and is instantly recognisable from numerous films such as '20,000 Leagues under the Sea' and Disney's 'Fantasia'. It is an exciting and exhilarating work that tests not only the performer, but also the audience.
 
@@ -125,7 +103,7 @@ This must be one of the most famous works ever written for a church organ and is
 
 _1718, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BOZEj8wyj-I'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BOZEj8wyj-I'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -138,7 +116,7 @@ Today, we can't be sure exactly how this instrument is supposed to sound, though
 
 _1718, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/3HSRIDtwsfM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/3HSRIDtwsfM'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -149,7 +127,7 @@ Concerto No. 2 in F Major proved to be far too demanding for the musical staff o
 
 _1718, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QLj_gMBqHX8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QLj_gMBqHX8'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -164,7 +142,7 @@ The first movement (Allegro) opens with a strong rhythmic theme that reappears w
 
 _1718, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/CexJQ8VWJfY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/CexJQ8VWJfY'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -177,7 +155,7 @@ Originally scored for a mere seven instruments, it is now more commonly performe
 
 _1718, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/DJh6i-t_I1Q'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/DJh6i-t_I1Q'  allowfullscreen></iframe></div>
 
 Unlike a normal solo concerto, Bach's 'double violin' concerto was written with the idea of two violins accompanied by a harpsichord, cello and double bass, the ensemble then being supported by an entire orchestra. This small-group arrangement was known as a concertino, and the work as a whole was usually referred to as a concerto grosso. It was written, along with many other works, for Prince Leopold of Anhalt-Cöthen, where Bach was stationed during the period 1717–23. The prince himself is known to have been a fine cellist.
 
@@ -188,7 +166,7 @@ Written in the traditional Baroque fast, slow, fast structure, the concerto open
 
 _1719, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/G6hQvvhqfJo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/G6hQvvhqfJo'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -199,7 +177,7 @@ Brandenburg Concerto No. 4 in G Major is the lightest of the set, both in spirit
 
 _1720, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BnjqGhAlFzs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BnjqGhAlFzs'  allowfullscreen></iframe></div>
 
 The world has long marvelled that Bach's set of six 'Brandenburg' concertos should have been wasted on the pompous and arrogant Prussian nobleman the Margrave of Brandenburg, to whom Bach had to write grovelling letters for patronage.  Sadder still is the fact that these six pieces stayed unused in the Margrave's library for thirteen years; they were discovered after his death and recognised as works of genius.
 
@@ -210,7 +188,7 @@ This Fifth Brandenburg Concerto is in D major and is often seen as the first eve
 
 _1721, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Kl6R4Ui9blc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Kl6R4Ui9blc'  allowfullscreen></iframe></div>
 
 Made up of seven movements, this is Bach's only surviving work written for solo flute and orchestra, and could effectively be called a flute concerto.
 
@@ -247,7 +225,7 @@ A light-hearted chuckling ending to this masterful suite.
 
 _1722, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/NlT8yeEYbMs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/NlT8yeEYbMs'  allowfullscreen></iframe></div>
 
 This is practically without doubt the most well known of all Bach's works, having been immortalised in TV advertisements for cigars. Technically speaking the second movement of a five-part suite, this slow piece with a delightful walking bass line has been used as the source for many interpretations and variations, most notably by the French jazz pianist Jacques Loussier.
 
@@ -256,7 +234,7 @@ This is practically without doubt the most well known of all Bach's works, havin
 
 _1722, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/I9oaS-zvIm8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/I9oaS-zvIm8'  allowfullscreen></iframe></div>
 
 A gavotte was originally a French folk dance, which made its way, via ballrooms, to the dance passages of instrumental Baroque works.
 
@@ -267,7 +245,7 @@ Taken from Bach's Suite for Orchestra No. 3 (whose second movement is the famous
 
 _1722, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/FuMtEof9MWs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/FuMtEof9MWs'  allowfullscreen></iframe></div>
 
 This is probably Bach's most famous suite, as the second movement is the popular 'Air on the G String'. The opening overture was once described by the poet Goethe as an image of ' . . . important people descending a grand flight of steps'.
 
@@ -278,7 +256,7 @@ The Air has been popularised by film and television to the extent that many are 
 
 _1725, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/SP8_uZHKN-4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/SP8_uZHKN-4'  allowfullscreen></iframe></div>
 
 The C Major Suite is certainly Bach's most 'modern' and the only one which it is believed was composed in Leipzig. Some years after its composition, Bach rewrote this work adding three trumpets and drums to give it a more festive feel, presumably for some special event for which it had been commissioned.
 
@@ -287,7 +265,7 @@ The C Major Suite is certainly Bach's most 'modern' and the only one which it is
 
 _1729, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/jm1os4VzTgA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/jm1os4VzTgA'  allowfullscreen></iframe></div>
 
 This Passion is the account by St Matthew of Christ's crucifixion and resurrection, set for soloists, chorus and orchestra.  The actual biblical text is treated as a drama, similar in style to that of an oratorio, with additional sections reflecting on the meaning of the biblical events interspersed in cantata style. The congregation is brought into the performance by means of chorales. 
 
@@ -298,7 +276,7 @@ It is a solemn and majestic work, best heard live to appreciate fully its full a
 
 _1731, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/__lCZeePG48'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/__lCZeePG48'  allowfullscreen></iframe></div>
 
 Like most of Bach's work, this is a cantata written as part of a church service. About twenty minutes long, it contrasts solo arias with full choral sections and is an inspiration even to non-Christians.
 
@@ -307,7 +285,7 @@ Like most of Bach's work, this is a cantata written as part of a church service.
 
 _1733, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/7F7TVM8m95Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/7F7TVM8m95Y'  allowfullscreen></iframe></div>
 
 Some say that this Mass is Bach's supreme achievement in church music, the pinnacle of his art, and it is indeed a fine and powerful choral work. Written in 1733, it is an enormous setting of the Latin Mass treated in the manner of a Passion, with solos, ensembles and choruses.
 
@@ -316,7 +294,7 @@ Some say that this Mass is Bach's supreme achievement in church music, the pinna
 
 _1742, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ah392lnFHxM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Ah392lnFHxM'  allowfullscreen></iframe></div>
 
 The Goldberg Variations is the usual name given to a set of thirty variations on an original theme which Bach wrote for the double-keyboard harpsichord in 1742.
 

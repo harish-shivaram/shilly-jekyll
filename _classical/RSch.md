@@ -8,16 +8,8 @@ died: 1856
 home: Zwickau
 country: Germany
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Carnaval](#carnaval)
-- [Scenes of Childhood](#scenes-of-childhood)
-- [Dichterliebe](#dichterliebe)
-- [Symphony No. 4 in D Minor](#symphony-no-4-in-d-minor)
-- [Piano Concerto in A Minor](#piano-concerto-in-a-minor)
-- [Rhenish Symphony](#rhenish-symphony)
 
 ## Biography
 
@@ -73,7 +65,7 @@ It is also widely accepted that he made a truly significant contribution to the 
 
 _1835, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/o1aK8z84cTo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/o1aK8z84cTo'  allowfullscreen></iframe></div>
 
 This piece is typical of the works Schumann wrote for his wife, Clara, who was an accomplished pianist in her own right. 'Carnaval' is the story of a costume party, where the guests, including Paganini and Chopin, end up rounding on a gang of kill-joys and kick them out in a fantastic march.
 
@@ -82,7 +74,7 @@ This piece is typical of the works Schumann wrote for his wife, Clara, who was a
 
 _1838, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/6z82w0l6kwE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/6z82w0l6kwE'  allowfullscreen></iframe></div>
 
 Written in 1838, 'Scenes of Childhood' is a set of thirteen short piano pieces depicting childhood life.  They have been arranged for several instruments, including clarinet and strings.
 
@@ -91,7 +83,7 @@ Written in 1838, 'Scenes of Childhood' is a set of thirteen short piano pieces d
 
 _1841, Songs_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/xfL5D_MN5bE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/xfL5D_MN5bE'  allowfullscreen></iframe></div>
 
 Described as Schumann's greatest song cycle, the Dichterliebe ('Poet's Love') is a musical representation of the hope entertained by a young poet that his beloved will respond to him. Tragically (or typically – for Schumann), the phrases he sings are constantly mocked, until he eventually accepts the loss of his love.  It is a tale of happiness snatched beyond recovery.
 
@@ -100,7 +92,7 @@ Described as Schumann's greatest song cycle, the Dichterliebe ('Poet's Love') is
 
 _1841, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/fSY78CUVCtE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/fSY78CUVCtE'  allowfullscreen></iframe></div>
 
 Schumann composed his D Minor Symphony during the first wonderfully happy year of his marriage to Clara Wieck (which almost never took place because of the serious opposition of Clara's father, who had tried everything possible to stop the marriage). 
 
@@ -129,7 +121,7 @@ The finale rounds off the work with a recapitulation of the themes from the init
 
 _1845, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/YLPWFrErfWE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/YLPWFrErfWE'  allowfullscreen></iframe></div>
 
 Schumann's Piano Concerto is in many ways a symbol of his relationship with his adored wife Clara. 
 
@@ -154,7 +146,7 @@ The idea of having a main theme as a base for variations and alterations through
 
 _1851, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/YpwSIi6E0VA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/YpwSIi6E0VA'  allowfullscreen></iframe></div>
 
 Of his four symphonies, the 'Rhenish' is certainly Schumann's most descriptive.  It was written in 1850, soon after Robert and his beloved wife, Clara, moved to the Rhenish city of Düsseldorf.  Quite simply, the symphony is a glorification of the life, the landscape and the Rhineland's most famous building: the cathedral at Cologne.
 

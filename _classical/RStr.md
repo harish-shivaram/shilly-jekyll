@@ -8,15 +8,8 @@ died: 1949
 home: Munich
 country: Germany
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Till Eulenspiegel](#till-eulenspiegel)
-- [Don Juan](#don-juan)
-- [Also sprach Zarathustra](#also-sprach-zarathustra)
-- [Der Rosenklavier](#der-rosenklavier)
-- [Four Last Songs](#four-last-songs)
 
 ## Biography
 
@@ -64,7 +57,7 @@ His earlier works and those written in the last four or five years of his life a
 
 _1865, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/S7O9Oa22nsQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/S7O9Oa22nsQ'  allowfullscreen></iframe></div>
 
 Till Eulenspiegel, famous rebel and prankster, may have been a real historical person but we will never know, for he must already have been a legend by the time the first existing accounts of his adventures were published in 1515.  This anonymous book was republished in 1519 and quickly translated into several languages. The French were much taken by the character and his name  – Eulenspiegel was adapted as a new French word for rogue,  espiègle – and when his stories were reprinted in a new version in the nineteenth century it is quite likely that Strauss's imagination was inspired.
 
@@ -80,7 +73,7 @@ His final prank is that he refuses to lie quiet after he is dead and buried (!) 
 
 _1889, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/CcBGsjPky0c'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/CcBGsjPky0c'  allowfullscreen></iframe></div>
 
 The story of Don Juan is a famous piece of folklore that seems to have come down to us from the sixteenth century.  It is the story of a man who is completely irresistible to women and takes advantage of his obvious charm and appeal to bed as many as he possibly can.  However, a moral code is upheld as he is eventually dragged down to hell by a stone statue that rather rudely disrupts a dinner party to take the philanderer away. 
 
@@ -98,7 +91,7 @@ The music takes a light theme that represents the Don on his way to adventure.  
 
 _1896, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Szdziw4tI9o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Szdziw4tI9o'  allowfullscreen></iframe></div>
 
 Made famous as the introductory music to the film '2001: A Space Odessy', this work has since been thoroughly exploited in television, film and theatre for its stunning opening bars, which are instantly effective and awesome.
 
@@ -134,7 +127,7 @@ This work is famous on three counts: firstly, its opening theme is unforgettable
 
 _1911, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/p2LreBJ1JX0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/p2LreBJ1JX0'  allowfullscreen></iframe></div>
 
 'The Knight of the Rose' is a complete operatic comedy written as a homage to Mozart, and is set in a similar style to 'Cosi Fan Tutti' with its elegant aristocrats. It has some of Strauss's most delightful music.
 
@@ -142,6 +135,6 @@ _1911, Opera_
 
 _1948, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ppoqUVlKkBU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ppoqUVlKkBU'  allowfullscreen></iframe></div>
 
 Strauss wrote these songs as one reflecting on the end of life with no malice or regrets. Beautiful harmonies are meltingly arranged for the orchestra.

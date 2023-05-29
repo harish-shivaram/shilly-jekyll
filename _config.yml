@@ -131,6 +131,11 @@ plugins:
   - jekyll-gist
   - jekyll-paginate-v2
   - jekyll-sitemap
+  - jekyll-toc
+
+toc:
+  min_level: 2
+  max_level: 2
 
 # Pagination Settings
 pagination:

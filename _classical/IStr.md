@@ -8,20 +8,8 @@ died: 1971
 home: Oranienbaum
 country: Russia
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Firebird Suite](#firebird-suite)
-- [Petrushka](#petrushka)
-- [Rite of Spring](#rite-of-spring)
-- [Nightingale](#nightingale)
-- [Soldier's Tale](#soldiers-tale)
-- [Pulcinella](#pulcinella)
-- [Symphony of Psalms](#symphony-of-psalms)
-- [Violin Concerto in D](#violin-concerto-in-d)
-- [Symphony in Three Movements](#symphony-in-three-movements)
-- [Rake's Progress](#rakes-progress)
 
 ## Biography
 
@@ -87,7 +75,7 @@ A bout of ill health followed and Stravinsky died in New York in 1971, aged eigh
 
 _1909, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/RZkIAVGlfWk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/RZkIAVGlfWk'  allowfullscreen></iframe></div>
 
 'The Firebird' is one of Stravinsky's most popular ballets and also one of his most magical works.  The music accompanies a ballet of a fairy story based on a combination of Russian legends dealing with the characters of a young prince, a firebird, a fairy and a green-taloned monster called Kashchei. 
 
@@ -118,7 +106,7 @@ Interestingly, Stravinsky's writing became much harsher after this lush work, an
 
 _1911, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/hX7aSsic7eM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/hX7aSsic7eM'  allowfullscreen></iframe></div>
 
 'Petrushka' is the second of Stravinsky's three great ballets and was composed almost directly after 'The Firebird', yet is a marked contrast to it.  In 'The Firebird' we can hear how Stravinsky could use the orchestra to weave musical colour into a rich tapestry – almost a reminder that he was once a pupil of the great Rimsky-Korsakov.  With 'Petrushka', however, we are met with harsh, grating sounds. Grotesque action from the dancers is matched by grotesque music.
 
@@ -145,7 +133,7 @@ In the final section we return to the fair where, before the curtain of the pupp
 
 _1913, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/a9M2oTHa3GM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/a9M2oTHa3GM'  allowfullscreen></iframe></div>
 
 Music has never been the same since May 1913, when Stravinsky's ballet 'The Rite of Spring' exploded on the stage in Paris. It caused a riot in the audience: there were whistles, catcalls, arguments and insults; people punched each other, and for years afterwards the young Stravinsky treasured the ripped collar of his shirt as a precious relic of that battle. 
 
@@ -172,7 +160,7 @@ Overall, this is one of the most ground-breaking works ever written.
 
 _1914, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Hm9yQwN8s9k'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Hm9yQwN8s9k'  allowfullscreen></iframe></div>
 
 This opera is a gorgeously exotic version of the Hans Christian Anderson fairy-tale about a Chinese emperor who falls in love with a nightingale. The music has many mock-Chinese effects and the setting is almost like a pantomime.
 
@@ -181,7 +169,7 @@ This opera is a gorgeously exotic version of the Hans Christian Anderson fairy-t
 
 _1917, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/qLbKWKgJ9BQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/qLbKWKgJ9BQ'  allowfullscreen></iframe></div>
 
 Drawing on a set of Russian folk tales dealing with the devil, Stravinsky had come across a story that took his fancy, and, with a friend, decided to set about staging it.  However, he was hampered by the times he was living in, for post-World War One Europe was slowly rebuilding itself and money was short.  Stravinsky hit upon the idea of putting together a small touring company that would be inexpensive yet efficient. The cast was limited to four: a Soldier, a Devil, a Princess and a Narrator, and the set was kept to an absolute minimum.  The actual orchestra was made up of only seven members, with an emphasis on percussion.
 
@@ -207,7 +195,7 @@ Stravinsky arranged the work as follows:
 
 _1919, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/VwongNsp1RA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VwongNsp1RA'  allowfullscreen></iframe></div>
 
 One spring afternoon in 1919, Stravinsky and Serge Diaghilev, the ballet producer, were walking together in the Place de la Concorde in Paris when Diaghilev suggested that the composer look at some eighteenth-century music by Pergolesi with a view to orchestrating it for a ballet. From this point there began a love affair between Stravinsky and the eighteenth century which lasted over thirty years.  The composer was in a dilemma, however, for at the time he was known as a nationalistic composer producing Russian music for the Russian people, yet here he was harking back to the pre-Revolutionary Russia which the new regime was desperately trying to forget. 
 
@@ -222,7 +210,7 @@ From the twenty sections of his ballet, Stravinsky arranged an eight-movement su
 
 _1930, Orchestral, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/DqWZGUO_eoc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/DqWZGUO_eoc'  allowfullscreen></iframe></div>
 
 Stravinsky was a devout Christian, and this is one of his most deeply felt and personal scores, setting texts from Psalms 38, 39 and 150.  Many listeners have likened this music to the stillness and devotion of Russian religious paintings.
 
@@ -230,7 +218,7 @@ Stravinsky was a devout Christian, and this is one of his most deeply felt and p
 
 _1931, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/UQn6NG9CTn4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/UQn6NG9CTn4'  allowfullscreen></iframe></div>
 
 Stravinsky adopted a strange form for this concerto, using a Toccata, Aria I, Aria II and Capriccio structure rather than a more traditional one.  He wrote the first two movements in Nice and the rest in the Isère Valley.
 
@@ -238,7 +226,7 @@ Stravinsky adopted a strange form for this concerto, using a Toccata, Aria I, Ar
 
 _1943, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/FE0RUmG7oOE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/FE0RUmG7oOE'  allowfullscreen></iframe></div>
 
 Commissioned by the New York Philharmonic, this symphony combines the violence of Stravinsky's 'The Rite of Spring' with a certain neoclassical feel. Though only loosely based on a symphonic structure, it is still referred to as a symphony, and the music itself is based on Stravinsky's visual impressions, personal experiences and strong emotional reactions to the events of the Second World War.
 
@@ -247,6 +235,6 @@ Commissioned by the New York Philharmonic, this symphony combines the violence o
 
 _1951, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ycx7CAe6t_Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ycx7CAe6t_Y'  allowfullscreen></iframe></div>
 
 Written as a musical homage to Mozart, one of Stravinsky's heroes, this opera is the story of a young man who falls into the hands of the devil and is saved from eternal suffering and torture only by the devotion and love of his betrothed.

@@ -8,18 +8,8 @@ died: 1847
 home: Hamburg
 country: Germany
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Octet](#octet)
-- [A Midsummer Night's Dream](#a-midsummer-nights-dream)
-- [Hebrides Overture](#hebrides-overture)
-- [Italian Symphony](#italian-symphony)
-- [Scottish Symphony](#scottish-symphony)
-- [Violin Concerto in E Minor](#violin-concerto-in-e-minor)
-- [Elijah](#elijah)
-- [Songs without Words:  'Spring Song'](#songs-without-words--spring-song)
 
 ## Biography
 
@@ -69,7 +59,7 @@ His music is very appealing and is now finding something of a resurgence in popu
 
 _1825, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/pY_gbooPwoc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/pY_gbooPwoc'  allowfullscreen></iframe></div>
 
 Amazingly, Mendelssohn was only sixteen when he wrote this piece for two string quartets.  His youthful enthusiasm can be heard in each of the four lengthy movements, which sound as if the young composer has only just discovered the joys of music and wishes to share them with the world.
 
@@ -78,7 +68,7 @@ Amazingly, Mendelssohn was only sixteen when he wrote this piece for two string 
 
 _1827, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/m0gHTNJVFtA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/m0gHTNJVFtA'  allowfullscreen></iframe></div>
 
 Mendelssohn was, amazingly, only seventeen years old when he wrote the Overture to one of his favourite Shakespearean comedies, yet he did not write the other four parts (Scherzo – Intermezzo – Nocturne – Wedding March) until nearly twenty years later. In a letter to his sister, Fanny, when he was young, Mendelssohn said:
 
@@ -103,7 +93,7 @@ The final Wedding March is full of grand and regal splendour, particularly effec
 
 _1830, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/1B6QlFMr8V4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/1B6QlFMr8V4'  allowfullscreen></iframe></div>
 
 As his letters and paintings testify, Mendelssohn was a keen and sensitive observer of the outside world. 
 
@@ -122,7 +112,7 @@ One of the greatest of musical seascapes, the overture re-creates the sounds and
 
 _1830, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_HX_jF1_Tgc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_HX_jF1_Tgc'  allowfullscreen></iframe></div>
 
 Mendelssohn was often criticised for being too happy and too rich, and many have wondered what kind of music he would have produced had he been a poor, tormented and passionate artist like Mozart or Berlioz.  However, his talent is undeniable, and his Italian Symphony is a masterpiece as well as being, according to the composer himself ' . . . the jolliest piece I have ever done'.  
 
@@ -141,7 +131,7 @@ This sets up the listener nicely for the finale, in the form of an old Italian d
 
 _1833, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/VNn71y4OFt8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VNn71y4OFt8'  allowfullscreen></iframe></div>
 
 'We went into the palace where Queen Mary lived and loved. There is a little room to be seen there, with a winding staircase leading up to it. . . . The adjoining chapel is now roofless; grass and ivy grow abundantly in it; and before the ruined altar Mary was crowned Queen of Scotland. Everything around is broken and mouldering, and the bright sky shines in. I believe I found the beginnings of my 'Scotch' Symphony there today.'
 
@@ -154,7 +144,7 @@ It is set in the traditional four movements, yet, interestingly, Mendelssohn spe
 
 _1844, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/o1dBg__wsuo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/o1dBg__wsuo'  allowfullscreen></iframe></div>
 
 In July 1838 Mendelssohn wrote to his old friend Ferdinand David, saying:
 
@@ -176,7 +166,7 @@ Again with no pause, we are led straight into the finale with an increase in pac
 
 _1846, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/iBMTzryAnrk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/iBMTzryAnrk'  allowfullscreen></iframe></div>
 
 A dramatic oratorio in the style of Handel, Elijah tells the story of the prophet of the same name taken from the Old Testament.  The work is full of powerful choruses.
 
@@ -185,6 +175,6 @@ A dramatic oratorio in the style of Handel, Elijah tells the story of the prophe
 
 _1832, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/6tkqdOB5bEw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/6tkqdOB5bEw'  allowfullscreen></iframe></div>
 
 The 'Songs without Words' are an inspiring set of lyrical piano pieces that seem to explore moods rather than themes. The most famous are 'Spring Song' and 'The Bee's Wedding'. They have been arranged for various instruments, including flute and harp.

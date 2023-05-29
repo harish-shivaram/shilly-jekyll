@@ -8,11 +8,8 @@ died: 1983
 home: Oldham
 country: England
 schools: Modern, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [Façade](#façade)
 
 ## Biography
 
@@ -50,6 +47,6 @@ His works are well worth exploring if you are a fan of British music in general.
 
 _1923, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Jsk8d7J4J4k'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Jsk8d7J4J4k'  allowfullscreen></iframe></div>
 
 Walton took some poems by Edith Sitwell and arranged them for performance by a single reciter and a small instrumental ensemble for a performance in 1923.  Subsequent performances varied the number of 'settings' (as Walton called them), as more than forty were written. The music became so well known that in 1931 two orchestral suites and a ballet were produced.

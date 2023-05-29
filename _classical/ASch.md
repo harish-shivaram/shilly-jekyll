@@ -8,12 +8,8 @@ died: 1951
 home: Vienna
 country: Austria
 schools: Modern, 2nd Viennese
+toc: true
 ---
-
-## Essential Listening
-
-- [Verklärte Nacht](#verklärte-nacht)
-- [Pelléas und Mélisande](#pelléas-und-méalisande)
 
 ## Biography
 
@@ -34,7 +30,7 @@ While Schoenberg is often seen as being a composer's composer, his music can be 
 
 _1899, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/5h5Xc-rUef4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/5h5Xc-rUef4'  allowfullscreen></iframe></div>
 
 In 1896 one of the most distinguished poets of the day, Richard Dehmel, published a collection of poems called 'Woman and World', with a powerful expressionist work opening the book.  It told the story of  a couple walking through bare, cold woods while the woman is telling the man that she pregnant, and not by him.  Expecting him to be angry, she is surprised when he is overjoyed at the news and embraces her fondly, telling her of the 'special warmth' that he now feels for her.
 
@@ -46,7 +42,7 @@ The first section has a repeated plodding bass tone, over which a falling phrase
 
 _1903, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AZGzRWROBW4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AZGzRWROBW4'  allowfullscreen></iframe></div>
 
 In 1901 the twenty-eight-year-old Schoenberg decided to move to Berlin because he felt he would find it far easier and more enjoyable making a living there.  All in all, it turned out to be a good and prosperous decision for he soon found himself in the company of Richard Strauss, who helped him get a teaching job at one of Berlin's leading music schools as well as acquiring a substantial amount of money for him from the Liszt Fellowship.  It was also Strauss who suggested that Schoenberg might write an opera around the story of Pelléas and Mélisande by Maeterlinck.  After much consideration, he decided that he would rather write a symphonic poem than an opera, and set to work.
 

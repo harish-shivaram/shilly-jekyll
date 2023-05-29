@@ -8,26 +8,8 @@ died: 1759
 home: Halle
 country: Germany
 schools: Baroque
+toc: true
 ---
-
-## Essential Listening
-
-- [Harp Concerto](#harp-concerto)
-- [Organ Concerto in B Flat Major](#organ-concerto-in-b-flat-major)
-- [Organ Concerto in F Major](#organ-concerto-in-f-major)
-- [Water Music](#water-music)
-- [Water Music - Suite 1](#water-music--suite-1)
-- [Water Music - Suite 2](#water-music--suite-2)
-- [Water Music - Suite 3](#water-music--suite-3)
-- [Acis and Galatea](#acis-and-galatea)
-- [Harmonious Blacksmith](#harmonious-blacksmith)
-- [Sonata for Violin and Harpsichord No. 1](#sonata-for-violin-and-harpsichord-no-1)
-- [Zadok the Priest](#zadok-the-priest)
-- [Concerti Grossi Nos. 1–12](#concerti-grossi-nos-112)
-- [Ode for St Cecilia's Day](#ode-for-st-cecilias-day)
-- [Hallelujah Chorus](#hallelujah-chorus)
-- [Arrival of the Queen of Sheba](#arrival-of-the-queen-of-sheba)
-- [Music for the Royal Fireworks](#music-for-the-royal-fireworks)
 
 ## Biography
 
@@ -115,7 +97,7 @@ It was always Handel's wish that he should have a private funeral, but this was 
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/RnhfDQLQX_M'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/RnhfDQLQX_M'  allowfullscreen></iframe></div>
 
 There are not many concerti written for the harp, as it has often been passed off as an atmospheric instrument for creating dream-like soundscapes.  Handel, however, recognised the harp as a suitable solo instrument and wrote this charming concerto that is undemanding and thoroughly entertaining.
 
@@ -124,7 +106,7 @@ There are not many concerti written for the harp, as it has often been passed of
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/7-piI2CNtEo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/7-piI2CNtEo'  allowfullscreen></iframe></div>
 
 Though this Organ Concerto in B Flat Major was written to be performed as an interpolation in oratorio performances, it is by no means solemn; rather, it is made up of gorgeous slow movements and fast movements that combine orchestral fugues with displays of remarkable dexterity from the soloist.
 
@@ -133,7 +115,7 @@ Though this Organ Concerto in B Flat Major was written to be performed as an int
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/CDKy3ZxDTMU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/CDKy3ZxDTMU'  allowfullscreen></iframe></div>
 
 Though this Organ Concerto in F Major was written to be performed as an interpolation in oratorio performances, it is by no means solemn; rather, it is made up of gorgeous slow movements and fast movements that combine orchestral fugues with displays of remarkable dexterity from the soloist.
 
@@ -142,7 +124,7 @@ Though this Organ Concerto in F Major was written to be performed as an interpol
 
 _1717, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek'  allowfullscreen></iframe></div>
 
 'On Wednesday evening at about 8, the King took water at Whitehall in an open barge wherein were also the Dutchess of Bolton, the Dutchess of Newcastle, the Countess of Godolphin (etc.) . . . and went up the river towards Chelsea.  A City Company's Barge was employed for the Musick, wherein were 50 instruments of all sorts, who played all the way the finest Symphonies, composed express for this Occasion by Mr. Hendel; which his Majesty liked so well, that he caused it to be played over three times in going and returning.'
 
@@ -159,7 +141,7 @@ The following G Major/G Minor Suite is far more intimate and delicate, creating 
 
 _1717, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=23&end=1776'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=23&end=1776'  allowfullscreen></iframe></div>
 
 'On Wednesday evening at about 8, the King took water at Whitehall in an open barge wherein were also the Dutchess of Bolton, the Dutchess of Newcastle, the Countess of Godolphin (etc.) . . . and went up the river towards Chelsea.  A City Company's Barge was employed for the Musick, wherein were 50 instruments of all sorts, who played all the way the finest Symphonies, composed express for this Occasion by Mr. Hendel; which his Majesty liked so well, that he caused it to be played over three times in going and returning.'
 
@@ -174,7 +156,7 @@ The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes an
 
 _1717, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=1776&end=2438'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=1776&end=2438'  allowfullscreen></iframe></div>
 
 'On Wednesday evening at about 8, the King took water at Whitehall in an open barge wherein were also the Dutchess of Bolton, the Dutchess of Newcastle, the Countess of Godolphin (etc.) . . . and went up the river towards Chelsea.  A City Company's Barge was employed for the Musick, wherein were 50 instruments of all sorts, who played all the way the finest Symphonies, composed express for this Occasion by Mr. Hendel; which his Majesty liked so well, that he caused it to be played over three times in going and returning.'
 
@@ -190,7 +172,7 @@ The second suite is far more intimate and delicate than the first, creating an a
 
 _1717, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=2438'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/2tVmjN1y0Ek?start=2438'  allowfullscreen></iframe></div>
 
 'On Wednesday evening at about 8, the King took water at Whitehall in an open barge wherein were also the Dutchess of Bolton, the Dutchess of Newcastle, the Countess of Godolphin (etc.) . . . and went up the river towards Chelsea.  A City Company's Barge was employed for the Musick, wherein were 50 instruments of all sorts, who played all the way the finest Symphonies, composed express for this Occasion by Mr. Hendel; which his Majesty liked so well, that he caused it to be played over three times in going and returning.'
 
@@ -204,7 +186,7 @@ The third suite returns, stronger than ever after the first two, to a mood of ma
 
 _1718, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/iu_2nVJonqA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/iu_2nVJonqA'  allowfullscreen></iframe></div>
 
 Written in 1718 in English, this delightful pastoral interlude is taken from Greek mythology and revolves around the 'boy-meets-girl-meets-monster' principle. 
 
@@ -215,7 +197,7 @@ It seems Handel was always trying to please others first and himself second, and
 
 _1720, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IwjIiUNBiTk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/IwjIiUNBiTk'  allowfullscreen></iframe></div>
 
 A children's favourite, here arranged for flute and strings.
 
@@ -223,7 +205,7 @@ A children's favourite, here arranged for flute and strings.
 
 _1724, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LZ8057iGwdg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LZ8057iGwdg'  allowfullscreen></iframe></div>
 
 It must always be remembered that Handel was a virtuoso harpsichord player, and even though the solo instrument in this work is the violin, one can still hear some creative harpsichord work in the background.
 
@@ -231,7 +213,7 @@ It must always be remembered that Handel was a virtuoso harpsichord player, and 
 
 _1727, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lW9Uudkx42g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lW9Uudkx42g'  allowfullscreen></iframe></div>
 
 This choral work is solemn and majestic and was originally written as a coronation anthem for George II – its pace and feel being ideally suited for this purpose.
 
@@ -239,7 +221,7 @@ This choral work is solemn and majestic and was originally written as a coronati
 
 _1739, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eqksy-991sI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eqksy-991sI'  allowfullscreen></iframe></div>
 
 Together with Bach's 'Brandenburg' concertos, these twelve Concerti Grossi represent the peak of late Baroque orchestral writing and, amazingly, were composed between 29 September and 30 October 1739.  Here Handel uses the Baroque technique of matching a small orchestra, or 'concertino', against a larger one, known as a 'concerto grosso'.
 
@@ -249,7 +231,7 @@ These twelve works have become as synonymous with Handel as his Water Music or h
 
 _1739, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/PwN7_R25P6g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/PwN7_R25P6g'  allowfullscreen></iframe></div>
 
 A delightful work based on the poetry of Dryden.
 
@@ -258,7 +240,7 @@ A delightful work based on the poetry of Dryden.
 
 _1741, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/u6_nJ11BgTE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/u6_nJ11BgTE'  allowfullscreen></iframe></div>
 
 Quite possibly one of the most famous and lasting choral works, Handel's Messiah, with its 'Hallelujah!' chorus, is performed regularly in Europe, especially around Christmas. 
 
@@ -273,7 +255,7 @@ Indeed, today the work is usually performed by many vocalists, which makes Messi
 
 _1749, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/C66XCqWkhmw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/C66XCqWkhmw'  allowfullscreen></iframe></div>
 
 Taken from Handel's oratorio Solomon, 'The Arrival of the Queen of Sheba' depicts the grand entrance of the Queen, and mirrors exactly the atmosphere and ceremony that is associated with genuine royal events. If you ever hear a live performance, you will notice that the oboe players are practically purple in their effort to sustain their notes!
 
@@ -282,7 +264,7 @@ Taken from Handel's oratorio Solomon, 'The Arrival of the Queen of Sheba' depict
 
 _1749, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZuG1t2smdCQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZuG1t2smdCQ'  allowfullscreen></iframe></div>
 
 After the War of the Austrian Succession, George II decided to celebrate the Aix-En-Chapelle Treaty of 1748 with a grand open-air festivity.  Handel was commissioned to write a work '. . . with martial instruments'  to accompany a startling fireworks display as part of the jubilee to be held in London's Green Park on 27 April 1749. 
 

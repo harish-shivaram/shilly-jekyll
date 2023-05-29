@@ -8,22 +8,8 @@ died: 1809
 home: Rohrau-on-the-Leitha
 country: Austria
 schools: Classical
+toc: true
 ---
-
-## Essential Listening
-
-- [Cello Concerto in C  Major](#cello-concerto-in-c--major)
-- [Cello Concerto in D Major](#cello-concerto-in-d-major)
-- [String Quartet ('The Razor')](#string-quartet-the-razor)
-- [Symphony No. 88](#symphony-no-88)
-- [The Lark](#the-lark)
-- [Surprise Symphony](#surprise-symphony)
-- [Clock Symphony](#clock-symphony)
-- [Military Symphony](#military-symphony)
-- [Trumpet Concerto](#trumpet-concerto)
-- [Emperor Quartet ](#emperor-quartet-)
-- [Creation](#creation)
-- [Seasons](#seasons)
 
 ## Biography
 
@@ -69,7 +55,7 @@ In addition there are piano, violin, cello and wind instrument concertos, instru
 
 _1763, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/mooB5Q-0FIE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/mooB5Q-0FIE'  allowfullscreen></iframe></div>
 
 Composed in the earliest days of Haydn's associations with the Eszterházy family, this Cello Concerto in C Major would have been performed with a small orchestra consisting of possibly no more than fifteen members.
 
@@ -78,7 +64,7 @@ Composed in the earliest days of Haydn's associations with the Eszterházy famil
 
 _1763, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/EO2YtU7amKI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/EO2YtU7amKI'  allowfullscreen></iframe></div>
 
 Composed in the earliest days of Haydn's associations with the Eszterházy family, this Cello Concerto in D Major would have been performed with a small orchestra consisting of possibly no more than fifteen members.
 
@@ -87,7 +73,7 @@ Composed in the earliest days of Haydn's associations with the Eszterházy famil
 
 _1787, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/TPBk6rKwxIY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/TPBk6rKwxIY'  allowfullscreen></iframe></div>
 
 Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including Mozart – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
 
@@ -98,7 +84,7 @@ Of all Haydn's chamber music, the medium he best perfected was most definitely t
 
 _1787, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AV_ZE4zcl3I'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AV_ZE4zcl3I'  allowfullscreen></iframe></div>
 
 Haydn wrote his eighty-eighth symphony for a violinist called Johann Peter Tost, who was the leader of the second violins in Haydn's own orchestra in Esterhazá. 
 
@@ -109,7 +95,7 @@ It is a grand exercise in the use of as many musical devices that the composer w
 
 _1790, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/wJpHHAutlS4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/wJpHHAutlS4'  allowfullscreen></iframe></div>
 
 Even though Haydn wrote over a hundred symphonies, his best medium was without doubt the string quartet;  indeed, 'The Lark' is one of his most famous. Haydn always believed that chamber music should be, first and foremost, fun to play. This is true of this work, being a lively piece that shows his mature style at full stretch.
 
@@ -118,7 +104,7 @@ Even though Haydn wrote over a hundred symphonies, his best medium was without d
 
 _1792, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eVXalu0p1wo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eVXalu0p1wo'  allowfullscreen></iframe></div>
 
 This particular symphony is more commonly referred to as 'The Surprise' symphony on account of the story that Haydn, fully aware that a long concert could send parts of the audience to sleep, threw in a loud chord during the second movement to wake up any dozers. Today, however, listeners would probably not notice the 'surprise', as it is quite tame compared with what occurs in more recent music, yet at the time it was considered to be rather daring and even 'wild'.
 
@@ -127,7 +113,7 @@ This particular symphony is more commonly referred to as 'The Surprise' symphony
 
 _1794, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BMrQok1pvR4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BMrQok1pvR4'  allowfullscreen></iframe></div>
 
 When Haydn wrote the 'The Clock', he was sixty-two years old and living in London. He had already written a hundred symphonies, yet he still managed to surprise and delight his audiences without actually repeating himself musically. After its first performance, on 3 March 1794, the London Morning Chronicle wrote:
 
@@ -142,7 +128,7 @@ Set in the traditional four movements, it is the Andante (third movement), with 
 
 _1794, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/3pPDFAoj_Tw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/3pPDFAoj_Tw'  allowfullscreen></iframe></div>
 
 When this symphony was first performed in 1794, the audiences found it brilliant yet also horrifying, as it was designed to sum up all the terrors of war – specifically the Napoleonic Wars, which had just begun.
 
@@ -153,7 +139,7 @@ Subtitled the 'Military', it has four movements that are both stirring and inspi
 
 _1796, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZUZYoVw7moc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZUZYoVw7moc'  allowfullscreen></iframe></div>
 
 Haydn's last and finest concerto was written as an experiment for a trumpet-playing friend of his in Vienna.  The type of trumpet used for the first performance is, however, no longer in existence, for the 'new' trumpet of the time had keys rather than valves, and could be likened, in some ways, to a saxophone. 
 
@@ -164,7 +150,7 @@ The concerto is still performed today to great acclaim.
 
 _1799, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/8mdSch6oAlA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/8mdSch6oAlA'  allowfullscreen></iframe></div>
 
 Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including Mozart – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
 
@@ -175,7 +161,7 @@ The 'Emperor' is certainly one of his most delightful while 'The Razor' is typic
 
 _1801, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/l07oRR4u-rk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/l07oRR4u-rk'  allowfullscreen></iframe></div>
 
 Haydn was never truly comfortable writing music for voices rather than instruments, and this has resulted in his choral work being witty, neat and ordered, rather than wild, reckless and passionate. The Creation is a good example of this, where the opening chorus 'The Heavens are Telling the Glory of God' seems to lack a cohesion of voices yet has a delightful Baroque/Classical splendour.
 
@@ -184,6 +170,6 @@ Haydn was never truly comfortable writing music for voices rather than instrumen
 
 _1801, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/l3O2K-LyJ9o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/l3O2K-LyJ9o'  allowfullscreen></iframe></div>
 
 Along with The Creation, The Seasons is seen as the greatest of Haydn's choral works and was once described as ' . . . a work effervescent with the optimism of old age.'

@@ -8,17 +8,8 @@ died: 1975
 home: St Petersburg
 country: Russia
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Age of Gold](#age-of-gold)
-- [Piano Concerto No. 1](#piano-concerto-no-1)
-- [Katerina Izmaylova](#katerina-izmaylova)
-- [Symphony No. 5](#symphony-no-5)
-- [Piano Quintet in G Minor](#piano-quintet-in-g-minor)
-- [Symphony No. 10](#symphony-no-10)
-- [Hamlet](#hamlet)
 
 ## Biography
 
@@ -86,7 +77,7 @@ If you enjoy these works there is no reason why you shouldn't enjoy the rest of 
 
 _1932, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0z4MfzSdNkI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0z4MfzSdNkI'  allowfullscreen></iframe></div>
 
 Definitely a modern ballet, this work tells the story of a Russian football team on a visit to Europe.
 
@@ -94,7 +85,7 @@ Definitely a modern ballet, this work tells the story of a Russian football team
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nSQgNpNjcpg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nSQgNpNjcpg'  allowfullscreen></iframe></div>
 
 It is only in recent years that the general music lover has been able to appreciate the full range of Shostakovitch's immense range as an artist. Since the sensational success of his first symphony, composed when he was only eighteen, his orchestral works have become known the world over whereas other areas of his music have been relatively ignored.  His vocal scores, for example, being written in Russian, are hard going for the non-Russian speaker.
 
@@ -110,7 +101,7 @@ With such a collection of quotes and influences, only a genius could have moulde
 
 _1936, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/z6MFOdYEaUc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/z6MFOdYEaUc'  allowfullscreen></iframe></div>
 
 When Shostakovotch first wrote this opera in 1936, it was called 'Lady Macbeth of the Mtensk District'.  It brought him his first official criticism from the Soviet newspaper 'Pravda', which described it as 'discordant and chaotic'. It is the story of a woman who murders her father-in-law and future husband with the help of her lover. A powerful and intense work, it was revived in 1963 under the name 'Katerina Izmaylova'.
 
@@ -119,7 +110,7 @@ When Shostakovotch first wrote this opera in 1936, it was called 'Lady Macbeth o
 
 _1937, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0FF4HyB77hQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0FF4HyB77hQ'  allowfullscreen></iframe></div>
 
 Shostakovitch's Fifth Symphony was written at a time when he seemed to have fallen out of favour with the Soviet public and critics. Firstly, his opera 'Lady Macbeth of the Mtensk District' was denounced by Pravda, the national Soviet newspaper, as a 'monstrosity', and only nine days later the same paper described the music of his ballet 'The Clear Stream' as failing to depict the real peasants of a Soviet collective farm but, rather, as some 'tinsel peasants from a pre-Revolutionary chocolate box'. 
 
@@ -136,7 +127,7 @@ The first movement (Moderato) opens with a jagged theme that is similar to Beeth
 
 _1940, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/5YXwE6VTT6g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/5YXwE6VTT6g'  allowfullscreen></iframe></div>
 
 Although this quintet begins rather solemnly, the seriousness is soon thrown aside, as we fly through scherzos and Russian dances, ending with a superb finale that was intended to depict a circus parade.
 
@@ -145,7 +136,7 @@ Although this quintet begins rather solemnly, the seriousness is soon thrown asi
 
 _1953, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/XKXQzs6Y5BY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/XKXQzs6Y5BY'  allowfullscreen></iframe></div>
 
 Many say that this is Shostakovitch's finest work, and also his most personal. He even uses a note-pattern based on the letters of his name – DSCH (D, E flat, C and B natural). Although the first and third movements are slow and sombre, the second movement and the finale are glittering and spectacular.
 
@@ -153,6 +144,6 @@ Many say that this is Shostakovitch's finest work, and also his most personal. H
 
 _1965, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AvQwcbt-ITI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AvQwcbt-ITI'  allowfullscreen></iframe></div>
 
 Shostakovitch wrote this impressive score for a film of the great Shakespearean tragedy in 1963.

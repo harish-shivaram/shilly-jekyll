@@ -8,19 +8,8 @@ died: 1907
 home: Bergen
 country: Norway
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Piano Concerto in A Minor](#piano-concerto-in-a-minor)
-- [Four Norwegian Dances](#four-norwegian-dances)
-- [Lyric Pieces](#lyric-pieces)
-- [Homage March](#homage-march)
-- [Sigurd Jorsalfar](#sigurd-jorsalfar)
-- [Peer Gynt: 'Morning'](#peer-gynt-morning)
-- [Peer Gynt: 'Arabian Dance'](#peer-gynt-arabian-dance)
-- [Holberg Suite](#holberg-suite)
-- [Symphonic Dances](#symphonic-dances)
 
 ## Biography
 
@@ -68,7 +57,7 @@ He still stands alone as being the only composer of note to have emerged from No
 
 _1869, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/VhBZ9LLgAr8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VhBZ9LLgAr8'  allowfullscreen></iframe></div>
 
 'The Chopin of the North' was one great pianist's name for Edvard Grieg, and certainly this piano concerto does recall Chopin, who was Grieg's favourite composer. 
 
@@ -87,7 +76,7 @@ The second movement (Adagio) is slow and tender, and is really an introduction f
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Geh_JOVR8ak'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Geh_JOVR8ak'  allowfullscreen></iframe></div>
 
 These short, yet delightful dances were once described as 'gorgeous lollipops'.
 
@@ -95,7 +84,7 @@ These short, yet delightful dances were once described as 'gorgeous lollipops'.
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ma9svaCCIkM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ma9svaCCIkM'  allowfullscreen></iframe></div>
 
 A collection of endlessly enjoyable piano pieces – some of which are light and charming whilst others are deeply affecting.
 
@@ -104,7 +93,7 @@ A collection of endlessly enjoyable piano pieces – some of which are light and
 
 _1872, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/cs71oFuSgrA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/cs71oFuSgrA'  allowfullscreen></iframe></div>
 
 Though credited to Grieg, the Homage March was originally written by Wagner in 1864 to be played by a military band for King Ludwig II of Bavaria.  However, it gained popularity when Grieg reorchestrated it for incorporation in his music for the play 'Sigurd Jorsalfar' in 1872.
 
@@ -112,7 +101,7 @@ Though credited to Grieg, the Homage March was originally written by Wagner in 1
 
 _1872, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/cEEONcJfmzo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/cEEONcJfmzo'  allowfullscreen></iframe></div>
 
 Written in 1872, Sigurd Jorsalfar is based on an episode from a Scandinavian saga called the 'Heimskringla' and is sometimes known as 'Sigurd the Crusader'.
 
@@ -125,7 +114,7 @@ Grieg was aware that audiences often had difficulty in listening to both words a
 
 _1876, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/bihp6gwTdeg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/bihp6gwTdeg'  allowfullscreen></iframe></div>
 
 Unquestionably Grieg's most famous work, the Peer Gynt Suites nos. 1 and 2 were written as incidental music for a theatrical production of Ibsen's drama. They are made up of eight pieces, though in performance only four are usually played.
 
@@ -136,7 +125,7 @@ Unquestionably Grieg's most famous work, the Peer Gynt Suites nos. 1 and 2 were 
 
 _1876, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/tdo1sfXTmt4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/tdo1sfXTmt4'  allowfullscreen></iframe></div>
 
 Unquestionably Grieg's most famous work, the Peer Gynt Suites nos. 1 and 2 were written as incidental music for a theatrical production of Ibsen's drama. They are made up of eight pieces, though in performance only four are usually played.
 
@@ -147,7 +136,7 @@ The 'Arabian Dance', from Suite No. 2, is a lively and aggressive piece with vio
 
 _1884, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lXy21qsLY1A'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lXy21qsLY1A'  allowfullscreen></iframe></div>
 
 This suite for strings, officially called 'From Holberg's Time', is full of charm and cleverly re-creates the atmosphere of the eighteenth century.
 
@@ -155,6 +144,6 @@ This suite for strings, officially called 'From Holberg's Time', is full of char
 
 _1898, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/W7aAfEuRK5g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/W7aAfEuRK5g'  allowfullscreen></iframe></div>
 
 Originally written as a piano duet, these four pieces were later orchestrated and are often seen as the Norwegian equivalent of Dvorák's 'Slavonic Dances'.

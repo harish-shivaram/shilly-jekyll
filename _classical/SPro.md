@@ -8,19 +8,8 @@ died: 1953
 home: Sontsovka
 country: Russia
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Classical Symphony](#classical-symphony)
-- [Prodigal Son](#prodigal-son)
-- [Love for Three Oranges](#love-for-three-oranges)
-- [Piano Concerto No. 3 in C](#piano-concerto-no-3-in-c)
-- [Lieutenant Kijé](#lieutenant-kij)
-- [Romeo and Juliet](#romeo-and-juliet)
-- [Peter and the Wolf: The Cat](#peter-and-the-wolf-the-cat)
-- [Peter and the Wolf: The Grandfather](#peter-and-the-wolf-the-grandfather)
-- [Cinderella](#cinderella)
 
 ## Biography
 
@@ -62,7 +51,7 @@ He died just two years later, on 7 March 1953.
 
 _1916, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/p5jL6Ma9tvk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/p5jL6Ma9tvk'  allowfullscreen></iframe></div>
 
 It seems quite amazing that Prokofiev could have composed such a light-hearted piece as his 1916 'Classical Symphony' at a time when the First World War was at its height, the czarist government of his homeland was crumbling, and the Russian Revolution was just beginning.  He even found himself dodging bullets during the February Revolution in Petrograd without being put off his care-free mood.  The motive behind this work was to produce a symphony in the style of Haydn, whom some call 'the father of the symphony' – partly in tribute to the great composer, but also as an intellectual exercise.  In his autobiography, Prokoviev wrote:
 
@@ -77,7 +66,7 @@ The finale, however, is well worth waiting for, with its persistent driving forc
 
 _Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/sxcEzxHeMTg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/sxcEzxHeMTg'  allowfullscreen></iframe></div>
 
 The plot of this ballet is taken from the biblical tale of a boy who leaves home thinking he can survive in the big, wide world, only to come crawling back to his family. There is some superbly sleazy music in the scene where the son is mixing with thieves and ne'er-do-wells.
 
@@ -86,7 +75,7 @@ The plot of this ballet is taken from the biblical tale of a boy who leaves home
 
 _1921, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/7Q0toEhKRWk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/7Q0toEhKRWk'  allowfullscreen></iframe></div>
 
 Prokofiev's opera 'The Love for Three Oranges' is based on the highly amusing folk tale about a prince whom nobody can make laugh.
 
@@ -95,7 +84,7 @@ Prokofiev's opera 'The Love for Three Oranges' is based on the highly amusing fo
 
 _1921, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/q4TyQ97Jcr0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/q4TyQ97Jcr0'  allowfullscreen></iframe></div>
 
 Prokofiev completed his Third Piano Concerto during the summer of 1921 in the small town of St Brevin on the coast of Brittany, though he had been planning it, on and off, since 1911. However, all the ideas he came up with at the time he ended up using in other works, most notably in his 'white' works, where the music is deliberately written in a way where, if played on a piano, only the white keys are used. 
 
@@ -108,7 +97,7 @@ The first movement (Andante; Allegro) begins with a short introduction before a 
 
 _1933, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/YbaY7p5ahZo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/YbaY7p5ahZo'  allowfullscreen></iframe></div>
 
 Prokofiev was a great fan of satire and sentiment, yet had never found a subject upon which he could work these feelings. After settling for good in the USSR in the early 1930s, he was anxious to begin work on purely Soviet subjects yet, as he wrote in his autobiography:
 
@@ -137,7 +126,7 @@ The symphonic suite is Prokofiev's adaptation of his soundtrack and is in five m
 
 _1935, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZmiEiPeHwmo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZmiEiPeHwmo'  allowfullscreen></iframe></div>
 
 Towards the end of 1934 Prokofiev was commissioned to write a ballet by the Bolshoi Theatre in Moscow and, having signed the contract, set straight to work.  From then on, a string of bad luck makes it amazing that he bothered, or succeeded, to finish the work at all.
 
@@ -155,7 +144,7 @@ Split into two suites of seven pieces each, the music mirrors the play perfectly
 
 _1936, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/qjracXGTtDU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/qjracXGTtDU'  allowfullscreen></iframe></div>
 
 Peter and the Wolf is a 'symphonic tale for orchestra' with a narrator, which was written with the intention of teaching children the instruments of the orchestra. Each character is musically represented in a manner that instantly evokes the animal or person in question. The story itself has suspense, humour and a happy ending, making a perfect work for children.
 
@@ -165,7 +154,7 @@ The cat, musically portrayed by a clarinet, seems to slope along with a nonchala
 
 _1936, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9lLHJDQxbYI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9lLHJDQxbYI'  allowfullscreen></iframe></div>
 
 Peter and the Wolf is a 'symphonic tale for orchestra' with a narrator, which was written with the intention of teaching children the instruments of the orchestra. Each character is musically represented in a manner that instantly evokes the animal or person in question. The story itself has suspense, humour and a happy ending, making a perfect work for children.
 
@@ -175,6 +164,6 @@ The grandfather, represented by the bassoon, warns Peter of the dangers of the f
 
 _1945, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/omzg05Sa494'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/omzg05Sa494'  allowfullscreen></iframe></div>
 
 Prokofiev's Cinderella is a marvellous ballet based on the traditional children's story.

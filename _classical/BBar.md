@@ -8,17 +8,8 @@ died: 1945
 home: Nagyszentmiklos
 country: Hungary
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Romanian Dances](#romanian-dances)
-- [Miraculous Mandarin](#miraculous-mandarin)
-- [Dance Suite](#dance-suite)
-- [Music for Strings, Percussion and Celesta](#music-for-strings-percussion-and-celesta)
-- [String Quartets](#string-quartets)
-- [Concerto for Orchestra](#concerto-for-orchestra)
-- [Piano Concerto No. 3](#piano-concerto-no-3)
 
 ## Biography
 
@@ -67,7 +58,7 @@ The Dance Suite and Romanian Dances are essential listening, which can lead one 
 
 _1915, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/4HAIHSqiwAA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/4HAIHSqiwAA'  allowfullscreen></iframe></div>
 
 Certainly the best introduction to Bartók's music, this set of six tiny pieces is an interpretation of Hungarian folk art at its freshest. Whilst they were originally written for piano, there exists a sparkling arrangement for piano and violin.
 
@@ -76,7 +67,7 @@ Certainly the best introduction to Bartók's music, this set of six tiny pieces 
 
 _1919, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/SCkn0Qjm0Ho'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/SCkn0Qjm0Ho'  allowfullscreen></iframe></div>
 
 The music of 'The Miraculous Mandarin' is of a symphonic nature, even though the work was written as a ballet. Set in New York, where Bartók eventually died, it opens with the snarling whirl of the city's traffic, thereby setting the scene for a story of hoodlum violence and hopeless love.
 
@@ -84,7 +75,7 @@ The music of 'The Miraculous Mandarin' is of a symphonic nature, even though the
 
 _1923, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nFPdmJof41A'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nFPdmJof41A'  allowfullscreen></iframe></div>
 
 In 1923 Bartók (along with Kodály and Dohnányi) was commissioned to write a work to celebrate the fiftieth anniversary of Budapest, the capital city (the city having previously been three separate towns).  As in much of his work, Bartók drew on the peasant heritage and folk roots of his country to produce a suite of delightful nationalistic dance tunes.
 
@@ -93,7 +84,7 @@ In 1923 Bartók (along with Kodály and Dohnányi) was commissioned to write a w
 
 _1939, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/E18snckRCxM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/E18snckRCxM'  allowfullscreen></iframe></div>
 
 As Bartók grew older and his popularity seemed to be dimming, he became increasingly reluctant to write music for large symphony orchestras unless he was absolutely sure that the resulting work would receive a performance. This, considering Bartók's tragic life, is quite understandable, as his family was often struggling to survive and in desperate need of money. Unperformed works simply did not pay. 
 
@@ -107,7 +98,7 @@ Despite being slow, the first movement (Andante tranquillo) has a strong drive t
 
 _1939, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0gRTE0SKQI0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0gRTE0SKQI0'  allowfullscreen></iframe></div>
 
 Many people have said that Bartók's string quartets are some of the finest written since those of Beethoven, and they are certainly a thorny and compelling set. No. 1 is almost always likened to Debussy's work, while the second is the traditional Bartók in fierce folk-music mode. Numbers 3 and 4 are a little gritty, yet perfect for the true fan of the composer. The fifth is light-hearted and cheerful, and the sixth (possibly the best) has all its four movements linked by a sad folk-like melody.
 
@@ -116,7 +107,7 @@ Many people have said that Bartók's string quartets are some of the finest writ
 
 _1945, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/C68SkzGb6Ww?start=16&end=641'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/C68SkzGb6Ww?start=16&end=641'  allowfullscreen></iframe></div>
 
 Traditionally, a concerto is written for a solo instrument, such as a violin or piano, accompanied by an orchestra, so the title of the Hungarian composer's possibly most famous work may require some explanation. As Bartók's himself said: 'The title of this symphony-like orchestral work is explained by its tendency to treat the single orchestral instruments in a . . . soloistic manner'. In other words, there are brilliant opportunities available for a virtuoso orchestra, and everybody will get the chance to show off. 
 
@@ -128,7 +119,7 @@ This five-movement work is very much a piece of twentieth-century music, for it 
 
 _1945, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/elaY_d3uG6A'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/elaY_d3uG6A'  allowfullscreen></iframe></div>
 
 Bartók's Third Piano Concerto was his last completed work. On the evening of the final day he spent in his small New York apartment, a fellow Hungarian friend found him feverishly writing out the last movement. Only seventeen or eighteen bars were left to be completed when he was taken to hospital the next morning, but four days later he was dead.
 

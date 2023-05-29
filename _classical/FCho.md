@@ -8,25 +8,8 @@ died: 1849
 home: Warsaw
 country: Poland
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Nocturne  in E Minor](#nocturne--in-e-minor)
-- [Twelve Études](#twelve-études)
-- [Ballade No. 1 in G Minor](#ballade-no-1-in-g-minor)
-- [Berceuse](#berceuse)
-- [Études Op. 25](#études-op-25)
-- [Mazurka in C Minor](#mazurka-in-c-minor)
-- [Nocturne in C Sharp Minor](#nocturne-in-c-sharp-minor)
-- [Nocturne in E Flat](#nocturne-in-e-flat)
-- [Polonaise in A Major ](#polonaise-in-a-major-)
-- [Waltz in E Flat](#waltz-in-e-flat)
-- [Funeral March](#funeral-march)
-- [Prelude No. 24](#prelude-no-24)
-- [Prelude No. 4](#prelude-no-4)
-- [Scherzo in B Flat Minor](#scherzo-in-b-flat-minor)
-- [Minute Waltz](#minute-waltz)
 
 ## Biography
 
@@ -78,7 +61,7 @@ His funeral was held at the Madeleine in Paris where, at his own request, Mozart
 
 _1827, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lxrtWIHD-pc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lxrtWIHD-pc'  allowfullscreen></iframe></div>
 
 Composed in 1827, this Nocturne is often described as being 'posthumous', for it was only discovered in 1863, in Warsaw.
 
@@ -87,7 +70,7 @@ Composed in 1827, this Nocturne is often described as being 'posthumous', for it
 
 _1830, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/4pyqLbi2wLU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/4pyqLbi2wLU'  allowfullscreen></iframe></div>
 
 Written when Chopin was only twenty, these 'studies' followed the principle that exercises to improve piano technique should also involve playing enjoyable pieces.
 
@@ -96,7 +79,7 @@ Written when Chopin was only twenty, these 'studies' followed the principle that
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/RR7eUSFsn28'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/RR7eUSFsn28'  allowfullscreen></iframe></div>
 
 This Ballade, with its use of 'rubato' and highly embellished themes, is certainly a showcase for all the features of a Chopin composition.  Of particular interest is a passage that occurs about five minutes into the piece, which is highly reminiscent of his 'Minute' waltz.
 
@@ -105,7 +88,7 @@ This Ballade, with its use of 'rubato' and highly embellished themes, is certain
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lwsCGpdtg5Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lwsCGpdtg5Y'  allowfullscreen></iframe></div>
 
 This Berceuse, or 'cradle-song', is a delightful and enchanting exercise that clearly gives us another insight into the charm of the young romantic piano genius.
 
@@ -114,7 +97,7 @@ This Berceuse, or 'cradle-song', is a delightful and enchanting exercise that cl
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/GOe670xcKhk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/GOe670xcKhk'  allowfullscreen></iframe></div>
 
 Chopin said about this study:
 
@@ -127,7 +110,7 @@ In the distance rushes the wind and the rain, while the shepherd gently plays a 
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/XtvERtb4tNo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/XtvERtb4tNo'  allowfullscreen></iframe></div>
 
 Chopin wrote over fifty mazurkas for the piano – a mazurka being a traditional Polish dance in triple time where the second beat is usually accentuated either in the music or by a tap of the heel of the dancer.
 
@@ -138,7 +121,7 @@ He often varied the traditional style by either changing the speed or incorporat
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/JtZokkiSxBM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/JtZokkiSxBM'  allowfullscreen></iframe></div>
 
 This Nocturne is charming in its apparent simplicity, though on closer inspection one will appreciate the skill required to fit in the trills over a seemingly endless bass line.
 
@@ -147,7 +130,7 @@ This Nocturne is charming in its apparent simplicity, though on closer inspectio
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/tV5U8kVYS88'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/tV5U8kVYS88'  allowfullscreen></iframe></div>
 
 Chopin wrote twenty-one nocturnes in all, this being perhaps the most famous one.
 
@@ -158,7 +141,7 @@ This 'night-piece' has been arranged for brass bands and even musical saws, yet 
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/F_e9WGmZf7k'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/F_e9WGmZf7k'  allowfullscreen></iframe></div>
 
 Though a 'major' key is usually associated with bright and cheerful melodies, this piano polonaise (based on the traditional Polish dance) seems to move between the happy and the morose before reaching the end of a particular phrase.  As always with his more sedate work, Chopin paces the music with a good use of 'rubato', producing overall an essentially gentle work with a tone of hidden menace.
 
@@ -167,7 +150,7 @@ Though a 'major' key is usually associated with bright and cheerful melodies, th
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/mLwuOQ7SM2Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/mLwuOQ7SM2Y'  allowfullscreen></iframe></div>
 
 Chopin wrote altogether nineteen waltzes, of which this is a delightful example.
 
@@ -176,7 +159,7 @@ Chopin wrote altogether nineteen waltzes, of which this is a delightful example.
 
 _1839, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Q5UrVdvk1Ao'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Q5UrVdvk1Ao'  allowfullscreen></iframe></div>
 
 The first two movements of this sonata seem to shoot along with a sense of unstoppable urgency, but the proceedings are suddenly cut short by the powerful solemnity of the funeral march of the third movement, which is often played separately – especially at funerals. However, this sonata must not be thought of as serious, for at times it is certainly a show-stopper.
 
@@ -185,7 +168,7 @@ The first two movements of this sonata seem to shoot along with a sense of unsto
 
 _1839, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/PROCLaNobs8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/PROCLaNobs8'  allowfullscreen></iframe></div>
 
 A marvellous work once desribed as being: 'full of the sounds of great guns!'
 
@@ -194,7 +177,7 @@ A marvellous work once desribed as being: 'full of the sounds of great guns!'
 
 _1839, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/90wBhBZjAUQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/90wBhBZjAUQ'  allowfullscreen></iframe></div>
 
 Robert Schumann once said of these preludes, composed in 1838:
 
@@ -211,7 +194,7 @@ The composer seems to be absorbed in the narrow sphere of his own ego, from whic
 
 _1839, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/S94Nh-bSomo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/S94Nh-bSomo'  allowfullscreen></iframe></div>
 
 Chopin's scherzos often feel like one-movement sonatas on account of the way in which they are closely worked and thematically compartmentalised.  Themes aside, however, they include all the Chopin trademarks such as genuine tunefulness and literally showers of notes.
 
@@ -220,7 +203,7 @@ Chopin's scherzos often feel like one-movement sonatas on account of the way in 
 
 _1847, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/X2JCxapd5hU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/X2JCxapd5hU'  allowfullscreen></iframe></div>
 
 This is definitely Chopin's most famous piano work and possibly one of the hardest to play if the title is to be believed. The composer himself was reputed to have performed it in sixty second, but usually about a minute and a half is required. 
 

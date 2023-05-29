@@ -8,17 +8,8 @@ died: 1943
 home: Oneg
 country: Russia
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Piano Concerto No. 1](#piano-concerto-no-1)
-- [Piano Prelude No. 1](#piano-prelude-no-1)
-- [Piano Concerto No. 2](#piano-concerto-no-2)
-- [Symphony No. 2](#symphony-no-2)
-- [Piano Concerto No. 3](#piano-concerto-no-3)
-- [Thirteen Preludes](#thirteen-preludes)
-- [Rhapsody on a Theme of Paganini](#rhapsody-on-a-theme-of-paganini)
 
 ## Biography
 
@@ -86,7 +77,7 @@ Rachmaninov is the natural successor to Tchaikovsky in the Russian romantic musi
 
 _1891, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/p6qjffQq-tw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/p6qjffQq-tw'  allowfullscreen></iframe></div>
 
 Rachmaninov's First Piano Concerto was also the first major work he composed, and is often seen as a highly personal piece – so personal in fact that he sometimes felt uncomfortable performing it.  Having written it in 1891 he always felt that it needed reworking, yet found he never had the time nor the inspiration.  However, in 1917 the Bolsheviks assumed power and Rachmaninov, once a supporter of the revolution, soon became disillusioned with the new regime, having lost nearly all he owned.  Recalling Tolstoy's advice that 'only by hard work can one lessen the weight of life's burdens', he decided that this would be the time to rewrite his concerto.
 
@@ -99,7 +90,7 @@ The fact that Rachmaninov was also a fantastic virtuoso pianist is evident in th
 
 _1892, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/-p0lWPYRhvQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/-p0lWPYRhvQ'  allowfullscreen></iframe></div>
 
 Rachmaninov was only nineteen when he wrote what later became one of his most famous piano works (he wrote twenty-four preludes altogether).  It plagued him all his life, as the work was constantly requested at his concerts, even when he wanted to show off newer material.
 
@@ -108,7 +99,7 @@ Rachmaninov was only nineteen when he wrote what later became one of his most fa
 
 _1900, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/uJRHht55E1M'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uJRHht55E1M'  allowfullscreen></iframe></div>
 
 The story of Rachmaninov's Second Piano Concerto is a lesson in turning a seemingly bad and hopeless situation around to create a work of genius.  In 1897 the twenty-four-year-old Rachmaninov had just seen his First Symphony go down as an abysmal failure, and this had come to him as something of a shock.  At the same time he had begun to become bored with the artist's lifestyle of cafes and restaurants that was, arguably, expected of him, and as he lost interest in his life he also lost confidence in his ability to compose. 
 
@@ -127,7 +118,7 @@ The bright finale begins with some low rhythmic mutterings from the orchestra, w
 
 _1907, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LcN1iLMIStk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LcN1iLMIStk'  allowfullscreen></iframe></div>
 
 'I have escaped from my friends', said Rachmaninov with a smile of satisfaction to an acquaintance who ran into him in the streets of Dresden during the winter of 1906–7, 'please don't give me away.' 
 
@@ -142,7 +133,7 @@ The first movement (Largo; Allegro moderato) introduces on the strings the main 
 
 _1909, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9AmxZnlRa6Q?start=1689'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9AmxZnlRa6Q?start=1689'  allowfullscreen></iframe></div>
 
 Rachmaninov finished his Third Piano Concerto in 1909, barely in time for his first tour of the United States.  He himself was the soloist for the world premiere in New York on 28 November 1909, which successfully took place with the Symphony Society of New York. 
 
@@ -165,7 +156,7 @@ The second movement (Adagio) is dominated by the soloist and leads directly into
 
 _1910, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nu8ZHE_Is7A'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nu8ZHE_Is7A'  allowfullscreen></iframe></div>
 
 This set of thirteen preludes for solo piano was written in the summer of 1910, and many of them echo much of his liturgical work that he composed around the same time.  However, not all are religious, as Rachmaninov often found inspiration in paintings and sculpture, such as in Prelude No. 10, which is based on a self-portrait by Arnold Bocklin called 'The Return'
 
@@ -174,7 +165,7 @@ This set of thirteen preludes for solo piano was written in the summer of 1910, 
 
 _1934, Concerti_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/yTyiwtfpO8s'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/yTyiwtfpO8s'  allowfullscreen></iframe></div>
 
 Nicolò Paganini is probably the greatest violinist that ever lived and always serves as one of the best examples of Romantic virtuosity. He was worshipped by his public for his dashing personality and almost supernatural technique as well as for his highly technical compositions.
 

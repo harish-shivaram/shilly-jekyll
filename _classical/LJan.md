@@ -8,16 +8,8 @@ died: 1928
 home: Hukvaldy
 country: Czechoslovakia
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Jenufa](#jenufa)
-- [Taras Bulba](#taras-bulba)
-- [Glagolitic Mass](#glagolitic-mass)
-- [Sinfonietta](#sinfonietta)
-- [Intimate Letters](#intimate-letters)
-- [Wandering of a Soul](#wandering-of-a-soul)
 
 ## Biography
 
@@ -60,7 +52,7 @@ At the age of sixty-four, whilst still married, he fell deeply in love with anot
 
 _1904, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9QQyKa8c4ak'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9QQyKa8c4ak'  allowfullscreen></iframe></div>
 
 The script for this opera is intensely tragic and the music matches it perfectly.  It tells the story of a young girl who has a baby by an unscrupulous ne'er-do-well.  Living in shame, she keeps the baby hidden from her neighbours until, one day, her mother drowns the child in the river, putting it under the ice. In a horrifying climax, the ice melts and the tiny corpse is found.
 
@@ -69,7 +61,7 @@ The script for this opera is intensely tragic and the music matches it perfectly
 
 _1918, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/D3zsZ2XG-1w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/D3zsZ2XG-1w'  allowfullscreen></iframe></div>
 
 'Taras Bulba' is a story by Gogol which Janácek set to music in 1915 to celebrate the fact that 'there is no fire nor suffering in the whole world which can break the strength of the Russian people', which is symbolised in the death by fire of the hero of the tale.  This is a symphonic work in three movements that portrays in some detail the events of the story.
 
@@ -81,7 +73,7 @@ The music finishes with a set of rousing chords that rise higher and higher, lea
 
 _1926, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/OU2IPkoQjXI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/OU2IPkoQjXI'  allowfullscreen></iframe></div>
 
 Janácek wrote this powerful choral work with a view to having it performed outdoors, though this rarely occurs.
 
@@ -90,7 +82,7 @@ Janácek wrote this powerful choral work with a view to having it performed outd
 
 _1926, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/KLUKx6qPlXE?start=747&end=1099'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/KLUKx6qPlXE?start=747&end=1099'  allowfullscreen></iframe></div>
 
 Like his Czech predecessors such as Dvorák and Smetana, Janácek was fascinated by the folk melodies of his native land, and used to spend much of his time investigating the popular musical traditions of Czechoslovakia. However, he almost never used actual folk tunes, preferring to build his own personal style on rhythmic and melodic traits of the folk music found in the area where he was born, near the Polish border. This Sinfonietta, therefore, is a simple, unpretentious work in a folk vein and is characteristic of many of his earlier works.
 
@@ -105,7 +97,7 @@ The whole work ends with a complete run-through of the first movement but with e
 
 _1928, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/6cbutGZiPJk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/6cbutGZiPJk'  allowfullscreen></iframe></div>
 
 This is the second of two string quartets of a very personal nature as far as the composer was concerned: they are based on over 600 letters Janácek wrote to a young married woman in the last years of his life.
 
@@ -114,6 +106,6 @@ This is the second of two string quartets of a very personal nature as far as th
 
 _1928, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/jsK5XiGofkw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/jsK5XiGofkw'  allowfullscreen></iframe></div>
 
 The violin concerto 'Wandering of a Soul' was inspired by the violin theme from the opening of one of Janácek's operas – 'From the House of the Dead.'

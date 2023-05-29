@@ -8,14 +8,8 @@ died: 1958
 home: Down Ampney
 country: England
 schools: Modern, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [Songs of Travel](#songs-of-travel)
-- [Fantasia on a Theme by Thomas Tallis](#fantasia-on-a-theme-by-thomas-tallis)
-- [London Symphony](#london-symphony)
-- [Lark Ascending](#lark-ascending)
 
 ## Biography
 
@@ -50,7 +44,7 @@ Much of his work is based upon traditional folk-song ideas, and this characteris
 
 _Songs_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/fCXxNd_xc44'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/fCXxNd_xc44'  allowfullscreen></iframe></div>
 
 Based on English folk songs, the cycle Songs of Travel is exactly what its title suggests.
 
@@ -58,7 +52,7 @@ Based on English folk songs, the cycle Songs of Travel is exactly what its title
 
 _1910, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ihx5LCF1yJY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ihx5LCF1yJY'  allowfullscreen></iframe></div>
 
 Around the beginning of this century, Ralph Vaughan Williams and his musical friends were acutely aware that English music had been fairly sterile for the past two hundred years or so, since the death of Purcell, so it is hardly surprising that he wanted to undertake a composition that would have some nationalistic significance.  When he was asked to edit a new edition of the 'English Hymnal', Vaughan Williams searched through as many sources of English church music as he could find, and was rewarded with nine melodies by the English Renaissance composer Thomas Tallis, written in 1567.  The third melody, 'Why do the heathen rage and the people imagine a vain thing?', appealed particularly to Vaughan Williams, and he used it to form his Fantasia. 
 
@@ -71,7 +65,7 @@ The Fantasia opens with a quiet introduction, and soon the main Tallis melody is
 
 _1914, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0Uv4lJsu0Jw?start=1948'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0Uv4lJsu0Jw?start=1948'  allowfullscreen></iframe></div>
 
 Ralph Vaughan Williams was both a Romantic and a nationalist – particularly before 1915 – and, considering how both styles became unfashionable towards the mid-twentieth century, it is a tribute to his genius that his London Symphony still holds us and moves us as it does today. Actually, this was probably the peak of his musical nationalism, which relaxed quite noticeably in the years after the First World War. The work was created from a combination of English folk song, the sixteenth-century Tudor composers, the spirit of Purcell and his ownpersonal intense English style, and Vaughan Williams makes no apologies for his patriotic approach, saying:
 
@@ -88,6 +82,6 @@ This may serve as a clue to the music, but it is not a necessary explanation of 
 
 _1914, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/f4NMf2PO_mQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/f4NMf2PO_mQ'  allowfullscreen></iframe></div>
 
 This work is a wonderfully imaginative 'flight' of fancy in which one can almost visualise the lark disappearing into the clean air on a country afternoon.

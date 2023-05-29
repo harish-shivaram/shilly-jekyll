@@ -8,16 +8,8 @@ died: 1991
 home: New York
 country: USA
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Rodeo](#rodeo)
-- [Tender Land](#tender-land)
-- [El Salón México](#el-salón-méxico)
-- [Billy the Kid](#billy-the-kid)
-- [Appalachian Spring](#appalachian-spring)
-- [Clarinet Concerto](#clarinet-concerto)
 
 ## Biography
 
@@ -56,7 +48,7 @@ Copland's works sit perfectly alongside those of Gershwin, these two composers b
 
 _Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ylpva4GCe2o'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ylpva4GCe2o'  allowfullscreen></iframe></div>
 
 Rodeo is an exciting story of a cow-girl who invades a male sport and ends up beating the boys at their own game.
 
@@ -65,7 +57,7 @@ Rodeo is an exciting story of a cow-girl who invades a male sport and ends up be
 
 _Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/I1acVWbRXhg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/I1acVWbRXhg'  allowfullscreen></iframe></div>
 
 Copland certainly stuck to his favourite theme when he wrote this opera, whose main theme is about true love on the range. It was once cruelly described as an upmarket 'Oklahoma'.
 
@@ -73,7 +65,7 @@ Copland certainly stuck to his favourite theme when he wrote this opera, whose m
 
 _1937, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/WoILPBDsfvI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/WoILPBDsfvI'  allowfullscreen></iframe></div>
 
 Aaron Copland wrote in 1932: 'If you have ever been in Mexico you probably know why a composer should want to write a piece of music about it.'
 
@@ -89,7 +81,7 @@ The end result is not merely a collection of melodies, but rather a cohesive who
 
 _1939, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LsReWx9XdNs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LsReWx9XdNs'  allowfullscreen></iframe></div>
 
 Like the majority of composers at some point in their lives, Copland was keen to explore and exploit the folk music of his native land and, having played with some Mexican folk tunes in his 'El Salón México', he now turned to traditional American songs with a view to producing a cowboy ballet. He took as his source the famous ballad of Billy the Kid, which goes as follows:
 
@@ -125,7 +117,7 @@ The action begins on a prairie while a bouncy cowboy tune ('Great Granddad') is 
 
 _1944, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/CJYVH_kZkOk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/CJYVH_kZkOk'  allowfullscreen></iframe></div>
 
 On 30 October 1944 a choreographer, producer and dancer called Martha Graham staged three new works by contemporary composers, adapted for ballet. One of these was Aaron Copland's 'Appalachian Spring', and it was fairly well received. However, the following spring Graham and her company took just 'Appalachian Spring' up to New York, and from this point things really took off.
 
@@ -157,6 +149,6 @@ The music is divided into eight sections and Copland gives a little description 
 
 _1948, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/iKkv6YpMqZE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/iKkv6YpMqZE'  allowfullscreen></iframe></div>
 
 Copland wrote this clarinet concerto especially for Benny Goodman, the famous jazz clarinettist of the day, and it is indeed a 'finger-snapping' work.

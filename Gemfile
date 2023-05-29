@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-mentions'
   gem 'jekyll-feed', "~> 0.12"
   gem 'jekyll-paginate-v2'
+  gem 'jekyll-toc'
 end
 
 

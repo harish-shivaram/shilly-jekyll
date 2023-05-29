@@ -8,16 +8,8 @@ died: 1934
 home: Broadheath
 country: England
 schools: Romantic, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [Violin Concerto in B Minor](#violin-concerto-in-b-minor)
-- [Nimrod](#nimrod)
-- [Dream of Gerontius](#dream-of-gerontius)
-- [Pomp and Circumstance](#pomp-and-circumstance)
-- [Introduction and Allegro](#introduction-and-allegro)
-- [Cello Concerto in E Minor](#cello-concerto-in-e-minor)
 
 ## Biography
 
@@ -43,7 +35,7 @@ In addition to his greatest large-scale masterpieces, Elgar composed a number of
 
 _Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/PXtTLtfjqWE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/PXtTLtfjqWE'  allowfullscreen></iframe></div>
 
 This concerto for violin is similar to Elgar's cello concerto but, quite simply, far grander and a lot more alive.
 
@@ -52,7 +44,7 @@ This concerto for violin is similar to Elgar's cello concerto but, quite simply,
 
 _1898, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/aqvOVGCt5lw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/aqvOVGCt5lw'  allowfullscreen></iframe></div>
 
 In the late autumn of 1898 Elgar's wife, Caroline Alice, heard her husband playing a tune that she did not recognise, and when she asked him what it was, he replied that it was nothing much, but perhaps something might be made of it in the future.  In fact he went on to produce probably his most famous work, 'The Enigma Variations', which is a collection of fourteen pieces, each representing this original theme played in the manner and character of Elgar's friends. The actual 'Enigma' of the title has died with the composer, for he always enjoyed riddles and mystery:
 
@@ -65,7 +57,7 @@ For more than eighty years now, music and puzzle lovers have tried to solve the 
 
 _1900, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9Bg52cVVmTc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9Bg52cVVmTc'  allowfullscreen></iframe></div>
 
 This is a slow and reflective choral work inspired by a meditation on the immortality of the soul by Cardinal Newman. There are some exquisite moments for both soloists and choir.
 
@@ -74,7 +66,7 @@ This is a slow and reflective choral work inspired by a meditation on the immort
 
 _1901, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Vvgl_2JRIUs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Vvgl_2JRIUs'  allowfullscreen></iframe></div>
 
 'Land of Hope and Glory', the main theme of Elgar's Pomp and Circumstance March No. 1, must be one of England's most patriotic pieces and second only to 'Rule Britannia' as an anthem of serious heart-swelling national pride.
 
@@ -83,7 +75,7 @@ _1901, Orchestral_
 
 _1905, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/jrpyayMMP0g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/jrpyayMMP0g'  allowfullscreen></iframe></div>
 
 In the style of a concerto grosso (a string quartet is set against a full string orchestra), this is a work that begs the listener to walk out in the open air and enjoy the countryside. It was composed while Elgar was on a walking holiday in the Malvern Hills.
 
@@ -92,6 +84,6 @@ In the style of a concerto grosso (a string quartet is set against a full string
 
 _1919, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/UUgdbqt2ON0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/UUgdbqt2ON0'  allowfullscreen></iframe></div>
 
 This concerto was written towards the end of Elgar's career, and the composer seems to have captured the 'twilight of the empire' feel with an aching slow movement. Some see this work as a summary of all Elgar had learnt over his life.

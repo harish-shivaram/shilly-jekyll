@@ -8,13 +8,8 @@ died: 1998
 home: London
 country: England
 schools: Modern, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [Fantasia Concertante](#fantasia-concertante)
-- [A Child of our Time](#a-child-of-our-time)
-- [Midsummer Marriage](#midsummer-marriage)
 
 ## Biography
 
@@ -54,7 +49,7 @@ Sir Michael is truly one of this country's finest composers, who has not only ex
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/SNqTeQa7MDQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/SNqTeQa7MDQ'  allowfullscreen></iframe></div>
 
 Archangelo Corelli (1653–1713) was an Italian violinist who wrote chiefly for his instrument, on which he was an absolute virtuoso.  He was chief musician to a Cardinal in Rome.
 
@@ -64,7 +59,7 @@ Tippett's Fantasia takes one of Corelli's themes and weaves clever variations ar
 
 _1941, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/8v6Mur92RQI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/8v6Mur92RQI'  allowfullscreen></iframe></div>
 
 An oratorio for soloists, chorus and orchestra, this is not a biblical tale as one might traditionally expect, but rather a story from the twentieth century. It tells the tale of an act of supreme heroism against the Nazis during the Second World War and its subsequent brutal punishment. The choruses are definitely worth listening out for.
 
@@ -73,6 +68,6 @@ An oratorio for soloists, chorus and orchestra, this is not a biblical tale as o
 
 _1955, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/EODV-CEOaLI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/EODV-CEOaLI'  allowfullscreen></iframe></div>
 
 This opera is one of Tippett's most 'living' works and is very much in the style of Mozart's 'The Magic Flute'. It is probably most notable for its 'Ritual Dances', with their chattering trumpets and whistling flutes, which positively fly with enthusiasm.

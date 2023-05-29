@@ -8,16 +8,8 @@ died: 1883
 home: Leipzig
 country: Germany
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Flying Dutchman](#flying-dutchman)
-- [Die Meistersinger von Nürnberg](#die-meistersinger-von-nrnberg)
-- [Tannhäuser](#tannhäuser)
-- [Here Comes the Bride](#here-comes-the-bride)
-- [Ride of the Valkyries](#ride-of-the-valkyries)
-- [Siegfried Idyll](#siegfried-idyll)
 
 ## Biography
 
@@ -49,7 +41,7 @@ Titles to look out for include: Tannhäuser, Lohengrin, Tristan und Isolde, Die 
 
 _1841, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/aTsS1RTFJoI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/aTsS1RTFJoI'  allowfullscreen></iframe></div>
 
 One of Wagner's earlier successes, The Flying Dutchman clearly shows the composer's interest in legend: it tells the supernatural story of a haunted sailor who must forever sail the seas until redeemed by the love of a good woman.
 
@@ -58,7 +50,7 @@ One of Wagner's earlier successes, The Flying Dutchman clearly shows the compose
 
 _1845, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/uyypHlrZsgg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uyypHlrZsgg'  allowfullscreen></iframe></div>
 
 Die Meistersinger is a comedy opera of love and triumph, where the hero must win a singing contest to win the girl.
 
@@ -66,7 +58,7 @@ Die Meistersinger is a comedy opera of love and triumph, where the hero must win
 
 _1845, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Mu6h713LD-E'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Mu6h713LD-E'  allowfullscreen></iframe></div>
 
 Like Die Meistersinger, this opera has a song contest, yet is steeped in heavy religious overtones.
 
@@ -75,7 +67,7 @@ Like Die Meistersinger, this opera has a song contest, yet is steeped in heavy r
 
 _1853, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/oBt6Myv75jk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/oBt6Myv75jk'  allowfullscreen></iframe></div>
 
 Wagner, always fascinated by legend, set this opera in a land of knights in armour and endless chivalry.
 
@@ -84,7 +76,7 @@ Wagner, always fascinated by legend, set this opera in a land of knights in armo
 
 _1870, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/P73Z6291Pt8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/P73Z6291Pt8'  allowfullscreen></iframe></div>
 
 Taken from 'Die Walküre', the second part of Wagner's masterpiece 'The Ring of the Nibelung', 'The Ride of the Valkyries' is a powerful and rumbustious piece that was used to great effect in the film 'Apocalypse Now'.
 
@@ -92,6 +84,6 @@ Taken from 'Die Walküre', the second part of Wagner's masterpiece 'The Ring of 
 
 _1870, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ds7sikMNoCk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ds7sikMNoCk'  allowfullscreen></iframe></div>
 
 Taking German folk tunes as his source, Wagner wrote this orchestral tone poem to celebrate Christmas Day 1870, the birth of his son Siegfried and, above all, the love for his wife, Cosima.

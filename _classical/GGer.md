@@ -8,16 +8,8 @@ died: 1937
 home: New York
 country: USA
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Rhapsody in Blue](#rhapsody-in-blue)
-- [Piano Concerto in F](#piano-concerto-in-f)
-- [Cuban Overture](#cuban-overture)
-- [Three Preludes for Piano](#three-preludes-for-piano)
-- [An American in Paris](#an-american-in-paris)
-- [Porgy and Bess](#porgy-and-bess)
 
 ## Biography
 
@@ -58,7 +50,7 @@ His rhapsodic symphonic work An American in Paris is also a big favourite with a
 
 _1924, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/9CTp2Nk9OxI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/9CTp2Nk9OxI'  allowfullscreen></iframe></div>
 
 It is amazing that George Gershwin ever wrote this, his most famous work, at all, because it seems he didn't have the nerve to do it.  It took all the powers of persuasion of his friend Paul Whiteman to convince the twenty-five-year-old composer to carry on with the 'jazz concerto' that he himself had asked Gershwin to write for a concert less than a month away. Gershwin was attracted to the idea through his love of jazz, but his time was fully occupied with work on a musical comedy called 'Sweet Little Devil', which was due for its first performance in Boston. It was, in fact, while he was on the way to the premiere of the musical that he got his inspiration for the Rhapsody. In his words:
 
@@ -73,7 +65,7 @@ Gershwin didn't have time to complete the work before its performance, but he ha
 
 _1925, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/MDxKtkkbE7w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/MDxKtkkbE7w'  allowfullscreen></iframe></div>
 
 When George Gershwin first performed his Rhapsody in Blue under rather rushed circumstances in 1924, a certain Dr Walter Damrosch, who was the conductor of the New York Symphony, was so impressed that he instantly asked the young composer to write a piano concerto for his orchestra on the understanding that he, Gershwin, would also be the soloist. Gershwin happily agreed, and there is a story that, directly afterwards, he ran to a music shop and bought a book to find out exactly what a concerto was! 
 
@@ -91,7 +83,7 @@ The second section is a slower and more poetic, and is often referred to as an A
 
 _Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nRGTvK2S-G8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nRGTvK2S-G8'  allowfullscreen></iframe></div>
 
 An exciting piece of Caribbean imagery, 'The Cuban Overture' deserves to be better known.
 
@@ -100,7 +92,7 @@ An exciting piece of Caribbean imagery, 'The Cuban Overture' deserves to be bett
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/MnRy2Xwlj2g'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/MnRy2Xwlj2g'  allowfullscreen></iframe></div>
 
 Typically Gershwin, these Three Preludes for Piano are pacy and energetic, as if one were running down a hectic New York street while soaking up the surroundings. At the same time, the embellished melodies seem to evoke some of the rhapsodic qualities of Liszt.
 
@@ -108,7 +100,7 @@ Typically Gershwin, these Three Preludes for Piano are pacy and energetic, as if
 
 _1928, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/EGt000iascg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/EGt000iascg'  allowfullscreen></iframe></div>
 
 By the time George Gershwin was asked to write an orchestral work for the New York Symphony Society he had left behind his past of Broadway musical comedies and was beginning to be recognised as a serious composer. There was even a story that he had sent a telegram to Stravinsky in Paris asking whether the Russian would take him on as a pupil and what the fee might be. Stravinsky asked what Gershwin's annual income was and, when he received an impressive six-figure amount, Stravinsky is said to have replied: 'How about my taking lessons from you?'
 
@@ -125,7 +117,7 @@ At the conclusion, the street noises and French atmosphere are triumphant.
 
 _1935, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/dNLbRdoB9Z8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/dNLbRdoB9Z8'  allowfullscreen></iframe></div>
 
 A modern opera consisting predominantly of a black cast, 'Porgy and Bess' is the story of a legless cripple who forms a relationship with Bess, a party-girl who lives for fun.
 

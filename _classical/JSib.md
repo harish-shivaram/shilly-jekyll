@@ -8,19 +8,8 @@ died: 1957
 home: Tavastehus
 country: Finland
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [En Saga](#en-saga)
-- [Swan of Tuonela](#swan-of-tuonela)
-- [Finlandia](#finlandia)
-- [Symphony No. 2](#symphony-no-2)
-- [Violin Concerto in D Minor](#violin-concerto-in-d-minor)
-- [Valse Triste](#valse-triste)
-- [Pelléas et Mélisande](#pellas-et-mlisande)
-- [Symphony No. 5](#symphony-no-5)
-- [Tempest](#tempest)
 
 ## Biography
 
@@ -57,7 +46,7 @@ He was honoured with numerous awards, amongst which were the Chair of Compositio
 
 _1892, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/AJXaDp9HJKw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/AJXaDp9HJKw'  allowfullscreen></iframe></div>
 
 In the same way that Finlandia evokes the Finnish landscape, En Saga, though with no clear-cut story-line, uses bare harmonies and strong orchestration to re-create the stark and heroic world of the Scandinavian sagas.
 
@@ -66,7 +55,7 @@ In the same way that Finlandia evokes the Finnish landscape, En Saga, though wit
 
 _1893, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/E9Pp8xAtww4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/E9Pp8xAtww4'  allowfullscreen></iframe></div>
 
 A sad piece concerning a swan that sings only once, just before its death.
 
@@ -74,7 +63,7 @@ A sad piece concerning a swan that sings only once, just before its death.
 
 _1900, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/afUFvbVwq-I'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/afUFvbVwq-I'  allowfullscreen></iframe></div>
 
 A powerful exercise in nationalistic music, Finlandia is a strong orchestral work whose central melody is perhaps better known as the hymn 'Be Still, my Soul'.
 
@@ -83,7 +72,7 @@ A powerful exercise in nationalistic music, Finlandia is a strong orchestral wor
 
 _1901, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/8sSFVvF7-W0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/8sSFVvF7-W0'  allowfullscreen></iframe></div>
 
 At the end of the last century Sibelius was fairly young and his country, Finland, was a part of Russia – yet a restless and definitely unhappy part.  Although the Russian takeover had been relatively recent, for more than eight hundred years previously the Finns had been under the political rule of Sweden, and this had led to a strong national desire for independence. Therefore, when Russia began to put restrictions on free speech, the right of assembly and political representation, the old hopes for a true national identity burst into flame.
 
@@ -100,7 +89,7 @@ The first movement (Allegretto) opens with quietly repeated chords from the stri
 
 _1903, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/XD5WLw2IY7w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/XD5WLw2IY7w'  allowfullscreen></iframe></div>
 
 Sibelius is probably Finland's most famous composer, and he is often seen as the only man who was fully capable of expressing landscape, folklore and all things Finnish.  Yet in this work, if there is any reference to his homeland, it is kept well hidden.  Only occasionally can one hear certain melodies that it is known were loved by Sibelius, as they would recall for him ancient Finnish runes.
 
@@ -114,7 +103,7 @@ In order that the violin may be fully heard in its lower ranges, Sibelius cut do
 
 _1904, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/q6wGEap3lHs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/q6wGEap3lHs'  allowfullscreen></iframe></div>
 
 A sombre work that is the last moments of a dying woman reliving her past.  It is a waltz for strings that was written as part of the incidental music for a drama entitled Kuolema ('Death').
 
@@ -122,7 +111,7 @@ A sombre work that is the last moments of a dying woman reliving her past.  It i
 
 _1905, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/C-I1Y1vrb94'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/C-I1Y1vrb94'  allowfullscreen></iframe></div>
 
 Sibelius wrote a lot of instrumental music for the theatre, the most notable being for Maeterlinck's 'Pélleas and Mélisande' and Shakespeare's 'The Tempest'.
 
@@ -131,7 +120,7 @@ Sibelius wrote a lot of instrumental music for the theatre, the most notable bei
 
 _1916, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/dACRUFfmMeo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/dACRUFfmMeo'  allowfullscreen></iframe></div>
 
 After a fairly gloomy opening sequence, the orchestra soon picks up until we get to the finale that strides along forcefully, accompanied by bell-like chanting from the horns.
 
@@ -140,6 +129,6 @@ After a fairly gloomy opening sequence, the orchestra soon picks up until we get
 
 _1926, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/IwxbrikcwUE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/IwxbrikcwUE'  allowfullscreen></iframe></div>
 
 Sibelius wrote a lot of instrumental music for the theatre, the most notable being for Shakespeare's 'The Tempest' and Maeterlinck's 'Pelléas and Mélisande'.

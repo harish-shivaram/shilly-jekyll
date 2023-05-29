@@ -8,15 +8,8 @@ died: 1967
 home: Kecskem&#233;t
 country: Hungary
 schools: Modern, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [Peacock Variations](#peacock-variations)
-- [Spinning Room](#spinning-room)
-- [Psalmus Hungaricus](#psalmus-hungaricus)
-- [Háry János Suite](#háry-jános-suite)
-- [Dances of Galánta](#dances-of-galánta)
 
 ## Biography
 
@@ -56,7 +49,7 @@ Do give this music a try – it is terrific and would be a welcome addition to a
 
 _Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ot8P5sUQ96Q'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ot8P5sUQ96Q'  allowfullscreen></iframe></div>
 
 Along with Bartók, Kodály (pronounced 'Kodai') was Hungary's finest twentieth-century interpreter of the country's traditional folk music. The Peacock Variations, though musically layered and textured, are still full of folk influences, such as the gypsy violin scales upon which the main melody is based.
 
@@ -65,7 +58,7 @@ Along with Bartók, Kodály (pronounced 'Kodai') was Hungary's finest twentieth-
 
 _Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/nD47A4HXDds'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nD47A4HXDds'  allowfullscreen></iframe></div>
 
 This is an opera based on the story of a village romance where a young man has to hide from the law whilst being hunted for a crime he did not commit. His loved one helps to prove his innocence.
 
@@ -73,7 +66,7 @@ This is an opera based on the story of a village romance where a young man has t
 
 _1923, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/a6xnAFI562Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/a6xnAFI562Y'  allowfullscreen></iframe></div>
 
 Kodaly took Psalm No. 55 ('Give Ear unto my Prayer, O Lord') and arranged it for solo tenor, chorus and orchestra with the words sung in Hungarian. It was commissioned for the fiftieth anniversary of the unification of Budapest, Hungary's capital city, and is a masterpiece of nationalism and religious fervour.
 
@@ -81,7 +74,7 @@ Kodaly took Psalm No. 55 ('Give Ear unto my Prayer, O Lord') and arranged it for
 
 _1930, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/NiFD8tSm3VI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/NiFD8tSm3VI'  allowfullscreen></iframe></div>
 
 Definitely Kodály's most famous work, this opera tells the amusing tale of a boastful, drunken soldier who continually lies about his adventures, such as single-handedly defeating Napoleon, and his countless love triumphs. The use of the cimbalom (a Hungarian instrument similar to the zither) gives the opera its unique Hungarian feel.
 
@@ -89,6 +82,6 @@ Definitely Kodály's most famous work, this opera tells the amusing tale of a bo
 
 _1933, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZJavqYmhaV4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZJavqYmhaV4'  allowfullscreen></iframe></div>
 
 This work provides a bright and vibrant show-stopping experience.

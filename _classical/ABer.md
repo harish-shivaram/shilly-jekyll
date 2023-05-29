@@ -8,14 +8,8 @@ died: 1935
 home: Vienna
 country: Austria
 schools: Modern, 2nd Viennese
+toc: true
 ---
-
-## Essential Listening
-
-- [Three Orchestral Pieces](#three-orchestral-pieces)
-- [Wozzeck](#wozzeck)
-- [Lulu](#lulu)
-- [Violin Concerto](#violin-concerto)
 
 ## Biography
 
@@ -38,7 +32,7 @@ Both Wozzeck and his other opera, Lulu, are regarded as significant contribution
 
 _1914, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/0wyaaZjLKo8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0wyaaZjLKo8'  allowfullscreen></iframe></div>
 
 Berg learnt many of his skills and abilities as composer from his teacher and friend, Arnold Schoenberg, who became something of a hero to him and, on the event of his mentor's fortieth birthday, Berg hoped to produce a suitable composition. But rather than save it as a surprise, Berg found himself consulting Schoenberg on many aspects of a work that later became the 'Three Orchestral Pieces'. 
 
@@ -56,7 +50,7 @@ On the original score, Berg wrote: 'To my teacher and friend Arnold Schoenberg, 
 
 _1921, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/1kPdwwvr0qo'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/1kPdwwvr0qo'  allowfullscreen></iframe></div>
 
 Berg's 'Wozzeck' is often seen as one of the most influential operas of this century and also the only Expressionist opera to be accepted into the standard repertoire. Berg took as his source the tragedy 'Woyzeck', written by Georg Buchner in 1837, which was seen as a very reactionary piece of literature for its day.  It tells the story of Wozzeck, a simple-minded soldier, who is shown to us as a helpless victim of his environment. He has a captain who mocks him, a garrison doctor who performs scientific experiments on him, a drum major who regularly beats him, and a mistress who is unfaithful to him. In his despair, Wozzeck murders his mistress and then drowns while trying to wash her blood off his hands in a pond.
 
@@ -72,7 +66,7 @@ In the final section we are at the end of the opera, where Wozzeck is drowning. 
 
 _1934, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/bLuLsFjnCjI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/bLuLsFjnCjI'  allowfullscreen></iframe></div>
 
 Alban Berg's opera 'Lulu' is based on two plays by the German Expressionist writer Frank Wedekind, 'Earth Spirit' and ' Pandora's Box'.  By skilful cutting and careful arrangement, Berg was able to construct a libretto and a produce a three-act opera with a strong story line, though governed essentially by musical forms. 
 
@@ -93,7 +87,7 @@ The first movement is a Rondo and introduces the main Lulu theme, while the Alle
 
 _1935, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/oqSSHwFEn_8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/oqSSHwFEn_8'  allowfullscreen></iframe></div>
 
 On the original manuscript of Berg's Violin Concerto is the inscription 'To the Memory of an Angel'.  The work is in fact dedicated to the eighteen-year-old Manon Gropius, the daughter of the famous architect Walter Gropius and his wife, Alma Maria Mahler, formerly the wife of Gustav Mahler.
 

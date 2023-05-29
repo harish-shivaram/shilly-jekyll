@@ -56,6 +56,9 @@ GEM
       sass-embedded (~> 1.54)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-toc (0.18.0)
+      jekyll (>= 3.9)
+      nokogiri (~> 1.12)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -107,6 +110,7 @@ DEPENDENCIES
   jekyll-mentions
   jekyll-paginate-v2
   jekyll-sitemap
+  jekyll-toc
 
 BUNDLED WITH
    2.4.8

@@ -8,16 +8,8 @@ died: 1937
 home: Ciboure
 country: France
 schools: Romantic, French Impressionist
+toc: true
 ---
-
-## Essential Listening
-
-- [Pavane pour une infante défunte](#pavane-pour-une-infante-dfunte)
-- [String Quartet](#string-quartet)
-- [Introduction and Allegro](#introduction-and-allegro)
-- [Daphnis and Chloé Suite No. 2](#daphnis-and-chloé-suite-no-2)
-- [La Valse](#la-valse)
-- [Bolero](#bolero)
 
 ## Biography
 
@@ -60,7 +52,7 @@ In many ways his music is very forward looking and he, like Debussy, has been th
 
 _1899, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/X6A96yQO82I'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/X6A96yQO82I'  allowfullscreen></iframe></div>
 
 A 'pavane' (or 'pavan' in English) is a slow and stately dance from the sixteenth century which can often be found mentioned in Shakespeare.  Ravel's 'Pavan for a Dead Infanta' was originally a piano piece, written in 1899, though it was later orchestrated.
 
@@ -71,7 +63,7 @@ A 'pavane' (or 'pavan' in English) is a slow and stately dance from the sixteent
 
 _Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Qs7mjxLSQco'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Qs7mjxLSQco'  allowfullscreen></iframe></div>
 
 Ravel's String Quartet is beautifully Romantic, the music being full of swells and lulls.
 
@@ -80,7 +72,7 @@ Ravel's String Quartet is beautifully Romantic, the music being full of swells a
 
 _1906, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/V8o2zLtms64'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/V8o2zLtms64'  allowfullscreen></iframe></div>
 
 Not to be confused with Elgar's work of the same name, Ravel's 'Introduction and Allegro' is instantly evocative of the sea and travel in general.  It is interesting to note that the harp is effectively given a 'front seat' in the ensemble.
 
@@ -88,7 +80,7 @@ Not to be confused with Elgar's work of the same name, Ravel's 'Introduction and
 
 _1909, Ballet_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QJbHYlPcqUE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QJbHYlPcqUE'  allowfullscreen></iframe></div>
 
 In 1909 the Russian ballet director Serge Diaghilev commissioned Ravel to write the music for a ballet on the story of Daphnis and Chloe, a pastoral romance by the fourth century Greek writer Longus.  Ravel readily accepted and produced such an impressive work that Stravinsky, a long-time colleague of Diaghilev's, was moved to describe it as 'not only Ravel's best work, but also one of the most beautiful products of all French music.'
 
@@ -104,7 +96,7 @@ Suddenly, Chloe is captured by pirates and Daphnis faints with grief, only to be
 
 _1919, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/TMSgWhIENSk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/TMSgWhIENSk'  allowfullscreen></iframe></div>
 
 In 1906 Ravel became gripped with the idea of writing a symphonic version of a Viennese waltz as a homage to the great waltz writer Johann Strauss II. He planned to call it 'Wien' (Vienna), but didn't start work on it until 1919 when he spent the winter in the south of France. He was very pleased with its progress and wrote to a friend saying:
 
@@ -122,7 +114,7 @@ The music opens with the turbulence of muted double basses while a thudding beat
 
 _1928, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LwLABSm0yYc'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LwLABSm0yYc'  allowfullscreen></iframe></div>
 
 Ravel's Bolero was made famous with the British public when Jane Torvill and Christopher Dean skated to victory with a dance routine worked around this march-like piece. 
 

@@ -8,17 +8,8 @@ died: 1911
 home: Bohemia
 country: Czechoslovakia
 schools: Romantic
+toc: true
 ---
-
-## Essential Listening
-
-- [Symphony No. 1](#symphony-no-1)
-- [Resurrection Symphony](#resurrection-symphony)
-- [Symphony No. 4](#symphony-no-4)
-- [Symphony No. 5](#symphony-no-5)
-- [Symphony of a Thousand](#symphony-of-a-thousand)
-- [Das Lied von der Erde](#das-lied-von-der-erde)
-- [Symphony No. 9](#symphony-no-9)
 
 ## Biography
 
@@ -102,7 +93,7 @@ Listen to any of the symphonies and particularly the highly emotive song 'Abschi
 
 _1876, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/4XbHLFkg_Mw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/4XbHLFkg_Mw'  allowfullscreen></iframe></div>
 
 To his contemporaries, the new world of Mahler's symphonies was often frightening and powerful.  Even Mahler was occasionally overwhelmed by his own inspirations, with a sort of 'panic terror' being a recurrent theme.  It was often said that he was merely a lightning rod for emotional thunderbolts that would strike him. 
 
@@ -131,7 +122,7 @@ The second part of the work opens with the strange fourth movement described as 
 
 _1888, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/sHsFIv8VA7w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/sHsFIv8VA7w'  allowfullscreen></iframe></div>
 
 Mahler's Second Symphony is famous for its powerful ending, which begins with a wild outburst from the full orchestra that subsequently dies away to silence. Then, from a great distance, a solemn fanfare can be heard, where Mahler asks for the use of:
 
@@ -148,7 +139,7 @@ It is a powerful work and typically Romantic.
 
 _1892, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/YnfhInZLmUQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/YnfhInZLmUQ'  allowfullscreen></iframe></div>
 
 Mahler's Fourth Symphony is seen as one of his most modest and intriguing works.  It uses as its inspirational source the composer's own deeply felt love for the simplicity of German folk art.  Taking a poem from a folk collection called 'The Boy's Magic Horn', Mahler was inspired to write a song called 'All Heavenly Joys are Ours', which is performed at the end of the fourth (and last) movement.  As a result, the first three movements are used to anticipate the major themes of the fourth and to prepare the listener effectively for it.  The symphony was first performed in Munich in 1902.
 
@@ -165,7 +156,7 @@ The third, slow movement (Poco adagio) was inspired by reclining stone figures i
 
 _1902, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/tPpm323M_Ik'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/tPpm323M_Ik'  allowfullscreen></iframe></div>
 
 When Mahler conducted the first performance of his Fifth Symphony in Cologne in 1904, it ended up being described as 'the giant symphony'.  Mahler's use of a gigantic orchestra for subtle chamber music effects, coupled with his tendency to amplify certain sections of his music radically, make 'giant' an understandable description.  Although Mahler had completed this work in the summer of 1902, his perfectionist nature forced him to revise the music constantly, practically up to the year of his death (1911). In a letter to a friend, Mahler wrote:
 
@@ -180,7 +171,7 @@ Part II is made up of a scherzo that is effectively a waltz with a rich variety 
 
 _1906, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/sgEvco07TWw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/sgEvco07TWw'  allowfullscreen></iframe></div>
 
 In August 1906 Mahler wrote to a friend, saying:
 
@@ -194,7 +185,7 @@ The symphony earned its nickname 'Symphony of a Thousand' due to the vast number
 
 _1908, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/5-W1W0D-xhw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/5-W1W0D-xhw'  allowfullscreen></iframe></div>
 
 This was written towards the end of Mahler's career and is possibly one of his greatest works – if not the greatest.  Though the work is technically a symphony, Mahler refused to give it a numerical title because he had a superstition that a composer should not exceed Beethoven's total of nine symphonies.  Instead of giving it a number, he called it 'The Song of the Earth' and subtitled it 'A Symphony for Tenor, Contralto and Orchestra'.
 
@@ -207,6 +198,6 @@ The Song of the Earth is based on a poem called 'The Chinese Flute' by the Germa
 
 _1910, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/tkChdHBuoiQ'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/tkChdHBuoiQ'  allowfullscreen></iframe></div>
 
 This, Mahler's last completed symphony, was composed in 1910 during his first season as conductor for the New York Philharmonic.  A year later he was dead, and this work reflects the complex emotions of an artist who is fully aware that he has only a little time to live.

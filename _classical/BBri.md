@@ -8,13 +8,8 @@ died: 1976
 home: Lowestoft
 country: England
 schools: Modern, English Music
+toc: true
 ---
-
-## Essential Listening
-
-- [Variations on a Theme of Frank Bridge](#variations-on-a-theme-of-frank-bridge)
-- [Serenade for Tenor, Horn and Strings](#serenade-for-tenor-horn-and-strings)
-- [Albert Herring](#albert-herring)
 
 ## Biography
 
@@ -59,7 +54,7 @@ He left his mark on the history of music as one of the finest of all twentieth-c
 
 _1937, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/zeyGDOLJUmM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/zeyGDOLJUmM'  allowfullscreen></iframe></div>
 
 One of Benjamin Britten's most brilliant pieces and the first to win him worldwide attention was his popular set of variations on a theme by Frank Bridge.  The composer was only twenty-three when he was asked to write a new work for the Boyd Neel String Orchestra, to be performed at the Salzburg Festival of 1937. Neel himself remembers that, ten days after asking Britten,
 
@@ -76,7 +71,7 @@ The introduction and theme is a brief display of the theme upon which the whole 
 
 _1943, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/PQ0ITqRBaE0?start=1062&end=1182'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/PQ0ITqRBaE0?start=1062&end=1182'  allowfullscreen></iframe></div>
 
 Perhaps Britten's masterpiece, this serenade is based on seven poems about evening and darkness, including Keats's sonnet 'Sleep'.
 
@@ -84,6 +79,6 @@ Perhaps Britten's masterpiece, this serenade is based on seven poems about eveni
 
 _1947, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/61BI1XT4NiU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/61BI1XT4NiU'  allowfullscreen></iframe></div>
 
 Albert Herring is a social comedy about a young man who is elected May King because no virgins can be found in the village to be May Queen.

@@ -8,15 +8,8 @@ died: 1918
 home: Paris
 country: France
 schools: Romantic, French
+toc: true
 ---
-
-## Essential Listening
-
-- [Nocturnes](#nocturnes)
-- [Prélude à l'après-midi d'un faune](#prélude-à-laprès-midi-dun-faune)
-- [Clair de Lune](#clair-de-lune)
-- [Pelléas et Mélisande](#pelléas-et-mélisande)
-- [La Mer](#la-mer)
 
 ## Biography
 
@@ -44,7 +37,7 @@ Small wonder that he is regarded as being perhaps the most influential of all tw
 
 _1883, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/obv33I2Kf10?start=448&end=824'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/obv33I2Kf10?start=448&end=824'  allowfullscreen></iframe></div>
 
 In the 1880s, the young Claude Debussy used to regularly go to the famous Tuesday night get-togethers in the home of the poet Stephen Mallarmé, where he met artists, painters, poets and sculptors with ideas and feelings similar to his own. Debussy's Impressionist painter friends had begun to throw away the clear and precise techniques of a previous generation, and to replace it with misty visions that dissolved in light, while his poet friends were beginning to rub over the logic of language in favour of a musically suggestive succession of words. In short, the European attitudes and approaches to art were changing, and Debussy was very much a part of it. 
 
@@ -68,7 +61,7 @@ The final section, 'Sirens', uses eight women's voices to represent the original
 
 _1894, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Y9iDOt2WbjY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Y9iDOt2WbjY'  allowfullscreen></iframe></div>
 
 Prélude à l'après-midi d'un faune (Prelude to the Afternoon of a Faun) is a little musical tone poem based on a poem by Mallarmé of the same name. It is a bewildering mass of exotic melody and elusive harmony that remains Debussy's most famous and popular orchestral masterpiece.
 
@@ -88,7 +81,7 @@ The clear flute line, probably played by the faun himself, is soon enveloped in 
 
 _1895, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZIsQPdC9YnY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ZIsQPdC9YnY'  allowfullscreen></iframe></div>
 
 Taken from 'Suite Bergamasque', 'Moonlight' is a representation through music of the pale and mystical qualities of moonlight. First the evening is still and then clouds go for a spot of rippling as they pass by.
 
@@ -96,7 +89,7 @@ Taken from 'Suite Bergamasque', 'Moonlight' is a representation through music of
 
 _1902, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/CQ4rkSykjn4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/CQ4rkSykjn4'  allowfullscreen></iframe></div>
 
 Written in 1902, this is a complete opera based on Maeterlinck's work of the same name, being a symbolist play about a love that is doomed.  It is predominantly quiet, making for hypnotic and evocative listening.
 
@@ -105,7 +98,7 @@ Written in 1902, this is a complete opera based on Maeterlinck's work of the sam
 
 _1903, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/pyoM2UqdYOE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/pyoM2UqdYOE'  allowfullscreen></iframe></div>
 
 Debussy was always fascinated by the sea and even considered becoming a sailor when he was younger, before music captured his heart.  However, in 1903, he began work on 'La Mer' (The Sea) with a view to putting together three separate orchestral works that would evoke all his personal feelings for the oceans.  Shortly before he finished this work, he wrote to his publisher, saying 'The sea has been very good to me. She has shown me all her moods.'
 

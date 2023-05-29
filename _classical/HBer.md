@@ -8,19 +8,8 @@ died: 1869
 home: Is&#232;re
 country: France
 schools: Romantic, French
+toc: true
 ---
-
-## Essential Listening
-
-- [Symphonie Fantastique](#symphonie-fantastique)
-- [Overture King Lear](#overture-king-lear)
-- [Harold in Italy](#harold-in-italy)
-- [Romeo and Juliet](#romeo-and-juliet)
-- [Overture Roman Carnival](#overture-roman-carnival)
-- [Overture The Corsair](#overture-the-corsair)
-- [Hungarian March](#hungarian-march)
-- [The Damnation of Faust](#the-damnation-of-faust)
-- [The Trojans](#the-trojans)
 
 ## Biography
 
@@ -64,7 +53,7 @@ Berlioz is now remembered for a handful of truly excellent pieces and for being 
 
 _1830, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QRjn5h26bxU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QRjn5h26bxU'  allowfullscreen></iframe></div>
 
 This work, originally written with a 200-piece orchestra in mind, was inspired by Berlioz's obsession with an English actress, Harriet Smithson, who had been performing Shakespearean tragedies in Paris.  After attending a performance of Romeo and Juliet, with Smithson in the role of Juliet, Berlioz declared:
 
@@ -79,7 +68,7 @@ Originally called 'Episode in the Life of an Artist (Grand Fantastic Symphony in
 
 _1831, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/EFxN_iRuJO8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/EFxN_iRuJO8'  allowfullscreen></iframe></div>
 
 The Romantic fascination with madness and Berlioz's personal love of Shakespeare are combined in this overture, which savours the storms of Lear's rage, grief and insanity. It has a violent principal theme that recalls the opening Lear motif, accompanied by a sweet lyrical phrase from the first violins.  The music grows ever wilder as it approaches its climax and end.
 
@@ -88,7 +77,7 @@ The Romantic fascination with madness and Berlioz's personal love of Shakespeare
 
 _1833, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/gQOnzyMi28Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/gQOnzyMi28Y'  allowfullscreen></iframe></div>
 
 One of Berlioz's greatest works, its full title is 'Harold in Italy, Symphony in Four Movements for Viola and Orchestra'.  It was originally intended as a viola concerto to be played by Paganini, the virtuoso violinist, who had become a close friend of the composer after a particularly triumphant performance of  his 'Symphonie Fantastique'.  However, not being a player of the instrument, Berlioz was unable to produce a viola part that satisfied Paganini and, in fact, rather disappointed the violinist, who left for Nice and did not talk to Berlioz for three years.
 
@@ -102,7 +91,7 @@ The fourth movement is an intense Allegro frenetico entitled 'Brigand's Orgy: Me
 
 _1838, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Y5MJDd8zEOM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Y5MJDd8zEOM'  allowfullscreen></iframe></div>
 
 As was the case with his Symphonie Fantastique, the inspiration for this work came from the portrayal of Shakespeare's Juliet by Harriet Smithson (an English actress whom Berlioz later married).  Berlioz was utterly overwhelmed, exclaiming:
 
@@ -121,7 +110,7 @@ Ultimately, one can understand this as the work of a man who once said: 'Love ca
 
 _1843, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/uYqItMmwwKE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uYqItMmwwKE'  allowfullscreen></iframe></div>
 
 Berlioz wrote this overture as an afterthought to serve as an introduction to the second act of his opera 'Benvenuto Cellini'.  It is used as an anticipation to a lively dance which takes place on the Piazza Colonna in Rome during the second act.
 
@@ -132,7 +121,7 @@ The overture starts with a wild flourish that bursts with even greater power int
 
 _1845, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Erm2sZUji2c'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Erm2sZUji2c'  allowfullscreen></iframe></div>
 
 This is essentially an 'adventure piece', based on Lord Byron's 'The Corsair' and a near-death experience that Berlioz had had while at sea in an intense storm.  During his recovery on the French Riviera, he planned, and practically composed, this overture. Hoping to encapsulate the spirit of his own adventure with the 'burning poetry' of Byron, Berlioz sought to re-create in music the violent seas and horrendous conditions in which he himself had been involved. 
 
@@ -143,7 +132,7 @@ This he successfully achieved, opening the work with a sharp 'crack' of two chor
 
 _1846, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/oJZKTRlDFVg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/oJZKTRlDFVg'  allowfullscreen></iframe></div>
 
 Taken from his choral work The Damnation of Faust, this March is usually known as the 'Rakoczy March' after the Hungarian revolutionary leader, and is designed to affect audiences in the same way as 'Land of Hope and Glory' overwhelms listeners on the Last Night of the Proms.
 
@@ -152,7 +141,7 @@ Taken from his choral work The Damnation of Faust, this March is usually known a
 
 _1846, Orchestral, Choral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/X2Ld9uKQmCg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/X2Ld9uKQmCg'  allowfullscreen></iframe></div>
 
 When Goethe's 'Faust' was first published in French in 1827, Berlioz became obsessed with the book, saying:
 
@@ -166,6 +155,6 @@ The 'Dance of the Sylphs' is the first movevment of this work: Faust is transpor
 
 _1858, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/yN5Z7ib5Q1Y'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/yN5Z7ib5Q1Y'  allowfullscreen></iframe></div>
 
 It is a strongly held opinion that nowhere is Berlioz's preoccupation with passion better represented than in The Trojans, based on Virgil's 'Aeneid'.  It tells the tale of Queen Dido and Aeneas, the Trojan soldier, at Carthage after the fall of Troy.

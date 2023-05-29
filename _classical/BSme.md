@@ -8,14 +8,8 @@ died: 1884
 home: Bohemia
 country: Czechoslovakia
 schools: Romantic, Nationalistic
+toc: true
 ---
-
-## Essential Listening
-
-- [String Quartet No. 1](#string-quartet-no-1)
-- [String Quartet No. 2](#string-quartet-no-2)
-- [Bartered Bride](#bartered-bride)
-- [Fields and Forests](#fields-and-forests)
 
 ## Biography
 
@@ -55,7 +49,7 @@ His music is now recognised as being some of the finest to have emerged from Cze
 
 _Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/_L1lPraMNUk?start=1331'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_L1lPraMNUk?start=1331'  allowfullscreen></iframe></div>
 
 Smetana has always been categorised as a nationalistic composer, and there is not one work of his in which his native Czech influences cannot be heard.
 
@@ -66,7 +60,7 @@ His String Quartet No. 1 is no exception, being sharp and spiky, with a sense of
 
 _Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ja_ydjDr0sg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ja_ydjDr0sg'  allowfullscreen></iframe></div>
 
 Smetana has always been categorised as a nationalistic composer, and there is not one work of his in which his native Czech influences cannot be heard.
 
@@ -77,7 +71,7 @@ His second String Quartet is no exception, being rather sedate, as if one were s
 
 _1866, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QLUm_yvnyo4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QLUm_yvnyo4'  allowfullscreen></iframe></div>
 
 Smetana is often considered to be the father of Czech musical nationalism, although he was only twenty-four when the patriotic revolutions of 1848–9 swept through Europe. From 1863 to 1866 he worked on his second opera, 'The Bartered Bride', a simple comedy of Czech peasant life in a style strongly influenced by Czech folk music. To Czech listeners, this work is more than just an opera: it has become almost a symbol of the Czech people themselves.  Happily, however, it captivates non-Czech listeners as well, with its clever use of melodies, orchestral brilliance and temperamental style.
 
@@ -90,6 +84,6 @@ The overture concludes with reappearances of the original orchestral theme.
 
 _1875, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/BcO4iyY22nA'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/BcO4iyY22nA'  allowfullscreen></iframe></div>
 
 'Má Vlast' ('My Country') is a collection of six orchestral works that Smetana hoped would convey all the beauty and nature of the Bohemian landscape and episodes from the history of the land. The best known section is 'From Bohemia's Woods and Fields', which evokes beautiful pastoral images.

@@ -8,28 +8,8 @@ died: 1827
 home: Bonn
 country: Germany
 schools: Classical
+toc: true
 ---
-
-## Essential Listening
-
-- [Für Elise](#für-elise)
-- [Pathetique Sonata](#pathetique-sonata)
-- [Septet](#septet)
-- [Moonlight Sonata](#moonlight-sonata)
-- [Eroica](#eroica)
-- [Funeral March](#funeral-march)
-- [Appassionata](#appassionata)
-- [Fidelio](#fidelio)
-- [Leonore](#leonore)
-- [Symphony No. 4](#symphony-no-4)
-- [Coriolan](#coriolan)
-- [Pastoral Symphony](#pastoral-symphony)
-- [Symphony No. 5](#symphony-no-5)
-- [Emperor Concerto](#emperor-concerto)
-- [Archduke Trio](#archduke-trio)
-- [Ode to Joy](#ode-to-joy)
-- [Piano Sonata No. 31 in A Flat](#piano-sonata-no-31-in-a-flat)
-- [String Quartet Op. 127](#string-quartet-op-127)
 
 ## Biography
 
@@ -90,7 +70,7 @@ The string quartets are well worth listening to and, from the chamber music that
 
 _Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/e4d0LOuP4Uw'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/e4d0LOuP4Uw'  allowfullscreen></iframe></div>
 
 One of Beethoven's most famous piano pieces, this delightful little work has an instantly recognisable opening.
 
@@ -101,7 +81,7 @@ It has been arranged for numerous different instruments.
 
 _1798, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/qO8yfBLNVjU'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/qO8yfBLNVjU'  allowfullscreen></iframe></div>
 
 The title does not actually mean 'pathetic', but rather 'sonata full of feeling', and the work is a good example of Beethoven's concern for the dramatised presentation of private feeling in music.
 
@@ -112,7 +92,7 @@ The first movement is turbulent whilst the second is serene.  The final rondo br
 
 _1800, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LQ5vciYlfk8'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LQ5vciYlfk8'  allowfullscreen></iframe></div>
 
 This is a cheerful six-movement work for clarinet, bassoon, horn and string quartet.
 
@@ -123,7 +103,7 @@ It is uncomplicated and untaxing, being written purely for delight and entertain
 
 _1801, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/W0UrRWyIZ74'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/W0UrRWyIZ74'  allowfullscreen></iframe></div>
 
 This is probably Beethoven's most famous sonata and is often played by piano students.  The opening Adagio is both emotive and instantly recognisable.
 
@@ -132,7 +112,7 @@ This is probably Beethoven's most famous sonata and is often played by piano stu
 
 _1804, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/InxT4S6wQf4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/InxT4S6wQf4'  allowfullscreen></iframe></div>
 
 Beethoven's Symphony No. 3, the 'Eroica', is often seen as his greatest symphony, though sometimes holding joint first place with the Ninth.
 
@@ -155,7 +135,7 @@ The following scherzo is a welcome change from the preceding sobriety, being ful
 
 _1804, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/vmm2k4fRUO4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/vmm2k4fRUO4'  allowfullscreen></iframe></div>
 
 This Funeral March is the second movement of Beethoven's Third Symphony, the 'Eroica', initially written as musical praise for Napoleon Bonaparte, before the composer was dramatically disillusioned.
 
@@ -166,7 +146,7 @@ It has often confused purists, who expect such a movement to come at the end of 
 
 _1805, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/4C3TIr2bBo0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/4C3TIr2bBo0'  allowfullscreen></iframe></div>
 
 'The Appassionata' marks a peak in Beethoven's artistic development where emotion is not dramatised, but rather used to drive the work along.
 
@@ -174,7 +154,7 @@ _1805, Keyboard Works_
 
 _1805, Opera_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/QmpJkIiFEGk'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/QmpJkIiFEGk'  allowfullscreen></iframe></div>
 
 Never having been too interested in vocal music, this was the only opera Beethoven ever wrote.  It is a passionate tale of revolutionary idealism and the power of true love.
 
@@ -185,7 +165,7 @@ Fidelio is often considered a little heavy going.
 
 _1805, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/dRhwyzJABvI'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/dRhwyzJABvI'  allowfullscreen></iframe></div>
 
 One of four overtures Beethoven's wrote to his only opera 'Fidelio', this makes a pleasant introduction to the overall work.
 
@@ -194,7 +174,7 @@ One of four overtures Beethoven's wrote to his only opera 'Fidelio', this makes 
 
 _1806, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ctBqW5e16YM'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ctBqW5e16YM'  allowfullscreen></iframe></div>
 
 Although this is Beethoven's most gentle symphony, it was written in the explosive year of 1806, when Napoleon was rampaging around Europe, toppling old thrones, setting up new ones, redrawing boundaries and creating new states.
 
@@ -203,7 +183,7 @@ Although this is Beethoven's most gentle symphony, it was written in the explosi
 
 _1807, Overtures_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/Vvn2oGyji8s'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Vvn2oGyji8s'  allowfullscreen></iframe></div>
 
 A heroic overture written for a tragedy by Heinrich Collin called Coriolan.
 
@@ -212,7 +192,7 @@ A heroic overture written for a tragedy by Heinrich Collin called Coriolan.
 
 _1808, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/LHmWoAj4al0'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/LHmWoAj4al0'  allowfullscreen></iframe></div>
 
 Certainly one of Beethoven's most admired symphonies, the 'Pastoral' conjures up delightful images of babbling brooks and peasants larking about.
 
@@ -221,7 +201,7 @@ Certainly one of Beethoven's most admired symphonies, the 'Pastoral' conjures up
 
 _1808, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/zM3y09RjKLs'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/zM3y09RjKLs'  allowfullscreen></iframe></div>
 
 Like Beethoven himself, this Fifth Symphony is music of concentrated energy, struggle and triumph.  In its emotional voltage it is an intensely forward-looking work, embodying one of the most powerful musical trends of the following hundred years. 
 
@@ -238,7 +218,7 @@ The second movement (Andante con moto) is less vibrant and more of an exercise i
 
 _1809, Concerti, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/hDXWK3W477w'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/hDXWK3W477w'  allowfullscreen></iframe></div>
 
 Beethoven himself had taken the solo part in the earliest performances of his first four piano concertos. His earliest triumphs in Vienna had been as a virtuoso performer of his own works but, by the time he had finished his Fifth, or 'Emperor', Concerto, he had grown too deaf to perform. This could be one reason why this concerto was his last. He finished it in 1809, the year of the Austrian defeat at Wagram, and the year of Napoleon's siege and occupation of Vienna. When the bombardment of the city grew too loud, Beethoven would go down to the cellar of his brother Carl's house and cover his head with pillows. This was not because he was scared, but rather to protect his ears and what little hearing he had left. 
 
@@ -253,7 +233,7 @@ The second movement (Adagio un poco mosso) has a songlike, evening feel about it
 
 _1810, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/eika4rkMOGY'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eika4rkMOGY'  allowfullscreen></iframe></div>
 
 A relaxed chamber work that doesn't seek to strive forcefully to the end. It was written seventeen years before Beethoven's death, and the listener will appreciate the maturity of the writing.
 
@@ -262,7 +242,7 @@ A relaxed chamber work that doesn't seek to strive forcefully to the end. It was
 
 _1817, Symphonies, Orchestral_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/ChygZLpJDNE'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ChygZLpJDNE'  allowfullscreen></iframe></div>
 
 Beethoven's Ninth (and last) Symphony is famous in its own right, yet probably best known for its closing chorus based on Friedrich von Schiller's ode 'To Joy'. The poem had always appealed to Beethoven, and it was when he was twenty-two that he first planned to set it to music.  However, he was fifty-four when he finished this symphony, and died only three years later. 
 
@@ -279,7 +259,7 @@ It must be remembered that Beethoven lived through a chaotic period in European 
 
 _1821, Keyboard Works_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lPpy5YrhMp4'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lPpy5YrhMp4'  allowfullscreen></iframe></div>
 
 One of Beethoven's more accessible sonatas, this begins with a slow movement, proceeding to a scherzo, a sobbing 'aria dolente' ('grief-stricken song') and, finally, a fugue. 
 
@@ -290,7 +270,7 @@ It sounds as if it was written in a single afternoon, though it did, in fact, ta
 
 _1825, Chamber Music_
 
-<div class='video-container'><iframe width='560' height='315' src='https://www.youtube.com/embed/lMyyDEixTYg'  allowfullscreen></iframe></div>
+<div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/lMyyDEixTYg'  allowfullscreen></iframe></div>
 
 Although famous for his symphonies, Beethoven produced a large amount of chamber music that deserves recognition.  The listener can hear the potential symphony in all the quartets, which have been described as ' . . . relaxed rather than striving'.
 
