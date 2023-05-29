@@ -1,7 +1,8 @@
 ---
 title: The Music Itself
-layout: post
-lastmod: 2017-11-12
+layout: page
+lastmod: 2023-05-29
+toc: true
 ---
 
 ## Melody

@@ -23,6 +23,7 @@ Here, we will focus on the main styles of music that have achieved mass appeal s
 - [The Performers](/classical/performers)
 - [Musical Forms](/classical/musicalforms)
 - [The Music Itself](/classical/musicitself)
+- [Terminology](/classical/terms)
 
 ## Schools of Music
 

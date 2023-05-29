@@ -1,6 +1,6 @@
 ---
 title: Glossary of Terms
-layout: post
+layout: page
 lastmod: 2017-12-01
 ---
 

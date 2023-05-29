@@ -1,8 +1,9 @@
 ---
 title: The Performers
-layout: post
+layout: page
 needpopup: true
-lastmod: 2023-04-02
+lastmod: 2023-04-29
+toc: true
 ---
 
 ## Orchestra

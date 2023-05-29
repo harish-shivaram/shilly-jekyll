@@ -1,7 +1,8 @@
 ---
 title: The Musical Forms
-layout: post
-lastmod: 2023-05-08
+layout: page
+lastmod: 2023-05-29
+toc: true
 ---
 
 ## Movement
