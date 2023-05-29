@@ -7,7 +7,7 @@ died: 1858
 gallery:
   - image: /images/art/hiroshige_1.jpg
     small: /images/art/small/hiroshige_1.jpg
-    title: Night Snow at Kanbara (from Fifty-three stations of the Tokaido Road)
+    title: Night Snow at Kanbara (from Fifty-three Stations of the Tōkaidō Road)
     width: 2000
     height: 1346
   - image: /images/art/hiroshige_2.jpg
@@ -20,6 +20,31 @@ gallery:
     title: Plum Park at Kameido (from One Hundred Famous Views of Edo)
     width: 1021
     height: 1500
+  - image: /images/art/hiroshige_4.jpg
+    small: /images/art/small/hiroshige_4.jpg
+    width: 1081
+    height: 1600
+    title: Maiko Beach in Harima Province
+  - image: /images/art/hiroshige_5.jpg
+    small: /images/art/small/hiroshige_5.jpg
+    width: 761
+    height: 1600
+    title: White Heron and Irises
+  - image: /images/art/hiroshige_6.jpg
+    small: /images/art/small/hiroshige_6.jpg
+    width: 1600
+    height: 1099
+    title: "No. 26 Mochizuki (from Sixty-nine Stations of the Kisokaidō)"
+  - image: /images/art/hiroshige_7.jpg
+    small: /images/art/small/hiroshige_7.jpg
+    width: 1070
+    height: 1600
+    title: View from Komagata Temple near Azuma Bridge (from One Hundred Famous Views of Edo)
+  - image: /images/art/hiroshige_8.jpg
+    small: /images/art/small/hiroshige_8.jpg
+    width: 1600
+    height: 1042
+    title: Utsu Mountain at Okabe (from Fifty-three Stations of the Tōkaidō Road)
 ---
 
 Utagawa Hiroshige was a leading exponent of _ukiyo-e_ &mdash; 'Pictures of the floating
