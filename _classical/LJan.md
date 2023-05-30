@@ -57,7 +57,7 @@ _1904, Opera_
 The script for this opera is intensely tragic and the music matches it perfectly.  It tells the story of a young girl who has a baby by an unscrupulous ne'er-do-well.  Living in shame, she keeps the baby hidden from her neighbours until, one day, her mother drowns the child in the river, putting it under the ice. In a horrifying climax, the ice melts and the tiny corpse is found.
 
 ## Taras Bulba
-### Taras Bulba: 'Death of Andrey'
+**Taras Bulba: 'Death of Andrey'**
 
 _1918, Orchestral_
 
@@ -78,7 +78,7 @@ _1926, Choral_
 Janácek wrote this powerful choral work with a view to having it performed outdoors, though this rarely occurs.
 
 ## Sinfonietta
-### Sinfonietta: Allegretto
+**Sinfonietta: Allegretto**
 
 _1926, Orchestral_
 
@@ -93,7 +93,7 @@ Muted strings create a flowing melody which is taken up by woodwinds and brass t
 The whole work ends with a complete run-through of the first movement but with extra woodwinds and strings.
 
 ## Intimate Letters
-### String Quartet No. 2 ('Intimate Letters')
+**String Quartet No. 2 ('Intimate Letters')**
 
 _1928, Chamber Music_
 
@@ -102,7 +102,7 @@ _1928, Chamber Music_
 This is the second of two string quartets of a very personal nature as far as the composer was concerned: they are based on over 600 letters Janácek wrote to a young married woman in the last years of his life.
 
 ## Wandering of a Soul
-### Violin Concerto ('Wandering of a Soul'): Andante
+**Violin Concerto ('Wandering of a Soul'): Andante**
 
 _1928, Concerti, Orchestral_
 

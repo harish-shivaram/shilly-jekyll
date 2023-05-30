@@ -55,7 +55,7 @@ His music displays the unique qualities of warmth and romanticism whilst at the 
 His music is very appealing and is now finding something of a resurgence in popularity.
 
 ## Octet
-### Octet for Strings in E Flat Major Op. 20
+**Octet for Strings in E Flat Major Op. 20**
 
 _1825, Chamber Music_
 
@@ -64,7 +64,7 @@ _1825, Chamber Music_
 Amazingly, Mendelssohn was only sixteen when he wrote this piece for two string quartets.  His youthful enthusiasm can be heard in each of the four lengthy movements, which sound as if the young composer has only just discovered the joys of music and wishes to share them with the world.
 
 ## A Midsummer Night's Dream
-### A Midsummer Night's Dream: Overture
+**A Midsummer Night's Dream: Overture**
 
 _1827, Orchestral_
 
@@ -89,7 +89,7 @@ At the close of the next act, the Nocturne maintains a sleepy mood, as the lover
 The final Wedding March is full of grand and regal splendour, particularly effective in a large theatre.
 
 ## Hebrides Overture
-### The Hebrides Overture ('Fingal's Cave') Op. 26
+**The Hebrides Overture ('Fingal's Cave') Op. 26**
 
 _1830, Overtures_
 
@@ -108,7 +108,7 @@ The initial idea was thus conceived before Mendelssohn visited Staffa, with its 
 One of the greatest of musical seascapes, the overture re-creates the sounds and rhythms of the ocean, its swellings and ebbings, its violent storms and mysterious shimmering calms. Particularly magical is the way in which the second main theme is brought up by the clarinets and fleetingly recalled by the flute in the last few bars.
 
 ## Italian Symphony
-### Symphony No. 4 in A Major Op. 90 ('Italian')
+**Symphony No. 4 in A Major Op. 90 ('Italian')**
 
 _1830, Symphonies, Orchestral_
 
@@ -127,7 +127,7 @@ The third movement (Con moto moderato) is a graceful exercise and is often compa
 This sets up the listener nicely for the finale, in the form of an old Italian dance, which reflects the hectic fun of the Roman carnival experienced by Mendelssohn during his four-month stay in the capital.
 
 ## Scottish Symphony
-### Symphony No. 3 Op. 56 ('Scottish'): 2nd Movement
+**Symphony No. 3 Op. 56 ('Scottish'): 2nd Movement**
 
 _1833, Symphonies, Orchestral_
 
@@ -140,7 +140,7 @@ This is what Mendelssohn, on holiday in Scotland, wrote in his diary on 30 July 
 It is set in the traditional four movements, yet, interestingly, Mendelssohn specifically directed that they be played without a pause to prevent any applause between them.
 
 ## Violin Concerto in E Minor
-### Violin Concerto in E Minor Op. 64: Allegro molto appassionato
+**Violin Concerto in E Minor Op. 64: Allegro molto appassionato**
 
 _1844, Concerti, Orchestral_
 
@@ -171,7 +171,7 @@ _1846, Choral_
 A dramatic oratorio in the style of Handel, Elijah tells the story of the prophet of the same name taken from the Old Testament.  The work is full of powerful choruses.
 
 ## Songs without Words:  'Spring Song'
-### Songs without Words No. 6: 'Spring Song'
+**Songs without Words No. 6: 'Spring Song'**
 
 _1832, Keyboard Works_
 

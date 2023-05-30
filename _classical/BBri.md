@@ -67,7 +67,7 @@ The first performance at the Salzburg Festival was a success – so much so that
 The introduction and theme is a brief display of the theme upon which the whole work is based, and one soon becomes familiar with its five-note opening. The variations assume various forms, ranging from a march to a romance, from a waltz to a funeral march, yet at all times the main theme can be heard somewhere in the music, be it as a solo from the violins or as a background to another melody. In the slow (Lento) conclusion it is played by all the violins on the G string.
 
 ## Serenade for Tenor, Horn and Strings
-### Serenade for Tenor, Horn and Strings: 'Hymn'
+**Serenade for Tenor, Horn and Strings: 'Hymn'**
 
 _1943, Orchestral_
 

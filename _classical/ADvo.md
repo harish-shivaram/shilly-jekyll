@@ -43,7 +43,7 @@ He was invited all over the world both as a conductor and a professor of music.
 He spent three years in the United States, where he wrote his Symphony No. 9 (The New World), but spent the last few years of his life in his native land in the city of Prague as the Director of the Conservatory.
 
 ## Serenade for Strings in E
-### Serenade for Strings in E Op. 22: Moderato
+**Serenade for Strings in E Op. 22: Moderato**
 
 _1875, Chamber Music_
 
@@ -52,7 +52,7 @@ _1875, Chamber Music_
 Full of catchy lines, the Serenade for Strings was originally written as a five-movement suite, yet it sounds more like a chain of endless melodies that are hard to forget.
 
 ## Stabat Mater
-### Stabat Mater Op. 58: Stabat Mater dolorosa
+**Stabat Mater Op. 58: Stabat Mater dolorosa**
 
 _1877, Choral_
 
@@ -61,7 +61,7 @@ _1877, Choral_
 Dvorák is not so well known for his choral work, yet this solemn and religious text is well handled, with a good use of melody.
 
 ## Slavonic Dances
-### Slavonic Dance in G Minor No. 8, Op. 46
+**Slavonic Dance in G Minor No. 8, Op. 46**
 
 _1878, Orchestral_
 
@@ -70,7 +70,7 @@ _1878, Orchestral_
 Originally written as a piano duet, this fast and rhythmic folk dance is even more red-blooded in its orchestral version.
 
 ## New World Symphony
-### Symphony No. 9 ('New World') Op.95: Largo
+**Symphony No. 9 ('New World') Op.95: Largo**
 
 _1884, Symphonies, Orchestral_
 
@@ -89,7 +89,7 @@ It is the second movement (Largo), however, that contains the famous horn phrase
 The Scherzo that follows is bright and alive and could be a festive village scene full of dancing Indians or Czech peasants. The finale is a tremendous sweeping Allegro that recaps the previous three movements.
 
 ## Symphony No. 7
-### Symphony No. 7 Op. 70
+**Symphony No. 7 Op. 70**
 
 _1885, Symphonies, Orchestral_
 
@@ -98,7 +98,7 @@ _1885, Symphonies, Orchestral_
 Dvorák's Symphony No. 7 was one of the most important he ever wrote – at least, according to him – for in June 1884 he had been made an honorary member of the London Philharmonic Society, and furthermore he had recently been completely overwhelmed by Brahms's Third Symphony and wished to produce something of equal stature.  The LPS invited him to write a work for  them and he duly obliged, producing a symphony that is possibly eclipsed only by his 'New World' Symphony (No. 9).
 
 ## Piano Quintet in A
-### Piano Quintet in A Op. 81
+**Piano Quintet in A Op. 81**
 
 _1887, Keyboard Works_
 
@@ -107,7 +107,7 @@ _1887, Keyboard Works_
 This is a work that seems to be smiling at the listener. Set in four movements, a bright piano is contrasted with some strenuous string lines, as if the two parties are having a friendly conversation.
 
 ## Dumky Piano Trio
-### Dumky Piano Trio Op. 90
+**Dumky Piano Trio Op. 90**
 
 _1891, Chamber Music_
 
@@ -116,7 +116,7 @@ _1891, Chamber Music_
 A 'dumka' is a traditional Czech folk dance with alternating slow and fast sections, often based on the same theme.  Dvorák uses this structure in combination with the more serious sonata form to produce a work of considerable charm.
 
 ## Cello Concerto in B Minor
-### Cello Concerto in B Minor Op. 104: 3rd Movement
+**Cello Concerto in B Minor Op. 104: 3rd Movement**
 
 _1894, Concerti, Orchestral_
 

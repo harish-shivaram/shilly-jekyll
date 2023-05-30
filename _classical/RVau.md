@@ -61,7 +61,7 @@ It is essentially a peaceful yet powerful work, written for two small orchestras
 The Fantasia opens with a quiet introduction, and soon the main Tallis melody is introduced by cellos, violas and second violins all playing together.  This is immediately followed by a more passionate version by the violins, after which a brief interlude takes place where the separate orchestras answer each other back and forth.  Later a solo violin takes up the tune.  It is soon joined by other members of the string quartet and eventually the two other orchestras, until the whole work builds to a passionate climax.  The brief conclusion recalls some fragments of the introduction before dying away in a whisper.
 
 ## London Symphony
-### A London Symphony (No. 2): 4th Movement
+**A London Symphony (No. 2): 4th Movement**
 
 _1914, Symphonies, Orchestral_
 
@@ -77,8 +77,7 @@ The four-movement work is best described in Vaughan Williams's own words.
 
 This may serve as a clue to the music, but it is not a necessary explanation of it. . . . If the hearer will imagine himself standing on Westminster Embankment at night, surrounded by the distant sounds of the Strand, with its great hotels on one side and the "New Cut" on the other, with its crowded streets and flaring lights, it may serve as a mood in which to listen to this [third] movement. . . . The last movement consists of an agitated theme in triple-time alternating with a march movement at first solemn and, later on, energetic. At the end . . . comes a suggestion of the noise and fever of the first movement . . . then the "Westminster Chimes" are heard once more . . .'
 
-## Lark Ascending
-### The Lark Ascending
+## The Lark Ascending
 
 _1914, Orchestral_
 

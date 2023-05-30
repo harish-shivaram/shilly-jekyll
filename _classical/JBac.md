@@ -57,7 +57,7 @@ Today Bach is revered all over the world as one of the greatest composers ever t
 His skill at writing for keyboard instruments and for choirs also had a significant effect on all composers who followed him, even to the present day.
 
 ## Fugue in G Minor
-### Fugue in G Minor, BWV 578
+**Fugue in G Minor, BWV 578**
 
 _Keyboard Works_
 
@@ -66,7 +66,7 @@ _Keyboard Works_
 Bach wrote more than forty works for solo organ to be used before or after a church service, the most famous being his Toccata and Fugue in D Minor.  This Fugue in G Minor is in a similar vein and shows that Bach was without doubt a fine organist as well as composer.
 
 ## Italian Concerto
-### Italian Concerto in F, BWV 971: Moderato
+**Italian Concerto in F, BWV 971: Moderato**
 
 _Keyboard Works_
 
@@ -81,7 +81,7 @@ In Bach's time the piano was a fairly new instrument that allowed the performer 
 It is evident that the late Baroque composers did not fully utilise this when one compares their piano works with those of the Romantics such as Chopin or Liszt.
 
 ## Partita No. 1
-### Partita No. 1 in B Flat Major, BWV 825
+**Partita No. 1 in B Flat Major, BWV 825**
 
 _Keyboard Works_
 
@@ -90,7 +90,7 @@ _Keyboard Works_
 The six movements of Bach's Partita are typically Baroque and popular pieces for piano students.
 
 ## Toccata and Fugue in D Minor
-### Toccata and Fugue in D Minor, BWV 565
+**Toccata and Fugue in D Minor, BWV 565**
 
 _Keyboard Works_
 
@@ -99,7 +99,7 @@ _Keyboard Works_
 This must be one of the most famous works ever written for a church organ and is instantly recognisable from numerous films such as '20,000 Leagues under the Sea' and Disney's 'Fantasia'. It is an exciting and exhilarating work that tests not only the performer, but also the audience.
 
 ## Brandenburg Concerto No. 1
-### Brandenburg Concerto No. 1, BWV 1046: Adagio
+**Brandenburg Concerto No. 1, BWV 1046: Adagio**
 
 _1718, Concerti, Orchestral_
 
@@ -112,7 +112,7 @@ It is agreed that Concerto No. 1 in F Major is certainly the most exciting and a
 Today, we can't be sure exactly how this instrument is supposed to sound, though there is no doubt that this was not a feeble instrument but a powerful treble tool.
 
 ## Brandenburg Concerto No. 2
-### Brandenburg Concerto No. 2, BWV 1047: Allegro
+**Brandenburg Concerto No. 2, BWV 1047: Allegro**
 
 _1718, Concerti, Orchestral_
 
@@ -123,7 +123,7 @@ The world has long marvelled that Bach's set of six 'Brandenburg' concertos shou
 Concerto No. 2 in F Major proved to be far too demanding for the musical staff of the Margrave, as it was written with a virtuoso trumpet player in mind. The particular trumpet used, however, was known as a 'clarino' and had no valves like the modern trumpet.
 
 ## Brandenburg Concerto No. 3
-### Brandenburg Concerto No. 3, BWV 1048
+**Brandenburg Concerto No. 3, BWV 1048**
 
 _1718, Concerti, Orchestral_
 
@@ -138,7 +138,7 @@ But as the fast movements were always the more exciting and brilliant, this thir
 The first movement (Allegro) opens with a strong rhythmic theme that reappears with regularity in differing forms. The movement is varied in arrangement, with sometimes the whole ensemble playing together contrasted with sections where the instrumental groups are matched against one other.  One bar of an Adagio takes us without a pause into the finale, which takes the form of a jig, or 'gigue', as it was known at the time.  It opens with a violin theme that is quickly picked up by the rest of the group and, with clever, swirling harmonies, sweeps the listener along in a torrent.
 
 ## Brandenburg Concerto No. 6
-### Brandenburg Concerto No. 6, BWV 1051
+**Brandenburg Concerto No. 6, BWV 1051**
 
 _1718, Concerti, Orchestral_
 
@@ -151,7 +151,7 @@ Music historians seem to be in agreement that the sixth Brandenburg concerto, in
 Originally scored for a mere seven instruments, it is now more commonly performed by a full orchestra.
 
 ## Double Violin Concerto
-### Double Violin Concerto, BWV 1043
+**Double Violin Concerto, BWV 1043**
 
 _1718, Concerti, Orchestral_
 
@@ -162,7 +162,7 @@ Unlike a normal solo concerto, Bach's 'double violin' concerto was written with 
 Written in the traditional Baroque fast, slow, fast structure, the concerto opens with a vivace full of dynamic rhythm and pace, with a theme that is started off by the second violin. After some twenty bars of full orchestral introduction, the entire orchestra falls quiet to allow the soloists and concertino group to be heard. The movement continues in a similar vein, alternating between the small group and the orchestra. The slow second section is seen by many as being the crown of this work, with displays essentially from the two soloists, while the lively finale (Allegro) is dominated by a freer style with little contrast between the two groups.
 
 ## Brandenburg Concerto No. 4
-### Brandenburg Concerto No. 4, BWV 1049
+**Brandenburg Concerto No. 4, BWV 1049**
 
 _1719, Concerti, Orchestral_
 
@@ -173,7 +173,7 @@ The world has long marvelled that Bach's set of six 'Brandenburg' concertos shou
 Brandenburg Concerto No. 4 in G Major is the lightest of the set, both in spirit and in physical sound.  To the twentieth-century ear, this masterpiece seems to conjure up all the grace and sparkle of eighteenth-century architecture, painting and manners which is embraced by the term Rococo.
 
 ## Brandenburg Concerto No. 5
-### Brandenburg Concerto No. 5, BWV 1050: Allegro
+**Brandenburg Concerto No. 5, BWV 1050: Allegro**
 
 _1720, Concerti, Orchestral_
 
@@ -184,7 +184,7 @@ The world has long marvelled that Bach's set of six 'Brandenburg' concertos shou
 This Fifth Brandenburg Concerto is in D major and is often seen as the first ever harpsichord concerto.  Scored for solo harpsichord, flute and violin, the keyboard is so prominent that it is hardly surprising musicologists have taken this view.
 
 ## Suite for Orchestra No. 2
-### Suite for Orchestra No. 2, BWV 1067
+**Suite for Orchestra No. 2, BWV 1067**
 
 _1721, Orchestral_
 
@@ -221,7 +221,7 @@ VII. Badinerie.
 A light-hearted chuckling ending to this masterful suite.
 
 ## Air on the G String
-### Suite for Orchestra No. 3, BWV 1068: Air on the G String
+**Suite for Orchestra No. 3, BWV 1068: Air on the G String**
 
 _1722, Orchestral_
 
@@ -230,7 +230,7 @@ _1722, Orchestral_
 This is practically without doubt the most well known of all Bach's works, having been immortalised in TV advertisements for cigars. Technically speaking the second movement of a five-part suite, this slow piece with a delightful walking bass line has been used as the source for many interpretations and variations, most notably by the French jazz pianist Jacques Loussier.
 
 ## Gavotte from Suite No. 3
-### Suite for Orchestra No. 3, BWV 1068: Gavotte 1
+**Suite for Orchestra No. 3, BWV 1068: Gavotte 1**
 
 _1722, Orchestral_
 
@@ -241,7 +241,7 @@ A gavotte was originally a French folk dance, which made its way, via ballrooms,
 Taken from Bach's Suite for Orchestra No. 3 (whose second movement is the famous 'Air on the G String'), this gavotte is a sturdy rhythmic piece with a contrasting middle section.
 
 ## Suite for Orchestra No. 3
-### Suite for Orchestra No. 3, BWV 1068: Overture
+**Suite for Orchestra No. 3, BWV 1068: Overture**
 
 _1722, Orchestral_
 
@@ -252,7 +252,7 @@ This is probably Bach's most famous suite, as the second movement is the popular
 The Air has been popularised by film and television to the extent that many are familiar with the individual movement, but not the suite as a whole.
 
 ## Suite for Orchestra No. 4
-### Suite for Orchestra No. 4, BWV 1069
+**Suite for Orchestra No. 4, BWV 1069**
 
 _1725, Orchestral_
 
@@ -261,7 +261,7 @@ _1725, Orchestral_
 The C Major Suite is certainly Bach's most 'modern' and the only one which it is believed was composed in Leipzig. Some years after its composition, Bach rewrote this work adding three trumpets and drums to give it a more festive feel, presumably for some special event for which it had been commissioned.
 
 ## St Matthew Passion
-### St Matthew Passion, BWV 244
+**St Matthew Passion, BWV 244**
 
 _1729, Choral_
 
@@ -272,7 +272,7 @@ This Passion is the account by St Matthew of Christ's crucifixion and resurrecti
 It is a solemn and majestic work, best heard live to appreciate fully its full and devotional sound.
 
 ## Sleepers Awake
-### Sleepers Awake (Cantata 140)
+**Sleepers Awake (Cantata 140)**
 
 _1731, Choral_
 
@@ -281,7 +281,7 @@ _1731, Choral_
 Like most of Bach's work, this is a cantata written as part of a church service. About twenty minutes long, it contrasts solo arias with full choral sections and is an inspiration even to non-Christians.
 
 ## Mass in B Minor – 'Gloria'
-### Mass in B Minor, BWV 232: 'Gloria'
+**Mass in B Minor, BWV 232: 'Gloria'**
 
 _1733, Choral_
 
@@ -290,7 +290,7 @@ _1733, Choral_
 Some say that this Mass is Bach's supreme achievement in church music, the pinnacle of his art, and it is indeed a fine and powerful choral work. Written in 1733, it is an enormous setting of the Latin Mass treated in the manner of a Passion, with solos, ensembles and choruses.
 
 ## Goldberg Variations
-### Goldberg Variations, BWV 988
+**Goldberg Variations, BWV 988**
 
 _1742, Keyboard Works_
 

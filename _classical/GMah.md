@@ -89,7 +89,7 @@ Whilst listening to the works of Mahler, an insight into the life and spirit of 
 Listen to any of the symphonies and particularly the highly emotive song 'Abschied' (Farewell) from Das Lied von der Erde, of which Mahler genuinely asked, 'Can this be endured. Will people not kill themselves afterwards . . .?'
 
 ## Symphony No. 1
-### Symphony No. 1 in D: Stürmisch bewegt
+**Symphony No. 1 in D: Stürmisch bewegt**
 
 _1876, Symphonies, Orchestral_
 
@@ -118,7 +118,7 @@ This first movement seems to steal its main themes from the folk songs with whic
 The second part of the work opens with the strange fourth movement described as a bizarre funeral procession.  The main theme is a minor version of the traditional nursery tune 'Frère Jacques', which could well be mocking the dead hunter. The finale crashes through to a heroic end.
 
 ## Resurrection Symphony
-### Symphony No. 2 ('Resurrection')
+**Symphony No. 2 ('Resurrection')**
 
 _1888, Symphonies, Orchestral_
 
@@ -135,7 +135,7 @@ Mahler later wrote that this was supposed to represent:
 It is a powerful work and typically Romantic.
 
 ## Symphony No. 4
-### Symphony No. 4 in G Major: Bedachtig
+**Symphony No. 4 in G Major: Bedachtig**
 
 _1892, Symphonies, Orchestral_
 
@@ -152,7 +152,7 @@ The second movement starts as a leisurely folksy scherzo that soon takes on a mo
 The third, slow movement (Poco adagio) was inspired by reclining stone figures in a church graveyard, the image of which, Mahler uses to anticipate the main theme of the finale. The fourth movement is intended to convey a heavenly scene of pure, eternal blue which is assisted by a solo clarinet phrase that matches the first vocal line. The poem is then performed, punctuated with occasional refrains from the orchestra, echoing the original, light passage from the first movement.
 
 ## Symphony No. 5
-### Symphony No. 5 in C sharp minor: Trauermarsch
+**Symphony No. 5 in C sharp minor: Trauermarsch**
 
 _1902, Symphonies, Orchestral_
 
@@ -167,7 +167,7 @@ What makes this work particularly interesting is that, although it is in five mo
 Part II is made up of a scherzo that is effectively a waltz with a rich variety of themes, including a striking horn. Part III contains the two final movements, the first (or fourth) being slow and yearning, contrasted against a fresh and lively Rondo finale with a bouncy cello theme being picked up by the violins, violas and basses which builds eventually to a stately hymn of triumph.
 
 ## Symphony of a Thousand
-### Symphony No. 8 in E Flat Major ('Symphony of a Thousand')
+**Symphony No. 8 in E Flat Major ('Symphony of a Thousand')**
 
 _1906, Symphonies, Orchestral_
 
@@ -194,7 +194,7 @@ The work was composed during the summer of 1908, after Mahler had been told by h
 The Song of the Earth is based on a poem called 'The Chinese Flute' by the German poet Hans Bethge. Mahler was fascinated by the tragic moods occasioned by leaving people and parting in general.  In setting the poem to music, he sought to emphasise the nostalgic mood in which even visions of youth and love only sharpen the pain of eternal farewell.  The symphonic cycle ends with a sevenfold echo of the word 'forever' ('ewig' in German), whilst the opening movement is dominated by the line 'Dark is life, is death.'
 
 ## Symphony No. 9
-### Symphony No. 9 in D Major
+**Symphony No. 9 in D Major**
 
 _1910, Symphonies, Orchestral_
 

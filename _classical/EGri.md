@@ -53,7 +53,7 @@ He was for the most part of his life a lonely figure, despite marrying his cousi
 He still stands alone as being the only composer of note to have emerged from Norway.
 
 ## Piano Concerto in A Minor
-### Piano Concerto in A Minor Op. 16: Allegro molto moderato
+**Piano Concerto in A Minor Op. 16: Allegro molto moderato**
 
 _1869, Concerti, Orchestral_
 
@@ -72,7 +72,7 @@ The first movement (Allegro moderato) begins with brilliant crashing chords and 
 The second movement (Adagio) is slow and tender, and is really an introduction for the powerful finale.  This is, quite literally, a whirlwind of music built around the rhythm of a popular Norwegian folk dance.  Its conclusion is majestic.
 
 ## Four Norwegian Dances
-### Four Norwegian Dances Op. 35
+**Four Norwegian Dances Op. 35**
 
 _Orchestral_
 
@@ -89,7 +89,7 @@ _Keyboard Works_
 A collection of endlessly enjoyable piano pieces – some of which are light and charming whilst others are deeply affecting.
 
 ## Homage March
-### Sigurd Jorsalfar: 'Homage March'
+**Sigurd Jorsalfar: 'Homage March'**
 
 _1872, Orchestral_
 
@@ -110,7 +110,7 @@ When King Magnus Barefoot died in 1103 he arranged that his three sons Olaf, Oys
 Grieg was aware that audiences often had difficulty in listening to both words and music at the same time.  As a result, he produced incidental music that often finished at the exact point that someone would start speaking.
 
 ## Peer Gynt: 'Morning'
-### Peer Gynt Suite No. 1: 'Morning'
+**Peer Gynt Suite No. 1: 'Morning'**
 
 _1876, Orchestral_
 
@@ -121,7 +121,7 @@ Unquestionably Grieg's most famous work, the Peer Gynt Suites nos. 1 and 2 were 
 'Morning', from Suite No. 1, is instantly recognisable by the lilting flute opening that delivers the theme for the rest of the movement.  The piece is fittingly titled, as one can imagine a sunrise bring accompanied perfectly by this music.
 
 ## Peer Gynt: 'Arabian Dance'
-### Peer Gynt Suite No. 2: 'Arabian Dance'
+**Peer Gynt Suite No. 2: 'Arabian Dance'**
 
 _1876, Orchestral_
 
@@ -132,7 +132,7 @@ Unquestionably Grieg's most famous work, the Peer Gynt Suites nos. 1 and 2 were 
 The 'Arabian Dance', from Suite No. 2, is a lively and aggressive piece with violent displays from the strings.
 
 ## Holberg Suite
-### Holberg Suite Op. 40:  'Prelude'
+**Holberg Suite Op. 40:  'Prelude'**
 
 _1884, Chamber Music_
 

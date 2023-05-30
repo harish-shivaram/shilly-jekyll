@@ -36,8 +36,7 @@ For a true picture of the vocal impact that Wagner's music can have, do explore 
 
 Titles to look out for include: Tannhäuser, Lohengrin, Tristan und Isolde, Die Meistersinger von Nürnberg, Parsifal and The Ring.
 
-## Flying Dutchman
-### The Flying Dutchman
+## The Flying Dutchman
 
 _1841, Opera_
 
@@ -46,7 +45,7 @@ _1841, Opera_
 One of Wagner's earlier successes, The Flying Dutchman clearly shows the composer's interest in legend: it tells the supernatural story of a haunted sailor who must forever sail the seas until redeemed by the love of a good woman.
 
 ## Die Meistersinger von Nürnberg
-### Die Meistersinger von Nürnberg: Prelude
+**Die Meistersinger von Nürnberg: Prelude**
 
 _1845, Opera_
 
@@ -63,7 +62,7 @@ _1845, Opera_
 Like Die Meistersinger, this opera has a song contest, yet is steeped in heavy religious overtones.
 
 ## Here Comes the Bride
-### Lohengrin: 'Here Comes the Bride'
+**Lohengrin: 'Here Comes the Bride'**
 
 _1853, Opera_
 
@@ -71,8 +70,7 @@ _1853, Opera_
 
 Wagner, always fascinated by legend, set this opera in a land of knights in armour and endless chivalry.
 
-## Ride of the Valkyries
-### The Ride of the Valkyries
+## The Ride of the Valkyries
 
 _1870, Orchestral_
 

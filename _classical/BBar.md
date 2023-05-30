@@ -63,7 +63,6 @@ _1915, Keyboard Works_
 Certainly the best introduction to Bartók's music, this set of six tiny pieces is an interpretation of Hungarian folk art at its freshest. Whilst they were originally written for piano, there exists a sparkling arrangement for piano and violin.
 
 ## Miraculous Mandarin
-### The Miraculous Mandarin
 
 _1919, Ballet_
 
@@ -80,7 +79,7 @@ _1923, Orchestral_
 In 1923 Bartók (along with Kodály and Dohnányi) was commissioned to write a work to celebrate the fiftieth anniversary of Budapest, the capital city (the city having previously been three separate towns).  As in much of his work, Bartók drew on the peasant heritage and folk roots of his country to produce a suite of delightful nationalistic dance tunes.
 
 ## Music for Strings, Percussion and Celesta
-### Music for Strings, Percussion and Celesta: 4th Movement
+**Music for Strings, Percussion and Celesta: 4th Movement**
 
 _1939, Chamber Music_
 
@@ -103,7 +102,7 @@ _1939, Chamber Music_
 Many people have said that Bartók's string quartets are some of the finest written since those of Beethoven, and they are certainly a thorny and compelling set. No. 1 is almost always likened to Debussy's work, while the second is the traditional Bartók in fierce folk-music mode. Numbers 3 and 4 are a little gritty, yet perfect for the true fan of the composer. The fifth is light-hearted and cheerful, and the sixth (possibly the best) has all its four movements linked by a sad folk-like melody.
 
 ## Concerto for Orchestra
-### Concerto for Orchestra: Introduction
+**Concerto for Orchestra: Introduction**
 
 _1945, Concerti, Orchestral_
 

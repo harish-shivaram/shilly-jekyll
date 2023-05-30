@@ -33,7 +33,7 @@ Debussy is best known for his wonderful orchestral works, the piano music and su
 Small wonder that he is regarded as being perhaps the most influential of all twentieth-century composers.
 
 ## Nocturnes
-### Nocturnes: 'Fêtes'
+**Nocturnes: 'Fêtes'**
 
 _1883, Orchestral_
 
@@ -94,7 +94,7 @@ _1902, Opera_
 Written in 1902, this is a complete opera based on Maeterlinck's work of the same name, being a symbolist play about a love that is doomed.  It is predominantly quiet, making for hypnotic and evocative listening.
 
 ## La Mer
-### La Mer: 1st Movement
+**La Mer: 1st Movement**
 
 _1903, Orchestral_
 

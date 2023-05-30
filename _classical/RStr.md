@@ -53,7 +53,7 @@ This inevitably led to his being involved in a number of difficult situations, b
 His earlier works and those written in the last four or five years of his life are the ones that demonstrate his best creative output, and they really are well worth exploring for lovers of colourful, exciting, highly charged late romantic music.
 
 ## Till Eulenspiegel
-### Till Eulenspiegels lustige Streiche
+**Till Eulenspiegels lustige Streiche**
 
 _1865, Orchestral_
 

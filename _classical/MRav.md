@@ -59,7 +59,7 @@ A 'pavane' (or 'pavan' in English) is a slow and stately dance from the sixteent
 (An 'Infanta' is the daughter of the Spanish sovereign who is not an heiress to the throne.)
 
 ## String Quartet
-### String Quartet: 1st Movement
+**String Quartet: 1st Movement**
 
 _Chamber Music_
 
@@ -68,7 +68,6 @@ _Chamber Music_
 Ravel's String Quartet is beautifully Romantic, the music being full of swells and lulls.
 
 ## Introduction and Allegro
-### Introduction and Allegro 
 
 _1906, Chamber Music_
 

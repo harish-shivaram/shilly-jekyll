@@ -43,7 +43,7 @@ Nowadays, however, apart from the orchestral pieces already mentioned, most peop
 Rimsky wrote an enormous amount of music, but we rarely get to hear very much of it due to the preoccupation with the two or three favourites from among the works of Mussorgsky, Tchaikovsky, Prokofiev, Stravinsky and Rachmaninov – the great Russian school of composers.
 
 ## Dance of the Tumblers
-### The Snow Maiden: 'Dance of the Tumblers' 
+**The Snow Maiden: 'Dance of the Tumblers' **
 
 _1882, Orchestral_
 
@@ -52,7 +52,7 @@ _1882, Orchestral_
 The Dance of The Tumblers is taken from Rimsky-Korsakov's 1882 opera 'The Snow Maiden', which tells the story of the legendary Snow Maiden – the daughter of Fairy Spring and King Frost.  In the opera, she is wooed in vain by the Sun God.
 
 ## Capriccio Espagnol
-### Capriccio Espagnol: Alborada
+**Capriccio Espagnol: Alborada**
 
 _1887, Orchestral_
 
@@ -88,7 +88,7 @@ His main theme is based on the biblical passage concerning Isaiah's prophecy of 
 The composer accompanied his music with some text, partly from the New Testament, and partly from himself, in early printings of the work.
 
 ## Scheherazade
-### Scheherazade: 'The Sea and Sinbad's Ship'
+**Scheherazade: 'The Sea and Sinbad's Ship'**
 
 _1888, Symphonies, Orchestral_
 
@@ -112,8 +112,7 @@ The opening violin song suggests that the story is most definitely a romantic on
 
 The finale, 'Festival at Baghdad; The Sea; The Ship Goes to Pieces Against a Rock Surmounted by a Bronze Warrior', combines all the events of the title with Scheherazade's violin theme, the movement moving through confusion and fear and then eventually dying away like a passing dream.
 
-## Flight of the Bumblebee
-### The Flight of the Bumblebee
+## The Flight of the Bumblebee
 
 _1900, Opera_
 
@@ -121,8 +120,7 @@ _1900, Opera_
 
 An incredibly popular piece taken from the opera 'The Legend of Tsar Saltan', The Flight of the Bumblebee has been arranged for practically every instrument – even the tuba.
 
-## Golden Cockerel
-### The Golden Cockerel
+## The Golden Cockerel
 
 _1909, Opera_
 

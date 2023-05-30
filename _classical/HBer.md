@@ -49,7 +49,7 @@ His operas Benvenuto Cellini and Les Troyens were failures, as was La Damnation 
 Berlioz is now remembered for a handful of truly excellent pieces and for being a romantic idealist who influenced a number of other composers through his fairly radical approach to composition, both formally and orchestrally.
 
 ## Symphonie Fantastique
-### Symphonie Fantastique Op. 14: Reveries
+**Symphonie Fantastique Op. 14: Reveries**
 
 _1830, Symphonies, Orchestral_
 
@@ -64,7 +64,7 @@ The work is a 'symphonic story' about an artist who falls obsessively in love wi
 Originally called 'Episode in the Life of an Artist (Grand Fantastic Symphony in Five Parts)', the symphony revolves around the 'beloved's melody', which emerges in various transformations in each of the five movements.  It begins with 'Reveries and Passions', where the artist is filled with fiery love and jealous passions, and ends with 'Dream of a Witches Sabbath', where, poisoned with opium, he dances with her in a devilish orgy to his own death.
 
 ## Overture King Lear
-### Overture King Lear Op. 4
+**Overture King Lear Op. 4**
 
 _1831, Overtures_
 
@@ -73,7 +73,7 @@ _1831, Overtures_
 The Romantic fascination with madness and Berlioz's personal love of Shakespeare are combined in this overture, which savours the storms of Lear's rage, grief and insanity. It has a violent principal theme that recalls the opening Lear motif, accompanied by a sweet lyrical phrase from the first violins.  The music grows ever wilder as it approaches its climax and end.
 
 ## Harold in Italy
-### Harold in Italy Op. 16: 'Pilgrim's March'
+**Harold in Italy Op. 16: 'Pilgrim's March'**
 
 _1833, Symphonies, Orchestral_
 
@@ -106,7 +106,7 @@ Berlioz, in true Romantic style, uses swelling strings, which results in a passi
 Ultimately, one can understand this as the work of a man who once said: 'Love can give no idea of music; music can give an idea of love'.
 
 ## Overture Roman Carnival 
-### Overture Roman Carnival
+**Overture Roman Carnival**
 
 _1843, Overtures_
 
@@ -117,7 +117,7 @@ Berlioz wrote this overture as an afterthought to serve as an introduction to th
 The overture starts with a wild flourish that bursts with even greater power into the main saltarello (a kind of dance) theme, which seems to fade away towards the end but then suddenly returns in dazzling orchestral colour.
 
 ## Overture The Corsair
-### Overture The Corsair Op. 21
+**Overture The Corsair Op. 21**
 
 _1845, Overtures_
 
@@ -128,7 +128,7 @@ This is essentially an 'adventure piece', based on Lord Byron's 'The Corsair' an
 This he successfully achieved, opening the work with a sharp 'crack' of two chords followed by fiery strings that alternate with agitated chords from the woodwinds.  With a nod to Byron's love of contrast, the orchestra suddenly drops to a soft and delicate volume before exploding into an extended symphonic movement and the original fiery pace. Later, a graceful curving theme emerges that is presented and developed by the violins before being woven into a more complex orchestral fabric. There is no question that the spirit of storm, adventure and Berlioz's romantic fantasy are ingeniously captured in this work.
 
 ## Hungarian March
-### The Damnation of Faust: 'Hungarian March'
+**The Damnation of Faust: 'Hungarian March'**
 
 _1846, Orchestral_
 
@@ -137,7 +137,7 @@ _1846, Orchestral_
 Taken from his choral work The Damnation of Faust, this March is usually known as the 'Rakoczy March' after the Hungarian revolutionary leader, and is designed to affect audiences in the same way as 'Land of Hope and Glory' overwhelms listeners on the Last Night of the Proms.
 
 ## The Damnation of Faust
-### The Damnation of Faust: 'Dance of the Sylphs'
+**The Damnation of Faust: 'Dance of the Sylphs'**
 
 _1846, Orchestral, Choral_
 

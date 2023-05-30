@@ -93,7 +93,7 @@ The last performance he was to take part in was of 'Messiah' at Covent Garden, b
 It was always Handel's wish that he should have a private funeral, but this was for some reason totally ignored, and more than 3000 people were present at an elaborate state funeral service at Westminster Abbey.
 
 ## Harp Concerto
-### Harp Concerto in B Flat Major Op. 4, No. 6
+**Harp Concerto in B Flat Major Op. 4, No. 6**
 
 _Concerti, Orchestral_
 
@@ -102,7 +102,7 @@ _Concerti, Orchestral_
 There are not many concerti written for the harp, as it has often been passed off as an atmospheric instrument for creating dream-like soundscapes.  Handel, however, recognised the harp as a suitable solo instrument and wrote this charming concerto that is undemanding and thoroughly entertaining.
 
 ## Organ Concerto in B Flat Major
-### Organ Concerto in B Flat Major Op. 4, No. 2: Allegro
+**Organ Concerto in B Flat Major Op. 4, No. 2: Allegro**
 
 _Concerti, Orchestral_
 
@@ -111,7 +111,7 @@ _Concerti, Orchestral_
 Though this Organ Concerto in B Flat Major was written to be performed as an interpolation in oratorio performances, it is by no means solemn; rather, it is made up of gorgeous slow movements and fast movements that combine orchestral fugues with displays of remarkable dexterity from the soloist.
 
 ## Organ Concerto in F Major
-### Organ Concerto in F Major Op. 4, No. 4: Allegro
+**Organ Concerto in F Major Op. 4, No. 4: Allegro**
 
 _Concerti, Orchestral_
 
@@ -120,7 +120,7 @@ _Concerti, Orchestral_
 Though this Organ Concerto in F Major was written to be performed as an interpolation in oratorio performances, it is by no means solemn; rather, it is made up of gorgeous slow movements and fast movements that combine orchestral fugues with displays of remarkable dexterity from the soloist.
 
 ## Water Music
-### The Water Music
+**The Water Music**
 
 _1717, Orchestral_
 
@@ -137,7 +137,7 @@ The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes an
 The following G Major/G Minor Suite is far more intimate and delicate, creating an air of a relaxed summer evening. It has an 'aristocratic' air that contrasts with the frivolity of the first set yet leads us nicely to the final D Major Suite, which returns, stronger than ever, to a mood of majestic glory and jubilation that has made for the work's tireless success.
 
 ## Water Music - Suite 1
-### Water Music - Suite 1: Overture
+**Water Music - Suite 1: Overture**
 
 _1717, Chamber Music_
 
@@ -152,7 +152,7 @@ Quite simply, the music is a collection of twenty to twenty-two pieces grouped i
 The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes and suchlike which serve as a wonderful Baroque 'buffet' to the listener and are close to the spirit of the Bach Suites.  It is a light and untaxing collection.
 
 ## Water Music - Suite 2
-### Water Music - Suite 2: Andante
+**Water Music - Suite 2: Andante**
 
 _1717, Chamber Music_
 
@@ -168,7 +168,7 @@ Quite simply, the music is a collection of twenty to twenty-two pieces grouped i
 The second suite is far more intimate and delicate than the first, creating an air of a relaxed summer evening.  It has an 'aristocratic' feel that contrasts with the frivolity of the first suite.
 
 ## Water Music - Suite 3
-### Water Music - Suite 3: Menuett
+**Water Music - Suite 3: Menuett**
 
 _1717, Chamber Music_
 
@@ -193,7 +193,7 @@ Written in 1718 in English, this delightful pastoral interlude is taken from Gre
 It seems Handel was always trying to please others first and himself second, and this choral piece shows signs of just this. Nevertheless we, as the majority, continue to benefit.
 
 ## Harmonious Blacksmith
-### Keyboard SuiteNo. 5  in E: 'The Harmonious Blacksmith'
+**Keyboard SuiteNo. 5  in E: 'The Harmonious Blacksmith'**
 
 _1720, Keyboard Works_
 
@@ -236,7 +236,7 @@ _1739, Chamber Music_
 A delightful work based on the poetry of Dryden.
 
 ## Hallelujah Chorus
-### Messiah: Hallelujah Chorus
+**Messiah: Hallelujah Chorus**
 
 _1741, Choral_
 
@@ -251,7 +251,7 @@ However, unlike performances today, the largest available choir was a combinatio
 Indeed, today the work is usually performed by many vocalists, which makes Messiah one of the most powerful choral works around.
 
 ## Arrival of the Queen of Sheba
-### Solomon: 'The Arrival of the Queen of Sheba'
+**Solomon: 'The Arrival of the Queen of Sheba'**
 
 _1749, Choral_
 
@@ -260,7 +260,7 @@ _1749, Choral_
 Taken from Handel's oratorio Solomon, 'The Arrival of the Queen of Sheba' depicts the grand entrance of the Queen, and mirrors exactly the atmosphere and ceremony that is associated with genuine royal events. If you ever hear a live performance, you will notice that the oboe players are practically purple in their effort to sustain their notes!
 
 ## Music for the Royal Fireworks
-### Music for the Royal Fireworks: Overture
+**Music for the Royal Fireworks: Overture**
 
 _1749, Orchestral_
 

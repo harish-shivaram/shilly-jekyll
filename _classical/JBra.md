@@ -67,7 +67,7 @@ All of his works are beautifully crafted – from the piano miniatures and songs
 The most endearing aspect of his music is the lovely, reflective, autumnal, yearning quality to the later chamber music, and more than one hearing is recommended.
 
 ## Brahms Lullaby
-### Cradle Song ('Brahms Lullaby')
+**Cradle Song ('Brahms Lullaby')**
 
 _Keyboard Works_
 
@@ -76,7 +76,7 @@ _Keyboard Works_
 One of the most famous lullabies in the world, the 'Cradle Song' is a delightful piano piece that has been arranged for many different instruments.
 
 ## Four Ballades
-### Four Ballades Op. 10: No. 3
+**Four Ballades Op. 10: No. 3**
 
 _Keyboard Works_
 
@@ -84,8 +84,7 @@ _Keyboard Works_
 
 Brahms will always be remembered not just for his music, but also for his forbidden love of his friend Robert Schumann's wife, Clara.  Much his music was written (albeit secretly) for her, including these four Ballades for piano.  The mood of the music is neither happy nor sad, as if the composer had given up his hope, but not his longing.
 
-## Hungarian Dances
-### The Hungarian Dances
+## The Hungarian Dances
 
 _Orchestral_
 
@@ -94,7 +93,7 @@ _Orchestral_
 Altogether Brahms wrote twenty-one Hungarian Dances for piano duet, all based on folk themes of the country. He arranged three of the for orchestra, of which the first is the most famous.  It is in a full-blooded gypsy style that was used to great effect in a hilarious shaving scene in the film 'The Great Dictator'
 
 ## Waltz No. 15
-### Waltz No. 15, Op. 39 
+**Waltz No. 15, Op. 39 **
 
 _Keyboard Works_
 
@@ -103,7 +102,7 @@ _Keyboard Works_
 Close in sound to Schumann's piano music, this is a gentle and wistful piano waltz.
 
 ## Symphony No. 1
-### Symphony No. 1 in C Minor Op. 68: Un poco sostenuto
+**Symphony No. 1 in C Minor Op. 68: Un poco sostenuto**
 
 _1876, Symphonies, Orchestral_
 
@@ -123,8 +122,7 @@ The third movement is a songlike display essentially from the clarinets and flut
 
 The finale is often compared with the last movement of Beethoven's Ninth Symphony, which Brahms held in such esteem.
 
-## German Requiem
-### A German Requiem
+## A German Requiem
 
 _1868, Choral_
 
@@ -135,7 +133,7 @@ Brahms wrote this, his largest vocal work, after the death of his mother.
 As opposed to the standard religious texts used for a typical Requiem, Brahms, as an atheist, opted for Bible texts of mourning and, as a result, produced a sombre work that is highly accessible.
 
 ## Symphony No. 2
-### Symphony No. 2, Op. 73: 4th Movement
+**Symphony No. 2, Op. 73: 4th Movement**
 
 _1877, Symphonies, Orchestral_
 
@@ -143,8 +141,7 @@ _1877, Symphonies, Orchestral_
 
 This symphony begins in a relaxed manner yet accelerates with rushing strings and fiery brass work.
 
-## Academic Festival Overture
-### The Academic Festival Overture
+## The Academic Festival Overture
 
 _1880, Overtures_
 
@@ -155,7 +152,7 @@ Although the title is rather pompous, Brahms wrote this riotous melody in gratit
 In the music he pokes a bit of fun at the assembled dignitaries, who were obviously expecting some majestic work befitting the formality of the occasion.
 
 ## Piano Concerto No.2
-### Piano Concerto No.2 in B Flat Major
+**Piano Concerto No.2 in B Flat Major**
 
 _1881, Concerti, Orchestral_
 
@@ -174,7 +171,7 @@ On his return he sketched the main themes of the concerto on the eve of his birt
 The introductory movement (Allegro non troppo) opens with a beautiful horn passage that summons the other instruments.  The piano plays between the horns, building a theme that is merely an introduction, for soon enough it launches into a solo cadenza, from which certain ideas are taken and developed in a stormy middle section.
 
 ## Symphony No. 3
-### Symphony No. 3 Op. 90
+**Symphony No. 3 Op. 90**
 
 _1883, Symphonies, Orchestral_
 
@@ -183,7 +180,7 @@ _1883, Symphonies, Orchestral_
 This symphony is often compared with Beethoven's 'Pastoral' (No. 6) for its tranquillity.
 
 ## Symphony No. 4
-### Symphony No. 4 Op. 98
+**Symphony No. 4 Op. 98**
 
 _1885, Symphonies, Orchestral_
 
@@ -194,7 +191,7 @@ Brahms was fifty-two when he completed his Fourth Symphony in 1885.  The work wa
 'On the whole, unfortunately my pieces are pleasanter than I am and need less setting to rights!  But the cherries never get ripe for eating in these parts, so don't be afraid if you don't like the taste of the thing.  I'm not at all eager to write a bad number four.'
 
 ## Clarinet Quintet in B Minor
-### Clarinet Quintet in B Minor Op. 115
+**Clarinet Quintet in B Minor Op. 115**
 
 _1891, Chamber Music_
 

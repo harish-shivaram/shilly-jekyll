@@ -31,7 +31,7 @@ This was enormously well received and established his reputation as being one of
 In addition to his greatest large-scale masterpieces, Elgar composed a number of shorter works for string instruments that are no less enjoyable and are definitely well worth exploring.  They are very often to be found on compilation recordings.
 
 ## Violin Concerto in B Minor
-### Violin Concerto in B Minor Op. 61: 3rd Movement
+**Violin Concerto in B Minor Op. 61: 3rd Movement**
 
 _Concerti, Orchestral_
 
@@ -40,7 +40,7 @@ _Concerti, Orchestral_
 This concerto for violin is similar to Elgar's cello concerto but, quite simply, far grander and a lot more alive.
 
 ## Nimrod
-### Enigma Variations Op. 36: 'Nimrod'
+**Enigma Variations Op. 36: 'Nimrod'**
 
 _1898, Orchestral_
 
@@ -53,7 +53,7 @@ In the late autumn of 1898 Elgar's wife, Caroline Alice, heard her husband playi
 For more than eighty years now, music and puzzle lovers have tried to solve the riddle of this 'larger theme', but without success.  A US magazine even ran a competition with big prizes for the best replies.
 
 ## Dream of Gerontius
-### The Dream of Gerontius
+**The Dream of Gerontius**
 
 _1900, Choral_
 
@@ -62,7 +62,7 @@ _1900, Choral_
 This is a slow and reflective choral work inspired by a meditation on the immortality of the soul by Cardinal Newman. There are some exquisite moments for both soloists and choir.
 
 ## Pomp and Circumstance
-### Pomp and Circumstance March No. 1
+**Pomp and Circumstance March No. 1**
 
 _1901, Orchestral_
 
@@ -71,7 +71,6 @@ _1901, Orchestral_
 'Land of Hope and Glory', the main theme of Elgar's Pomp and Circumstance March No. 1, must be one of England's most patriotic pieces and second only to 'Rule Britannia' as an anthem of serious heart-swelling national pride.
 
 ## Introduction and Allegro
-### Introduction and Allegro 
 
 _1905, Orchestral_
 
@@ -80,7 +79,7 @@ _1905, Orchestral_
 In the style of a concerto grosso (a string quartet is set against a full string orchestra), this is a work that begs the listener to walk out in the open air and enjoy the countryside. It was composed while Elgar was on a walking holiday in the Malvern Hills.
 
 ## Cello Concerto in E Minor
-### Cello Concerto in E Minor Op. 85: 1st Movement
+**Cello Concerto in E Minor Op. 85: 1st Movement**
 
 _1919, Concerti, Orchestral_
 

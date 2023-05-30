@@ -50,8 +50,7 @@ _1892, Orchestral_
 
 In the same way that Finlandia evokes the Finnish landscape, En Saga, though with no clear-cut story-line, uses bare harmonies and strong orchestration to re-create the stark and heroic world of the Scandinavian sagas.
 
-## Swan of Tuonela
-### The Swan of Tuonela
+## The Swan of Tuonela
 
 _1893, Orchestral_
 
@@ -68,7 +67,7 @@ _1900, Orchestral_
 A powerful exercise in nationalistic music, Finlandia is a strong orchestral work whose central melody is perhaps better known as the hymn 'Be Still, my Soul'.
 
 ## Symphony No. 2
-### Symphony No. 2 in D Major Op. 43
+**Symphony No. 2 in D Major Op. 43**
 
 _1901, Symphonies, Orchestral_
 
@@ -85,7 +84,7 @@ The third portrays the awakening of national feeling whilst the finale brings ho
 The first movement (Allegretto) opens with quietly repeated chords from the strings whilst oboes and clarinets play a simple, folky tune.  In the second section we hear a lament from two bassoons until chords from the brass section cut them off at their peak.  The Vivacissimo of the third movement has an intensely nostalgic theme that builds and builds in a crescendo, leading directly into the finale.  This Allegro moderato is like a mighty chant of triumph, as if the country has finally burst its chains. The ending is incredibly powerful and overwhelming.
 
 ## Violin Concerto in D Minor
-### Violin Concerto in D Minor Op. 47: 3rd Movement
+**Violin Concerto in D Minor Op. 47: 3rd Movement**
 
 _1903, Concerti, Orchestral_
 
@@ -116,7 +115,7 @@ _1905, Orchestral_
 Sibelius wrote a lot of instrumental music for the theatre, the most notable being for Maeterlinck's 'Pélleas and Mélisande' and Shakespeare's 'The Tempest'.
 
 ## Symphony No. 5
-### Symphony No. 5 Op. 82
+**Symphony No. 5 Op. 82**
 
 _1916, Symphonies, Orchestral_
 
@@ -124,8 +123,7 @@ _1916, Symphonies, Orchestral_
 
 After a fairly gloomy opening sequence, the orchestra soon picks up until we get to the finale that strides along forcefully, accompanied by bell-like chanting from the horns.
 
-## Tempest
-### The Tempest
+## The Tempest
 
 _1926, Orchestral_
 

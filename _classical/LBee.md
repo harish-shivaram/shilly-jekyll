@@ -77,7 +77,7 @@ One of Beethoven's most famous piano pieces, this delightful little work has an 
 It has been arranged for numerous different instruments.
 
 ## Pathetique Sonata
-### Sonata No. 8 in C Minor, 'Pathetique',  Op. 13
+**Sonata No. 8 in C Minor, 'Pathetique',  Op. 13**
 
 _1798, Keyboard Works_
 
@@ -88,7 +88,7 @@ The title does not actually mean 'pathetic', but rather 'sonata full of feeling'
 The first movement is turbulent whilst the second is serene.  The final rondo breaks out into frenzied runs and emphatic dischords.
 
 ## Septet
-### Septet in E Flat Major Op. 20
+**Septet in E Flat Major Op. 20**
 
 _1800, Chamber Music_
 
@@ -99,7 +99,7 @@ This is a cheerful six-movement work for clarinet, bassoon, horn and string quar
 It is uncomplicated and untaxing, being written purely for delight and entertainment.
 
 ## Moonlight Sonata
-### Piano Sonata No.14 in C Sharp Minor Op. 27, No. 2 ('Moonlight'): Adagio sostenuto
+**Piano Sonata No.14 in C Sharp Minor Op. 27, No. 2 ('Moonlight'): Adagio sostenuto**
 
 _1801, Keyboard Works_
 
@@ -108,7 +108,7 @@ _1801, Keyboard Works_
 This is probably Beethoven's most famous sonata and is often played by piano students.  The opening Adagio is both emotive and instantly recognisable.
 
 ## Eroica
-### Symphony No. 3 in E Flat Major ('Eroica'): 1st Movement
+**Symphony No. 3 in E Flat Major ('Eroica'): 1st Movement**
 
 _1804, Symphonies, Orchestral_
 
@@ -131,7 +131,7 @@ The second movement is the great 'Funeral March', which has often confused puris
 The following scherzo is a welcome change from the preceding sobriety, being full of life and laughter, whilst the finale recalls the principal theme from the first movement.
 
 ## Funeral March
-### Symphony No. 3: 2nd Movement ('Funeral March')
+**Symphony No. 3: 2nd Movement ('Funeral March')**
 
 _1804, Symphonies, Orchestral_
 
@@ -142,7 +142,7 @@ This Funeral March is the second movement of Beethoven's Third Symphony, the 'Er
 It has often confused purists, who expect such a movement to come at the end of a symphony, but Beethoven wasn't writing a biography, he was depicting heroism – or, rather, heroic grief.  It is an epic lament over the heroes that have fallen in the defence of everyone's freedom.
 
 ## Appassionata
-### Piano Sonata No. 23 in F Minor Op. 57 ('Appassionata')
+**Piano Sonata No. 23 in F Minor Op. 57 ('Appassionata')**
 
 _1805, Keyboard Works_
 
@@ -161,7 +161,7 @@ Never having been too interested in vocal music, this was the only opera Beethov
 Fidelio is often considered a little heavy going.
 
 ## Leonore
-### Overture 'Leonore' No. 1
+**Overture 'Leonore' No. 1**
 
 _1805, Overtures_
 
@@ -170,7 +170,7 @@ _1805, Overtures_
 One of four overtures Beethoven's wrote to his only opera 'Fidelio', this makes a pleasant introduction to the overall work.
 
 ## Symphony No. 4
-### Symphony No. 4 in B Flat Major Op. 60
+**Symphony No. 4 in B Flat Major Op. 60**
 
 _1806, Symphonies, Orchestral_
 
@@ -179,7 +179,7 @@ _1806, Symphonies, Orchestral_
 Although this is Beethoven's most gentle symphony, it was written in the explosive year of 1806, when Napoleon was rampaging around Europe, toppling old thrones, setting up new ones, redrawing boundaries and creating new states.
 
 ## Coriolan
-### Overture 'Coriolan' Op. 62
+**Overture 'Coriolan' Op. 62**
 
 _1807, Overtures_
 
@@ -188,7 +188,7 @@ _1807, Overtures_
 A heroic overture written for a tragedy by Heinrich Collin called Coriolan.
 
 ## Pastoral Symphony
-### Symphony No. 6 in F Major Op. 68 ('Pastoral')
+**Symphony No. 6 in F Major Op. 68 ('Pastoral')**
 
 _1808, Symphonies, Orchestral_
 
@@ -197,7 +197,7 @@ _1808, Symphonies, Orchestral_
 Certainly one of Beethoven's most admired symphonies, the 'Pastoral' conjures up delightful images of babbling brooks and peasants larking about.
 
 ## Symphony No. 5
-### Symphony No. 5 in C Minor Op. 67: Allegro con brio
+**Symphony No. 5 in C Minor Op. 67: Allegro con brio**
 
 _1808, Symphonies, Orchestral_
 
@@ -214,7 +214,7 @@ The opening of the first movement (Allegro con brio) is a savage, imperious onsl
 The second movement (Andante con moto) is less vibrant and more of an exercise in orchestral grace and charm that spins off into freedom and fantasy.  It contrasts sharply with the Allegro of the third movement, which has a well-paced, menacing theme. The final movement, also an Allegro, draws on the full orchestra, which leads to a coda of excitement, power and brilliance.
 
 ## Emperor Concerto
-### Piano Concerto No. 5 in E Flat Major Op. 73 ('Emperor')
+**Piano Concerto No. 5 in E Flat Major Op. 73 ('Emperor')**
 
 _1809, Concerti, Orchestral_
 
@@ -229,7 +229,7 @@ The concerto begins with a decisive chord from the orchestra, after which the pi
 The second movement (Adagio un poco mosso) has a songlike, evening feel about it, as the pianist steals a melody from the violins to produce a series of gentle variations that, almost without a break, leads us into the finale (Rondo: Allegro). This is a marvellous exposition of dynamism and exhilaration that comes across as being spontaneous and impulsive.
 
 ## Archduke Trio
-### Piano Trio in B Flat Major Op. 97 ('Archduke'): Allegro moderato
+**Piano Trio in B Flat Major Op. 97 ('Archduke'): Allegro moderato**
 
 _1810, Chamber Music_
 
@@ -238,7 +238,7 @@ _1810, Chamber Music_
 A relaxed chamber work that doesn't seek to strive forcefully to the end. It was written seventeen years before Beethoven's death, and the listener will appreciate the maturity of the writing.
 
 ## Ode to Joy
-### Symphony No. 9 in D Minor Op. 125: 4th Movement 'Ode to Joy'  
+**Symphony No. 9 in D Minor Op. 125: 4th Movement 'Ode to Joy'  **
 
 _1817, Symphonies, Orchestral_
 
@@ -255,7 +255,7 @@ In the final movement the melody of the chorus is introduced without words by ce
 It must be remembered that Beethoven lived through a chaotic period in European history, watching the rise and fall of Napoleon, a man whom Beethoven truly admired until his illusions were shattered.  In this Ninth Symphony, Beethoven was able to look back over the battles, the victories and the defeats, sum them together, and crown his nine symphonies with the stunning hope and optimism of the great chorale finale.
 
 ## Piano Sonata No. 31 in A Flat
-### Piano Sonata No. 31 in A Flat Major Op. 110 
+**Piano Sonata No. 31 in A Flat Major Op. 110 **
 
 _1821, Keyboard Works_
 
@@ -266,7 +266,7 @@ One of Beethoven's more accessible sonatas, this begins with a slow movement, pr
 It sounds as if it was written in a single afternoon, though it did, in fact, take Beethoven weeks of work.
 
 ## String Quartet Op. 127
-### String Quartet in E Flat Major Op. 127
+**String Quartet in E Flat Major Op. 127**
 
 _1825, Chamber Music_
 

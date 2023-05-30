@@ -83,7 +83,6 @@ The first movement is a Rondo and introduces the main Lulu theme, while the Alle
 'Lulu my angel – let me see you once more! – I am near to you. I will always be near to you, in eternity . . .'
 
 ## Violin Concerto
-### Violin Concerto  
 
 _1935, Concerti, Orchestral_
 

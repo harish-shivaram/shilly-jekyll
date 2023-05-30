@@ -85,7 +85,7 @@ Much of it would be ideal as film soundtracks, and the main theme from the Fanta
 If you do see a concert advertising the music of Tchaikovsky, do go and try it and keep in mind all the troubles and the inner problems he faced throughout his life – you'll find it a moving and enjoyable experience.
 
 ## Andante Cantabile
-### String Quartet No. 1 in D Major: Andante Cantabile
+**String Quartet No. 1 in D Major: Andante Cantabile**
 
 _
 
@@ -94,7 +94,7 @@ _
 Taken from Tchaikovsky's First String Quartet in D Major, this movement is Romantic in the most pastoral sense. The atmosphere is completely relaxed and mellow, yet very much typical of the man's style.
 
 ## Romeo and Juliet
-### Fantasy Overture 'Romeo and Juliet' 
+**Fantasy Overture 'Romeo and Juliet' **
 
 _1869, Overtures_
 
@@ -115,7 +115,7 @@ A love theme is introduced on a solo clarinet, which develops into a tender comm
 Mixing in the Lawrence theme, the orchestra combines all these opposing musical forces to rise to a great fury, but is overwhelmed by the love music that dies away to a lament, ending with sharp tragic chords from the orchestra.
 
 ## Eugene Onegin
-### Eugene Onegin: 'Waltz'
+**Eugene Onegin: 'Waltz'**
 
 _1879, Opera_
 
@@ -124,7 +124,7 @@ _1879, Opera_
 Based on Pushkin's poem of the same name, this is the moving story of a young girl who is humiliated after declaring a teenage passion.
 
 ## 1812 Overture
-### 1812 Overture Op. 49
+**1812 Overture Op. 49**
 
 _1880, Overtures_
 
@@ -133,7 +133,7 @@ _1880, Overtures_
 In 1880 Nicholas Rubinstein asked Tchaikovsky to write a new piece for the All Russian Art and Industrial Exhibition to be held in Moscow. Initially Tchaikovsky was rather reluctant but changed his mind when he learnt that the new Cathedral of Christ the Redeemer, built to commemorate the turning away of Napoleon's armies in 1812, was expected to be consecrated at the time of the exhibition. He soon realised exactly what was required – something to rouse the emotions and encourage patriotic fervour. After starting work, he wrote to a friend saying about the overture: 'It will be very noisy!!'  It was written to be played in the open air and he included in the music not just a full symphony orchestra, but bells, canons, plenty of percussion and a full military band. Being a completely professional composer and a fine craftsman, Tchaikovsky achieved exactly what he wanted, and this is certainly one his more famous works.
 
 ## Serenade for Strings
-### Serenade for Strings Op. 48
+**Serenade for Strings Op. 48**
 
 _1880, Orchestral_
 
@@ -154,7 +154,7 @@ Part two takes us into one of Tchaikovsky's favourite musical forms, the waltz, 
 The finale is an Allegro con spirito, though it does begin with a slow introduction based on a Russian folk tune.  This movement recalls the main theme from the first movement in its original form to round off the work very effectively.
 
 ## Sleeping Beauty
-### The Sleeping Beauty
+**The Sleeping Beauty**
 
 _1890, Ballet_
 
@@ -165,7 +165,7 @@ The story of the sleeping beauty must be one of the most famous fairy tales of a
 This is definitely one of Tchaikovsky's greatest scores and, along with his other ballet music such as 'Swan Lake' and 'The Nutcracker', proves him as one of the finest writers in this genre.
 
 ## Dance of the Reed Flutes
-### Nutcracker Suite Op. 71a: 'Dance of the Reed Flutes'
+**Nutcracker Suite Op. 71a: 'Dance of the Reed Flutes'**
 
 _1892, Ballet_
 
@@ -176,7 +176,7 @@ Taken from Tchaikovsky's famous ballet The Nutcracker, the Dance of the Reed Flu
 The music is a trio for orchestral flutes.
 
 ## Dance of the Sugar Plum Fairy
-### Nutcracker Suite Op. 71a: 'Dance of the Sugar Plum Fairy'
+**Nutcracker Suite Op. 71a: 'Dance of the Sugar Plum Fairy'**
 
 _1892, Ballet_
 
@@ -191,7 +191,7 @@ The music takes the main players and represents them with instruments suitable f
 Ultimately, this is Tchaikovsky at his most light-hearted and capricious, where every melody has a unique charm and wit.
 
 ## Nutcracker March
-### Nutcracker Suite Op. 71a: 'Nutcracker March'
+**Nutcracker Suite Op. 71a: 'Nutcracker March'**
 
 _1892, Ballet_
 
@@ -200,7 +200,7 @@ _1892, Ballet_
 Taken from Tchaikovsky's famous ballet The Nutcracker, the March is the work's second movement and is set in a playful mood, with spritely rhythms emphasised by cymbals, plucked cellos and double basses.
 
 ## Pathétique
-### Symphony No. 6 ('Pathétique')
+**Symphony No. 6 ('Pathétique')**
 
 _1892, Symphonies, Orchestral_
 

@@ -47,7 +47,7 @@ The compositions that followed do not have the original spark of ingenuity and a
 He died just two years later, on 7 March 1953.
 
 ## Classical Symphony
-### Symphony No. 1 ('Classical Symphony') Op. 25
+**Symphony No. 1 ('Classical Symphony') Op. 25**
 
 _1916, Symphonies, Orchestral_
 
@@ -61,8 +61,7 @@ Written in classic four-movement symphonic style, the first movement (Allegro) f
 
 The finale, however, is well worth waiting for, with its persistent driving force and dashing sound.
 
-## Prodigal Son
-### The Prodigal Son
+## The Prodigal Son
 
 _Ballet_
 
@@ -71,7 +70,7 @@ _Ballet_
 The plot of this ballet is taken from the biblical tale of a boy who leaves home thinking he can survive in the big, wide world, only to come crawling back to his family. There is some superbly sleazy music in the scene where the son is mixing with thieves and ne'er-do-wells.
 
 ## Love for Three Oranges
-### The Love for Three Oranges: 'March'
+**The Love for Three Oranges: 'March'**
 
 _1921, Opera_
 
@@ -80,7 +79,7 @@ _1921, Opera_
 Prokofiev's opera 'The Love for Three Oranges' is based on the highly amusing folk tale about a prince whom nobody can make laugh.
 
 ## Piano Concerto No. 3 in C
-### Piano Concerto No. 3 in C Major Op. 26: 3rd Movement
+**Piano Concerto No. 3 in C Major Op. 26: 3rd Movement**
 
 _1921, Concerti, Orchestral_
 
@@ -93,7 +92,7 @@ When he finally decided to devote his time seriously to the third concerto, he f
 The first movement (Andante; Allegro) begins with a short introduction before a theme is introduced on a solo clarinet, which is then taken up by the violins for a few bars.  Eventually the piano comes in and a lively play between orchestra and soloist follows.  The second movement consists of a single theme and five variations with precise and delicate play from the piano.  The finale begins with a staccato theme for bassoons against pizzicato strings.   This is suddenly interrupted by a blustery piano, which goes on to 'argue' with the orchestra until it eventually takes over the theme and brings the whole section to a climatic ending and a brilliant coda.
 
 ## Lieutenant Kijé
-### Lieutenant Kijé: 'Troika'
+**Lieutenant Kijé: 'Troika'**
 
 _1933, Orchestral_
 
@@ -122,7 +121,7 @@ The symphonic suite is Prokofiev's adaptation of his soundtrack and is in five m
 5. The Burial of Kijé: Kijé's exit from this world is merry rather than sad, considering how happy his creators must have been to get rid of him.  The music is a summary of his life, beginning with the cornet fanfare of his birth and travelling through his romance and wedding. At the end, the solo cornet fades away to silence.
 
 ## Romeo and Juliet
-### Romeo and Juliet Op. 24: 'Romeo and Juliet'
+**Romeo and Juliet Op. 24: 'Romeo and Juliet'**
 
 _1935, Ballet_
 

@@ -73,7 +73,7 @@ He is buried in the Kensico Cemetery in New York.
 Rachmaninov is the natural successor to Tchaikovsky in the Russian romantic music school. Whilst pointing you enthusiastically towards such popular works the Second and Third Piano Concertos, the Second Symphony and a few of the Preludes, I can also recommend a closer look at many of his other works.
 
 ## Piano Concerto No. 1
-### Piano Concerto No. 1 in F Sharp Minor Op. 1
+**Piano Concerto No. 1 in F Sharp Minor Op. 1**
 
 _1891, Concerti, Orchestral_
 
@@ -86,7 +86,7 @@ He set to work and recomposed it from start to finish, retaining its youthful fr
 The fact that Rachmaninov was also a fantastic virtuoso pianist is evident in this fine work.
 
 ## Piano Prelude No. 1
-### Piano Prelude Op. 32, No. 1
+**Piano Prelude Op. 32, No. 1**
 
 _1892, Keyboard Works_
 
@@ -95,7 +95,7 @@ _1892, Keyboard Works_
 Rachmaninov was only nineteen when he wrote what later became one of his most famous piano works (he wrote twenty-four preludes altogether).  It plagued him all his life, as the work was constantly requested at his concerts, even when he wanted to show off newer material.
 
 ## Piano Concerto No. 2
-### Piano Concerto No. 2 in C Minor Op. 18: Moderato
+**Piano Concerto No. 2 in C Minor Op. 18: Moderato**
 
 _1900, Concerti, Orchestral_
 
@@ -114,7 +114,7 @@ The second section is also very Romantic, full of yearning and melody, with a cl
 The bright finale begins with some low rhythmic mutterings from the orchestra, when the piano suddenly splashes in with a driving pace which eventually subsides to return to the original melody.  The conclusion is a glittering whirlwind climax with the orchestra and soloist seemingly racing each other to the finish.
 
 ## Symphony No. 2
-### Symphony No. 2 in E Minor Op. 27: 4th Movement
+**Symphony No. 2 in E Minor Op. 27: 4th Movement**
 
 _1907, Symphonies, Orchestral_
 
@@ -129,7 +129,7 @@ After the huge failure of his First Symphony, Rachmaninov had put off the writin
 The first movement (Largo; Allegro moderato) introduces on the strings the main theme for the entire work, which eventually rounds off with a passionate coda.  The second section (Allegro molto) begins with a strong four-horn melody that is quickly grabbed and enhanced by the violins.  It contrasts nicely with the Adagio of the third movement, a slow melodic section that is often cut from performances.  The finale opens with a wild burst of energy which, at a later point, recalls the themes of the first movement. The work has an exuberant conclusion.
 
 ## Piano Concerto No. 3
-### Piano Concerto No. 3 in D Minor Op. 30: 3rd Movement
+**Piano Concerto No. 3 in D Minor Op. 30: 3rd Movement**
 
 _1909, Concerti, Orchestral_
 
@@ -152,7 +152,7 @@ The work opens with two bars of orchestral accompaniment before the pianist ente
 The second movement (Adagio) is dominated by the soloist and leads directly into the finale, which recalls the initial themes of the concerto and builds to a climax and conclusion of great brilliance.
 
 ## Thirteen Preludes
-### Thirteen Preludes Op. 32
+**Thirteen Preludes Op. 32**
 
 _1910, Keyboard Works_
 
@@ -161,7 +161,7 @@ _1910, Keyboard Works_
 This set of thirteen preludes for solo piano was written in the summer of 1910, and many of them echo much of his liturgical work that he composed around the same time.  However, not all are religious, as Rachmaninov often found inspiration in paintings and sculpture, such as in Prelude No. 10, which is based on a self-portrait by Arnold Bocklin called 'The Return'
 
 ## Rhapsody on a Theme of Paganini
-### Rhapsody on a Theme of Paganini: 18th Variation
+**Rhapsody on a Theme of Paganini: 18th Variation**
 
 _1934, Concerti_
 

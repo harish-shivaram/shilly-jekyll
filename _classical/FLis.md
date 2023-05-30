@@ -71,7 +71,7 @@ He was also the first to give a complete concert of solo piano music – now cal
 He was quite rightly hailed as being one of the finest keyboard virtuosi ever to have lived, not only performing his own works but also pioneering some of the great works of his predecessors Bach, Beethoven and Schubert.
 
 ## Piano Concerto No. 1
-### Piano Concerto No. 1 in E Flat Major: Allegro maestoso
+**Piano Concerto No. 1 in E Flat Major: Allegro maestoso**
 
 _1849, Concerti, Orchestral_
 
@@ -80,7 +80,7 @@ _1849, Concerti, Orchestral_
 Liszt wrote his First Piano Concerto with the deliberate intention of writing a show-stopper that would bring the audience cheering to their feet.  Riddled with pounding cadenzas, wrenching melodies and delightful accompaniments, this really is a work for a showman.
 
 ## Les Préludes
-### Les Préludes: No. 3
+**Les Préludes: No. 3**
 
 _1856, Orchestral_
 
@@ -89,7 +89,7 @@ _1856, Orchestral_
 This symphonic work is based on a poem by Lamartine which attempts to represent life as a series of preludes to some unknown future existence. A gorgeous tune rides through the moods of the music, which range from passion to pageantry.
 
 ## Hungarian Rhapsodies
-### Hungarian Rhapsodies for Orchestra No. 2
+**Hungarian Rhapsodies for Orchestra No. 2**
 
 _1858, Orchestral_
 

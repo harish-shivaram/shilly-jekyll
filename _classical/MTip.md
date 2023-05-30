@@ -45,7 +45,7 @@ Following this troubled period in his life things progressed well, with an abund
 Sir Michael is truly one of this country's finest composers, who has not only expressed himself in a unique way but also maintained a caring interest in all aspects of social problems throughout the world and reflected them in his writing.
 
 ## Fantasia Concertante
-### Fantasia Concertante on a Theme of Corelli
+**Fantasia Concertante on a Theme of Corelli**
 
 _Orchestral_
 
@@ -63,8 +63,7 @@ _1941, Choral_
 
 An oratorio for soloists, chorus and orchestra, this is not a biblical tale as one might traditionally expect, but rather a story from the twentieth century. It tells the tale of an act of supreme heroism against the Nazis during the Second World War and its subsequent brutal punishment. The choruses are definitely worth listening out for.
 
-## Midsummer Marriage
-### The Midsummer Marriage
+## The Midsummer Marriage
 
 _1955, Choral_
 

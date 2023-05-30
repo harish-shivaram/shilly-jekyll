@@ -45,7 +45,7 @@ He died at the age of sixty in a mental asylum.
 His music is now recognised as being some of the finest to have emerged from Czechoslovakia, and lovers of Slavonic folk-style music will find much to enjoy here.
 
 ## String Quartet No. 1
-### String Quartet No. 1 in E Minor: 4th Movement
+**String Quartet No. 1 in E Minor: 4th Movement**
 
 _Chamber Music_
 
@@ -56,7 +56,7 @@ Smetana has always been categorised as a nationalistic composer, and there is no
 His String Quartet No. 1 is no exception, being sharp and spiky, with a sense of urgency that keeps us moving ever forwards.
 
 ## String Quartet No. 2
-### String Quartet No. 2 in D Minor: 4th Movement
+**String Quartet No. 2 in D Minor: 4th Movement**
 
 _Chamber Music_
 
@@ -67,7 +67,7 @@ Smetana has always been categorised as a nationalistic composer, and there is no
 His second String Quartet is no exception, being rather sedate, as if one were strolling through the Bohemian countryside.
 
 ## Bartered Bride
-### The Bartered Bride: Polka
+**The Bartered Bride: Polka**
 
 _1866, Opera_
 
@@ -80,7 +80,7 @@ The music of the overture is taken largely from the lively finale of the second 
 The overture concludes with reappearances of the original orchestral theme.
 
 ## Fields and Forests
-### From Bohemia's Fields and Forests
+**From Bohemia's Fields and Forests**
 
 _1875, Orchestral_
 

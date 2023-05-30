@@ -109,7 +109,7 @@ Pictures at an Exhibition is a clever arrangement of ten 'pictures' interspersed
 The music opens with a solo trumpet theme before going into the first 'picture', called 'The Gnome'.  A 'promenade' takes us to the next 'picture' before we walk on to look at two more. A brief stroll takes us to two pictures that Hartmann had given to the composer which have now strangely disappeared.  Finally, we arrive at the 'Great Gate of Kiev', which is a design the architect submitted for the possibility of being built.  A procession complete with prancing horses is the cause for a re-emergence of the 'promenade' theme which initially opened the work.
 
 ## Khovanshchina
-### Khovanshchina: Intermezzo 
+**Khovanshchina: Intermezzo **
 
 _1886, Opera_
 

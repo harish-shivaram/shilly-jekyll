@@ -53,7 +53,6 @@ _Ballet_
 Rodeo is an exciting story of a cow-girl who invades a male sport and ends up beating the boys at their own game.
 
 ## Tender Land
-### The Tender Land
 
 _Opera_
 

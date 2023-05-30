@@ -73,7 +73,7 @@ Don't be put off! Try the two Piano Concertos for a gentle and pleasant introduc
 If you enjoy these works there is no reason why you shouldn't enjoy the rest of the catalogue – Shostakovich was a masterful composer who has a very relevant voice in the world of twentieth-century music.
 
 ## Age of Gold
-### The Age of Gold
+**The Age of Gold**
 
 _1932, Ballet_
 
@@ -106,7 +106,7 @@ _1936, Opera_
 When Shostakovotch first wrote this opera in 1936, it was called 'Lady Macbeth of the Mtensk District'.  It brought him his first official criticism from the Soviet newspaper 'Pravda', which described it as 'discordant and chaotic'. It is the story of a woman who murders her father-in-law and future husband with the help of her lover. A powerful and intense work, it was revived in 1963 under the name 'Katerina Izmaylova'.
 
 ## Symphony No. 5
-### Symphony No. 5 in D Minor: 4th Movement
+**Symphony No. 5 in D Minor: 4th Movement**
 
 _1937, Symphonies, Orchestral_
 
@@ -123,7 +123,7 @@ It would seem that this is, in fact, what he did when he composed his Fifth Symp
 The first movement (Moderato) opens with a jagged theme that is similar to Beethoven's 'Great Fugue'. Started off by cellos and double basses, it is immediately imitated by the violins. The Allegretto of the second movement is a traditional frolicsome dance which contrasts sharply with the slow Largo of the third movement. This is probably the most stirring of the four sections, with a simple, natural theme being slowly developed to a climax of tremendous intensity before relaxing back into the deep calm of the beginning. The finale is a hugely exciting, thundering musical volcano, where the listener truly feels that he is being swept up and along by its sheer force.
 
 ## Piano Quintet in G Minor
-### Piano Quintet in G Minor Op. 57
+**Piano Quintet in G Minor Op. 57**
 
 _1940, Chamber Music_
 
@@ -132,7 +132,7 @@ _1940, Chamber Music_
 Although this quintet begins rather solemnly, the seriousness is soon thrown aside, as we fly through scherzos and Russian dances, ending with a superb finale that was intended to depict a circus parade.
 
 ## Symphony No. 10
-### Symphony No. 10 in E Minor
+**Symphony No. 10 in E Minor**
 
 _1953, Symphonies, Orchestral_
 

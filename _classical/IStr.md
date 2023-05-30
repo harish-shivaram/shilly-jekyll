@@ -70,8 +70,7 @@ He also made recordings of many of his works, which are still available in the c
 
 A bout of ill health followed and Stravinsky died in New York in 1971, aged eighty-nine, and was buried in Venice.
 
-## Firebird Suite
-### The Firebird Suite
+## The Firebird Suite
 
 _1909, Ballet_
 
@@ -102,7 +101,7 @@ The suite is divided into five sections and follows the story-line perfectly. Th
 Interestingly, Stravinsky's writing became much harsher after this lush work, and he would often refer to 'The Firebird' as 'that great audience lollipop'.
 
 ## Petrushka
-### Petrushka: 'Peasant with Bear'
+**Petrushka: 'Peasant with Bear'**
 
 _1911, Ballet_
 
@@ -128,8 +127,7 @@ The third scene is set in the Blackamoor's rooms, where he is wooing the Balleri
 
 In the final section we return to the fair where, before the curtain of the puppet theatre goes up, we see the Blackamoor kill Petrushka with a scimitar.  A policeman arrives, but the wizard shows everyone that the puppet was only made of sawdust. However, as the wizard is taking Petrushka away, the puppet's spirit appears above the theatre, terrifying the wizard away into the darkness.
 
-## Rite of Spring
-### The Rite of Spring
+## The Rite of Spring
 
 _1913, Orchestral_
 
@@ -155,8 +153,7 @@ Part Two is 'The Sacrifice', which deals with the events leading up to and inclu
 
 Overall, this is one of the most ground-breaking works ever written.
 
-## Nightingale
-### The Nightingale
+## The Nightingale
 
 _1914, Opera_
 
@@ -164,8 +161,7 @@ _1914, Opera_
 
 This opera is a gorgeously exotic version of the Hans Christian Anderson fairy-tale about a Chinese emperor who falls in love with a nightingale. The music has many mock-Chinese effects and the setting is almost like a pantomime.
 
-## Soldier's Tale
-### The Soldier's Tale
+## The Soldier's Tale
 
 _1917, Orchestral_
 
@@ -230,8 +226,7 @@ _1943, Symphonies, Orchestral_
 
 Commissioned by the New York Philharmonic, this symphony combines the violence of Stravinsky's 'The Rite of Spring' with a certain neoclassical feel. Though only loosely based on a symphonic structure, it is still referred to as a symphony, and the music itself is based on Stravinsky's visual impressions, personal experiences and strong emotional reactions to the events of the Second World War.
 
-## Rake's Progress
-### The Rake's Progress
+## The Rake's Progress
 
 _1951, Opera_
 

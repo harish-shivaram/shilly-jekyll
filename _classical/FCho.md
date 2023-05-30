@@ -57,7 +57,7 @@ He wrote in a letter to a friend that he felt 'played out' and 'incapable of bri
 His funeral was held at the Madeleine in Paris where, at his own request, Mozart's Requiem was sung.
 
 ## Nocturne  in E Minor
-### Nocturne  in E Minor Op. 72,  No. 1
+**Nocturne  in E Minor Op. 72,  No. 1**
 
 _1827, Keyboard Works_
 
@@ -66,7 +66,7 @@ _1827, Keyboard Works_
 Composed in 1827, this Nocturne is often described as being 'posthumous', for it was only discovered in 1863, in Warsaw.
 
 ## Twelve Études
-### Twelve Études Op. 10: No. 5 in G Flat Major
+**Twelve Études Op. 10: No. 5 in G Flat Major**
 
 _1830, Keyboard Works_
 
@@ -75,7 +75,7 @@ _1830, Keyboard Works_
 Written when Chopin was only twenty, these 'studies' followed the principle that exercises to improve piano technique should also involve playing enjoyable pieces.
 
 ## Ballade No. 1 in G Minor
-### Ballade No. 1 in G Minor Op. 23
+**Ballade No. 1 in G Minor Op. 23**
 
 _Keyboard Works_
 
@@ -84,7 +84,7 @@ _Keyboard Works_
 This Ballade, with its use of 'rubato' and highly embellished themes, is certainly a showcase for all the features of a Chopin composition.  Of particular interest is a passage that occurs about five minutes into the piece, which is highly reminiscent of his 'Minute' waltz.
 
 ## Berceuse
-### Berceuse in D Flat Major Op. 57
+**Berceuse in D Flat Major Op. 57**
 
 _Keyboard Works_
 
@@ -93,7 +93,7 @@ _Keyboard Works_
 This Berceuse, or 'cradle-song', is a delightful and enchanting exercise that clearly gives us another insight into the charm of the young romantic piano genius.
 
 ## Études Op. 25
-### Étude in A Flat Major Op. 25, No. 1
+**Étude in A Flat Major Op. 25, No. 1**
 
 _Keyboard Works_
 
@@ -106,7 +106,7 @@ Chopin said about this study:
 In the distance rushes the wind and the rain, while the shepherd gently plays a melody on his flute.'
 
 ## Mazurka in C Minor
-### Mazurka in C Minor Op. 30, No. 1
+**Mazurka in C Minor Op. 30, No. 1**
 
 _Keyboard Works_
 
@@ -117,7 +117,7 @@ Chopin wrote over fifty mazurkas for the piano – a mazurka being a traditional
 He often varied the traditional style by either changing the speed or incorporating another Polish dance – the Kuiaviak – into the composition.
 
 ## Nocturne in C Sharp Minor
-### Nocturne in C Sharp Minor Op. 27, No. 1
+**Nocturne in C Sharp Minor Op. 27, No. 1**
 
 _Keyboard Works_
 
@@ -126,7 +126,7 @@ _Keyboard Works_
 This Nocturne is charming in its apparent simplicity, though on closer inspection one will appreciate the skill required to fit in the trills over a seemingly endless bass line.
 
 ## Nocturne in E Flat
-### Nocturne in E flat Major Op. 9, No. 2 
+**Nocturne in E flat Major Op. 9, No. 2 **
 
 _Keyboard Works_
 
@@ -137,7 +137,7 @@ Chopin wrote twenty-one nocturnes in all, this being perhaps the most famous one
 This 'night-piece' has been arranged for brass bands and even musical saws, yet on the piano it is a wonderfully unhurried affair where the right hand plays an embellished tune over uncluttered left-hand chords.
 
 ## Polonaise in A Major 
-### Polonaise in A Major Op. 40, No. 1
+**Polonaise in A Major Op. 40, No. 1**
 
 _Keyboard Works_
 
@@ -146,7 +146,7 @@ _Keyboard Works_
 Though a 'major' key is usually associated with bright and cheerful melodies, this piano polonaise (based on the traditional Polish dance) seems to move between the happy and the morose before reaching the end of a particular phrase.  As always with his more sedate work, Chopin paces the music with a good use of 'rubato', producing overall an essentially gentle work with a tone of hidden menace.
 
 ## Waltz in E Flat
-### Waltz in E Flat Major Op. 18
+**Waltz in E Flat Major Op. 18**
 
 _Keyboard Works_
 
@@ -155,7 +155,7 @@ _Keyboard Works_
 Chopin wrote altogether nineteen waltzes, of which this is a delightful example.
 
 ## Funeral March
-### Sonata No. 2 in B Flat Minor Op. 35: 'Funeral March'  
+**Sonata No. 2 in B Flat Minor Op. 35: 'Funeral March'  **
 
 _1839, Keyboard Works_
 
@@ -164,7 +164,7 @@ _1839, Keyboard Works_
 The first two movements of this sonata seem to shoot along with a sense of unstoppable urgency, but the proceedings are suddenly cut short by the powerful solemnity of the funeral march of the third movement, which is often played separately – especially at funerals. However, this sonata must not be thought of as serious, for at times it is certainly a show-stopper.
 
 ## Prelude No. 24
-### Prelude in D Minor Op. 28, No. 24
+**Prelude in D Minor Op. 28, No. 24**
 
 _1839, Keyboard Works_
 
@@ -173,7 +173,7 @@ _1839, Keyboard Works_
 A marvellous work once desribed as being: 'full of the sounds of great guns!'
 
 ## Prelude No. 4
-### Prelude in E Minor Op. 28, No. 4
+**Prelude in E Minor Op. 28, No. 4**
 
 _1839, Keyboard Works_
 
@@ -190,7 +190,7 @@ The fourth prelude is gentle and almost melancholy, being described as:
 The composer seems to be absorbed in the narrow sphere of his own ego, from which the wide noisy world is, for the time, shut out.'
 
 ## Scherzo in B Flat Minor
-### Scherzo in B Flat Minor Op. 31, No. 1
+**Scherzo in B Flat Minor Op. 31, No. 1**
 
 _1839, Keyboard Works_
 
@@ -199,7 +199,7 @@ _1839, Keyboard Works_
 Chopin's scherzos often feel like one-movement sonatas on account of the way in which they are closely worked and thematically compartmentalised.  Themes aside, however, they include all the Chopin trademarks such as genuine tunefulness and literally showers of notes.
 
 ## Minute Waltz
-### Waltz in D Flat Major Op. 64, No. 1 ('Minute')
+**Waltz in D Flat Major Op. 64, No. 1 ('Minute')**
 
 _1847, Keyboard Works_
 

@@ -33,7 +33,7 @@ The most famous of these are Johann Strauss senior's Radetzky March and Johann S
 These never fail to engage audiences in clapping along and joining in with the chorus.
 
 ## Blue Danube Waltz
-### By the Beautiful Blue Danube
+**By the Beautiful Blue Danube**
 
 _1847, Orchestral_
 
@@ -68,7 +68,7 @@ _1858, Orchestral_
 Short and light, Tritch-Tratch is less a piece of dance music, more a novelty orchestral item, full of lively sound-effects such as corks popping, rifle-shots and rolls of thunder.
 
 ## Perpetuum Mobile
-### Perpetuum Mobile: musikalischer Scherz
+**Perpetuum Mobile: musikalischer Scherz**
 
 _1861, Orchestral_
 
@@ -105,7 +105,7 @@ _1868, Orchestral_
 During the summer of 1868 there was a certain agressive yet friendly rivalry between the brothers Johann II and Josef Strauss, where each would try to match the other's compositions with a finer work.  After Josef had produced some classics, including the 'Music of the Spheres', Johann responded by writing the Thunder and Lightning polka, though he originally called it 'Shooting Star'.
 
 ## Die Fledermaus
-### Die Fledermaus: Overture
+**Die Fledermaus: Overture**
 
 _1874, Orchestral_
 
@@ -122,7 +122,7 @@ _1880, Orchestral_
 The theme for Roses from the South is taken from Johann Strauss II's seventh operetta, 'The Queen's Lace Handkerchief', which was originally inspired by the poet Cervantes' waltz aria 'Wo die wilde Rose erblüht'.
 
 ## A Night in Venice
-### A Night in Venice: Overture
+**A Night in Venice: Overture**
 
 _1882, Orchestral_
 
@@ -131,7 +131,7 @@ _1882, Orchestral_
 Written in 1882, A Night in Venice represents a rather sad period in the life of Johann Strauss II, for he had just become divorced from his wife Lili, and though she had plagued him for many years he was still depressed.  In fact, the opening night of the operetta had to be moved to another venue, as it was with the theatre manager of that particular site that Lili had commited adultery.
 
 ## Gypsy Baron
-### The Gypsy Baron: Overture
+**The Gypsy Baron: Overture**
 
 _1884, Orchestral_
 

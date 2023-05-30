@@ -61,7 +61,7 @@ He has left us, however, with a lot of great music, especially in the fields of 
 It is also widely accepted that he made a truly significant contribution to the development of lieder (German songs) – in particular establishing the piano as an equal partner in the work rather than simply as the accompaniment.
 
 ## Carnaval
-### Carnaval: 'Arlequin'
+**Carnaval: 'Arlequin'**
 
 _1835, Keyboard Works_
 
@@ -70,7 +70,7 @@ _1835, Keyboard Works_
 This piece is typical of the works Schumann wrote for his wife, Clara, who was an accomplished pianist in her own right. 'Carnaval' is the story of a costume party, where the guests, including Paganini and Chopin, end up rounding on a gang of kill-joys and kick them out in a fantastic march.
 
 ## Scenes of Childhood
-### Scenes of Childhood: 'Dreaming'
+**Scenes of Childhood: 'Dreaming'**
 
 _1838, Keyboard Works_
 
@@ -79,7 +79,7 @@ _1838, Keyboard Works_
 Written in 1838, 'Scenes of Childhood' is a set of thirteen short piano pieces depicting childhood life.  They have been arranged for several instruments, including clarinet and strings.
 
 ## Dichterliebe
-### Dichterliebe Op. 48
+**Dichterliebe Op. 48**
 
 _1841, Songs_
 
@@ -88,7 +88,7 @@ _1841, Songs_
 Described as Schumann's greatest song cycle, the Dichterliebe ('Poet's Love') is a musical representation of the hope entertained by a young poet that his beloved will respond to him. Tragically (or typically – for Schumann), the phrases he sings are constantly mocked, until he eventually accepts the loss of his love.  It is a tale of happiness snatched beyond recovery.
 
 ## Symphony No. 4 in D Minor
-### Symphony No. 4 in D Minor Op.120: Ziemlich langsam
+**Symphony No. 4 in D Minor Op.120: Ziemlich langsam**
 
 _1841, Symphonies, Orchestral_
 
@@ -117,7 +117,7 @@ However, the mood and pace changes as we enter the third movement, which is a mo
 The finale rounds off the work with a recapitulation of the themes from the initial section.
 
 ## Piano Concerto in A Minor
-### Piano Concerto in A Minor Op. 54: Allegro affettuoso
+**Piano Concerto in A Minor Op. 54: Allegro affettuoso**
 
 _1845, Concerti, Orchestral_
 
@@ -142,7 +142,7 @@ The first movement (Allegro affetuoso) opens with a furious cascade of chords fo
 The idea of having a main theme as a base for variations and alterations throughout a work was very popular in the Romantic period, and this concerto is a great example of its success.
 
 ## Rhenish Symphony
-### Symphony No. 3 in E Flat Major ('Rhenish'): Feierlich
+**Symphony No. 3 in E Flat Major ('Rhenish'): Feierlich**
 
 _1851, Symphonies, Orchestral_
 

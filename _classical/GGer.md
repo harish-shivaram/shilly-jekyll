@@ -61,7 +61,7 @@ Gershwin didn't have time to complete the work before its performance, but he ha
 'Rhapsody in Blue' opens with a now famous clarinet solo that begins with a quite incredible wail as it produces some low trills before shooting skyward into a jazzy theme. A little later a saxophone takes over the theme, before the piano enters with a variation on the original melody. What makes this a most exceptional piece is that, whilst there are so many themes coupled with a definite jazz feel, one could still (if not a musical purist) classify it as piano concerto. What is most incredible is that Gershwin, the soloist for the evening, had to improvise his solo part almost from nothing, and the show was still a roaring success.
 
 ## Piano Concerto in F
-### Piano Concerto in F Major: 3rd Movement
+**Piano Concerto in F Major: 3rd Movement**
 
 _1925, Concerti, Orchestral_
 
@@ -88,7 +88,7 @@ _Overtures_
 An exciting piece of Caribbean imagery, 'The Cuban Overture' deserves to be better known.
 
 ## Three Preludes for Piano
-### Three Preludes for Piano:  No. 3
+**Three Preludes for Piano:  No. 3**
 
 _Keyboard Works_
 

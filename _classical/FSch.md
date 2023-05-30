@@ -49,7 +49,7 @@ However, during these last five or six years of ill health he wrote some of his 
 Although he'd been an extremely popular man he was quickly forgotten, and it is only in the last hundred years or so that both he and his work have been valued alongside the other great classical Viennese composers Mozart, Haydn and Beethoven.
 
 ## Symphony No. 5 in B Flat
-### Symphony No. 5 in B Flat: 1st Movement
+**Symphony No. 5 in B Flat: 1st Movement**
 
 _1816, Symphonies, Orchestral_
 
@@ -70,7 +70,7 @@ The Andante con moto of the slow second movement is very much in the style of Mo
 In the finale (Allegro vivace) we are treated to a masterpiece of symphonic genius, with a grace and charm that is so well developed and natural in growth that the listener might forget to be impressed, surrendering to the spontaneous joy that Schubert had obviously felt himself.
 
 ## Trout Quintet
-### Piano Quintet in A Major ('The Trout')
+**Piano Quintet in A Major ('The Trout')**
 
 _1819, Chamber Music_
 
@@ -79,7 +79,7 @@ _1819, Chamber Music_
 This is one of the jolliest pieces of chamber music Schubert ever wrote, and certainly evokes the title image with its leaping accompaniment and sparkling tune. This is Schubert at his most smiling and serene.
 
 ## Unfinished Symphony
-### Symphony No. 8 in B Minor ('Unfinished')
+**Symphony No. 8 in B Minor ('Unfinished')**
 
 _1822, Symphonies, Orchestral_
 
@@ -112,7 +112,7 @@ _1823, Songs_
 Like the 'Winter Journey', 'The Beautiful Maid of the Mill' is a set of songs on the subject of hopeless love. The songs have a bubbly piano accompaniment that represents both the mill stream and the hope in the heart of the love-struck young man.
 
 ## Octet
-### Octet in F Major
+**Octet in F Major**
 
 _1824, Chamber Music_
 
@@ -137,7 +137,7 @@ _1827, Songs_
 The 'Winter Journey' is a set of songs, lasting about forty minutes, which is both sombre and tragic yet, at moments, quite uplifting.
 
 ## Great C Major Symphony
-### Symphony No. 9 in C Major: Andante
+**Symphony No. 9 in C Major: Andante**
 
 _1828, Symphonies, Orchestral_
 

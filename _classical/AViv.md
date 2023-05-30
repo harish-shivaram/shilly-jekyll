@@ -55,7 +55,7 @@ Vivaldi was an amazing composer who could write an entire concerto in a day if n
 This particular one for Two Trumpets and Strings has the two lead instruments playing at different volumes (one quiet, one loud), constantly echoing each other, while backed by a galloping string ensemble.
 
 ## Concerto for Violin in A Minor
-### Concerto for Violin in A Minor op. 3, No. 6: Allegro
+**Concerto for Violin in A Minor op. 3, No. 6: Allegro**
 
 _Concerti, Orchestral_
 
@@ -68,7 +68,7 @@ It is typical not just of the man's work, but of the man himself, as he was a bi
 Consequently his music is inevitably charming and delightful, with a strong sense of having been written purely to please.
 
 ## Concerto Grosso 
-### Concerto Grosso Op. 3, No. 8
+**Concerto Grosso Op. 3, No. 8**
 
 _Concerti, Orchestral_
 
@@ -85,7 +85,7 @@ _Concerti, Orchestral_
 It is claimed that Vivaldi could write a concerto in a single day and an opera in a week.  Many of his concerti were written for up to four soloists, as he enjoyed nothing more than performing with others.
 
 ## Gloria in D
-### Gloria in D, RV 589
+**Gloria in D, RV 589**
 
 _Choral_
 
@@ -94,7 +94,7 @@ _Choral_
 Vivaldi's Gloria is probably his most popular piece of church music and can often be heard today.
 
 ## Concerto for Violin and Strings in G Minor
-### Concerto for Violin and Strings in G Minor Op. 6, No. 1: Allegro
+**Concerto for Violin and Strings in G Minor Op. 6, No. 1: Allegro**
 
 _1717, Concerti, Orchestral_
 
@@ -107,7 +107,7 @@ It is typical not just of the man's work but the man himself, as he was a bit of
 Consequently his music is inevitably charming and delightful, with a strong sense of having been written purely to please.
 
 ## Four Seasons – Spring
-### Concerto for Violin in E Major Op. 8, No. 1: Allegro
+**Concerto for Violin in E Major Op. 8, No. 1: Allegro**
 
 _1725, Chamber Music_
 
@@ -120,7 +120,7 @@ The arrival of spring is greeted with the twittering of birds and the gentle mur
 Written solely for strings, Vivaldi's masterpiece has somehow managed to stand the test of time without losing its freshness and vitality.
 
 ## Four Seasons – Summer
-### Concerto for Violin in G Minor Op. 8, No. 2: Allegro
+**Concerto for Violin in G Minor Op. 8, No. 2: Allegro**
 
 _1725, Chamber Music_
 
@@ -133,7 +133,7 @@ Summer begins in the lazy heat of the sun, but tension soon builds to a storm, w
 Written solely for strings, Vivaldi's masterpiece has somehow managed to stand the test of time without losing its freshness and vitality.
 
 ## Four Seasons – Autumn
-### Concerto for Violin in F Major Op. 8, No. 3: Allegro
+**Concerto for Violin in F Major Op. 8, No. 3: Allegro**
 
 _1725, Chamber Music_
 
@@ -146,7 +146,7 @@ Autumn, the season of mellow fruitfulness, begins with a celebration of the vine
 Written solely for strings, Vivaldi's masterpiece has somehow managed to stand the test of time without losing its freshness and vitality.
 
 ## Four Seasons – Winter
-### Concerto for Violin in F Minor Op. 8, No.4: Allegro
+**Concerto for Violin in F Minor Op. 8, No.4: Allegro**
 
 _1725, Chamber Music_
 
@@ -161,7 +161,7 @@ these, Vivaldi tells us, are the joys of winter, and they are graphically re-cre
 Written solely for strings, Vivaldi's masterpiece has somehow managed to stand the test of time without losing its freshness and vitality.
 
 ## Concerto for Flute and Strings in D Major
-### Concerto for Flute and Strings in D Major Op. 10, No. 3: Allegro
+**Concerto for Flute and Strings in D Major Op. 10, No. 3: Allegro**
 
 _1728, Concerti_
 
@@ -170,7 +170,7 @@ _1728, Concerti_
 Altogether Vivaldi composed thirteen flute concerti, the opus 10 set being written in 1728.  At the time, it created something of a small record, as it was the first ever publication of music composed for a solo flute accompanied by strings and there was no dedication on the title page, the implication being that Vivaldi had written them purely for pleasure.
 
 ## Concerto for Viola d'amore
-### Concerto for Viola d'amore RV 540
+**Concerto for Viola d'amore RV 540**
 
 _1740, Concerti, Orchestral_
 

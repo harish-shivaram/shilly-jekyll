@@ -66,6 +66,9 @@ collections:
   art:
     output: true
     permalink: /art/:title/
+  selfhosted:
+    output: true
+    permalink: /selfhosted/:title/
 
 defaults:
 - scope:
@@ -111,6 +114,13 @@ defaults:
     layout: post
     collabel: Blog
     colurl: /blog
+- scope:
+    type: selfhosted
+  values:
+    layout: page
+    collabel: Self-Hosted
+    colurl: /selfhosted
+    toc: true
 
 autopages:
   enabled: false
@@ -135,7 +145,7 @@ plugins:
 
 toc:
   min_level: 2
-  max_level: 2
+  max_level: 3
 
 # Pagination Settings
 pagination:

@@ -50,8 +50,7 @@ He wrote an astonishing 104 symphonies, 80 string quartets and numerous oratorio
 
 In addition there are piano, violin, cello and wind instrument concertos, instrumental works, piano sonatas, masses and a whole host of small-scale pieces for odd combinations of instruments.
 
-## Cello Concerto in C  Major
-### The Cello Concerto in C  Major
+## The Cello Concerto in C  Major
 
 _1763, Concerti, Orchestral_
 
@@ -59,8 +58,7 @@ _1763, Concerti, Orchestral_
 
 Composed in the earliest days of Haydn's associations with the Eszterházy family, this Cello Concerto in C Major would have been performed with a small orchestra consisting of possibly no more than fifteen members.
 
-## Cello Concerto in D Major
-### The Cello Concerto in D Major
+## The Cello Concerto in D Major
 
 _1763, Concerti, Orchestral_
 
@@ -69,7 +67,7 @@ _1763, Concerti, Orchestral_
 Composed in the earliest days of Haydn's associations with the Eszterházy family, this Cello Concerto in D Major would have been performed with a small orchestra consisting of possibly no more than fifteen members.
 
 ## String Quartet ('The Razor')
-### String Quartet ('The Razor'), Op. 55: 1st Movement
+**String Quartet ('The Razor'), Op. 55: 1st Movement**
 
 _1787, Chamber Music_
 
@@ -80,7 +78,7 @@ Of all Haydn's chamber music, the medium he best perfected was most definitely t
 'The Razor' is typical of the man's style, whilst the 'Emperor' is certainly one of his most charming quartets.
 
 ## Symphony No. 88
-### Symphony No. 88 in G Major
+**Symphony No. 88 in G Major**
 
 _1787, Symphonies, Orchestral_
 
@@ -91,7 +89,7 @@ Haydn wrote his eighty-eighth symphony for a violinist called Johann Peter Tost,
 It is a grand exercise in the use of as many musical devices that the composer was aware of: a particular stroke of genius is the way in which the trumpets and drums are silent in the first movement so as to create a huge impact on their entrance in the Largo of the second.
 
 ## The Lark
-### String Quartet Op. 64, No. 5 ('The Lark')
+**String Quartet Op. 64, No. 5 ('The Lark')**
 
 _1790, Chamber Music_
 
@@ -100,7 +98,7 @@ _1790, Chamber Music_
 Even though Haydn wrote over a hundred symphonies, his best medium was without doubt the string quartet;  indeed, 'The Lark' is one of his most famous. Haydn always believed that chamber music should be, first and foremost, fun to play. This is true of this work, being a lively piece that shows his mature style at full stretch.
 
 ## Surprise Symphony
-### Symphony No. 94 in G Major ('The Surprise')
+**Symphony No. 94 in G Major ('The Surprise')**
 
 _1792, Symphonies, Orchestral_
 
@@ -109,7 +107,7 @@ _1792, Symphonies, Orchestral_
 This particular symphony is more commonly referred to as 'The Surprise' symphony on account of the story that Haydn, fully aware that a long concert could send parts of the audience to sleep, threw in a loud chord during the second movement to wake up any dozers. Today, however, listeners would probably not notice the 'surprise', as it is quite tame compared with what occurs in more recent music, yet at the time it was considered to be rather daring and even 'wild'.
 
 ## Clock Symphony
-### Symphony No. 101 in D Major ('The Clock')
+**Symphony No. 101 in D Major ('The Clock')**
 
 _1794, Symphonies, Orchestral_
 
@@ -124,7 +122,7 @@ The first two movements were encored and the character that pervaded the whole c
 Set in the traditional four movements, it is the Andante (third movement), with its familiar tick-tock rhythm, that earned the 101st Symphony its nickname 'The Clock'. As a matter of interest, in Vienna in 1793 Haydn wrote twelve pieces for an elaborate musical clock owned by his patron Prince Eszterházy, of which one is incredibly similar to the Minuet of the Symphony that so enchanted the original London audience.
 
 ## Military Symphony
-### Symphony No. 100 in G Major ('Military'): Adagio
+**Symphony No. 100 in G Major ('Military'): Adagio**
 
 _1794, Symphonies, Orchestral_
 
@@ -135,7 +133,7 @@ When this symphony was first performed in 1794, the audiences found it brilliant
 Subtitled the 'Military', it has four movements that are both stirring and inspiring.
 
 ## Trumpet Concerto
-### Trumpet Concerto in E Flat Major
+**Trumpet Concerto in E Flat Major**
 
 _1796, Concerti, Orchestral_
 
@@ -146,7 +144,7 @@ Haydn's last and finest concerto was written as an experiment for a trumpet-play
 The concerto is still performed today to great acclaim.
 
 ## Emperor Quartet 
-### String Quartet No. 77 in C Major ('Emperor'): 1st Movement
+**String Quartet No. 77 in C Major ('Emperor'): 1st Movement**
 
 _1799, Chamber Music_
 
@@ -156,8 +154,7 @@ Of all Haydn's chamber music, the medium he best perfected was most definitely t
 
 The 'Emperor' is certainly one of his most delightful while 'The Razor' is typical of the man's style.
 
-## Creation
-### The Creation
+## The Creation
 
 _1801, Choral_
 
@@ -165,8 +162,7 @@ _1801, Choral_
 
 Haydn was never truly comfortable writing music for voices rather than instruments, and this has resulted in his choral work being witty, neat and ordered, rather than wild, reckless and passionate. The Creation is a good example of this, where the opening chorus 'The Heavens are Telling the Glory of God' seems to lack a cohesion of voices yet has a delightful Baroque/Classical splendour.
 
-## Seasons
-### The Seasons
+## The Seasons
 
 _1801, Choral_
 

@@ -43,7 +43,7 @@ Walton once said of himself that he was 'a classical composer with a strong feel
 His works are well worth exploring if you are a fan of British music in general.
 
 ## Façade
-### Façade: 'Popular Song'
+**Façade: 'Popular Song'**
 
 _1923, Chamber Music_
 

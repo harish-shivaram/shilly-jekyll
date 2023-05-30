@@ -45,7 +45,7 @@ He also used the saxophone to great effect – another instrument neglected by m
 Do give this music a try – it is terrific and would be a welcome addition to any classical collection.
 
 ## Peacock Variations
-### Variations on a Hungarian Folksong ('The Peacock')
+**Variations on a Hungarian Folksong ('The Peacock')**
 
 _Orchestral_
 
@@ -53,8 +53,7 @@ _Orchestral_
 
 Along with Bartók, Kodály (pronounced 'Kodai') was Hungary's finest twentieth-century interpreter of the country's traditional folk music. The Peacock Variations, though musically layered and textured, are still full of folk influences, such as the gypsy violin scales upon which the main melody is based.
 
-## Spinning Room
-### The Spinning Room
+## The Spinning Room
 
 _Opera_
 
