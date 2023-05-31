@@ -120,7 +120,6 @@ defaults:
     layout: page
     collabel: Self-Hosted
     colurl: /selfhosted
-    toc: true
 
 autopages:
   enabled: false

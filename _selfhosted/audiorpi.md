@@ -1,10 +1,12 @@
 ---
 title: An Audiophile's Raspberry
-image: /images/rpi/4004.jpg
-rpi: true
-layout: post
-excerpt: A Raspberry Pi is a perfect device to cobble together an excellent audiophile grade digital audio source. Some HAT's and a few custom-built audio distributions complete the package
+image: /images/selfhosted/audiorpi.jpg
+toc: true
+sequence: 5
+description: A Raspberry Pi is a perfect device to cobble together an excellent audiophile grade digital audio source. Some HAT's and a few custom-built audio distributions complete the package.
 ---
+
+## Disclaimer: "Audiophile"
 
 Honestly, a true blue audiophile isn't someone who appreciates good music. They are obsessed with the purity of sound and having incredibly expensive equipment, which they obsessively keep upgrading to the next greatest thing. They look on the digital music world with disdain, and swear by tube amplifiers and vinyl records.
 
