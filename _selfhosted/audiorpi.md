@@ -3,6 +3,7 @@ title: An Audiophile's Raspberry
 image: /images/selfhosted/audiorpi.jpg
 toc: true
 sequence: 5
+lastmod: 2023-05-28
 description: A Raspberry Pi is a perfect device to cobble together an excellent audiophile grade digital audio source. Some HAT's and a few custom-built audio distributions complete the package.
 ---
 

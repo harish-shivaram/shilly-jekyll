@@ -4,6 +4,7 @@ description: The domain name system... what it is, why we need it and how to go 
 lastmod: 2023-05-25
 image: /images/selfhosted/dns.jpg
 sequence: 2
+toc: true
 ---
 
 ## What is DNS?

@@ -3,6 +3,7 @@ title: Raspberry Pi Fascination
 description: The tiny, solid-state bit of circuitry can outperform an 80's super-computer... a credit-card sized Cray X-MP4
 image: /images/selfhosted/rpi.jpg
 sequence: 4
+lastmod: 2019-02-26
 ---
 
 I am a huge fan of these credit-card sized devices. I love the idea that this tiny, solid-state bit of circuitry can outperform an 80's super-computer. I am totally enamoured with how easy tinkering and tweaking is. I am absolutely thrilled with how easily they are available. But most of all, I am thoroughly enraptured by the vast ocean of applications for this magnificent piece of hardware.

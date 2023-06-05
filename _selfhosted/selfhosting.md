@@ -3,6 +3,8 @@ title: Why Self-Hosting?
 description: What self hosting is, and why would anyone ever want to do such a thing...
 image: /images/front/selfhosted.jpg
 sequence: 1
+lastmod: 2023-06-01
+toc: true
 ---
 
 ## The case for Self-Hosting
@@ -76,3 +78,17 @@ commands can pull it off.
 Once the base infrastructure is in place, there are several tools available to
 make the whole process painless and smooth for adding further services and
 capabilities.
+
+## Getting Started
+
+The best way to start is by setting up services to run within the home. The
+barrier to entry is low, and all of the effort and expenditure will when you
+actually start self-hosting over the internet. Having the services first run
+within the home network is like having a staging ground, or a sandbox, to
+identify what would work best to suit your needs, and what you would like have
+always accessible over your fingertips.
+
+Start with a simple SBC, and put some services on that to get going. There will
+be articles on the best options for the hosting computers, the best services to
+self host and how to go about all of this. Hopefully, the steps would be easy
+enough to follow to succesfully get to self-hosting...

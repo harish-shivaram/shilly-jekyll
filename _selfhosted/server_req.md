@@ -4,6 +4,7 @@ description: A personal server... and a great place to start self-hosting
 lastmod: 2023-05-26
 image: /images/selfhosted/hand-server.jpg
 sequence: 3
+toc: true
 ---
 
 Any computer can be re-purposed to perform the job of a Home Server. An old PC,
@@ -21,17 +22,20 @@ powering a CPU will burn out the power supply in a few months.
 PCs, and even mini-PCs also have large fans, which are mechanical components.
 Again, unless it is an fancy, expensive fan, failures are common when running
 continuously. This includes the CPU fans, especially the fans that are sold by
-the processor manufacturers along with the processor. Another, lesser issue
-with fans is the constant whine. Even if the fans are relatively silent, the
-sound will carry late at night, and would sound much louder. Not a desirable
-state.
+the processor manufacturers along with the processor.
+
+The other big pain-point with fans is the constant whine. Even if the fans are
+relatively silent, the sound will carry late at night, giving one the feeling
+that they are trying to sleep on a plane.  Not a desirable state.
 
 Single-board computers (SBCs) generally do not have fans, and do not generate
-much heat. If kept in a well ventilated area, they are ideal for running
-constantly. SBCs do not have built-in power supplies, but most vendors do sell
-a power supply separately. While the separate supply may not be much different
-from an after-market mobile phone charger, they are better at handling the
-strain of constant use.
+much heat. If kept in a well ventilated area with good heat-sinks, they are
+ideal for running constantly. SBCs do not have built-in power supplies, but
+most vendors do sell a power supply separately. While the separate supply may
+not be much different from an after-market mobile phone charger, they are
+better at handling the strain of constant use.
+
+Investing in a UPS is always worthwhile. They are quite cheap, and unobtrusive.
 
 ## Processor
 
@@ -115,8 +119,10 @@ Another point to keep in mind is that hard disks come in different grades.
  - "NAS" hard disks are much more reliable than desktop, and also fast at
    random access
  - "Server" hard disks are highly reliable, and fast at random access
- - "Archival" hard disks are highly reliable, but very slow to access
- - "Surveillance" hard disks are middling reliable, and slow to access.
+ - "Archival" hard disks are highly reliable, but very slow to access. They are
+   meant to used as backup devices.
+ - "Surveillance" hard disks are middling to poor reliability, and slow to
+   access.
 
 Hard disk vendors will generally indicate which grade a hard disk is. "NAS" or
 "Server" would be the ideal one to buy, but they can be expensive. Moreover,
@@ -139,3 +145,84 @@ The better option is to use USB hard disks which have their own power supply.
 These are generally marketed as desktop backup solutions, which means they
 generally have "archival" disks inside. This is not a bad thing, but just
 something to keep in mind.
+
+## Speed
+
+A faster processor is always great, but the processor is almost never the weak
+link. Beyond a point, the processor's capability is restrained by other
+factors.
+
+### Network speed
+
+When talking about networking, there are two forms that are generally used in
+home networking: **Wired** and **Wireless**.
+
+For **Wired**, When possible, always choose gigabit ethernet, or better. Some
+newer SBCs offer 2.5G ethernet. This standard is not very popular, and unless
+the switch / router connecting to the computer also supports this, the speed
+will negotiate to the least common option, which is gigabit ethernet. Avoid
+"fast" ethernet because, despite its name, it is only one-tenth the speed of
+Gigabit ethernet.
+
+Avoid **Wireless** entirely if possible. Wireless is a very finicky protocol
+for sustained data transfer speeds. There are too many variables, like antenna
+position, interference, and the presence of obstacles. Switching on a
+microwave oven will suddenly see speeds drop or disconnect entirely, even if
+the oven is nowhere near the endpoints!
+
+If **Wireless** is the only option, wireless AC is reasonably fast and
+widespread, though WiFi 6, or AX standard is also reasonably popular. It is,
+of course, mandatory that the access-point/router also support AX to reap the
+benefit of the newer standard.
+
+### Storage Connectivity
+
+We spoke about SSDs and HDDs earlier, but it is equally important how the
+storage connects to the computer.
+
+USB1.0 is about 1.5Mbps, and USB1.1 12Mbps. You will only find these in older
+hardware. Do not use these for storage connectivity under any circumstances.
+The ports are best reserved for keyboards/mice.
+
+Typically, external hard disks spin at 5400RPM, which allows them to operate
+up to 100 MB/s. The high speed 7200RPM disks put out about 125 MB/s.
+
+USB2.0 is also old, and rated at 480Mbps. In reality, this translates to about
+25MB/s with any hard disk.
+
+Most newer external hard disks come with a USB3.x interface, which is the
+newest standard. The real world speed of the interface is much higher than the
+hard disk itself, so the interface is not the bottleneck. Speeds of over 80
+MB/s are not unusual with USB3.0.
+
+If the computer offers the option, use a SATA interface for the hard disk.
+SATA is a purpose built interface for hard disks and SSDs, and offers much
+higher speeds than USB, which is a generic standard.
+
+The newest standard is M.2, which is a standard for both storage and
+networking, but the speeds it offers are even higher than SATA. If the options
+are available, select M.2 first, else SATA, and failing that USB3.
+
+One more note on USB. Multiple devices can be connected to a single port using
+a hub. First, ensure that the hub is also of the same type. If the port and
+hard disk are both USB3, but the hub is USB2, the overall speed is USB2.
+Second, hubs draw power, as do any devices connected to it. If the USB device
+is powered from the computer, it may help to have a powered hub.
+
+## To Sum Up...
+
+Bare minimum: We need something with...
+
+- A reasonably fast processor. 64-bit for sure, but ARM/x86 does not matter.
+- A good amount of memory. We could make do with 2GB, though. That would be the minimum
+- Doesn't need a fan. Or, if unavoidable, has a very quiet fan.
+- Ethernet. Always better than WiFi.
+- Storage. Any sort.   
+
+The ideal specification would, in addition, have:
+
+- 8GB+ of memory.
+- M.2 interface. SATA, if M.2 unavailable. USB3, if SATA unavailable.
+- SSD storage. Any sort. HDD for infrequent access, and huge volumes
+- A very good power supply solution.
+- Uninterrupted power.
