@@ -2,6 +2,7 @@
 title: Pride of Baghdad
 image: /images/comics/prideofbaghdad.jpg
 description: "Story is based on true events that occurred during the 2003 invasion of Iraq, where a pride of lions escaped from the Baghdad Zoo"
+lastmod: 2023-06-04
 ---
 
 Brian K. Vaughan shows us war from the perspective of a pride of lions who escaped from the Baghdad Zoo after a bombing raid in 2003. Questions of survival and the true meaning of freedom are examined and presented in a way that may make you reexamine your current definitions. 

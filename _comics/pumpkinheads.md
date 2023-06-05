@@ -2,6 +2,7 @@
 title: Pumpkinheads
 description: Tender and hilarious story about two irresistible teens discovering what it means to leave behind a place―and a person―with no regrets.
 image: /images/comics/pumpkinheads.jpg
+lastmod: 2023-06-02
 ---
 
 Deja and Josiah are seasonal best friends.
