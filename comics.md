@@ -6,5 +6,7 @@ pagination:
     enabled: true
     per_page: 9
     collection: comics
+    sort_field: lastmod
+    sort_reverse: true
 needmasonry: true
 ---
