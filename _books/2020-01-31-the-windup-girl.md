@@ -14,4 +14,4 @@ The solitary hold-out from the world-wide mayhem is Thailand, which is where the
 
 There are so many new concepts in the book like "Kink-Springs", the successor to batteries and motors. These springs are "wound" using beasts genetically designed for the purpose. The springs are then used to drive things like dirigibles, cars or even elevators.
 
-A spectacular book and a true-bluie science fiction which makes the reader wonder and think. A must read.
+A spectacular book and a true-blue science fiction which makes the reader wonder and think. A must read.
