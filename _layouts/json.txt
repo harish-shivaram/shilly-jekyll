@@ -1,0 +1,23 @@
+[
+  {% for coll in site.collections %}
+    {% for page in coll.docs %}
+	{
+		"id": "{{page.id}}",
+		"url": "{{page.url}}",
+		"title": "{{page.title}}",
+		"layout": "{{page.layout}}",
+		{% if page.description %}"description": {{page.description | jsonify }},{%endif%}
+		{% if page.author %}"author": "{{page.author}}",{%endif%}
+                {% if page.lastmod %}"lastmod": "{{ page.lastmod | date_to_xmlschema }}",{%endif%}
+		{% if page.date %} "date": "{{ page.date | date_to_xmlschema }}",{%endif%}
+		{% if page.born %}"born": {{page.born}},{%endif%}
+		{% if page.died %}"died": {{page.died}},{%endif%}
+		{% if page.image %}"image": "{{page.image}}",{%endif%}
+		{% if page.home %}"from": "{{page.home}}, {{page.country}}",{%endif%}
+		{% if page.schools %}"schools": "{{page.schools}}",{%endif%}
+		{% if page.gallery %}"paintings": [{% for pt in page.gallery %}"{{pt.title}}"{% unless forloop.last %},{%endunless%}{%endfor%}],{%endif%}
+		"content": {{page.content | strip_html | jsonify | replace: "\n", " " }}
+	}{% unless forloop.last %},{%endunless%}
+     {% endfor %}{% unless forloop.last %},{%endunless%}
+  {% endfor %}
+]
