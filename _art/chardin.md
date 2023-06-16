@@ -3,6 +3,7 @@ title: Jean Siméon Chardin
 born: 1699
 died: 1779
 image: /images/art/chardin_1.jpg
+lastmod: 2023-05-31
 gallery:
   - image: /images/art/chardin_1.jpg
     small: /images/art/small/chardin_1.jpg

@@ -3,6 +3,7 @@ title: Titian (Tiziano Vecelli)
 born: 1487
 died: 1576
 image: /images/art/titian_1.jpg
+lastmod: 2023-06-16
 gallery:
   - image: /images/art/titian_1.jpg
     small: /images/art/small/titian_1.jpg

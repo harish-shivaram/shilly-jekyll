@@ -3,6 +3,7 @@ title: Camille Pissarro
 born: 1830
 died: 1903
 image: /images/art/pissarro_1.jpg
+lastmod: 2023-06-02
 gallery:
   - image: /images/art/pissarro_1.jpg
     small: /images/art/small/pissarro_1.jpg
