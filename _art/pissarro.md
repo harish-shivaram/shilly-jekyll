@@ -61,8 +61,8 @@ shade in the open air. The official Salons consistently scorned and rejected
 their work because it was unconventional and appeared unfinished by the
 accepted standards, and from 1874 the Impressionists held their own independent
 exhibitions.  Pissarro was one of the founders of the movement. He was a little
-older than the others &mdash; [Monet](/art/monet), [Renoir](/art/renoir),
-[Degas](/art/degas) and [Cezanne](/art/cezanne) among them &mdash; and was
+older than the others &mdash; [Monet](/art/monet/), [Renoir](/art/renoir/),
+[Degas](/art/degas/) and [Cezanne](/art/cezanne/) among them &mdash; and was
 regarded almost as the honorary uncle of the group. He was a gentle man, full
 of warmth, enthusiasm and curiosity, and he believed in freedom and mild
 anarchy. He never compromised; nor did he ever attach blame in the frequent
@@ -84,10 +84,10 @@ be completely understood, and should work together so that the eye takes in the
 whole scene at once, as it does in life. He declared that nature was ‘always to
 be consulted’.
 
-[Cezanne](/art/cezanne) worked with Pissarro at Pontoise, and sketched him,
+[Cezanne](/art/cezanne/) worked with Pissarro at Pontoise, and sketched him,
 with his flowing beard, big hat and boots, a stick in his hand and his
 materials strapped to his back as he set off for a day’s painting in the
-country; and [Cezanne](/art/cezanne) said of him, ‘He of all painters most
+country; and [Cezanne](/art/cezanne/) said of him, ‘He of all painters most
 closely approached nature’. He painted the French country-side at every season
 of the year, from spring orchards to snow-bound winter landscapes, and
 demonstrates in all his work the intense joy he derived from it

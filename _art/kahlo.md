@@ -64,7 +64,7 @@ are the many surrealistic self-portraits in which she maintains a regal bearing
 even as she casts herself as a martyr to personal and physical
 suffering—anguishes rooted in a life of misfortunes that included contracting
 polio as a child, suffering a catastrophic injury as a teenager, and enduring a
-tumultuous marriage to fellow artist [Diego Rivera](/art/rivera).
+tumultuous marriage to fellow artist [Diego Rivera](/art/rivera/).
 
 She was born in Coyoacán in Mexico City and grew up at what was called “The
 Blue House”, or La Casa Azul, which was her family home. Kahlo suffered

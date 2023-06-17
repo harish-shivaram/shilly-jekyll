@@ -92,7 +92,7 @@ time, while remaining individual and becoming permanently identified with none.
 _Les Demoiselles d’ Avignon_, started when Picasso was only twenty-five, began
 a remarkable phase in his work. Artistic innovations do not come about in a
 vacuum : Picasso drew on the influence of African sculpture and the work of
-[Cezanne](/art/cezanne) and [Matisse](/art/matisse) in this painting, and it
+[Cezanne](/art/cezanne/) and [Matisse](/art/matisse/) in this painting, and it
 is therefore a meeting place for the traditions of primitive and contemporary
 art, disrupting both to create something new and disturbing. The harsh
 angularity and distortion of the almost naked figures, heralding the movement

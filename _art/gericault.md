@@ -31,8 +31,8 @@ after-effects of riding accidents. But in about twelve years he produced enough
 work to leave a substantial legacy of paintings when he died.
 
 He trained in the studios of two French painters, Carle Vernet and Guerin, but
-[Rubens](/art/rubens), [Michelangelo](/art/michelangelo),
-[Caravaggio](/art/caravaggio) and the Venetian painters were perhaps the
+[Rubens](/art/rubens/), [Michelangelo](/art/michelangelo/),
+[Caravaggio](/art/caravaggio/) and the Venetian painters were perhaps the
 strongest influences on his work. He developed a superb flair for composition
 and a dramatic style that are clearly displayed in _The Raft of the Medusa_.
 
@@ -57,9 +57,9 @@ seized with excitement and tried desperately to attract the ship’s attention,
 but others, if they were not already dead, were sunk in desolation and too weak
 to move. The subdued colours are sombre and expressive of the horror of the
 whole event. The sharply contrasting light and shade on the figures is a clear
-indication of the influence of [Caravaggio](/art/caravaggio), and their bodies
+indication of the influence of [Caravaggio](/art/caravaggio/), and their bodies
 are wonderfully taut and muscular, like those of
-[Michelangelo](/art/michelangelo).
+[Michelangelo](/art/michelangelo/).
 
 The composition is based on the tension between two diagonals: the raft itself
 and the movement of the figures take the eye inwards from the left, while the

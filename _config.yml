@@ -76,7 +76,7 @@ defaults:
   values:
     layout: page
     collabel: Comics
-    colurl: /comics
+    colurl: /comics/
 - scope:
     type: panorama
   values:
@@ -89,37 +89,37 @@ defaults:
     layout: artist
     needpopup: true
     collabel: Appreciating Art
-    colurl: /art
+    colurl: /art/
 - scope:
     type: classical
   values:
     needsortable: true
     collabel: Classical
-    colurl: /classical
+    colurl: /classical/
 - scope:
     type: books
   values:
     layout: post
     collabel: Books
-    colurl: /books
+    colurl: /books/
 - scope:
     type: trips
   values:
     layout: post
     collabel: Travelogues
-    colurl: /trips
+    colurl: /trips/
 - scope:
     type: posts
   values:
     layout: post
     collabel: Blog
-    colurl: /blog
+    colurl: /blog/
 - scope:
     type: selfhosted
   values:
     layout: page
     collabel: Self-Hosted
-    colurl: /selfhosted
+    colurl: /selfhosted/
 
 autopages:
   enabled: false

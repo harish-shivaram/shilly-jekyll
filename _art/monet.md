@@ -139,7 +139,7 @@ light, can modulate a subject through the entire spectrum.
 In spite of his destitute state, he more than anyone stuck to the ideals of
 Impressionism throughout his long life without deviating, and he was a great
 source of stimulation to others in the group in the face of poverty and endless
-criticism. [Renoir ](/art/renoir) said of him, ‘Without Monet, without my dear
+criticism. [Renoir](/art/renoir/) said of him, ‘Without Monet, without my dear
 Monet who gave us all courage, we would have given up.’ After about thirty
 years of struggle, their work began to be understood and appreciated ; and
 finally it has come to be valued as one of the most important movements, and

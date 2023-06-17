@@ -27,10 +27,10 @@ gallery:
     title: Judith and Her Maidservant with the head of Holofornes
 ---
 
-Artemisia Gentileschi's early education consisted entirely of painting; in
-fact she couldn't read or write until she was an adult. She studied initially
-with her painter father and in this way she met Caravaggio, whose chiaroscuro
-style impressed her so much that she was drawn to Baroque drama and
+Artemisia Gentileschi's early education consisted entirely of painting; in fact
+she couldn't read or write until she was an adult. She studied initially with
+her painter father and in this way she met [Caravaggio](/art/caravaggio/), whose
+chiaroscuro style impressed her so much that she was drawn to Baroque drama and
 expressiveness. She was her own model for her first version of _Susannah and
 the Elders_, painted when she was only seventeen.
 
@@ -56,7 +56,7 @@ her era.
 _Judith and Holofernes_ illustrates the decapitation of the Assyrian
 oppressor Holofernes by the Jewish heroine Judith. This is a powerful
 expression of the artist's own emotional turmoil. The realism and dramatic
-chiaroscuro easily match [Caravaggio](/art/caravaggio) or [Rubens](/art/rubens).
+chiaroscuro easily match [Caravaggio](/art/caravaggio/) or [Rubens](/art/rubens/).
 
 Gentileschi painted five other versions; it was a theme that particularly
 appealed to the Florentines who were often threatened by the more powerful

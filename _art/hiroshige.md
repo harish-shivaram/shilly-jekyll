@@ -73,7 +73,7 @@ are struggling home. Snow, rain or mist are favoured background conditions
 against which Hiroshige sets his travellers, often depicted crossing each
 others' paths, emphasizing the transience of existence.
 
-Working in the nineteenth century, Hiroshige and [Hokusai](/art/hokusai) each
+Working in the nineteenth century, Hiroshige and [Hokusai](/art/hokusai/) each
 preferred to creates landscapes rather than portraits of actors, wrestlers,
 poets and courtesans. Their innate love of the Japanese for all aspects of the
 natural world ensured that both artists had an enthusiastic following. Although
