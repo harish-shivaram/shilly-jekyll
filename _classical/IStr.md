@@ -9,6 +9,7 @@ home: Oranienbaum
 country: Russia
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/36.jpg
 ---
 
 ## Biography

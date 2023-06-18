@@ -9,6 +9,7 @@ home: Munich
 country: Germany
 schools: Romantic
 toc: true
+image: /images/classical/28.jpg
 ---
 
 ## Biography

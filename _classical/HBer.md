@@ -9,6 +9,7 @@ home: Is&#232;re
 country: France
 schools: Romantic, French
 toc: true
+image: /images/classical/08.jpg
 ---
 
 ## Biography

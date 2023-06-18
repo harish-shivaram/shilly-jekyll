@@ -9,6 +9,7 @@ home: Oldham
 country: England
 schools: Modern, English Music
 toc: true
+image: /images/classical/42.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Leipzig
 country: Germany
 schools: Romantic
 toc: true
+image: /images/classical/14.jpg
 ---
 
 ## Biography

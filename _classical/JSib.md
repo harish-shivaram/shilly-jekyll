@@ -9,6 +9,7 @@ home: Tavastehus
 country: Finland
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/29.jpg
 ---
 
 ## Biography

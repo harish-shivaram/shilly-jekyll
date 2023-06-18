@@ -9,6 +9,7 @@ home: Bergen
 country: Norway
 schools: Romantic, Nationalistic
 toc: true
+image: /images/classical/20.jpg
 ---
 
 ## Biography

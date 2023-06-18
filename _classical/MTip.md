@@ -9,6 +9,7 @@ home: London
 country: England
 schools: Modern, English Music
 toc: true
+image: /images/classical/43.jpg
 ---
 
 ## Biography

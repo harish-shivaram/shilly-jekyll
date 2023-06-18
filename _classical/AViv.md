@@ -9,6 +9,7 @@ home: Venice
 country: Italy
 schools: Baroque
 toc: true
+image: /images/classical/01.jpg
 ---
 
 ## Biography

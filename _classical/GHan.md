@@ -9,6 +9,7 @@ home: Halle
 country: Germany
 schools: Baroque
 toc: true
+image: /images/classical/03.jpg
 ---
 
 ## Biography

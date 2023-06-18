@@ -9,6 +9,7 @@ home: Nagyszentmiklos
 country: Hungary
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/34.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Bonn
 country: Germany
 schools: Classical
 toc: true
+image: /images/classical/06.jpg
 ---
 
 ## Biography

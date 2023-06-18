@@ -9,6 +9,7 @@ home: Lowestoft
 country: England
 schools: Modern, English Music
 toc: true
+image: /images/classical/45.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Kecskem&#233;t
 country: Hungary
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/35.jpg
 ---
 
 ## Biography

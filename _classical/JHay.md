@@ -9,6 +9,7 @@ home: Rohrau-on-the-Leitha
 country: Austria
 schools: Classical
 toc: true
+image: /images/classical/04.jpg
 ---
 
 ## Biography

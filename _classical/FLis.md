@@ -9,6 +9,7 @@ home: Sopron
 country: Hungary
 schools: Romantic
 toc: true
+image: /images/classical/13.jpg
 ---
 
 ## Biography

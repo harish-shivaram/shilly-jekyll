@@ -9,6 +9,7 @@ home: Oneg
 country: Russia
 schools: Romantic
 toc: true
+image: /images/classical/31.jpg
 ---
 
 ## Biography

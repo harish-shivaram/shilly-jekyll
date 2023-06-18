@@ -9,6 +9,7 @@ home: Warsaw
 country: Poland
 schools: Romantic
 toc: true
+image: /images/classical/11.jpg
 ---
 
 ## Biography

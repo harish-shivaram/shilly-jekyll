@@ -9,6 +9,7 @@ home: New York
 country: USA
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/41.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Hukvaldy
 country: Czechoslovakia
 schools: Romantic, Nationalistic
 toc: true
+image: /images/classical/23.jpg
 ---
 
 ## Biography

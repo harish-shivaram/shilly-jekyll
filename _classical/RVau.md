@@ -9,6 +9,7 @@ home: Down Ampney
 country: England
 schools: Modern, English Music
 toc: true
+image: /images/classical/30.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Broadheath
 country: England
 schools: Romantic, English Music
 toc: true
+image: /images/classical/24.jpg
 ---
 
 ## Biography

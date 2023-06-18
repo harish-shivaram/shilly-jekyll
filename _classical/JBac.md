@@ -9,6 +9,7 @@ home: Eisenach
 country: Germany
 schools: Baroque
 toc: true
+image: /images/classical/02.jpg
 ---
 
 ## Biography

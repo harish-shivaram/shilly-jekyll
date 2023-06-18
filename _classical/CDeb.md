@@ -9,6 +9,7 @@ home: Paris
 country: France
 schools: Romantic, French
 toc: true
+image: /images/classical/26.jpg
 ---
 
 ## Biography

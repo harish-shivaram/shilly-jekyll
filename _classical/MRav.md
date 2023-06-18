@@ -9,6 +9,7 @@ home: Ciboure
 country: France
 schools: Romantic, French Impressionist
 toc: true
+image: /images/classical/33.jpg
 ---
 
 ## Biography

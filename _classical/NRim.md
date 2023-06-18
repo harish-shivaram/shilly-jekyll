@@ -9,6 +9,7 @@ home: Novgorod
 country: Russia
 schools: Romantic, Nationalistic
 toc: true
+image: /images/classical/21.jpg
 ---
 
 ## Biography

@@ -9,6 +9,7 @@ home: Salzburg
 country: Austria
 schools: Classical
 toc: true
+image: /images/classical/05.jpg
 ---
 
 ## Biography

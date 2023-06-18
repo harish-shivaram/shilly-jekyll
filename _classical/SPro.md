@@ -9,6 +9,7 @@ home: Sontsovka
 country: Russia
 schools: Modern, Nationalistic
 toc: true
+image: /images/classical/39.jpg
 ---
 
 ## Biography

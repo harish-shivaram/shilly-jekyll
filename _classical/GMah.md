@@ -9,6 +9,7 @@ home: Bohemia
 country: Czechoslovakia
 schools: Romantic
 toc: true
+image: /images/classical/25.jpg
 ---
 
 ## Biography

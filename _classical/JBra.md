@@ -9,6 +9,7 @@ home: Hamburg
 country: Germany
 schools: Romantic
 toc: true
+image: /images/classical/16.jpg
 ---
 
 ## Biography

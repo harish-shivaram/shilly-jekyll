@@ -9,6 +9,7 @@ home: Bradford
 country: England
 schools: Romantic, English Music
 toc: true
+image: /images/classical/27.jpg
 ---
 
 ## Biography

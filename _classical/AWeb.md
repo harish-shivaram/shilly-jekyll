@@ -9,6 +9,7 @@ home: Vienna
 country: Austria
 schools: Modern, 2nd Viennese
 toc: true
+image: /images/classical/37.jpg
 ---
 
 ## Biography

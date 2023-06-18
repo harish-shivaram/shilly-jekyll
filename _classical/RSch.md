@@ -9,6 +9,7 @@ home: Zwickau
 country: Germany
 schools: Romantic
 toc: true
+image: /images/classical/12.jpg
 ---
 
 ## Biography

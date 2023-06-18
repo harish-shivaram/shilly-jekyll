@@ -9,6 +9,7 @@ home: Votkinsk
 country: Russia
 schools: Romantic
 toc: true
+image: /images/classical/18.jpg
 ---
 
 ## Biography

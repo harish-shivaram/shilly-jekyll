@@ -9,6 +9,7 @@ home: Vienna
 country: Austria
 schools: Classical
 toc: true
+image: /images/classical/09.jpg
 ---
 
 ## Biography

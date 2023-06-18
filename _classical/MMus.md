@@ -9,6 +9,7 @@ home: Karevo
 country: Russia
 schools: Romantic, Nationalistic
 toc: true
+image: /images/classical/17.jpg
 ---
 
 ## Biography
