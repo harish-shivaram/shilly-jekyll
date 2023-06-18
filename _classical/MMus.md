@@ -46,7 +46,7 @@ Mussorgsky wrote some wonderful songs during this period and completed his opera
 
 The first drafts of the opera were not very well received and Mussorgsky reworked it to the point where it is now a much respected full-length opera that is frequently performed all around the world.
 
-He had also struck up a friendship with another composer, Rimsky-Korsakov, with whom he later shared a flat and who also made some revisions to Boris Godunov, helping it achieve the popularity it deserves.
+He had also struck up a friendship with another composer, [Rimsky-Korsakov](/classical/NRim/), with whom he later shared a flat and who also made some revisions to Boris Godunov, helping it achieve the popularity it deserves.
 
 Mussorgsky's career from then on was a mixture of ups and downs, the ups being good short bursts of creative work and the downs dreadful binges of drinking, losing jobs and being unable to complete his work through the effects of the drink.
 
@@ -56,7 +56,7 @@ Much of Mussorgsky's music is worth exploring and, in addition to the famous Pic
 
 Many people found his style of orchestration rather austere and a number of composers since have reorchestrated his works with varying degrees of success.
 
-His close friend Rimsky-Korsakov has, of course, revamped the opera Boris Godunov and the famous Night on a Bare Mountain,  whilst Ravel has splendidly orchestrated Pictures at an Exhibition.
+His close friend [Rimsky-Korsakov](/classical/NRim/) has, of course, revamped the opera Boris Godunov and the famous Night on a Bare Mountain,  whilst Ravel has splendidly orchestrated Pictures at an Exhibition.
 
 One other very different version of this piece is that by the seventies pop group Emerson, Lake and Palmer, who made the music accessible to a much wider audience than before.
 
@@ -74,9 +74,9 @@ The Bare Mountain to which Mussorgsky referred is actually called Mount Triglav,
 
 Six years later, however, Mussorgsky had barely started his symphonic poem, yet managed to finish it that same year. 
 
-Unfortunately, the composer was prone to revising his works, or, to be more specific, having other people revise them. Consequently the work we know today as A Night on the Bare Mountain is, in fact, quite an overhauled version of the original (which is lost) by Mussorgsky's fellow Russian composer Rimsky-Korsakov, and is often referred to as a Rimsky–Mussorgsky work. 
+Unfortunately, the composer was prone to revising his works, or, to be more specific, having other people revise them. Consequently the work we know today as A Night on the Bare Mountain is, in fact, quite an overhauled version of the original (which is lost) by Mussorgsky's fellow Russian composer [Rimsky-Korsakov](/classical/NRim/), and is often referred to as a Rimsky–Mussorgsky work. 
 
-The music is broken up into the following sections as outlined by Rimsky-Korsakov: 
+The music is broken up into the following sections as outlined by [Rimsky-Korsakov](/classical/NRim/): 
 
 Subterranean sounds of supernatural voices – Appearance of the spirits, followed by that of Satan himself – Glorification of Satan and celebration of the Black Mass – The Sabbath revels – At the height of the orgies the bell of the village church, sounding in the distance, disperses the spirits of darkness – Daybreak.
 
@@ -88,7 +88,7 @@ _1869, Opera_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/UEBq-gsdI58'  allowfullscreen></iframe></div>
 
-This opera was originally written in the style of a historical pageant filled with bustling crowd-scenes rather than arias, but Mussorgsky soon found himself more interested in Tsar Boris – a man full of self-hatred and no self-esteem – to the point that work was revised (and re-orchestrated by Rimsky-Korsakov) to become a powerful and moving operatic study of the  man.
+This opera was originally written in the style of a historical pageant filled with bustling crowd-scenes rather than arias, but Mussorgsky soon found himself more interested in Tsar Boris – a man full of self-hatred and no self-esteem – to the point that work was revised (and re-orchestrated by [Rimsky-Korsakov](/classical//)) to become a powerful and moving operatic study of the  man.
 
 ## Pictures at an Exhibition
 

@@ -46,7 +46,7 @@ He developed syphilis in 1822, couldn't finish the illustrious Eighth Symphony, 
 
 However, during these last five or six years of ill health he wrote some of his finest and most well-loved works, including the 'Great' C major Symphony, the Octet in F (for string quintet, clarinet, bassoon and horn) and the song cycles Die schöne Müllerin, Schwanengesang and Die Winterreise.
 
-Although he'd been an extremely popular man he was quickly forgotten, and it is only in the last hundred years or so that both he and his work have been valued alongside the other great classical Viennese composers Mozart, Haydn and Beethoven.
+Although he'd been an extremely popular man he was quickly forgotten, and it is only in the last hundred years or so that both he and his work have been valued alongside the other great classical Viennese composers [Mozart](/classical/WMoz/), [Haydn](/classical/JHay/) and [Beethoven](/classical/LBee/).
 
 ## Symphony No. 5 in B Flat
 **Symphony No. 5 in B Flat: 1st Movement**
@@ -65,7 +65,7 @@ After his death, the manuscript of the symphony was lost and it was nearly forty
 
 The first movement (Allegro) begins pianissimo with a four-bar theme from the first violins before we are led gracefully into the bulk of the section, which has some wonderful dialogues between string choir and woodwinds. 
 
-The Andante con moto of the slow second movement is very much in the style of Mozart, as is the third (Allegro molto), which often reminds the listener of Mozart's great G Minor Symphony. 
+The Andante con moto of the slow second movement is very much in the style of [Mozart](/classical/WMoz/), as is the third (Allegro molto), which often reminds the listener of [Mozart](/classical/WMoz/)'s great G Minor Symphony. 
 
 In the finale (Allegro vivace) we are treated to a masterpiece of symphonic genius, with a grace and charm that is so well developed and natural in growth that the listener might forget to be impressed, surrendering to the spontaneous joy that Schubert had obviously felt himself.
 
@@ -118,7 +118,7 @@ _1824, Chamber Music_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ztYX3-yUO90'  allowfullscreen></iframe></div>
 
-Schubert was commissioned to write a chamber work modelled on Beethoven's Septet and, instead of tossing it off lightly, as one would with a commissioned work rather than an inspired one, he put all his energies into creating a serious piece.   His Octet is altogether a well-crafted piece of chamber music.
+Schubert was commissioned to write a chamber work modelled on [Beethoven](/classical/LBee/)'s Septet and, instead of tossing it off lightly, as one would with a commissioned work rather than an inspired one, he put all his energies into creating a serious piece.   His Octet is altogether a well-crafted piece of chamber music.
 
 ## String Quartet No. 13 in A Minor
 

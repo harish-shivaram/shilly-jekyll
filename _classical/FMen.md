@@ -20,7 +20,7 @@ Mendelssohn only lived for thirty-eight years, but during that short time he com
 
 Felix Mendelssohn was the son of a wealthy banker and received an extremely high-powered education from the very finest teachers in Paris and Berlin, including the poet Goethe.
 
-His mother, Lea, taught him the rudiments of music and he was soon hailed as being another Mozart.
+His mother, Lea, taught him the rudiments of music and he was soon hailed as being another [Mozart](/classical/WMoz/).
 
 The talent he demonstrated both on the piano and as a composer and improviser certainly invites comparison between the two.
 
@@ -30,7 +30,7 @@ Mendelssohn composed his now famous Octet for double string quartet at just sixt
 
 Not satisfied, however, with a career just as a composer, he studied philosophy at the University of Berlin and continued in his search for knowledge, all the while mixing in the highest academic and artistic circles.
 
-He became friends with the poet Heine, and later with other composers such as Chopin and Robert Schumann.
+He became friends with the poet Heine, and later with other composers such as [Chopin](/classical/FCho/) and [Robert Schumann](/classical/RSch/).
 
 He went to England in the spring of 1829 and Sir Walter Scott took him on a voyage to Scotland and the Hebrides, where he found the inspiration for the overture of the same name.
 
@@ -38,7 +38,7 @@ From this time he was composing some very fine music indeed and by 1833 he had c
 
 He was naturally prolific and his music has a youthful spontaneity and freshness about it quite unlike that of any other composer of his generation.
 
-Mendelssohn was also keen on conducting and travelled all over the world, working with many of the finest orchestras in performances of his own pieces and those of others that he admired, including Bach, Handel and Beethoven.
+Mendelssohn was also keen on conducting and travelled all over the world, working with many of the finest orchestras in performances of his own pieces and those of others that he admired, including [Bach](/classical/JBac/), [Handel](/classical/GHan/) and [Beethoven](/classical/LBee/).
 
 He got married whilst in France in 1837 to a beautiful young French girl, ten years his junior.
 
@@ -114,7 +114,7 @@ _1830, Symphonies, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/_HX_jF1_Tgc'  allowfullscreen></iframe></div>
 
-Mendelssohn was often criticised for being too happy and too rich, and many have wondered what kind of music he would have produced had he been a poor, tormented and passionate artist like Mozart or Berlioz.  However, his talent is undeniable, and his Italian Symphony is a masterpiece as well as being, according to the composer himself ' . . . the jolliest piece I have ever done'.  
+Mendelssohn was often criticised for being too happy and too rich, and many have wondered what kind of music he would have produced had he been a poor, tormented and passionate artist like [Mozart](/classical/WMoz/) or [Berlioz](/classical/HBer/).  However, his talent is undeniable, and his Italian Symphony is a masterpiece as well as being, according to the composer himself ' . . . the jolliest piece I have ever done'.  
 
 In 1830 the twenty-one year old Mendelssohn travelled into Italy and found the country instantly inspiring.  In letters home he said that he felt like a young prince making his entry into a country full of festive air, and if the listener retains this notion while listening to the symphony he will agree that it is truly reflected in the music.
 
@@ -168,7 +168,7 @@ _1846, Choral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/iBMTzryAnrk'  allowfullscreen></iframe></div>
 
-A dramatic oratorio in the style of Handel, Elijah tells the story of the prophet of the same name taken from the Old Testament.  The work is full of powerful choruses.
+A dramatic oratorio in the style of [Handel](/classical/GHan/), Elijah tells the story of the prophet of the same name taken from the Old Testament.  The work is full of powerful choruses.
 
 ## Songs without Words:  'Spring Song'
 **Songs without Words No. 6: 'Spring Song'**

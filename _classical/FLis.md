@@ -16,7 +16,7 @@ toc: true
 ![Franz Liszt](/images/classical/13.jpg){:.image .right}
 Franz Liszt was universally renowned for being the most gifted pianist in the world, and his awesome technique led him to write fiendishly difficult music.
 
-Chopin was, it appears, quite disparaging of Liszt's talents, and is quoted as saying that 'he is an excellent binder who puts other people's works between the covers'.
+[Chopin](/classical/FCho/) was, it appears, quite disparaging of Liszt's talents, and is quoted as saying that 'he is an excellent binder who puts other people's works between the covers'.
 
 There is an element of truth in this remark, as Liszt was a prodigious arranger of other composer's works – eventually amounting to some nine hundred transcriptions.
 
@@ -28,13 +28,13 @@ The story of Liszt's life makes very interesting reading.
 
 One of the themes that keeps recurring in all the history books is that he was blessed with remarkable sexual athleticism.
 
-He lived for a long time with a Countess who was the mother of his children, one of whom later went on to marry the celebrated opera composer Richard Wagner.
+He lived for a long time with a Countess who was the mother of his children, one of whom later went on to marry the celebrated opera composer [Richard Wagner](/classical/RWag/).
 
 Liszt had a following all over Europe which gave him the sort of adulation and fanaticism accorded to the pop stars of the 1960s, and tales of his sexual exploits are rife.
 
-When he was just eleven years old the family moved to Vienna, where he was placed with two of the finest tutors of the day: Czerny for lessons in piano and Mozart's rival Salieri for composition.
+When he was just eleven years old the family moved to Vienna, where he was placed with two of the finest tutors of the day: Czerny for lessons in piano and [Mozart](/classical/Moz/)'s rival Salieri for composition.
 
-As a youngster Liszt gave successful concerts in Vienna, and his talent and work was admired by Beethoven and Schubert, amongst others, who agreed with the popular notion that he was the young prodigy following in the footsteps of Mozart – quite an accolade!
+As a youngster Liszt gave successful concerts in Vienna, and his talent and work was admired by [Beethoven](/classical/LBee/) and [Schubert](/classical/FSch/), amongst others, who agreed with the popular notion that he was the young prodigy following in the footsteps of [Mozart](/classical/WMoz/) – quite an accolade!
 
 Liszt was constantly in demand as a concert pianist and he spent many years travelling around Europe, delighting audiences wherever he went.
 
@@ -64,11 +64,11 @@ Liszt then became heavily involved with the church again and even went as far as
 
 However, he never actually became a priest and spent his last years giving master classes on the piano and advising and teaching the up and coming composers of the day, who included such people as Borodin, Fauré, Saint-Saëns and Debussy.
 
-Liszt had a greater talent for writing for the orchestra than Chopin and he was the first to develop the symphonic poem – an extended one-movement piece of music depicting a story or a painting, for example.
+Liszt had a greater talent for writing for the orchestra than [Chopin](/classical/FCho/) and he was the first to develop the symphonic poem – an extended one-movement piece of music depicting a story or a painting, for example.
 
 He was also the first to give a complete concert of solo piano music – now called a piano recital.
 
-He was quite rightly hailed as being one of the finest keyboard virtuosi ever to have lived, not only performing his own works but also pioneering some of the great works of his predecessors Bach, Beethoven and Schubert.
+He was quite rightly hailed as being one of the finest keyboard virtuosi ever to have lived, not only performing his own works but also pioneering some of the great works of his predecessors [Bach](/classical/JBac/), [Beethoven](/classical/LBee/) and [Schubert](/classical/FSch/).
 
 ## Piano Concerto No. 1
 **Piano Concerto No. 1 in E Flat Major: Allegro maestoso**
@@ -95,4 +95,4 @@ _1858, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/uNi-_0kqpdE'  allowfullscreen></iframe></div>
 
-Liszt, along with Bartók, has long been credited with the rediscovery of Hungarian folk music, especially when he wrote his nineteen Hungarian Rhapsodies.  These seem to capture perfectly the Gypsy melodies and rhythms with which the composer was so enamoured.
+Liszt, along with [Bartók](/classical/BBar/), has long been credited with the rediscovery of Hungarian folk music, especially when he wrote his nineteen Hungarian Rhapsodies.  These seem to capture perfectly the Gypsy melodies and rhythms with which the composer was so enamoured.

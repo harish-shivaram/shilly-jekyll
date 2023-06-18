@@ -26,7 +26,7 @@ He was a master of orchestration and his music never fails to conjure up vivid i
 
 Much of the music is deemed to be programmatic – musical representation of a picture, a poem, a story – and obvious examples are to be found in La Mer and Nuages, where the music is unmistakably conjuring up images of the sea and of clouds sweeping across the sky.
 
-Debussy loved the music of Wagner and so it is curious that this did not inspire him to write more than a couple of operatic works – of which 'Pélleas et Mélisande' is the most famous.
+Debussy loved the music of [Wagner](/classical/RWag/) and so it is curious that this did not inspire him to write more than a couple of operatic works – of which 'Pélleas et Mélisande' is the most famous.
 
 Debussy is best known for his wonderful orchestral works, the piano music and superb collections of songs.
 

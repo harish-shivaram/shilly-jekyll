@@ -20,7 +20,7 @@ This is due to a number of reasons, perhaps the first of which is that it is by 
 
 Tippett writes in a style all of his own, often using flourishes of notes that can sound cluttered and clumsy in the wrong hands.
 
-When performed well, however, it can sound extremely atmospheric and inspired, having an intensity not dissimilar to the music of Benjamin Britten.
+When performed well, however, it can sound extremely atmospheric and inspired, having an intensity not dissimilar to the music of [Benjamin Britten](/classical//).
 
 Tippett was born in London but spent much of his early years abroad, as his family lived for long periods in the south of France, in Corsica and in Florence.
 

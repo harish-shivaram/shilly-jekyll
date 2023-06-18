@@ -14,7 +14,7 @@ toc: true
 ## Biography
 
 ![Joseph Haydn](/images/classical/04.jpg){:.image .right}
-Unlike Mozart, Haydn did not come from a musical background.
+Unlike [Mozart](/classical/WMoz/), Haydn did not come from a musical background.
 
 He was taught to read music by a cousin and joined the choir of St Stephen's Cathedral in Vienna, from which he was dismissed at the age of sixteen.
 
@@ -36,13 +36,13 @@ Haydn was very loyal to his employer, possibly to the detriment of his career, i
 
 However, after his period of employment with the Esterházys ended, he went to London at the invitation of the famous violinist-impresario Salomon and this was a great success.
 
-Haydn became friendly with the royal family, his lifestyle was lavish and he had a most comfortable existence – unlike Mozart!  This disparity is most clearly reflected when comparing the music of the two composers.
+Haydn became friendly with the royal family, his lifestyle was lavish and he had a most comfortable existence – unlike [Mozart](/classical/WMoz/)!  This disparity is most clearly reflected when comparing the music of the two composers.
 
-Haydn's is generally less emotionally charged and often has a happier quality to it, whereas with Mozart there's often an inner sadness and poignancy showing through.
+Haydn's is generally less emotionally charged and often has a happier quality to it, whereas with [Mozart](/classical/WMoz/) there's often an inner sadness and poignancy showing through.
 
-Haydn was writing at the time when Mozart was at his best, and the two held each other in high regard, occasionally even performing together.
+Haydn was writing at the time when [Mozart](/classical/WMoz/) was at his best, and the two held each other in high regard, occasionally even performing together.
 
-In fact there is a famous story of a conversation that Haydn had with Mozart's father during which Haydn acclaimed Mozart as being the 'greatest composer I know, personally or by reputation'.
+In fact there is a famous story of a conversation that Haydn had with [Mozart](/classical/WMoz/)'s father during which Haydn acclaimed [Mozart](/classical/WMoz/) as being the 'greatest composer I know, personally or by reputation'.
 
 Haydn's music played a significant role in the long-term development of classical music, particularly in the fields of the symphony, the oratorio and the string quartet.
 
@@ -73,7 +73,7 @@ _1787, Chamber Music_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/TPBk6rKwxIY'  allowfullscreen></iframe></div>
 
-Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including Mozart – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
+Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including [Mozart](/classical/WMoz/) – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
 
 'The Razor' is typical of the man's style, whilst the 'Emperor' is certainly one of his most charming quartets.
 
@@ -150,7 +150,7 @@ _1799, Chamber Music_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/8mdSch6oAlA'  allowfullscreen></iframe></div>
 
-Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including Mozart – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
+Of all Haydn's chamber music, the medium he best perfected was most definitely the string quartet, and he is effectively credited with having invented the form. With the emphasis on the fact that chamber music should be fun to play (after all, Haydn used to sit with friends – including [Mozart](/classical/WMoz/) – and play quartets for hours!), Haydn's quartets are delightful yet civilised.
 
 The 'Emperor' is certainly one of his most delightful while 'The Razor' is typical of the man's style.
 

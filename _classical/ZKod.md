@@ -14,17 +14,17 @@ toc: true
 ## Biography
 
 ![Zoltán Kodály](/images/classical/35.jpg){:.image .right}
-Kodály was almost an exact contemporary of his compatriot Bartók, and in many ways their lives and music show a number of similarities.
+Kodály was almost an exact contemporary of his compatriot [Bartók](/classical/BBar/), and in many ways their lives and music show a number of similarities.
 
-They worked very closely together on their collections of folk music and, like Bartók, Kodály incorporated many of these themes and influences in his works.
+They worked very closely together on their collections of folk music and, like [Bartók](/classical/BBar/), Kodály incorporated many of these themes and influences in his works.
 
 Kodály had an unsettled childhood, being moved around by his family, until at the age of eight he went to the Budapest Academy to study music.
 
 He was an outstanding student and his early compositions show a distinct reverence of Brahms, whose music he loved.
 
-Later on, following the close association with Bartók and the folk music collection, his own music became altogether more Hungarian in style, and his first really great work came in 1925 with Suite from the opera Háry János, followed in 1933 by the Dances from Galánta.
+Later on, following the close association with [Bartók](/classical/BBar/) and the folk music collection, his own music became altogether more Hungarian in style, and his first really great work came in 1925 with Suite from the opera Háry János, followed in 1933 by the Dances from Galánta.
 
-Kodaly loved travelling and was a frequent visitor to Europe and the United States, all the while maintaining an active stance as a highly respected professor of music at the Academy in Budapest.
+Kodály loved travelling and was a frequent visitor to Europe and the United States, all the while maintaining an active stance as a highly respected professor of music at the Academy in Budapest.
 
 However, just before the Second World War he resigned from his job, having earned the reputation of being the most influential teacher ever to have lived in Hungary.
 
@@ -51,7 +51,7 @@ _Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ot8P5sUQ96Q'  allowfullscreen></iframe></div>
 
-Along with Bartók, Kodály (pronounced 'Kodai') was Hungary's finest twentieth-century interpreter of the country's traditional folk music. The Peacock Variations, though musically layered and textured, are still full of folk influences, such as the gypsy violin scales upon which the main melody is based.
+Along with [Bartók](/classical/BBar/), Kodály (pronounced 'Kodai') was Hungary's finest twentieth-century interpreter of the country's traditional folk music. The Peacock Variations, though musically layered and textured, are still full of folk influences, such as the gypsy violin scales upon which the main melody is based.
 
 ## The Spinning Room
 

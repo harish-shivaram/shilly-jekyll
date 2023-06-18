@@ -20,7 +20,7 @@ He spent much of his life in London and lived in a beautiful house in Brook Stre
 
 In 1727 he applied for British citizenship, which was immediately granted, and Handel assumed the role of composer of music for royal occasions.
 
-This led to his writing four fantastic anthems for the coronation of King George ll, perhaps the most famous of which is 'Zadok the Priest', which has been performed at nearly every British coronation since.
+This led to his writing four fantastic anthems for the coronation of King George II, perhaps the most famous of which is 'Zadok the Priest', which has been performed at nearly every British coronation since.
 
 His music is wonderfully melodic and holds a unique place in the repertoire of the Baroque composers.
 
@@ -132,7 +132,7 @@ These lines, quoted from the Daily Courant of 19 July 19 1717, fairly constitute
 
 Quite simply, the music is a collection of twenty to twenty-two pieces grouped into three different suites – though we do not know the order of the pieces decided by the composer himself, so this is largely left up to the performers.
 
-The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes and suchlike which serve as a wonderful Baroque 'buffet' to the listener and are close to the spirit of the Bach suites.  It is a light and untaxing collection. 
+The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes and suchlike which serve as a wonderful Baroque 'buffet' to the listener and are close to the spirit of the [Bach](/classical/JBac/) suites.  It is a light and untaxing collection. 
 
 The following G Major/G Minor Suite is far more intimate and delicate, creating an air of a relaxed summer evening. It has an 'aristocratic' air that contrasts with the frivolity of the first set yet leads us nicely to the final D Major Suite, which returns, stronger than ever, to a mood of majestic glory and jubilation that has made for the work's tireless success.
 
@@ -149,7 +149,7 @@ These lines, quoted from the Daily Courant of 19 July 1717, fairly constitute th
 
 Quite simply, the music is a collection of twenty to twenty-two pieces grouped into three different suites – though we do not know the order of the pieces decided by the composer himself, so this is largely left up to the performers.
 
-The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes and suchlike which serve as a wonderful Baroque 'buffet' to the listener and are close to the spirit of the Bach Suites.  It is a light and untaxing collection.
+The first suite, in F Major, is a collection of Allegros, Andantes, Hornpipes and suchlike which serve as a wonderful Baroque 'buffet' to the listener and are close to the spirit of the [Bach](/classical/JBac/) Suites.  It is a light and untaxing collection.
 
 ## Water Music - Suite 2
 **Water Music - Suite 2: Andante**
@@ -223,7 +223,7 @@ _1739, Concerti, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eqksy-991sI'  allowfullscreen></iframe></div>
 
-Together with Bach's 'Brandenburg' concertos, these twelve Concerti Grossi represent the peak of late Baroque orchestral writing and, amazingly, were composed between 29 September and 30 October 1739.  Here Handel uses the Baroque technique of matching a small orchestra, or 'concertino', against a larger one, known as a 'concerto grosso'.
+Together with [Bach](/classical/JBac/)'s 'Brandenburg' concertos, these twelve Concerti Grossi represent the peak of late Baroque orchestral writing and, amazingly, were composed between 29 September and 30 October 1739.  Here Handel uses the Baroque technique of matching a small orchestra, or 'concertino', against a larger one, known as a 'concerto grosso'.
 
 These twelve works have become as synonymous with Handel as his Water Music or his Royal Fireworks.
 

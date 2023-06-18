@@ -28,7 +28,7 @@ He showed enormous promise as a musician and became the organist of the Gymnasiu
 
 He was, in fact, offered a place at the celebrated Vienna Conservatoire, but turned this down in order to follow his first love, Hungarian folk music.
 
-In 1905 Bartók teamed up with Kodály to carry out an in-depth survey of folk music from many countries, including their own, and this provided the main creative influence on the material that each used in their compositions thereafter.
+In 1905 Bartók teamed up with [Kodály](/classical/ZKod/) to carry out an in-depth survey of folk music from many countries, including their own, and this provided the main creative influence on the material that each used in their compositions thereafter.
 
 A few years later Bartók accepted a position as a professor at the Academy where he had himself been a student.
 
@@ -76,7 +76,7 @@ _1923, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/nFPdmJof41A'  allowfullscreen></iframe></div>
 
-In 1923 Bartók (along with Kodály and Dohnányi) was commissioned to write a work to celebrate the fiftieth anniversary of Budapest, the capital city (the city having previously been three separate towns).  As in much of his work, Bartók drew on the peasant heritage and folk roots of his country to produce a suite of delightful nationalistic dance tunes.
+In 1923 Bartók (along with [Kodály](/classical/ZKod/) and Dohnányi) was commissioned to write a work to celebrate the fiftieth anniversary of Budapest, the capital city (the city having previously been three separate towns).  As in much of his work, Bartók drew on the peasant heritage and folk roots of his country to produce a suite of delightful nationalistic dance tunes.
 
 ## Music for Strings, Percussion and Celesta
 **Music for Strings, Percussion and Celesta: 4th Movement**
@@ -99,7 +99,7 @@ _1939, Chamber Music_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0gRTE0SKQI0'  allowfullscreen></iframe></div>
 
-Many people have said that Bartók's string quartets are some of the finest written since those of Beethoven, and they are certainly a thorny and compelling set. No. 1 is almost always likened to Debussy's work, while the second is the traditional Bartók in fierce folk-music mode. Numbers 3 and 4 are a little gritty, yet perfect for the true fan of the composer. The fifth is light-hearted and cheerful, and the sixth (possibly the best) has all its four movements linked by a sad folk-like melody.
+Many people have said that Bartók's string quartets are some of the finest written since those of [Beethoven](/classical/LBee/), and they are certainly a thorny and compelling set. No. 1 is almost always likened to Debussy's work, while the second is the traditional Bartók in fierce folk-music mode. Numbers 3 and 4 are a little gritty, yet perfect for the true fan of the composer. The fifth is light-hearted and cheerful, and the sixth (possibly the best) has all its four movements linked by a sad folk-like melody.
 
 ## Concerto for Orchestra
 **Concerto for Orchestra: Introduction**
@@ -122,7 +122,7 @@ _1945, Concerti, Orchestral_
 
 Bartók's Third Piano Concerto was his last completed work. On the evening of the final day he spent in his small New York apartment, a fellow Hungarian friend found him feverishly writing out the last movement. Only seventeen or eighteen bars were left to be completed when he was taken to hospital the next morning, but four days later he was dead.
 
-During the last years of his life, Bartók and his wife were barely scraping a living in America even though he practically worked himself to death, and they seem to have survived on gifts and acts of generosity from the friends they made in New York. When Bartók died in September 1945, at no time had his income exceeded $4,000 which, though an apparently large sum of money, could not support the ill composer and his family. However, some time later his works were bringing his family $100,000 a year. Like Mozart, Bartók always seemed to find himself having to make ends meet and therefore having to write music 'to order' rather than from pure inspiration.
+During the last years of his life, Bartók and his wife were barely scraping a living in America even though he practically worked himself to death, and they seem to have survived on gifts and acts of generosity from the friends they made in New York. When Bartók died in September 1945, at no time had his income exceeded $4,000 which, though an apparently large sum of money, could not support the ill composer and his family. However, some time later his works were bringing his family $100,000 a year. Like [Mozart](/classical/WMoz/), Bartók always seemed to find himself having to make ends meet and therefore having to write music 'to order' rather than from pure inspiration.
 
 The same friend who took Bartók to hospital also finished off the concerto, being familiar with the composer's shorthand. It was first performed in February 1946 and surprised audiences with its uncharacteristic charm and tranquillity.
 

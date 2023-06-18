@@ -18,21 +18,21 @@ Dvorák is the foremost Czech composer.
 
 His music ranks alongside that of all the great writers of the nineteenth century, being performed by orchestras in concert halls all over the world.
 
-He was definitely a composer's composer: Tchaikovsky was a friend and admirer and Brahms was once moved to write, 'I should be glad if something occurred to me as a main idea that occurs to Dvorak only by the way!'.
+He was definitely a composer's composer: [Tchaikovsky](/classical/PTch/) was a friend and admirer and [Brahms](/classical/JBra/) was once moved to write, 'I should be glad if something occurred to me as a main idea that occurs to Dvorak only by the way!'.
 
 Dvorák had a very special talent for writing beautiful tunes, and his works are therefore littered with great melodies that sound so spontaneous you can't help but have them ringing in your ears long after the music has stopped.
 
 He started music at a very early age and, like all the other great composers, showed enormous promise straight away.
 
-He found jobs as a viola player in various orchestras, notably the Czech National Opera Orchestra, and was often conducted by Smetana, one of his heroes.
+He found jobs as a viola player in various orchestras, notably the Czech National Opera Orchestra, and was often conducted by [Smetana](/classical/BSme/), one of his heroes.
 
-It was here that he got his own first inspirations to write opera, and working alongside Smetana was undoubtedly of great benefit.
+It was here that he got his own first inspirations to write opera, and working alongside [Smetana](/classical/BSme/) was undoubtedly of great benefit.
 
-He was also obsessed with the works of Wagner and, having made contact with the maestro, is reputed to have attended every single performance of Wagner's work at the German Theatre in Prague.
+He was also obsessed with the works of [Wagner](/classical/RWag/) and, having made contact with the maestro, is reputed to have attended every single performance of [Wagner](/classical/RWag/)'s work at the German Theatre in Prague.
 
 His own forays into the world of composing were not received with the wildest enthusiasm, but this did not deter him and he continued to write symphonies, string quartets and song cycles until, in the mid-1870s, no one could ignore him any longer.
 
-Brahms had long championed his works and helped Dvorák's career by getting him a publishing deal.
+[Brahms](/classical/JBra/) had long championed his works and helped Dvorák's career by getting him a publishing deal.
 
 Dvorák had already won the Austrian State Prize four years running and finally made his mark with works such as the Serenade for Strings and the now immensely popular Slavonic Dances.
 
@@ -95,7 +95,7 @@ _1885, Symphonies, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/wHnBrYtoICg'  allowfullscreen></iframe></div>
 
-Dvorák's Symphony No. 7 was one of the most important he ever wrote – at least, according to him – for in June 1884 he had been made an honorary member of the London Philharmonic Society, and furthermore he had recently been completely overwhelmed by Brahms's Third Symphony and wished to produce something of equal stature.  The LPS invited him to write a work for  them and he duly obliged, producing a symphony that is possibly eclipsed only by his 'New World' Symphony (No. 9).
+Dvorák's Symphony No. 7 was one of the most important he ever wrote – at least, according to him – for in June 1884 he had been made an honorary member of the London Philharmonic Society, and furthermore he had recently been completely overwhelmed by [Brahms](/classical/JBra/)'s Third Symphony and wished to produce something of equal stature.  The LPS invited him to write a work for  them and he duly obliged, producing a symphony that is possibly eclipsed only by his 'New World' Symphony (No. 9).
 
 ## Piano Quintet in A
 **Piano Quintet in A Op. 81**
@@ -122,7 +122,7 @@ _1894, Concerti, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/fF9zI33Oass'  allowfullscreen></iframe></div>
 
-Dvorák's cello concerto was the last thing he wrote while working in America: he began it in New York in November 1894 and finished it three months later.  It was a stunning piece, and when Brahms first read the music he exclaimed:
+Dvorák's cello concerto was the last thing he wrote while working in America: he began it in New York in November 1894 and finished it three months later.  It was a stunning piece, and when [Brahms](/classical/JBra/) first read the music he exclaimed:
 
 'Why on earth didn't I know that it was possible to write a cello concerto like this? If I had only known, I would have written one long ago!'
 

@@ -22,7 +22,7 @@ Although he was encouraged in music as a boy and showed considerable talent, his
 
 It did not take long, however, for Igor Stravinsky to make his own mind up and decide that he was going to be a composer.
 
-He organised private lessons in composition with Rimsky-Korsakov, who had also been Prokofiev's tutor, and when his father died a few years later young Igor went all out to make his mark as a major figure in the world of music.
+He organised private lessons in composition with [Rimsky-Korsakov](/classical/NRim/), who had also been [Prokofiev](/classical/SPro/)'s tutor, and when his father died a few years later young Igor went all out to make his mark as a major figure in the world of music.
 
 His early orchestral work Fireworks was heard by Diaghilev, who was planning a series of Russian operas and ballets to be staged in Paris in 1909.
 
@@ -107,7 +107,7 @@ _1911, Ballet_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/hX7aSsic7eM'  allowfullscreen></iframe></div>
 
-'Petrushka' is the second of Stravinsky's three great ballets and was composed almost directly after 'The Firebird', yet is a marked contrast to it.  In 'The Firebird' we can hear how Stravinsky could use the orchestra to weave musical colour into a rich tapestry – almost a reminder that he was once a pupil of the great Rimsky-Korsakov.  With 'Petrushka', however, we are met with harsh, grating sounds. Grotesque action from the dancers is matched by grotesque music.
+'Petrushka' is the second of Stravinsky's three great ballets and was composed almost directly after 'The Firebird', yet is a marked contrast to it.  In 'The Firebird' we can hear how Stravinsky could use the orchestra to weave musical colour into a rich tapestry – almost a reminder that he was once a pupil of the great [Rimsky-Korsakov](/classical/NRim/).  With 'Petrushka', however, we are met with harsh, grating sounds. Grotesque action from the dancers is matched by grotesque music.
 
 During 1910, while staying by Lake Geneva, Stravinsky had a day-dream of a puppet who, having come to life, was deliberately annoying an orchestra by crashing about on a piano while the orchestra was fighting back with loud trumpet blasts.  He could not think what to do with this idea, until 
 
@@ -232,4 +232,4 @@ _1951, Opera_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/ycx7CAe6t_Y'  allowfullscreen></iframe></div>
 
-Written as a musical homage to Mozart, one of Stravinsky's heroes, this opera is the story of a young man who falls into the hands of the devil and is saved from eternal suffering and torture only by the devotion and love of his betrothed.
+Written as a musical homage to [Mozart](/classical/WMoz/), one of Stravinsky's heroes, this opera is the story of a young man who falls into the hands of the devil and is saved from eternal suffering and torture only by the devotion and love of his betrothed.

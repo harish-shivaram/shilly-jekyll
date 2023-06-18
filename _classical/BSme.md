@@ -14,7 +14,7 @@ toc: true
 ## Biography
 
 ![Bedrich Smetana](/images/classical/15.jpg){:.image .right}
-Like Beethoven, poor old Smetana was deaf for much of his life and for his last few years he was absolutely stone deaf, having no sense of hearing whatsoever.
+Like [Beethoven](/classical/LBee/), poor old Smetana was deaf for much of his life and for his last few years he was absolutely stone deaf, having no sense of hearing whatsoever.
 
 Tinnitus, a common complaint these days for people who have subjected their ears to sustained loud music, was also another of Smetana's afflictions and again, like Beethoven, he was troubled by a constant high-pitched whining noise incessantly ringing in his head.
 
@@ -26,13 +26,13 @@ Smetana is known as the 'father' of Czech music and he came from an intensely mu
 
 There's a famous story that he took part in a performance of a Haydn string quartet at just five years of age and gave his first piano recital just a year later!
 
-He was an ambitious but lazy young man and one good example of his desire to be famous is to be found in a now famous entry in his diary that boldly stated: 'I wish to become a Mozart in composition and a Liszt in technique'.
+He was an ambitious but lazy young man and one good example of his desire to be famous is to be found in a now famous entry in his diary that boldly stated: 'I wish to become a [Mozart](/classical/WMoz/) in composition and a [Liszt](/classical/FLis/) in technique'.
 
 His earlier works didn't receive a very good response, but, never to be worn down or dejected, he made it his business to try and get in with the right people.
 
-He made contact with Berlioz and Robert and Clara Schumann, and on one occasion even wrote to Liszt enclosing a set of piano pieces dedicated to his hero, at the same time asking for a loan.
+He made contact with [Berlioz](/classical/HBer/) and [Robert and Clara Schumann](/classical/RSch/), and on one occasion even wrote to [Liszt](/classical/FLis/) enclosing a set of piano pieces dedicated to his hero, at the same time asking for a loan.
 
-Liszt proffered some good advice and tried to help him get a publishing deal but tactfully chose to ignore the plea for money.
+[Liszt](/classical/FLis/) proffered some good advice and tried to help him get a publishing deal but tactfully chose to ignore the plea for money.
 
 Undeterred, Smetana decided to open up his own music school in Prague in search of recognition and fulfilment, but neither were satisfied due to the unstable political climate, particularly for musicians, who mainly made their way to Paris or Vienna.
 

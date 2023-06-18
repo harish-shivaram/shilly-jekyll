@@ -20,9 +20,9 @@ He was fortunate enough to receive a  private income for many of his early years
 
 However, this money ran out shortly after the Second World War, and he had to scrape a living from teaching and performance royalties.
 
-In his twenties, Berg could always be found in the company of the avant-garde Viennese intellectuals of the time such as the architect and founder of the Bauhaus, Walter Gropius, and Mahler's widow, Alma.
+In his twenties, Berg could always be found in the company of the avant-garde Viennese intellectuals of the time such as the architect and founder of the Bauhaus, Walter Gropius, and [Mahler](/classical/GMah/)'s widow, Alma.
 
-It was in such circles that he met Arnold Schoenberg, who became a guide and friend, and for whom Berg composed his Chamber Concerto on his mentor's fiftieth birthday.
+It was in such circles that he met [Arnold Schoenberg](/classical/ASch/), who became a guide and friend, and for whom Berg composed his Chamber Concerto on his mentor's fiftieth birthday.
 
 Berg is probably best remembered for his opera Wozzeck, which is seen as being one of the more accessible modern works.
 
@@ -34,7 +34,7 @@ _1914, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/0wyaaZjLKo8'  allowfullscreen></iframe></div>
 
-Berg learnt many of his skills and abilities as composer from his teacher and friend, Arnold Schoenberg, who became something of a hero to him and, on the event of his mentor's fortieth birthday, Berg hoped to produce a suitable composition. But rather than save it as a surprise, Berg found himself consulting Schoenberg on many aspects of a work that later became the 'Three Orchestral Pieces'. 
+Berg learnt many of his skills and abilities as composer from his teacher and friend, [Arnold Schoenberg](/classical/ASch), who became something of a hero to him and, on the event of his mentor's fortieth birthday, Berg hoped to produce a suitable composition. But rather than save it as a surprise, Berg found himself consulting [Schoenberg](/classical/ASch/) on many aspects of a work that later became the 'Three Orchestral Pieces'. 
 
 Although suitably flattered, the master stuck to his role of teacher and gave realistic and occasionally cutting advice and criticism as Berg progressed. Consequently, in a desperate bid to please, Berg spent longer than normal on the work, to the unfortunate extent that on the actual birthday, 13 September 1914, only the first and last of the 'Three Pieces' were actually finished. In the accompanying letter Berg wrote:
 
@@ -44,7 +44,7 @@ The first piece begins with a misty sound that is soon filled out by other instr
 
 The final piece is a March and is as long as the first two movements combined.  It constantly seems to rise to series of catastrophic climaxes, often with loud and crashing kettle-drums.
 
-On the original score, Berg wrote: 'To my teacher and friend Arnold Schoenberg, in immeasurable gratitude and love'.
+On the original score, Berg wrote: 'To my teacher and friend [Arnold Schoenberg](/classical/ASch/), in immeasurable gratitude and love'.
 
 ## Wozzeck
 

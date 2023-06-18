@@ -14,9 +14,9 @@ toc: true
 ## Biography
 
 ![Maurice Ravel](/images/classical/33.jpg){:.image .right}
-Like Debussy, Ravel was brought up in Paris and studied at the Paris Conservatoire.
+Like [Debussy](/classical/CDeb/), Ravel was brought up in Paris and studied at the Paris Conservatoire.
 
-After a few years he joined the composition class of the eminent composer Gabriel Fauré.
+After a few years he joined the composition class of the eminent composer [Gabriel Fauré](/classical/GFau/).
 
 Ravel was prolific and has left us with a fine collection of orchestral, piano, vocal and chamber music.
 
@@ -30,13 +30,13 @@ His experiences made him a man of nervous disposition and he was consistently pl
 
 He loved both gourmet and simple French cooking and meals would always be followed by strong French cigarettes.
 
-Debussy was a great admirer of Ravel's talent and once said of him that he 'possessed the finest ear that ever existed'.
+[Debussy](/classical/CDeb/) was a great admirer of Ravel's talent and once said of him that he 'possessed the finest ear that ever existed'.
 
-Much of Ravel's music is more direct and immediately dramatic in style than that of Debussy.
+Much of Ravel's music is more direct and immediately dramatic in style than that of [Debussy](/classical/CDeb/).
 
 Listen to Bolero or La Valse for an extraordinary display of Ravel's skill in writing for the orchestra, or, better still, go and hear them performed live in the concert hall and you will experience a truly spectacular event.
 
-Both Debussy and Ravel wrote a great deal of music for the piano and, if you are a fan of that instrument and keen on this evocative French style of music, you will find a rich catalogue of varied music from each.
+Both [Debussy](/classical/CDeb/) and Ravel wrote a great deal of music for the piano and, if you are a fan of that instrument and keen on this evocative French style of music, you will find a rich catalogue of varied music from each.
 
 Ravel's Gaspard de la Nuit and Miroirs are quite remarkable and are frequently heard on the concert platform today.
 
@@ -46,7 +46,7 @@ Another favourite is the Introduction and Allegro for flute, harp, clarinet and 
 
 Ravel had to work hard to achieve the recognition he deserved.
 
-In many ways his music is very forward looking and he, like Debussy, has been the source of much inspiration for many composers who have followed.
+In many ways his music is very forward looking and he, like [Debussy](/classical/CDeb/), has been the source of much inspiration for many composers who have followed.
 
 ## Pavane pour une infante défunte
 
@@ -97,7 +97,7 @@ _1919, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/TMSgWhIENSk'  allowfullscreen></iframe></div>
 
-In 1906 Ravel became gripped with the idea of writing a symphonic version of a Viennese waltz as a homage to the great waltz writer Johann Strauss II. He planned to call it 'Wien' (Vienna), but didn't start work on it until 1919 when he spent the winter in the south of France. He was very pleased with its progress and wrote to a friend saying:
+In 1906 Ravel became gripped with the idea of writing a symphonic version of a Viennese waltz as a homage to the great waltz writer [Johann Strauss II](/classical/FStr/). He planned to call it 'Wien' (Vienna), but didn't start work on it until 1919 when he spent the winter in the south of France. He was very pleased with its progress and wrote to a friend saying:
 
 'I'm working again at "Wien". It's going great guns. I was able to take off at last, and in high gear. I'm waltzing madly!'
 

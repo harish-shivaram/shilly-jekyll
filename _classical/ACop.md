@@ -30,7 +30,7 @@ In 1925 his Symphony for Organ and Orchestra was performed, and the conductor Wa
 
 This is a matter that many contemporary composers are guilty of neglecting, which is why there is little public interest in much of what is being produced today.
 
-Cast your mind back to the days of Bach and Handel, or Mozart and Haydn, when the public couldn't wait to hear the latest works of these composers and would make a point of being present at the first performances.
+Cast your mind back to the days of [Bach](/classical/JBac/) and [Handel](/classical/GHan/), or [Mozart](/classical/WMoz/) and [Haydn](/classical/JHay/), when the public couldn't wait to hear the latest works of these composers and would make a point of being present at the first performances.
 
 Nowadays composers are lucky to see a sprinkling of academic admirers alongside the critics at the first performances of their works, whilst many people are confused and bewildered at the aural assaults to which they are subjected.
 
@@ -38,11 +38,9 @@ Copland became aware of this and astutely took it on board.
 
 He then really began to write from the heart – romantic music with a distinctly American flavour to it: El Salón México was followed by the ballet Billy the Kid, An Outdoor Overture, Quiet City, Rodeo and in 1945 the all-time favouritethe ballet Appalachian Spring.
 
-Copland was honoured with the Pulitzer Prize and the award of the New York Music Critics for Appalachian Spring, and this piece paved the way for his longest work, the Symphony No.
+Copland was honoured with the Pulitzer Prize and the award of the New York Music Critics for Appalachian Spring, and this piece paved the way for his longest work, the Symphony No. 3, which has been described as being 'all about America'.
 
-3, which has been described as being 'all about America'.
-
-Copland's works sit perfectly alongside those of Gershwin, these two composers being the two great representatives of American music: Gershwin with his jazzy populist style and Copland with his amazing gift for writing pieces that capture the spirit of 'the great outdoors' and the American people.
+Copland's works sit perfectly alongside those of [Gershwin](/classical/GGer/), these two composers being the two great representatives of American music: [Gershwin](/classical/GGer/) with his jazzy populist style and Copland with his amazing gift for writing pieces that capture the spirit of 'the great outdoors' and the American people.
 
 ## Rodeo
 

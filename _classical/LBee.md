@@ -20,7 +20,7 @@ He is portrayed in the musical history books as having been something of a tempe
 
 He was born in Bonn in 1770, again from a musical family, and showed an enormous talent very early on.
 
-Like Mozart's father, Herr Beethoven senior was quick to spot this talent and sought to exploit his son's gifts at every possible opportunity.
+Like [Mozart](/classical/WMoz/)'s father, Herr Beethoven senior was quick to spot this talent and sought to exploit his son's gifts at every possible opportunity.
 
 Family life was not without its troubles –- Beethoven's mother was for a time an alcoholic, and his father also suffered with the same problem for the whole of the latter part of his life.
 

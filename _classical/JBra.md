@@ -30,17 +30,17 @@ He did occasional concerts but also worked for publishers, arranging popular mus
 
 In 1853, when Brahms was twenty, the Hungarian violinist Eduard Reményi offered him the opportunity of making a tour giving concerts together, and this proved to be the big turning point in the composer's career.
 
-Through meeting up with various celebrated musicians and people with influence, such as Joachim and Franz Liszt, Brahms eventually met Robert and Clara Schumann.
+Through meeting up with various celebrated musicians and people with influence, such as Joachim and [Franz Liszt](/classical/FLis/), Brahms eventually met [Robert and Clara Schumann](/classical//).
 
-Robert Schumann was someone whom he held in the highest regard, and his wife Clara was also an extremely gifted pianist.
+[Robert Schumann](/classical/RSch/) was someone whom he held in the highest regard, and his wife Clara was also an extremely gifted pianist.
 
 They both loved Brahms's work and soon all three became very close friends.
 
-Robert Schumann was not of stable health and his mental breakdown in 1854 came as no surprise to those who knew him well.
+[Robert Schumann](/classical/RSch/) was not of stable health and his mental breakdown in 1854 came as no surprise to those who knew him well.
 
 It was at this point that Brahms showed his deep concern for the Schumann family, and he was at Clara's side throughout this very difficult period in her life.
 
-When Robert Schumann eventually died in 1856, Brahms made it known that he was very much in love with Clara, but although the bond was never to be broken they decided not to spend their lives together.
+When [Robert Schumann](/classical/RSch/) eventually died in 1856, Brahms made it known that he was very much in love with Clara, but although the bond was never to be broken they decided not to spend their lives together.
 
 This had a significant effect on Brahms's music: in nearly all of the pieces from this time on there is quite clearly a mood of heartfelt emotional yearning, giving the works an intensity that has rarely been equalled by other composers.
 
@@ -82,7 +82,7 @@ _Keyboard Works_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/E7uMTqcazOg'  allowfullscreen></iframe></div>
 
-Brahms will always be remembered not just for his music, but also for his forbidden love of his friend Robert Schumann's wife, Clara.  Much his music was written (albeit secretly) for her, including these four Ballades for piano.  The mood of the music is neither happy nor sad, as if the composer had given up his hope, but not his longing.
+Brahms will always be remembered not just for his music, but also for his forbidden love of his friend [Robert Schumann](/classical//)'s wife, Clara.  Much his music was written (albeit secretly) for her, including these four Ballades for piano.  The mood of the music is neither happy nor sad, as if the composer had given up his hope, but not his longing.
 
 ## The Hungarian Dances
 
@@ -112,15 +112,15 @@ Brahms's early friends and admirers always felt that he was a born symphony writ
 
 ' I shall never write a symphony. You have no idea how the likes of us feel when we hear the tramp of a giant like him behind us.'
 
-By 'him', Brahms was referring to Beethoven, of whom the young composer was in great awe.  At the age of twenty-one, Brahms first heard Beethoven's stunning Ninth Symphony and was so deeply moved that he tried to write a symphony himself in the same key; he struggled for some time before giving up. Eventually, in 1862, some friends saw an early version of the first movement and were surprised at its storminess. 
+By 'him', Brahms was referring to [Beethoven](/classical/LBee/), of whom the young composer was in great awe.  At the age of twenty-one, Brahms first heard [Beethoven](/classical/LBee/)'s stunning Ninth Symphony and was so deeply moved that he tried to write a symphony himself in the same key; he struggled for some time before giving up. Eventually, in 1862, some friends saw an early version of the first movement and were surprised at its storminess. 
 
-It is thought that this mood stems from Brahms's emotional conflict between his admiration for his friend Robert Schumann, and his deep love for Schumann's wife, Clara. Whatever the reasons, it was fourteen years later, in 1876, before the work was first performed.
+It is thought that this mood stems from Brahms's emotional conflict between his admiration for his friend [Robert Schumann](/classical/RSch/), and his deep love for Schumann's wife, Clara. Whatever the reasons, it was fourteen years later, in 1876, before the work was first performed.
 
 As described, the first movement (Allegro) is a powerful display of musical emotion, with pounding kettle drums backing themes that soar and dive.  It differs only in pace from the second movement (Andante), which is equally passionate, with occasional plaintive interludes from the woodwinds. 
 
 The third movement is a songlike display essentially from the clarinets and flutes.
 
-The finale is often compared with the last movement of Beethoven's Ninth Symphony, which Brahms held in such esteem.
+The finale is often compared with the last movement of [Beethoven](/classical/LBee/)'s Ninth Symphony, which Brahms held in such esteem.
 
 ## A German Requiem
 

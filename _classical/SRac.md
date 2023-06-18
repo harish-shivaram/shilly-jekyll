@@ -36,7 +36,7 @@ Sverev omitted to look after Rachmaninov's undoubted talent as a composer, and t
 
 After attending a summer school for students of advanced harmony and composition, Rachmaninov composed a study in F sharp minor for piano.
 
-Sverev was so impressed with the piece that he played it to Tchaikovsky, who was also extremely taken by the work.
+Sverev was so impressed with the piece that he played it to [Tchaikovsky](/classical/PTch/), who was also extremely taken by the work.
 
 This led to Rachmaninov's being allowed to have formal lessons in composition, but these were not very successful, and after falling out with both his composition teacher and Sverev Rachmaninov decided to leave the Conservatoire a year early.
 
@@ -70,7 +70,7 @@ He was struck down with cancer in the early 1940s and he died one month after hi
 
 He is buried in the Kensico Cemetery in New York.
 
-Rachmaninov is the natural successor to Tchaikovsky in the Russian romantic music school. Whilst pointing you enthusiastically towards such popular works the Second and Third Piano Concertos, the Second Symphony and a few of the Preludes, I can also recommend a closer look at many of his other works.
+Rachmaninov is the natural successor to [Tchaikovsky](/classical/PTch/) in the Russian romantic music school. Whilst pointing you enthusiastically towards such popular works the Second and Third Piano Concertos, the Second Symphony and a few of the Preludes, I can also recommend a closer look at many of his other works.
 
 ## Piano Concerto No. 1
 **Piano Concerto No. 1 in F Sharp Minor Op. 1**
@@ -137,15 +137,15 @@ _1909, Concerti, Orchestral_
 
 Rachmaninov finished his Third Piano Concerto in 1909, barely in time for his first tour of the United States.  He himself was the soloist for the world premiere in New York on 28 November 1909, which successfully took place with the Symphony Society of New York. 
 
-The second performance was more interesting, however, for it was conducted by none other than Gustav Mahler; Rachmaninov was again at the piano, the orchestra this time being the New York Philharmonic. 
+The second performance was more interesting, however, for it was conducted by none other than [Gustav Mahler](/classical/GMah/); Rachmaninov was again at the piano, the orchestra this time being the New York Philharmonic. 
 
-The preparations for the concert remained long in Rachmaninov's memory, largely due to the impact of Mahler's forceful personality, and years later he recalled:
+The preparations for the concert remained long in Rachmaninov's memory, largely due to the impact of [Mahler](/classical/GMah/)'s forceful personality, and years later he recalled:
 
-'At that time, Mahler was the only conductor whom I considered worthy to be classed with Nikisch [a famous conductor of the time].  He touched my composer's heart straight away by devoting himself to my Concerto until the accompaniment, which is rather complicated, had been practised to the point of perfection, although he had already gone through a long rehearsal.'
+'At that time, [Mahler](/classical/GMah/) was the only conductor whom I considered worthy to be classed with Nikisch [a famous conductor of the time].  He touched my composer's heart straight away by devoting himself to my Concerto until the accompaniment, which is rather complicated, had been practised to the point of perfection, although he had already gone through a long rehearsal.'
 
 After a particularly gruelling practise, Rachmaninov remembered a particular incident:
 
-'At last we had finished.  I went up to the conductor's desk, and together we examined the score. The musicians in the back seats began quietly to pack up their instruments and to disappear. Mahler blew up: "What is the meaning of this?"  The leader: "It is after half past one, Master."  "That makes no difference! As long as I am sitting, no musician has a right to get up!"
+'At last we had finished.  I went up to the conductor's desk, and together we examined the score. The musicians in the back seats began quietly to pack up their instruments and to disappear. [Mahler](/classical/GMah/) blew up: "What is the meaning of this?"  The leader: "It is after half past one, Master."  "That makes no difference! As long as I am sitting, no musician has a right to get up!"
 
 The work opens with two bars of orchestral accompaniment before the pianist enters with a sad melody that seems to twist and turn on itself before being developed by a combination of violas and two French horns. 
 

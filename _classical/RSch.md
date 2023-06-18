@@ -67,7 +67,7 @@ _1835, Keyboard Works_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/o1aK8z84cTo'  allowfullscreen></iframe></div>
 
-This piece is typical of the works Schumann wrote for his wife, Clara, who was an accomplished pianist in her own right. 'Carnaval' is the story of a costume party, where the guests, including Paganini and Chopin, end up rounding on a gang of kill-joys and kick them out in a fantastic march.
+This piece is typical of the works Schumann wrote for his wife, Clara, who was an accomplished pianist in her own right. 'Carnaval' is the story of a costume party, where the guests, including Paganini and [Chopin](/classical/FCho/), end up rounding on a gang of kill-joys and kick them out in a fantastic march.
 
 ## Scenes of Childhood
 **Scenes of Childhood: 'Dreaming'**

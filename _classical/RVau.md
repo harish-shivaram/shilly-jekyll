@@ -26,7 +26,7 @@ He went on to study with Sir Hubert Parry (composer of 'Jerusalem') at the Royal
 
 Ever striving for more knowledge, he went back to the Royal College and worked with Charles Stanford (another respected English composer) and later travelled to Berlin to study with Max Bruch.
 
-This was not enough for Vaughan Williams and he ended up having a course of lessons from the French composer Maurice Ravel.
+This was not enough for Vaughan Williams and he ended up having a course of lessons from the French composer [Maurice Ravel](/classical/MRav/).
 
 Vaughan Williams had no financial worries and was able to pursue these activities under relaxed and unpressured circumstances.
 
@@ -34,7 +34,7 @@ However, he took a highly professional attitude to his work and composed some ve
 
 He was much acclaimed all over the world and went down particularly well in the United States of America where he was hailed as the 'Grandfather of English Music'.
 
-The symphonies are perhaps his best-known pieces and, like Beethoven, he wrote nine, two of which stand out above the rest: No. 2 ('London') and No. 3 ('Pastoral').
+The symphonies are perhaps his best-known pieces and, like [Beethoven](/classical/LBee/), he wrote nine, two of which stand out above the rest: No. 2 ('London') and No. 3 ('Pastoral').
 
 He also had an avid interest in folk-song and hymns, which led to his revising the English Hymnal in I906.
 

@@ -22,17 +22,17 @@ He came from a musical family and like most children of the day started learning
 
 No one really took much notice of any talent that he displayed and he was sent off to naval college in St Petersburg, where he mixed with a number of people who were interested in music.
 
-His enthusiasm and enjoyment of music grew to the point that he moved into a circle of illustrious composers and began writing seriously himself: the other members of this clique were Cui, Borodin, Balakirev and Mussorgsky, and they became known as 'The Five'.
+His enthusiasm and enjoyment of music grew to the point that he moved into a circle of illustrious composers and began writing seriously himself: the other members of this clique were Cui, Borodin, Balakirev and [Mussorgsky](/classical/MMus/), and they became known as 'The Five'.
 
-Rimsky became close friends with Mussorgsky and the two encouraged each other and bounced ideas around to their mutual benefit.
+Rimsky became close friends with [Mussorgsky](/classical/MMus/) and the two encouraged each other and bounced ideas around to their mutual benefit.
 
 Rimsky wrote nothing of any great stature during these early years and was regarded by many purely as a talented amateur, but he was gaining knowledge and developing his compositional technique all the while.
 
 In 1871 his real talent was recognised and he was made a professor at the St Petersburg Conservatory (although he later admitted that he was only a few pages ahead of his students when it came to harmony and counterpoint!) and in 1873 he was also given quite a prestigious job in the navy as the Inspector of Military Bands.
 
-Rimsky shared a flat with Mussorgsky, and as the latter was a chronic alcoholic life was invariably difficult.
+Rimsky shared a flat with [Mussorgsky](/classical/MMus/), and as the latter was a chronic alcoholic life was invariably difficult.
 
-When eventually his flat-mate died in 1881, Rimsky carried on with the task of orchestrating Mussorgsky's opera Boris Godunov, and this is quite often the version that is performed today.
+When eventually his flat-mate died in 1881, Rimsky carried on with the task of orchestrating [Mussorgsky](/classical/MMus/)'s opera Boris Godunov, and this is quite often the version that is performed today.
 
 The years rolled by, and Rimsky wrote three works in 1888 that have now become the most popular of his output – Capriccio Espagnol, Sheherazade and the Russian Easter Festival Overture.
 
@@ -40,7 +40,7 @@ He carried on writing operas and he eventually became regarded as the leading cr
 
 Nowadays, however, apart from the orchestral pieces already mentioned, most people know Rimsky-Korsakov for his amusing little piece The Flight of the Bumblebee, which has since been transcribed for almost every instrument imaginable as a showpiece of extraordinary virtuosity.
 
-Rimsky wrote an enormous amount of music, but we rarely get to hear very much of it due to the preoccupation with the two or three favourites from among the works of Mussorgsky, Tchaikovsky, Prokofiev, Stravinsky and Rachmaninov – the great Russian school of composers.
+Rimsky wrote an enormous amount of music, but we rarely get to hear very much of it due to the preoccupation with the two or three favourites from among the works of [Mussorgsky](/classical/MMus/), [Tchaikovsky](/classical/PTch/), [Prokofiev](/classical/SPro/), [Stravinsky](/classical/IStr/) and [Rachmaninov](/classical/SRac/) – the great Russian school of composers.
 
 ## Dance of the Tumblers
 **The Snow Maiden: 'Dance of the Tumblers' **
@@ -58,13 +58,13 @@ _1887, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/Kq65ufWquRE'  allowfullscreen></iframe></div>
 
-Rimsky-Korsakov loved orchestral colour, and used it like a great painter would exploit a canvas.  ,He had a gift for composition that had been refined by years of patient self-analysis and study. He was much admired by the likes of Tchaikovsky who once wrote to Rimsky-Korsakov saying:
+Rimsky-Korsakov loved orchestral colour, and used it like a great painter would exploit a canvas.  ,He had a gift for composition that had been refined by years of patient self-analysis and study. He was much admired by the likes of [Tchaikovsky](/classical/PTch/) who once wrote to Rimsky-Korsakov saying:
 
 'I do not know how to express all my respect for your artistic temperament. I am a mere artisan in music, but you will be an artist in the fullest sense of the word.'
 
 This was high praise indeed, especially when one considers that Rimsky was only in his early twenties at the time. 
 
-His Capriccio Espagnol stems from sketches written down in 1886 for a work for violin and orchestra based on numerous Spanish themes.  A year later, however, he changed his mind completely, and decided to make the work a display piece for the entire orchestra – the end result being a five-part collection.  At its first performance in October 1887 it was an undeniable success, with the audience demanding a complete encore, even though the work was fairly lengthy. Once again, Tchaikovsky wrote to the now thirty-year-old composer, saying:
+His Capriccio Espagnol stems from sketches written down in 1886 for a work for violin and orchestra based on numerous Spanish themes.  A year later, however, he changed his mind completely, and decided to make the work a display piece for the entire orchestra – the end result being a five-part collection.  At its first performance in October 1887 it was an undeniable success, with the audience demanding a complete encore, even though the work was fairly lengthy. Once again, [Tchaikovsky](/classical/PTch/) wrote to the now thirty-year-old composer, saying:
 
 'Your Spanish Caprice is a colossal masterpiece of instrumentation, and you may regard yourself as the greatest master of the present day.'
 

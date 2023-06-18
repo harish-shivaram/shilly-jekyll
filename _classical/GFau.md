@@ -36,7 +36,7 @@ One or two of his solo works for piano have also found their way into the repert
 
 In 1896 Fauré was appointed to be the chief organist at the Madeleine and also a professor of composition at the Paris Conservatoire.
 
-He is reputed to have been a fine teacher and was instrumental in developing the talents of Ravel, Schmitt and Nadia Boulanger, among others.
+He is reputed to have been a fine teacher and was instrumental in developing the talents of [Ravel](/classical/MRav/), Schmitt and Nadia Boulanger, among others.
 
 Some years later he was promoted Director of the Conservatoire, a job which carried mixed blessings as it gave him less time for his own composition.
 

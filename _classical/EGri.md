@@ -18,11 +18,11 @@ Some say Grieg is Norway's most famous composer; less charitable musicologists m
 
 Whatever their views, Grieg is held in high regard in classical circles as being the composer of one of the most popular piano concertos of all time.
 
-He has also given us an insight into the folk culture and character of his native land through his music in just the same way that Dvorák, Smetana, Copland, Sibelius and Vaughan Williams have done for their respective countries.
+He has also given us an insight into the folk culture and character of his native land through his music in just the same way that [Dvorák](/classical/ADvo/), [Smetana](/classical/BSme/), [Copland](/classical/ACop/), [Sibelius](/classical/JSib/) and [Vaughan Williams](/classical/RVau/) have done for their respective countries.
 
 Originally of Scottish descent on his father's side, it seems that Grieg may have received his extraordinary musical abilities from his mother, who was an accomplished pianist.
 
-She gave her son piano lessons from the age of six and Grieg showed such excellent promise that he was sent off to study at the illustrious Leipzig Conservatoire, where he was heavily influenced by Robert Schumann.
+She gave her son piano lessons from the age of six and Grieg showed such excellent promise that he was sent off to study at the illustrious Leipzig Conservatoire, where he was heavily influenced by [Robert Schumann](/classical//).
 
 He found his time in Leipzig totally absorbing and made a point of attending concerts and utilising his time as a student to the very best advantage.
 
@@ -59,11 +59,11 @@ _1869, Concerti, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/VhBZ9LLgAr8'  allowfullscreen></iframe></div>
 
-'The Chopin of the North' was one great pianist's name for Edvard Grieg, and certainly this piano concerto does recall Chopin, who was Grieg's favourite composer. 
+'The [Chopin](/classical/FCho/) of the North' was one great pianist's name for Edvard Grieg, and certainly this piano concerto does recall [Chopin](/classical/FCho/), who was Grieg's favourite composer. 
 
 Spiritually, as well as musically, the two had much in common. 
 
-In Chopin's mazurkas and polonaises we hear the voice of his native Poland alternately lamenting and exulting over the tragedy and the heroism of his suffering people.  Although Grieg's Norway had no such tragic history, his country was not happy under the rule of the Swedish king, and their longing for independence gained a national musical voice in the personage of Grieg, whose music was the first to sing an unmistakable language of the North.
+In [Chopin](/classical/FCho/)'s mazurkas and polonaises we hear the voice of his native Poland alternately lamenting and exulting over the tragedy and the heroism of his suffering people.  Although Grieg's Norway had no such tragic history, his country was not happy under the rule of the Swedish king, and their longing for independence gained a national musical voice in the personage of Grieg, whose music was the first to sing an unmistakable language of the North.
 
 Grieg was only twenty-five and newly married when he wrote this concerto during a summer holiday in Denmark.  It was first performed in Copenhagen in April 1869, but in the following year Grieg visited Liszt, who made some suggestions as to how the piece might be improved, which the Norwegian readily incorporated.  In fact, Grieg continued revising his concerto well into later life, even though it had become one of the most popular concertos around.
 

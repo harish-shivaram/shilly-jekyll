@@ -34,7 +34,7 @@ Mahler was regarded as being a bit of an oddball.
 
 He was a strict vegan and only consumed water, fruit and spinach! This was naturally quite unusual for someone at the end of the nineteenth century and people that came into contact with him were always taken aback at his rather peculiar habits and eccentricities.
 
-Although he was extremely successful as a student, when Mahler failed to win the coveted Beethoven Prize (and consequently the cash that went with it) he decided to concentrate on a career as a conductor, feeling that there was more chance of commercial success in that direction.
+Although he was extremely successful as a student, when Mahler failed to win the coveted [Beethoven](/classical/LBee/) Prize (and consequently the cash that went with it) he decided to concentrate on a career as a conductor, feeling that there was more chance of commercial success in that direction.
 
 All the while, however, he continued to compose, and public performances of his works were held in high regard.
 
@@ -44,17 +44,17 @@ His First Symphony, written in 1888 when he was just twenty-eight years old, is 
 
 Mahler's talent as a conductor was unquestioned and he was always in demand.
 
-Tchaikovsky once wrote of him that he was 'undoubtedly a genius and a man of extraordinary ability'.
+[Tchaikovsky](/classical/PTch/) once wrote of him that he was 'undoubtedly a genius and a man of extraordinary ability'.
 
-Brahms, too, was unfailing in his praise of Mahler, and he is quoted as saying: 'To hear the true Don Giovanni – go to Budapest'.
+[Brahms](/classical/JBra/), too, was unfailing in his praise of Mahler, and he is quoted as saying: 'To hear the true Don Giovanni – go to Budapest'.
 
-This is where Mahler was the resident conductor, and he was receiving rave reviews for all his performances of the Mozart, Puccini and Verdi operas.
+This is where Mahler was the resident conductor, and he was receiving rave reviews for all his performances of the [Mozart](/classical/WMoz/), Puccini and Verdi operas.
 
-Mahler also conducted the first performance of Tchaikovsky's Eugene Onegin.
+Mahler also conducted the first performance of [Tchaikovsky](/classical/PTch/)'s Eugene Onegin.
 
 It seems that there was only one person of note who was not an admirer of Mahler in any way, shape or form, and this was the famous conductor and pianist Hans von Bülow.
 
-Von Bülow was both a close friend and a professional colleague of Brahms and Wagner, but dismissed Mahler's offerings in one classic sentence: 'If this is still music, I know nothing of music',  and he was to be the bane of Mahler's life for some time.
+Von Bülow was both a close friend and a professional colleague of [Brahms](/classical/JBra/) and [Wagner](/classical/RWag/), but dismissed Mahler's offerings in one classic sentence: 'If this is still music, I know nothing of music',  and he was to be the bane of Mahler's life for some time.
 
 When von Bülow died in 1894 Mahler received a new creative lease of life and a greater freedom to express himself and have his works performed.
 

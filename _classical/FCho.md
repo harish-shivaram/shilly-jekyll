@@ -14,7 +14,7 @@ toc: true
 ## Biography
 
 ![Frederic Chopin](/images/classical/11.jpg){:.image .right}
-Both Chopin and Liszt were astounding virtuoso pianists and their works now provide the backbone of the repertoire for concert pianists wishing to perform music from the Romantic era.
+Both Chopin and [Liszt](/classical/FLis/) were astounding virtuoso pianists and their works now provide the backbone of the repertoire for concert pianists wishing to perform music from the Romantic era.
 
 Following a period in Victorian times when their music was regarded as being too sugary and sentimental, they are now held in high regard and enjoyment of their works is worldwide.
 
@@ -54,7 +54,7 @@ Chopin eventually went to England but wasn't at all happy there, and it became i
 
 He wrote in a letter to a friend that he felt 'played out' and 'incapable of bringing forth new sounds' – a very sad state of affairs lasting some eleven months until his death.
 
-His funeral was held at the Madeleine in Paris where, at his own request, Mozart's Requiem was sung.
+His funeral was held at the Madeleine in Paris where, at his own request, [Mozart](/classical/WMoz/)'s Requiem was sung.
 
 ## Nocturne  in E Minor
 **Nocturne  in E Minor Op. 72,  No. 1**
@@ -179,7 +179,7 @@ _1839, Keyboard Works_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/90wBhBZjAUQ'  allowfullscreen></iframe></div>
 
-Robert Schumann once said of these preludes, composed in 1838:
+[Robert Schumann](/classical/RSch/) once said of these preludes, composed in 1838:
 
 'I must signal them as most remarkable. . . . these are sketches, the beginning of studies, or, if you will, ruins, eagle's feathers all strangely intermingled.'
 

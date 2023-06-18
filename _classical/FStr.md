@@ -28,7 +28,7 @@ The music from the Strauss family is probably the most popular light classical m
 
 As well as the waltzes already listed, the family were also renowned for writing marches and polkas.
 
-The most famous of these are Johann Strauss senior's Radetzky March and Johann Strauss ll's Pizzicato Polka.
+The most famous of these are Johann Strauss senior's Radetzky March and Johann Strauss II's Pizzicato Polka.
 
 These never fail to engage audiences in clapping along and joining in with the chorus.
 
@@ -65,7 +65,7 @@ _1858, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/eYRNykoP5Og'  allowfullscreen></iframe></div>
 
-Short and light, Tritch-Tratch is less a piece of dance music, more a novelty orchestral item, full of lively sound-effects such as corks popping, rifle-shots and rolls of thunder.
+Short and light, Tritsch-Tratsch is less a piece of dance music, more a novelty orchestral item, full of lively sound-effects such as corks popping, rifle-shots and rolls of thunder.
 
 ## Perpetuum Mobile
 **Perpetuum Mobile: musikalischer Scherz**

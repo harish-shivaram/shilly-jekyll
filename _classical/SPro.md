@@ -26,7 +26,7 @@ His father was an immensely successful businessman and his mother an accomplishe
 
 He went to the Conservatoire at St Petersburg at the age of thirteen, having amazed everyone with his prodigious talent – he wrote his first short piano pieces at the age of five and his first opera aged nine.
 
-He was immediately placed in the capable hands of Rimsky-Korsakov, who taught him until the outbreak of war in 1914.
+He was immediately placed in the capable hands of [Rimsky-Korsakov](/classical/NRim/), who taught him until the outbreak of war in 1914.
 
 Prokofiev's First Piano Concerto and Sonata No. 1 remain in the repertoire of many concert pianists today; these are essentially student works, but already show an extraordinary personality and individuality in their construction.
 
@@ -53,11 +53,11 @@ _1916, Symphonies, Orchestral_
 
 <div class='embed-responsive embed-responsive-4by3'><iframe width='560' height='315' src='https://www.youtube.com/embed/p5jL6Ma9tvk'  allowfullscreen></iframe></div>
 
-It seems quite amazing that Prokofiev could have composed such a light-hearted piece as his 1916 'Classical Symphony' at a time when the First World War was at its height, the czarist government of his homeland was crumbling, and the Russian Revolution was just beginning.  He even found himself dodging bullets during the February Revolution in Petrograd without being put off his care-free mood.  The motive behind this work was to produce a symphony in the style of Haydn, whom some call 'the father of the symphony' – partly in tribute to the great composer, but also as an intellectual exercise.  In his autobiography, Prokoviev wrote:
+It seems quite amazing that Prokofiev could have composed such a light-hearted piece as his 1916 'Classical Symphony' at a time when the First World War was at its height, the czarist government of his homeland was crumbling, and the Russian Revolution was just beginning.  He even found himself dodging bullets during the February Revolution in Petrograd without being put off his care-free mood.  The motive behind this work was to produce a symphony in the style of [Haydn](/classical/JHay/), whom some call 'the father of the symphony' – partly in tribute to the great composer, but also as an intellectual exercise.  In his autobiography, Prokoviev wrote:
 
-'It seemed to me that, had Haydn lived in our day, he would have retained his own style while accepting something of the new at the same time. That was the kind of symphony I wanted to write: a symphony in the classical style. And when I saw that my idea was beginning to work, I called it the 'Classical Symphony', in the first place because it was easier . . . and in the secret hope that I would prove to be right if the symphony really did turn out to be a piece of classical music. I composed the symphony in my head during my walks in the country.'
+'It seemed to me that, had [Haydn](/classical/JHay/) lived in our day, he would have retained his own style while accepting something of the new at the same time. That was the kind of symphony I wanted to write: a symphony in the classical style. And when I saw that my idea was beginning to work, I called it the 'Classical Symphony', in the first place because it was easier . . . and in the secret hope that I would prove to be right if the symphony really did turn out to be a piece of classical music. I composed the symphony in my head during my walks in the country.'
 
-Written in classic four-movement symphonic style, the first movement (Allegro) follows the traditional first-movement form which served Haydn and Mozart so well, with a delightful violin theme played very softly with only the tip of the bow.  The second section, a Larghetto, features a sparkling solo flute which leads into a surprisingly bland third movement. 
+Written in classic four-movement symphonic style, the first movement (Allegro) follows the traditional first-movement form which served [Haydn](/classical/JHay/) and [Mozart](/classical/WMoz/) so well, with a delightful violin theme played very softly with only the tip of the bow.  The second section, a Larghetto, features a sparkling solo flute which leads into a surprisingly bland third movement. 
 
 The finale, however, is well worth waiting for, with its persistent driving force and dashing sound.
 

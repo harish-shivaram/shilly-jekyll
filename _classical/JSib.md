@@ -28,7 +28,7 @@ Sibelius was very keen on playing the violin, always having a passionate yearnin
 
 As was the case with many composers, his early studies at university were in a totally unrelated subject – in his case, law; but he soon gave this up in favour of a course in music.
 
-It was at Helsinki University that he struck up a friendship with the Italian composer Ferruccio Busoni, who later gave Sibelius an introduction to Brahms.
+It was at Helsinki University that he struck up a friendship with the Italian composer Ferruccio Busoni, who later gave Sibelius an introduction to [Brahms](/classical/JBra/).
 
 After a couple of years Sibelius wrote the Kullervo Symphony, which really established him as a first-rate composer, and this was followed by a selection of wonderful works including Finlandia, the Valse Triste and a string of symphonies, all of which hold firm places in the repertoire of most internationally renowned symphony orchestras.
 

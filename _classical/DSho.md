@@ -93,7 +93,7 @@ Shostakovitch was a 'composaholic' and would start a new work as soon as he had 
 
 The popularity of this concerto rests, however, not its orchestration or form, but on its striking and attractive themes.  It is full of sudden changes of mood that is typical of the composer's early work and contains a strong sense of parody with obvious musical quotes. 
 
-It begins with a distant relation of the opening theme of Beethoven's 'Appassionata' Sonata, and the finale has references to the same composer's 'Rage over a Lost Penny', together with a slice of Haydn's D Major Piano Sonata. There are other quotations from Shostakovitch's own 'Hamlet' incidental music and from the slightly earlier revue music 'Conditionally Killed', as well as the European folk song 'Ach du Lieber Augustin' – Augustin being a mythological character who seems to survive any catastrophe, largely due to the fact that he is permanently drunk.
+It begins with a distant relation of the opening theme of Beethoven's 'Appassionata' Sonata, and the finale has references to the same composer's 'Rage over a Lost Penny', together with a slice of [Haydn](/classical/JHay/)'s D Major Piano Sonata. There are other quotations from Shostakovitch's own 'Hamlet' incidental music and from the slightly earlier revue music 'Conditionally Killed', as well as the European folk song 'Ach du Lieber Augustin' – Augustin being a mythological character who seems to survive any catastrophe, largely due to the fact that he is permanently drunk.
 
 With such a collection of quotes and influences, only a genius could have moulded this variety into an acceptable whole.  The miracle is that Shostakovitch succeeded, and constructed a distinctive and indestructible work in the process.
 
