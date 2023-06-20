@@ -41,6 +41,11 @@ gallery:
     width: 1548
     height: 1924
     title: Saint Praxedis
+  - image: /images/art/vermeer_8.jpg
+    small: /images/art/small/vermeer_8.jpg
+    width: 1560
+    height: 1869
+    title: Woman Reading A letter
 ---
 
 On the basis of some thirty-six small surviving pictures, Vermeer is now
