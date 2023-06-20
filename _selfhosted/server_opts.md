@@ -1,7 +1,7 @@
 ---
 title: Home Server Options
 description: A personal server... some options which will suit the purpose
-lastmod: 2023-05-26
+lastmod: 2023-06-20
 image: /images/selfhosted/single-board-computers.jpg
 sequence: 5
 ---
