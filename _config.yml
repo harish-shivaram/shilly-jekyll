@@ -81,6 +81,7 @@ defaults:
     type: panorama
   values:
     layout: page
+    lastmod: 2012-12-18
     collabel: Panorama
     colurl: /panorama
 - scope:
