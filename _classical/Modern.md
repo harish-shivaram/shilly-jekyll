@@ -3,6 +3,7 @@ title: Modern School
 school: Modern
 layout: post
 lastmod: 2017-10-31
+needsortable: true
 ---
 
 ## Modern Music 1910–

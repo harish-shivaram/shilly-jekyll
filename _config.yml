@@ -94,7 +94,6 @@ defaults:
 - scope:
     type: classical
   values:
-    needsortable: true
     collabel: Classical
     colurl: /classical/
 - scope:

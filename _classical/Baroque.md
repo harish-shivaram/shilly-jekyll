@@ -3,6 +3,7 @@ title: Baroque School
 layout: post
 school: Baroque
 lastmod: 2017-09-23
+needsortable: true
 ---
 
 ## The Baroque Period, 1600–1750

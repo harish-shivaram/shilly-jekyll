@@ -3,6 +3,7 @@ title: Classical School
 layout: post
 school: Classical
 lastmod: 2017-09-27
+needsortable: true
 ---
 
 ## The Classical Period, 1750–1827
