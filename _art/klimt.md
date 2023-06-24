@@ -1,6 +1,6 @@
 ---
 title: Gustav Klimt
-lastmod: 2023-05-03
+lastmod: 2023-06-24
 layout: artist
 image: /images/art/klimt_5.jpg
 born: 1862
@@ -36,6 +36,11 @@ gallery:
     title: Judith II
     width: 740
     height: 2987
+  - image: /images/art/klimt_7.jpg
+    small: /images/art/small/klimt_7.jpg
+    width: 1663
+    height: 1656
+    title: Dame mit Fächer (Woman with Fan)
 ---
 
 Klimt lived and worked in a scandalous city at a scandalous time: Vienna in the
