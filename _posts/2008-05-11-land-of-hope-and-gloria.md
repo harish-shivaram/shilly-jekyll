@@ -4,7 +4,7 @@ date: 2008-05-11
 layout: post
 Author: Hech
 description: The British looted all wealth, and the word "loot", from India! - Shashi Tharoor
-image: /images/blog/1966.png
+image: /images/blog/1966.jpg
 ---
 
 It was said that <strong>The sun never set on the British Empire</strong>. Of course, the oft-quoted rebuttal to that statement is &quot;<strong>Even god didn't trust the British in the dark</strong>&quot;.

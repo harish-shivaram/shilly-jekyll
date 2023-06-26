@@ -4,7 +4,7 @@ date: 2007-04-18
 layout: post
 Author: Hech
 description: A lame-ass attempt at being more... "recognized".
-image: /images/blog/1974.png
+image: /images/blog/1974.jpg
 ---
 
 Well, the other day a friend mentioned that I ought to register my blog with technorati. Apparently Technorati indexes the blog and cross-references it or something.

@@ -4,7 +4,7 @@ date: 2007-04-17
 layout: post
 Author: Hech
 description: Is it really affirmative action when the effects are so negative?
-image: /images/blog/1965.png
+image: /images/blog/1965.jpg
 ---
 
 Yep, it has reared its ugly head again. The Indian government are pushing for more affirmative action. Soon as a judicial bench clears it, the Indian government is implementing a 27 percent reservation for what is termed the &quot;_Other Backward Classes_&quot; in all higher degree professional education institutions.
