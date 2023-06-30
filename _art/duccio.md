@@ -20,6 +20,11 @@ gallery:
     width: 1404
     height: 1861
     title: Madonna and Child
+  - image: /images/art/duccio_4.jpg
+    small: /images/art/small/duccio_4.jpg
+    width: 1024
+    height: 947
+    title: The Temptation of Christ
 ---
 
 Duccio was the first and perhaps the greatest of the religious painters of
