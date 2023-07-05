@@ -47,13 +47,13 @@ BSD's do not have docker support, so they should be avoided.
 
    For example, they include infra to monitor sensors on the HW they are running. Sensors are very HW specific, and the good folks at Armbian have taken the pain to support all the sensors of each SBC. Another small gesture is the enabling of zram by default, increasing the available memory at the cost of a few extra CPU cycles. This is a very useful feature to have. They have an well thought out first-boot process which expands file system, and provides an infra to set up the device even if using it in headless mode (no monitor/keyboard/mouse).
 
-   They include detailed documentation on preparing the HW to install Armbian, which sometimes involves removing buggy firmware shipped from the HW manufacturer. Some SBC boards have quirks and idiosycracies, which do not affect all boards. Armbian seems to be the only distribution which acknowledges these issues and provides work arounds.
+   They include detailed documentation on preparing the HW to install Armbian, which sometimes involves removing buggy firmware shipped from the HW manufacturer. Some SBC boards have quirks and idiosyncrasies, which do not affect all boards. Armbian seems to be the only distribution which acknowledges these issues and provides workarounds.
 
    The only downside, if it can be called that, is that they do not have a rolling release. This is more of a shortcoming of the upstream (Debian/Ubuntu) than Armbian. Ever so frequently this necessitates reinstalling the whole OS to stay cutting-edge.
 
 2. ![DietPI](/images/selfhosted/dietpi.png){:.image .right} For those with a strong aversion to ever using a command line interface (the black screen where you can type stuff), choose DietPI. Much like Armbian, it is based on Debian under the hood. It supports several dozen SBCs and is very optimized for each of the SBCs. What is unique about DietPI is that is provides a series of console menus to perform routine tasks... installing SW, performing updates, changing system, configuration etc. The user never needs to use a shell command with DietPI.
 
-3. ![ArchLinuxARM](/images/selfhosted/alarm.png){:.image .right} For those with an aversion to Debian and/or Ubuntu, ArchLinuxARM is an alternative. This also supports a number of SBC's and has good installation instructions. But there are a few hiccups. It is not beginner friendly, and expects the users to have a base linux machine to start with. There are no SBC specific optimizations. The installed system is identical to an ArchLinux desktop, for the most part.
+3. ![ArchLinuxARM](/images/selfhosted/alarm.png){:.image .right} For those with an aversion to Debian and/or Ubuntu, ArchLinuxARM is an alternative. This also supports a number of SBC's and has good installation instructions. But there are a few hiccups. It is not beginner friendly, and expects the users to have a base Linux machine to start with. There are no SBC specific optimizations. The installed system is identical to an ArchLinux desktop, for the most part.
 
 ### x86-64
 

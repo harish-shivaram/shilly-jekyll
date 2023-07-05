@@ -157,12 +157,12 @@ factors.
 When talking about networking, there are two forms that are generally used in
 home networking: **Wired** and **Wireless**.
 
-For **Wired**, When possible, always choose gigabit ethernet, or better. Some
-newer SBCs offer 2.5G ethernet. This standard is not very popular, and unless
+For **Wired**, When possible, always choose gigabit Ethernet, or better. Some
+newer SBCs offer 2.5G Ethernet. This standard is not very popular, and unless
 the switch / router connecting to the computer also supports this, the speed
-will negotiate to the least common option, which is gigabit ethernet. Avoid
-"fast" ethernet because, despite its name, it is only one-tenth the speed of
-Gigabit ethernet.
+will negotiate to the least common option, which is gigabit Ethernet. Avoid
+"fast" Ethernet because, despite its name, it is only one-tenth the speed of
+Gigabit Ethernet.
 
 Avoid **Wireless** entirely if possible. Wireless is a very finicky protocol
 for sustained data transfer speeds. There are too many variables, like antenna

@@ -11,7 +11,7 @@ description: A Raspberry Pi is a perfect device to cobble together an excellent 
 
 Honestly, a true blue audiophile isn't someone who appreciates good music. They are obsessed with the purity of sound and having incredibly expensive equipment, which they obsessively keep upgrading to the next greatest thing. They look on the digital music world with disdain, and swear by tube amplifiers and vinyl records.
 
-In that context, I am not an audiophile. But I do listen to a wide range of music, and I want the music to sound good. I think digital music is a wonderful idea, and I really think it sounds as good, if not better than the average "analogue" source. I love that digital music can be streamed over the internet, and how a humble pendrive can hold more music than I can listen to in a week. I digitized my collection, with CD's ripped into FLAC's and MP3's, but for the most part, I was listening to music on a good set of speakers connected to a desktop ([harmon/kardon Soundsticks](https://www.harmankardon.com/computer-speakers/SOUNDSTICKS+III.html)).
+In that context, I am not an audiophile. But I do listen to a wide range of music, and I want the music to sound good. I think digital music is a wonderful idea, and I really think it sounds as good, if not better than the average "analogue" source. I love that digital music can be streamed over the internet, and how a humble pen drive can hold more music than I can listen to in a week. I digitized my collection, with CD's ripped into FLAC's and MP3's, but for the most part, I was listening to music on a good set of speakers connected to a desktop ([harmon/kardon Soundsticks](https://www.harmankardon.com/computer-speakers/SOUNDSTICKS+III.html)).
 
 The speakers were great, truly high fidelity. I could hear all the nuances of the music, and I could distinguish the a good digital rip versus a bad one. But unfortunately, a crazy voltage spike toasted the speakers and I was listening to music on earphones for the longest.
 
@@ -39,7 +39,7 @@ The first one I tried was [Volumio](https://volumio.com/). This is simple, elega
 
 - Volumio does not do (or, did not, at the time I evaluated it) internet radio channels.
 
-All told, I did use Volumio for quite a while. There is a companian app, but it turned out to be just a browser shortcut to Volumio's web interface. Eventually, the limitations of Volumio got too hard to manage.
+All told, I did use Volumio for quite a while. There is a companion app, but it turned out to be just a browser shortcut to Volumio's web interface. Eventually, the limitations of Volumio got too hard to manage.
 
 ## moOde audio player
 
@@ -56,15 +56,15 @@ Some of the clients I use are:
 
 I used the NAS as the primary music store for a while, then later switched to having a directly connected hard disk instead, so the NAS acts as a backup instead.
 
-One more thing: moOde is essentially a full graphical installation of Raspberry Pi OS underneath, and has all the bells and whistles that comes with. I additionally use the device for other tasks like command line collection management, backups, and transcoding.
+One more thing: moOde is essentially a full graphical installation of Raspberry Pi OS underneath, and has all the bells and whistles that comes with. I additionally use the device for other tasks like command line collection management, backups, and trans-coding.
 
 ## HiFiberry Digi+
 
-This configuraiton worked very well for a while, but eventually the volume control on the amplifier stopped working. This necessitated upgrading the aplifier, and I switched to the [NAD C 338](https://nadelectronics.com/product/c-338-classic-digital-dac-amplifier/). This was a nicer amplifier than the previous one, with built in networking and Google cast etc., but it lacked a USB input interface.
+This configuration worked very well for a while, but eventually the volume control on the amplifier stopped working. This necessitated upgrading the amplifier, and I switched to the [NAD C 338](https://nadelectronics.com/product/c-338-classic-digital-dac-amplifier/). This was a nicer amplifier than the previous one, with built in networking and Google cast etc., but it lacked a USB input interface.
 
 To circumvent that, I got a raspberry PI HAT called the [Hifiberry Digi+](https://www.hifiberry.com/shop/boards/hifiberry-digiplus-standard-version/).  It provides two S/PDIF interfaces (optical and coaxial), allowing me the ability to feed a digital signal directly to the amplifier and leverage the amplifier's DAC again, like before.
 
-MoOde player allowed me to simply select the output device from a list of supported devices in a drop-down menu in the web interface. It automatically reconfigured both the linux system (ALSA) and MPD to use the Digi+ instead.
+MoOde player allowed me to simply select the output device from a list of supported devices in a drop-down menu in the web interface. It automatically reconfigured both the Linux system (ALSA) and MPD to use the Digi+ instead.
 
 I used both the coaxial and the optical, there's nothing to choose from in audio quality or convenience between the two.
 
