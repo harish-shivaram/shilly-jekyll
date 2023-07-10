@@ -667,7 +667,7 @@ img {
 
 blockquote {
     position: relative;
-    font-family: "Montserrat", sans-serif;
+    /* font-family: "Montserrat", sans-serif; */
     border: 0;
     border-left: 5px solid #66e4b4;
     padding: 0;
@@ -701,7 +701,7 @@ blockquote small {
 
 @media (min-width: 768px) {
     blockquote {
-        font-size: 24px;
+        /* font-size: 24px; */
     }
 }
 
