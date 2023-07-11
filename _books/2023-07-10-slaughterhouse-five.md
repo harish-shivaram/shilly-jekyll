@@ -3,6 +3,7 @@ author: Kurt Vonnegut
 title: Slaughterhouse-Five
 description: Centering on the infamous firebombing of Dresden, the story follows the life of Billy Pilgrim. as he reflects on the events of his life across time and space.
 image: /images/books/3158.jpg
+date: 2023-07-10
 ---
 
 This book is in a genre by itself, a unique perspective on human folly that combines elements of science fiction, satire and fable, while discussing the horrors of war. Pick a genre, and put this book there, it will fit.
